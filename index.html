@@ -57026,7 +57026,7 @@
           event.preventDefault();
           event.stopImmediatePropagation();
           const progressNode = latestReadNode() || allNodes().find(isUnlocked);
-          if (progressNode) openMobileNode(progressNode.id, "push");
+          if (progressNode) openMobileNode(progressNode.id, mobileLayer === "list" ? "push" : "replace");
         }, true);
       });
 
@@ -57052,8 +57052,9 @@
         google.script.url.getLocation((location) => {
           const nodeId = mobileNodeFromHash(location.hash || "");
           if (nodeId) {
-            mobileOpenedFromList = false;
-            showMobileReader(nodeId, { history: "replace" });
+            mobileHistoryApi().replace({ bioLayer: "list", listScrollY: 0 }, "");
+            mobileOpenedFromList = true;
+            showMobileReader(nodeId, { history: "push" });
           } else {
             showMobileList({ history: "replace" });
           }
@@ -57062,8 +57063,9 @@
         window.addEventListener("popstate", (event) => applyMobileHistory(event.state || {}, window.location.hash));
         const nodeId = mobileNodeFromHash(window.location.hash);
         if (nodeId) {
-          mobileOpenedFromList = false;
-          showMobileReader(nodeId, { history: "replace" });
+          mobileHistoryApi().replace({ bioLayer: "list", listScrollY: 0 }, "");
+          mobileOpenedFromList = true;
+          showMobileReader(nodeId, { history: "push" });
         } else {
           showMobileList({ history: "replace" });
         }
