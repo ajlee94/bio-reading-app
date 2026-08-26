@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Campbell 生物閱讀視覺化｜Drive 實驗版</title>
+  <title>Campbell 生物閱讀視覺化</title>
   <link rel="icon" href="data:," />
   <style>
     :root {
@@ -1227,7 +1227,7 @@
   <button class="drawer-button" id="drawerButton" type="button" aria-label="切換路線欄">☰</button>
   <button class="cloud-connect-button" id="cloudConnectButton" type="button" hidden>連線 Google 進度</button>
   <div class="fixed-route-toolbar" id="fixedRouteToolbar" aria-hidden="true">
-    <div class="fixed-route-toolbar-title">生物閱讀視覺化｜Drive 實驗版</div>
+    <div class="fixed-route-toolbar-title">生物閱讀視覺化</div>
     <button class="route-mini-button" id="fixedTopButton" type="button">頂端</button>
     <button class="route-mini-button" id="fixedProgressButton" type="button">進度</button>
     <button class="icon-button settings-button" id="fixedSettingsButton" type="button" aria-label="設定" title="設定">⚙</button>
@@ -1236,8 +1236,8 @@
     <aside class="route-panel" id="routePanel">
       <div class="topbar">
         <div>
-          <h1>生物閱讀視覺化｜Drive 實驗版</h1>
-          <p class="subtitle">實驗版｜私人 Drive 圖片與語音｜跨裝置雲端閱讀進度</p>
+          <h1>生物閱讀視覺化</h1>
+          <p class="subtitle">私人 Drive 圖片與語音｜跨裝置雲端閱讀進度</p>
         </div>
         <div class="route-actions">
           <button class="route-mini-button" id="topButton" type="button">頂端</button>
@@ -1349,7 +1349,7 @@
   <div class="modal-backdrop" id="settingsModal" role="dialog" aria-modal="true" aria-labelledby="settingsTitle">
     <div class="modal">
       <h2 id="settingsTitle">設定</h2>
-      <p>這裡管理實驗版的跨裝置閱讀進度，不會更新正式學習進度。</p>
+      <p>這裡管理跨裝置閱讀進度，不會更新正式學習進度。</p>
       <div class="settings-modal-actions">
         <button class="text-button" id="clearReadButton" type="button">清除本機勾選</button>
         <button class="text-button" id="exportProgressButton" type="button">匯出進度</button>
@@ -55634,7 +55634,7 @@
     }
     const mainProgressIntegrity = {
   "status": "PASS",
-  "checkedAt": "2026-08-26T16:40:47",
+  "checkedAt": "2026-08-26T22:07:26",
   "taskStateNextHint": "Ch40.4.4「影響代謝率的因素｜Influences on Metabolic Rate」",
   "taskStateNextNodeId": "bio-chapter-40-concept-40-4-child-04-influences-on-metabolic-rate",
   "taskStateNextNodeTitle": "#28｜Ch40.4.4 影響代謝率的因素 / Influences on Metabolic Rate",
@@ -55665,7 +55665,7 @@
   "warningCount": 0,
   "warnings": []
 };
-    const generatedAt = "2026-08-26 16:40";
+    const generatedAt = "2026-08-26 22:07";
     const storedCompleted = readCompleted();
 
     const state = {
@@ -56672,7 +56672,7 @@
 
       function ensureBridge() {
         if (!isGitHubPages()) {
-          return Promise.reject(new Error("請由 GitHub Pages 或 Apps Script 私人網址開啟實驗版"));
+          return Promise.reject(new Error("請由 GitHub Pages 或 Apps Script 私人網址開啟正式版"));
         }
         if (bridgeWindow && bridgeOrigin) return Promise.resolve();
         if (bridgeReadyPromise) return bridgeReadyPromise;
@@ -57086,7 +57086,7 @@
     render();
     scrollNodeIntoRoute(state.selectedId, "auto");
     initMobileNavigation();
-    console.info(`Campbell Drive 實驗版已載入｜${allNodes().length} nodes｜generated ${generatedAt}`);
+    console.info(`Campbell 生物閱讀視覺化已載入｜${allNodes().length} nodes｜generated ${generatedAt}`);
   </script>
 </body>
 </html>
