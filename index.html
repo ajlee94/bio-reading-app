@@ -1331,7 +1331,7 @@
     const PAGE_POSITION_KEY = "bioReadingVisualizer.latestPageByNode.v1";
     const TEXT_SCALE_KEY = "bioReadingVisualizer.textScale.v1";
     const ASSET_BASE = "..";
-    const generatedAt = "2026-08-30T01:31";
+    const generatedAt = "2026-08-30T01:39";
     const routeWeeks = /*__M3_ROUTE_WEEKS_START__*/ [
   {
     "week": 1,
@@ -56669,7 +56669,7 @@
 ] /*__M3_ROUTE_WEEKS_END__*/;
     const mainProgressIntegrity = {
   "status": "PASS",
-  "checkedAt": "2026-08-30T01:31:43",
+  "checkedAt": "2026-08-30T01:39:21",
   "routeAuthority": "APP_AND_PROGRESS_INDEX",
   "taskStateNextHint": "Ch42.2「概念介紹：協調一致的心臟收縮週期驅動哺乳類的雙循環｜Coordinated cycles of heart contraction drive double circulation in mammals」",
   "taskStateNextNodeId": "bio-chapter-42-concept-42-2-intro",
@@ -58992,6 +58992,7 @@
       fullscreenZoom: 1,
       fullscreenWheelAccumulator: 0,
       fullscreenPinch: null,
+      fullscreenSuppressPageGesture: false,
       readerLoadToken: 0,
       pendingReaderPage: null,
       pendingFullscreenPage: null,
@@ -59713,6 +59714,7 @@
         distance: Math.max(1, fullscreenTouchDistance(event.touches)),
         zoom: state.fullscreenZoom
       };
+      state.fullscreenSuppressPageGesture = true;
     }
     function handleFullscreenTouchMove(event) {
       if (!state.fullscreenPinch || event.touches.length < 2) return;
@@ -59721,7 +59723,9 @@
       setFullscreenZoom(state.fullscreenPinch.zoom * ratio);
     }
     function handleFullscreenTouchEnd(event) {
-      if (event.touches.length < 2) state.fullscreenPinch = null;
+      if (event.touches.length >= 2) return;
+      state.fullscreenPinch = null;
+      setTimeout(() => { state.fullscreenSuppressPageGesture = false; }, 120);
     }
     function updateFullscreenControls(item) {
       els.fullscreenTitle.textContent = cleanTitle(item);
@@ -59750,6 +59754,7 @@
       state.fullscreenZoom = 1;
       state.fullscreenWheelAccumulator = 0;
       state.fullscreenPinch = null;
+      state.fullscreenSuppressPageGesture = false;
       els.fullscreenLayer0.classList.remove("outgoing");
       els.fullscreenLayer0.classList.add("active");
       els.fullscreenLayer1.classList.remove("active", "outgoing");
@@ -59771,6 +59776,7 @@
       state.fullscreenZoom = 1;
       state.fullscreenWheelAccumulator = 0;
       state.fullscreenPinch = null;
+      state.fullscreenSuppressPageGesture = false;
       els.fullscreenViewer.classList.remove("show");
       els.fullscreenViewer.setAttribute("aria-hidden", "true");
       els.fullscreenLoading.classList.remove("show");
@@ -59785,6 +59791,7 @@
       const nextLayer = state.fullscreenLayer === 0 ? 1 : 0;
       state.pendingFullscreenPage = nextIndex;
       state.fullscreenPinch = null;
+      state.fullscreenSuppressPageGesture = false;
       updateFullscreenControls(item);
       els.fullscreenError.hidden = true;
       const loadingTimer = setTimeout(() => els.fullscreenLoading.classList.add("show"), 450);
@@ -59828,6 +59835,7 @@
       });
       zone.addEventListener("pointerup", (event) => {
         if (!gesture || gesture.id !== event.pointerId) return;
+        if (state.fullscreenSuppressPageGesture) { gesture = null; return; }
         const dx = event.clientX - gesture.x;
         const dy = event.clientY - gesture.y;
         const duration = performance.now() - gesture.time;
