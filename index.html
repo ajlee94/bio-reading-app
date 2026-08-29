@@ -378,7 +378,7 @@
     }
     .reader-media-host { display: grid; min-height: 480px; place-items: center; background: #fffefa; }
     .note-image { display: block; max-width: 100%; height: auto; max-height: calc(100dvh - 230px); object-fit: contain; cursor: zoom-in; }
-    .reader-loading, .fullscreen-loading {
+    .reader-loading {
       position: absolute;
       inset: 0;
       z-index: 4;
@@ -390,7 +390,27 @@
       pointer-events: none;
       transition: opacity 120ms ease;
     }
-    .reader-loading.show, .fullscreen-loading.show { opacity: 1; }
+    .reader-loading.show { opacity: 1; }
+    .fullscreen-loading {
+      position: absolute;
+      top: 12px;
+      left: 50%;
+      z-index: 7;
+      border: 1px solid rgba(255, 255, 255, .28);
+      border-radius: 999px;
+      padding: 8px 13px;
+      background: rgba(20, 23, 22, .88);
+      box-shadow: 0 8px 24px rgba(0, 0, 0, .24);
+      color: #fff;
+      font-size: 13px;
+      font-weight: 700;
+      opacity: 0;
+      pointer-events: none;
+      transform: translate(-50%, -6px);
+      transition: opacity 120ms ease, transform 120ms ease;
+      white-space: nowrap;
+    }
+    .fullscreen-loading.show { opacity: 1; transform: translate(-50%, 0); }
     .reader-error {
       position: absolute;
       inset: auto 16px 16px;
@@ -1049,7 +1069,7 @@
         <div class="fullscreen-media-layer" id="fullscreenLayer1"></div>
         <div class="gesture-zone left" id="fullscreenLeftZone" data-hint="‹" aria-label="上一頁點擊區"></div>
         <div class="gesture-zone right" id="fullscreenRightZone" data-hint="›" aria-label="下一頁點擊區"></div>
-        <div class="fullscreen-loading" id="fullscreenLoading">正在載入下一頁…</div>
+        <div class="fullscreen-loading" id="fullscreenLoading" role="status" aria-live="polite">正在載入下一頁…</div>
         <div class="fullscreen-error" id="fullscreenError" hidden><span>載入失敗，已保留原頁。</span><button class="text-button" id="fullscreenRetryButton" type="button">重試</button></div>
       </div>
       <div class="fullscreen-bottom">
@@ -1070,7 +1090,7 @@
     const PAGE_POSITION_KEY = "bioReadingVisualizer.latestPageByNode.v1";
     const TEXT_SCALE_KEY = "bioReadingVisualizer.textScale.v1";
     const ASSET_BASE = "..";
-    const generatedAt = "2026-08-29T18:36";
+    const generatedAt = "2026-08-29T18:54";
     const routeWeeks = /*__M3_ROUTE_WEEKS_START__*/ [
   {
     "week": 1,
@@ -56406,7 +56426,7 @@
 ] /*__M3_ROUTE_WEEKS_END__*/;
     const mainProgressIntegrity = {
   "status": "PASS",
-  "checkedAt": "2026-08-29T18:36:49",
+  "checkedAt": "2026-08-29T18:54:19",
   "taskStateNextHint": "Ch42.2「概念介紹：協調一致的心臟收縮週期驅動哺乳類的雙循環｜Coordinated cycles of heart contraction drive double circulation in mammals」",
   "taskStateNextNodeId": "bio-chapter-42-concept-42-2-intro",
   "taskStateNextNodeTitle": "#30｜Ch42.2 概念介紹：概念42.2 協調一致的心臟收縮週期驅動哺乳類的雙循環 / Coordinated cycles of heart contraction drive double circulation in mammals",
@@ -59058,6 +59078,26 @@
     function fullscreenImageSource(item, imageEntry) {
       return imageSource(item, imageEntry);
     }
+    const imagePreloadCache = new Map();
+    function preloadImageSource(source) {
+      if (!source || imagePreloadCache.has(source)) return;
+      const image = new Image();
+      image.decoding = "async";
+      image.loading = "eager";
+      const record = { image, complete: false };
+      imagePreloadCache.set(source, record);
+      const finish = () => { record.complete = true; };
+      image.addEventListener("load", finish, { once: true });
+      image.addEventListener("error", () => imagePreloadCache.delete(source), { once: true });
+      image.src = source;
+      if (image.complete && image.naturalWidth > 0) finish();
+      while (imagePreloadCache.size > 8) imagePreloadCache.delete(imagePreloadCache.keys().next().value);
+    }
+    function preloadAdjacentPages(item, index) {
+      [index - 1, index + 1]
+        .filter((candidate) => candidate >= 0 && candidate < item.images.length)
+        .forEach((candidate) => preloadImageSource(fullscreenImageSource(item, item.images[candidate])));
+    }
     function imageAlt(item, index) { return `${cleanTitle(item)}｜第 ${index + 1} 頁`; }
     function makeMedia(item, index, fullscreen = false) {
       const entry = item.images[index];
@@ -59113,6 +59153,7 @@
         return;
       }
       els.readerMediaHost.appendChild(makeMedia(item, state.pageIndex, false));
+      preloadAdjacentPages(item, state.pageIndex);
     }
     async function changeReaderPage(targetIndex) {
       const item = selectedNode();
@@ -59133,6 +59174,7 @@
         state.pagePositions[item.id] = nextIndex;
         savePagePositions();
         els.readerMediaHost.replaceChildren(media);
+        preloadAdjacentPages(item, nextIndex);
         history.replaceState({ view: "reader", nodeId: item.id, page: nextIndex }, "", routeHash("reader", item.id, nextIndex));
       } catch (error) {
         if (token === state.readerLoadToken) {
@@ -59403,6 +59445,7 @@
       els.fullscreenViewer.setAttribute("aria-hidden", "false");
       els.fullscreenError.hidden = true;
       mountFullscreenMedia(els.fullscreenLayer0, item, state.pageIndex);
+      preloadAdjacentPages(item, state.pageIndex);
       updateFullscreenControls(item);
       await enterBrowserFullscreen();
       requestAnimationFrame(() => layoutFullscreenLayer(els.fullscreenLayer0, { resetScroll: true }));
@@ -59430,7 +59473,7 @@
       state.pendingFullscreenPage = nextIndex;
       updateFullscreenControls(item);
       els.fullscreenError.hidden = true;
-      const loadingTimer = setTimeout(() => els.fullscreenLoading.classList.add("show"), 300);
+      const loadingTimer = setTimeout(() => els.fullscreenLoading.classList.add("show"), 450);
       try {
         const layer = await loadFullscreenIntoLayer(item, nextIndex, nextLayer, token);
         const previousLayer = state.fullscreenLayer === 0 ? els.fullscreenLayer0 : els.fullscreenLayer1;
@@ -59443,6 +59486,7 @@
         layer.classList.add("active");
         previousLayer.classList.remove("active");
         layoutFullscreenLayer(layer, { resetScroll: true });
+        preloadAdjacentPages(item, nextIndex);
         history.replaceState({ view: "reader", nodeId: item.id, page: nextIndex }, "", routeHash("reader", item.id, nextIndex));
       } catch (error) {
         if (token === state.fullscreenLoadToken && error.message !== "superseded") {
