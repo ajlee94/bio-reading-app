@@ -447,6 +447,24 @@
     .reader-counter { color: var(--muted); font-size: 14px; }
     .reader-actions { display: flex; gap: 8px; }
     .reader-actions .text-button { display: inline-flex; align-items: center; gap: 7px; }
+    .reader-node-switcher {
+      width: min(100%, 1120px);
+      margin: -2px auto 14px;
+    }
+    .reader-node-select {
+      width: 100%;
+      min-height: 48px;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 0 44px 0 16px;
+      background: var(--surface);
+      box-shadow: 0 0 0 3px rgba(47, 111, 237, .08);
+      color: var(--text);
+      font: inherit;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    .reader-node-select:focus-visible { outline: 2px solid var(--primary); outline-offset: 2px; }
     .reader-stage {
       position: relative;
       width: min(100%, 1000px);
@@ -458,6 +476,28 @@
       background: var(--surface);
       box-shadow: var(--shadow-surface);
     }
+    .reader-next-node-button {
+      position: absolute;
+      top: 50%;
+      right: 14px;
+      z-index: 5;
+      display: grid;
+      width: 46px;
+      height: 64px;
+      place-items: center;
+      border: 1px solid rgba(47, 111, 237, .24);
+      border-radius: 16px;
+      background: rgba(255, 255, 255, .9);
+      box-shadow: 0 8px 24px rgba(28, 58, 112, .12);
+      color: var(--primary);
+      font-size: 30px;
+      cursor: pointer;
+      transform: translateY(-50%);
+      backdrop-filter: blur(8px);
+    }
+    .reader-next-node-button:hover:not(:disabled) { background: #fff; transform: translateY(-50%) translateX(2px); }
+    .reader-next-node-button:focus-visible { outline: 2px solid var(--primary); outline-offset: 2px; }
+    .reader-next-node-button:disabled { opacity: .28; cursor: not-allowed; }
     .reader-media-host { position: relative; display: grid; min-height: 480px; place-items: center; background: #fffefa; }
     .note-image { display: block; max-width: 100%; height: auto; max-height: calc(100dvh - 230px); object-fit: contain; cursor: zoom-in; }
     .reader-media-host .reader-page-pending {
@@ -728,9 +768,10 @@
       scrollbar-width: thin;
       scrollbar-color: rgba(255, 255, 255, .16) transparent;
       touch-action: pan-y pinch-zoom;
-      transition: opacity 160ms ease;
+      contain: layout paint;
     }
-    .fullscreen-media-layer.active { opacity: 1; pointer-events: auto; }
+    .fullscreen-media-layer.active { z-index: 2; opacity: 1; pointer-events: auto; }
+    .fullscreen-media-layer.outgoing { z-index: 1; opacity: 1; pointer-events: none; }
     .fullscreen-media-layer.active:hover { scrollbar-color: rgba(255, 255, 255, .58) transparent; }
     .fullscreen-media-layer::-webkit-scrollbar { width: 9px; height: 0; }
     .fullscreen-media-layer::-webkit-scrollbar-track { background: transparent; }
@@ -749,6 +790,11 @@
       object-fit: contain;
       user-select: none;
       -webkit-user-drag: none;
+    }
+    @media (pointer: coarse), (max-width: 767px) {
+      .fullscreen-media-layer { overflow-x: auto; scrollbar-width: none; touch-action: pan-x pan-y; }
+      .fullscreen-media-layer::-webkit-scrollbar { display: none; }
+      .gesture-zone { touch-action: none; }
     }
     .gesture-zone { position: absolute; z-index: 5; inset-block: 0; width: 30%; touch-action: pan-y pinch-zoom; }
     .gesture-zone.left { left: 0; }
@@ -862,10 +908,10 @@
       }
       .result-row:last-child { border-bottom: 0; }
       .reader-view .content-wrap { width: min(100%, 1180px); }
-      .reader-header { margin-bottom: 16px; }
+      .reader-header { margin-bottom: 12px; }
       .reader-title { font-size: 28px; }
       .reader-actions .text-button { padding-inline: 10px; }
-      .reader-stage { width: min(100%, 1120px); height: clamp(520px, calc(100dvh - 250px), 680px); min-height: 0; }
+      .reader-stage { width: min(100%, 1120px); height: clamp(480px, calc(100dvh - 310px), 640px); min-height: 0; }
       .reader-media-host { width: 100%; height: 100%; min-height: 0; overflow: hidden; }
       .note-image { width: 100%; height: 100%; min-width: 0; min-height: 0; max-width: 100%; max-height: 100%; object-fit: contain; }
       .reader-progress, .reader-toolbar { width: min(100%, 1120px); }
@@ -949,7 +995,10 @@
       .reader-title { font-size: 18px; }
       .reader-actions { grid-column: 1 / -1; display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; }
       .reader-actions .text-button { display: inline-flex; min-height: 38px; align-items: center; justify-content: center; padding: 5px 8px; font-size: 13px; }
+      .reader-node-switcher { width: calc(100% - 20px); margin-bottom: 10px; }
+      .reader-node-select { min-height: 44px; padding-left: 12px; font-size: 14px; }
       .reader-stage { width: 100%; min-height: calc(100dvh - 254px); border-inline: 0; border-radius: 0; box-shadow: none; }
+      .reader-next-node-button { right: 8px; width: 40px; height: 56px; border-radius: 14px; font-size: 26px; }
       .reader-media-host { min-height: calc(100dvh - 254px); }
       .note-image { max-height: calc(100dvh - 254px); }
       .reader-toolbar {
@@ -1139,8 +1188,12 @@
               <button class="text-button" id="nodeInfoButton" type="button" aria-label="節點資訊"><svg class="action-icon" aria-hidden="true"><use href="#icon-info"></use></svg><span>資訊</span></button>
             </div>
           </header>
+          <div class="reader-node-switcher">
+            <select class="reader-node-select" id="readerNodeSelect" aria-label="切換可閱讀節點"></select>
+          </div>
           <div class="reader-stage" id="readerStage">
             <div class="reader-media-host" id="readerMediaHost"></div>
+            <button class="reader-next-node-button" id="readerNextNodeButton" type="button" aria-label="前往下一節點" title="前往下一節點">›</button>
             <div class="reader-loading" id="readerLoading">正在載入下一頁…</div>
             <div class="reader-error" id="readerError" hidden><span id="readerErrorText">載入失敗，已保留原頁。</span><button class="text-button" id="readerRetryButton" type="button">重試</button></div>
           </div>
@@ -1278,7 +1331,7 @@
     const PAGE_POSITION_KEY = "bioReadingVisualizer.latestPageByNode.v1";
     const TEXT_SCALE_KEY = "bioReadingVisualizer.textScale.v1";
     const ASSET_BASE = "..";
-    const generatedAt = "2026-08-30T00:56";
+    const generatedAt = "2026-08-30T01:31";
     const routeWeeks = /*__M3_ROUTE_WEEKS_START__*/ [
   {
     "week": 1,
@@ -3504,7 +3557,7 @@
         "goal": "水與 pH 有實際命題；不要跳過氫鍵、水特性與酸鹼。｜本節：水分子的內聚性",
         "folder": "",
         "folderInfo": "私人 Drive 資產",
-        "pageInfo": "0 張可讀正式 PNG｜本節點已產出正式 PNG 13 張，待內容二審 PASS",
+        "pageInfo": "0 張可讀正式 PNG｜本節點已產出正式 PNG 20 張，待內容二審 PASS",
         "images": [],
         "productionStatus": "已產圖，待內容二審 PASS",
         "officialComplete": true,
@@ -3516,8 +3569,8 @@
         "nodeType": "Theme / subheading",
         "chapter": "Ch3 水與生命",
         "concept": "Concept 3.2 概念3.2 水的四種湧現性質，使地球適合生命存在",
-        "imageCount": 13,
-        "formalImageCount": 13,
+        "imageCount": 20,
+        "formalImageCount": 20,
         "matchKey": "ch03|concept-3.2|child-01",
         "metadata": {
           "Route no": "3",
@@ -56616,7 +56669,7 @@
 ] /*__M3_ROUTE_WEEKS_END__*/;
     const mainProgressIntegrity = {
   "status": "PASS",
-  "checkedAt": "2026-08-30T00:56:31",
+  "checkedAt": "2026-08-30T01:31:43",
   "routeAuthority": "APP_AND_PROGRESS_INDEX",
   "taskStateNextHint": "Ch42.2「概念介紹：協調一致的心臟收縮週期驅動哺乳類的雙循環｜Coordinated cycles of heart contraction drive double circulation in mammals」",
   "taskStateNextNodeId": "bio-chapter-42-concept-42-2-intro",
@@ -58938,6 +58991,7 @@
       fullscreenLoadToken: 0,
       fullscreenZoom: 1,
       fullscreenWheelAccumulator: 0,
+      fullscreenPinch: null,
       readerLoadToken: 0,
       pendingReaderPage: null,
       pendingFullscreenPage: null,
@@ -58992,6 +59046,11 @@
       return childIds.length > 0 && childIds.every((id) => state.completed.has(id));
     }
     function readableNodes() { return allNodeList.filter(isUnlocked); }
+    function nextReadableNode(item) {
+      const readable = readableNodes();
+      const index = item ? readable.findIndex((candidate) => candidate.id === item.id) : -1;
+      return index >= 0 ? readable[index + 1] || null : readable[0] || null;
+    }
     function formalNodes() { return allNodeList.filter((item) => item.officialComplete); }
     function formalCurrentNode() {
       return findNode(formalProgress.currentNodeId) || null;
@@ -59410,6 +59469,13 @@
       const availableAudio = Boolean(item.audioAvailable && item.audioPreviewHref && item.audioHref);
       els.audioTrigger.disabled = !availableAudio;
       els.audioTrigger.title = availableAudio ? `播放 ${item.audioFileName || "語音摘要"}` : "本節點尚無可用語音摘要";
+      const readable = readableNodes();
+      els.readerNodeSelect.innerHTML = readable.map((candidate) => `<option value="${escapeHtml(candidate.id)}">${escapeHtml(cleanTitle(candidate))}</option>`).join("");
+      els.readerNodeSelect.value = item.id;
+      const next = nextReadableNode(item);
+      els.readerNextNodeButton.disabled = !next;
+      els.readerNextNodeButton.title = next ? `前往下一節點：${cleanTitle(next)}` : "已是最後一個可閱讀節點";
+      els.readerNextNodeButton.setAttribute("aria-label", els.readerNextNodeButton.title);
       updateControls(item, isUnlocked(item));
       renderReaderMedia(item);
     }
@@ -59564,8 +59630,11 @@
         fitWidth = Math.max(1, Math.round(media.naturalWidth * fitScale));
         fitHeight = Math.max(1, Math.round(media.naturalHeight * fitScale));
       }
+      const widthBoundedMaxZoom = Math.max(1, Math.min(3, stageWidth / fitWidth));
+      const coarsePointer = Boolean(window.matchMedia && window.matchMedia("(pointer: coarse)").matches);
+      const mobileZoom = coarsePointer || window.innerWidth <= 767;
       const maxZoom = media instanceof HTMLImageElement
-        ? Math.max(1, Math.min(3, stageWidth / fitWidth))
+        ? (mobileZoom ? 3 : widthBoundedMaxZoom)
         : 1;
       const zoom = Math.max(1, Math.min(maxZoom, state.fullscreenZoom || 1));
       return { canvas, media, stageWidth, stageHeight, fitWidth, fitHeight, maxZoom, zoom };
@@ -59584,15 +59653,23 @@
       if (!metrics) return;
       const { canvas, media, stageWidth, stageHeight, fitWidth, fitHeight, zoom } = metrics;
       const previousScrollTop = layer.scrollTop;
+      const previousCanvasWidth = Math.max(stageWidth, canvas.getBoundingClientRect().width || stageWidth);
+      const previousCenterRatio = (layer.scrollLeft + stageWidth / 2) / previousCanvasWidth;
+      const coarsePointer = Boolean(window.matchMedia && window.matchMedia("(pointer: coarse)").matches);
+      const mobileZoom = coarsePointer || window.innerWidth <= 767;
       state.fullscreenZoom = zoom;
       const scaledWidth = Math.max(1, Math.round(fitWidth * zoom));
       const scaledHeight = Math.max(1, Math.round(fitHeight * zoom));
-      canvas.style.width = "100%";
+      const canvasWidth = mobileZoom ? Math.max(stageWidth, scaledWidth) : stageWidth;
+      canvas.style.width = mobileZoom ? `${canvasWidth}px` : "100%";
       canvas.style.height = `${Math.max(stageHeight, scaledHeight)}px`;
       media.style.width = `${scaledWidth}px`;
       media.style.height = `${scaledHeight}px`;
       media.style.transform = "none";
-      layer.scrollLeft = 0;
+      const maxScrollLeft = Math.max(0, canvasWidth - stageWidth);
+      layer.scrollLeft = options.resetScroll
+        ? Math.round(maxScrollLeft / 2)
+        : Math.max(0, Math.min(maxScrollLeft, previousCenterRatio * canvasWidth - stageWidth / 2));
       layer.scrollTop = options.resetScroll
         ? 0
         : Math.min(previousScrollTop, Math.max(0, scaledHeight - stageHeight));
@@ -59624,6 +59701,28 @@
       stepFullscreenZoom(state.fullscreenWheelAccumulator < 0 ? 1 : -1);
       state.fullscreenWheelAccumulator = 0;
     }
+    function fullscreenTouchDistance(touches) {
+      const first = touches[0];
+      const second = touches[1];
+      return Math.hypot(second.clientX - first.clientX, second.clientY - first.clientY);
+    }
+    function handleFullscreenTouchStart(event) {
+      if (!state.fullscreen || event.touches.length !== 2) return;
+      event.preventDefault();
+      state.fullscreenPinch = {
+        distance: Math.max(1, fullscreenTouchDistance(event.touches)),
+        zoom: state.fullscreenZoom
+      };
+    }
+    function handleFullscreenTouchMove(event) {
+      if (!state.fullscreenPinch || event.touches.length < 2) return;
+      event.preventDefault();
+      const ratio = fullscreenTouchDistance(event.touches) / state.fullscreenPinch.distance;
+      setFullscreenZoom(state.fullscreenPinch.zoom * ratio);
+    }
+    function handleFullscreenTouchEnd(event) {
+      if (event.touches.length < 2) state.fullscreenPinch = null;
+    }
     function updateFullscreenControls(item) {
       els.fullscreenTitle.textContent = cleanTitle(item);
       els.fullscreenCounter.textContent = `${state.pageIndex + 1} / ${item.images.length}`;
@@ -59639,6 +59738,9 @@
       layoutFullscreenLayer(layer, { resetScroll: true });
       return layer;
     }
+    function waitForFullscreenPaint() {
+      return new Promise((resolve) => requestAnimationFrame(() => requestAnimationFrame(resolve)));
+    }
     async function openFullscreen() {
       const item = selectedNode();
       if (!item || !isUnlocked(item)) return;
@@ -59647,8 +59749,10 @@
       state.fullscreenLoadToken += 1;
       state.fullscreenZoom = 1;
       state.fullscreenWheelAccumulator = 0;
+      state.fullscreenPinch = null;
+      els.fullscreenLayer0.classList.remove("outgoing");
       els.fullscreenLayer0.classList.add("active");
-      els.fullscreenLayer1.classList.remove("active");
+      els.fullscreenLayer1.classList.remove("active", "outgoing");
       els.fullscreenViewer.classList.add("show");
       els.fullscreenViewer.setAttribute("aria-hidden", "false");
       els.fullscreenError.hidden = true;
@@ -59666,6 +59770,7 @@
       state.lastFailedFullscreenPage = null;
       state.fullscreenZoom = 1;
       state.fullscreenWheelAccumulator = 0;
+      state.fullscreenPinch = null;
       els.fullscreenViewer.classList.remove("show");
       els.fullscreenViewer.setAttribute("aria-hidden", "true");
       els.fullscreenLoading.classList.remove("show");
@@ -59679,6 +59784,7 @@
       const token = ++state.fullscreenLoadToken;
       const nextLayer = state.fullscreenLayer === 0 ? 1 : 0;
       state.pendingFullscreenPage = nextIndex;
+      state.fullscreenPinch = null;
       updateFullscreenControls(item);
       els.fullscreenError.hidden = true;
       const loadingTimer = setTimeout(() => els.fullscreenLoading.classList.add("show"), 450);
@@ -59691,9 +59797,14 @@
         state.fullscreenZoom = 1;
         state.pagePositions[item.id] = nextIndex;
         savePagePositions();
-        layer.classList.add("active");
-        previousLayer.classList.remove("active");
         layoutFullscreenLayer(layer, { resetScroll: true });
+        await waitForFullscreenPaint();
+        if (token !== state.fullscreenLoadToken) throw new Error("superseded");
+        previousLayer.classList.add("outgoing");
+        layer.classList.add("active");
+        await waitForFullscreenPaint();
+        previousLayer.classList.remove("active");
+        previousLayer.classList.remove("outgoing");
         preloadAdjacentPages(item, nextIndex);
         history.replaceState({ view: "reader", nodeId: item.id, page: nextIndex }, "", routeHash("reader", item.id, nextIndex));
       } catch (error) {
@@ -59751,6 +59862,14 @@
     els.mobileSettingsButton.addEventListener("click", () => navigate("settings"));
     els.readerBackButton.addEventListener("click", () => navigate(state.previousView === "reader" ? "home" : state.previousView || "home"));
     els.readerDirectoryButton.addEventListener("click", () => navigate("route"));
+    els.readerNodeSelect.addEventListener("change", () => {
+      const item = findNode(els.readerNodeSelect.value);
+      if (item && isUnlocked(item)) openReader(item, pageForNode(item));
+    });
+    els.readerNextNodeButton.addEventListener("click", () => {
+      const next = nextReadableNode(selectedNode());
+      if (next) openReader(next, 0);
+    });
     els.prevPageButton.addEventListener("click", () => goPage(-1));
     els.nextPageButton.addEventListener("click", () => goPage(1));
     els.fullscreenPrev.addEventListener("click", () => goPage(-1));
@@ -59759,6 +59878,10 @@
     els.fullscreenZoomReset.addEventListener("click", () => setFullscreenZoom(1));
     els.fullscreenZoomIn.addEventListener("click", () => stepFullscreenZoom(1));
     els.fullscreenStage.addEventListener("wheel", handleFullscreenWheel, { passive: false });
+    els.fullscreenStage.addEventListener("touchstart", handleFullscreenTouchStart, { passive: false });
+    els.fullscreenStage.addEventListener("touchmove", handleFullscreenTouchMove, { passive: false });
+    els.fullscreenStage.addEventListener("touchend", handleFullscreenTouchEnd, { passive: false });
+    els.fullscreenStage.addEventListener("touchcancel", handleFullscreenTouchEnd, { passive: false });
     els.fullscreenButton.addEventListener("click", openFullscreen);
     els.fullscreenClose.addEventListener("click", () => closeFullscreen());
     els.fullscreenRetryButton.addEventListener("click", () => {
