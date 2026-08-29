@@ -458,8 +458,16 @@
       background: var(--surface);
       box-shadow: var(--shadow-surface);
     }
-    .reader-media-host { display: grid; min-height: 480px; place-items: center; background: #fffefa; }
+    .reader-media-host { position: relative; display: grid; min-height: 480px; place-items: center; background: #fffefa; }
     .note-image { display: block; max-width: 100%; height: auto; max-height: calc(100dvh - 230px); object-fit: contain; cursor: zoom-in; }
+    .reader-media-host .reader-page-pending {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      opacity: 0;
+      pointer-events: none;
+    }
     .reader-loading {
       position: absolute;
       inset: 0;
@@ -1270,7 +1278,7 @@
     const PAGE_POSITION_KEY = "bioReadingVisualizer.latestPageByNode.v1";
     const TEXT_SCALE_KEY = "bioReadingVisualizer.textScale.v1";
     const ASSET_BASE = "..";
-    const generatedAt = "2026-08-30T00:29";
+    const generatedAt = "2026-08-30T00:56";
     const routeWeeks = /*__M3_ROUTE_WEEKS_START__*/ [
   {
     "week": 1,
@@ -3496,7 +3504,7 @@
         "goal": "水與 pH 有實際命題；不要跳過氫鍵、水特性與酸鹼。｜本節：水分子的內聚性",
         "folder": "",
         "folderInfo": "私人 Drive 資產",
-        "pageInfo": "0 張可讀正式 PNG｜本節點已產出正式 PNG 10 張，待內容二審 PASS",
+        "pageInfo": "0 張可讀正式 PNG｜本節點已產出正式 PNG 13 張，待內容二審 PASS",
         "images": [],
         "productionStatus": "已產圖，待內容二審 PASS",
         "officialComplete": true,
@@ -3508,8 +3516,8 @@
         "nodeType": "Theme / subheading",
         "chapter": "Ch3 水與生命",
         "concept": "Concept 3.2 概念3.2 水的四種湧現性質，使地球適合生命存在",
-        "imageCount": 10,
-        "formalImageCount": 10,
+        "imageCount": 13,
+        "formalImageCount": 13,
         "matchKey": "ch03|concept-3.2|child-01",
         "metadata": {
           "Route no": "3",
@@ -3548,7 +3556,7 @@
         "goal": "水與 pH 有實際命題；不要跳過氫鍵、水特性與酸鹼。｜本節：水對溫度的調節作用",
         "folder": "",
         "folderInfo": "私人 Drive 資產",
-        "pageInfo": "0 張可讀正式 PNG｜本節點已產出正式 PNG 16 張，待內容二審 PASS",
+        "pageInfo": "0 張可讀正式 PNG｜本節點已產出正式 PNG 18 張，待內容二審 PASS",
         "images": [],
         "productionStatus": "已產圖，待內容二審 PASS",
         "officialComplete": true,
@@ -3560,8 +3568,8 @@
         "nodeType": "Theme / subheading",
         "chapter": "Ch3 水與生命",
         "concept": "Concept 3.2 概念3.2 水的四種湧現性質，使地球適合生命存在",
-        "imageCount": 16,
-        "formalImageCount": 16,
+        "imageCount": 18,
+        "formalImageCount": 18,
         "matchKey": "ch03|concept-3.2|child-02",
         "metadata": {
           "Route no": "3",
@@ -3648,7 +3656,7 @@
         "goal": "水與 pH 有實際命題；不要跳過氫鍵、水特性與酸鹼。｜本節：水：生命的溶劑",
         "folder": "",
         "folderInfo": "私人 Drive 資產",
-        "pageInfo": "0 張可讀正式 PNG｜本節點已產出正式 PNG 15 張，待內容二審 PASS",
+        "pageInfo": "0 張可讀正式 PNG｜本節點已產出正式 PNG 18 張，待內容二審 PASS",
         "images": [],
         "productionStatus": "已產圖，待內容二審 PASS",
         "officialComplete": true,
@@ -3660,8 +3668,8 @@
         "nodeType": "Theme / subheading",
         "chapter": "Ch3 水與生命",
         "concept": "Concept 3.2 概念3.2 水的四種湧現性質，使地球適合生命存在",
-        "imageCount": 15,
-        "formalImageCount": 15,
+        "imageCount": 18,
+        "formalImageCount": 18,
         "matchKey": "ch03|concept-3.2|child-04",
         "metadata": {
           "Route no": "3",
@@ -56608,7 +56616,7 @@
 ] /*__M3_ROUTE_WEEKS_END__*/;
     const mainProgressIntegrity = {
   "status": "PASS",
-  "checkedAt": "2026-08-30T00:29:19",
+  "checkedAt": "2026-08-30T00:56:31",
   "routeAuthority": "APP_AND_PROGRESS_INDEX",
   "taskStateNextHint": "Ch42.2「概念介紹：協調一致的心臟收縮週期驅動哺乳類的雙循環｜Coordinated cycles of heart contraction drive double circulation in mammals」",
   "taskStateNextNodeId": "bio-chapter-42-concept-42-2-intro",
@@ -59289,12 +59297,16 @@
     function imageAlt(item, index) { return `${cleanTitle(item)}｜第 ${index + 1} 頁`; }
     function makeMedia(item, index, fullscreen = false) {
       const entry = item.images[index];
+      const source = imageSource(item, entry);
       const image = document.createElement("img");
       image.className = fullscreen ? "fullscreen-image" : "note-image";
-      image.src = fullscreen ? fullscreenImageSource(item, entry) : imageSource(item, entry);
       image.alt = imageAlt(item, index);
-      image.decoding = "async";
       image.loading = "eager";
+      image.decoding = "async";
+      image.dataset.pageIndex = String(index);
+      image.dataset.assetName = String(entry && typeof entry === "object" ? entry.name || "" : entry || "");
+      image.dataset.driveFileId = String(entry && typeof entry === "object" ? entry.driveFileId || "" : "");
+      image.src = source;
       if (!fullscreen) image.onclick = openFullscreen;
       return image;
     }
@@ -59358,6 +59370,8 @@
       els.readerError.hidden = true;
       const loadingTimer = setTimeout(() => els.readerLoading.classList.add("show"), 300);
       const media = makeMedia(item, nextIndex, false);
+      media.classList.add("reader-page-pending");
+      els.readerMediaHost.appendChild(media);
       try {
         await waitForMedia(media);
         if (token !== state.readerLoadToken) return;
@@ -59365,10 +59379,12 @@
         state.lastFailedReaderPage = null;
         state.pagePositions[item.id] = nextIndex;
         savePagePositions();
+        media.classList.remove("reader-page-pending");
         els.readerMediaHost.replaceChildren(media);
         preloadAdjacentPages(item, nextIndex);
         history.replaceState({ view: "reader", nodeId: item.id, page: nextIndex }, "", routeHash("reader", item.id, nextIndex));
       } catch (error) {
+        media.remove();
         if (token === state.readerLoadToken) {
           state.lastFailedReaderPage = nextIndex;
           els.readerError.hidden = false;
@@ -60037,7 +60053,8 @@
     const baseUpdateControls = updateControls;
     updateControls = function updateCloudControls(item, unlocked) {
       baseUpdateControls(item, unlocked);
-      els.completeButton.textContent = isRead(item) ? "取消已讀" : "閱讀完畢";
+      const completeLabel = els.completeButton.querySelector("span");
+      if (completeLabel) completeLabel.textContent = isRead(item) ? "取消已讀" : "閱讀完畢";
     };
 
     markComplete = function toggleCloudComplete() {
