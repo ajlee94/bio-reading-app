@@ -158,6 +158,7 @@
     }
     .content-wrap { width: min(100%, 1180px); margin: 0 auto; }
     .view { animation: none; }
+    .main-shell:has(> #viewRoute:not([hidden])) { background: #fff8e8; }
     .page-header {
       display: flex;
       align-items: flex-start;
@@ -354,56 +355,56 @@
     .route-group-content > .route-collapse-inner { border-top: 1px solid var(--line); }
     .route-group-content .route-collapse-body { padding: 0; }
     .stage[data-route-level="stage"] {
-      --route-accent: #173f38;
-      --route-header-start: #123c35;
-      --route-header-end: #194d43;
+      --route-accent: #8b4a12;
+      --route-header-start: #753a0b;
+      --route-header-end: #8b4a12;
       --route-header-text: #fff;
       --route-count-color: rgba(255, 255, 255, .92);
       --route-kind-border: rgba(255, 255, 255, .36);
       --route-kind-background: rgba(255, 255, 255, .17);
       --route-kind-color: #fff;
-      --route-hover-shadow: rgba(18, 60, 53, .24);
-      border-color: #51766d;
-      background: #f2f6f4;
+      --route-hover-shadow: rgba(139, 74, 18, .26);
+      border-color: #bd7a3f;
+      background: #fff8e8;
     }
     .route-group[data-route-level="unit"] {
-      --route-accent: #28655a;
-      --route-header-start: #1d5a50;
-      --route-header-end: #2b6b5f;
-      --route-header-text: #fff;
-      --route-count-color: rgba(255, 255, 255, .92);
-      --route-kind-border: rgba(255, 255, 255, .34);
-      --route-kind-background: rgba(255, 255, 255, .16);
-      --route-kind-color: #fff;
-      --route-hover-shadow: rgba(29, 90, 80, .22);
-      border-color: #71968c;
-      background: #f4f8f6;
+      --route-accent: #b95c16;
+      --route-header-start: #d97322;
+      --route-header-end: #e98a31;
+      --route-header-text: #2b1709;
+      --route-count-color: #2b1709;
+      --route-kind-border: rgba(43, 23, 9, .28);
+      --route-kind-background: rgba(255, 255, 255, .28);
+      --route-kind-color: #2b1709;
+      --route-hover-shadow: rgba(185, 92, 22, .24);
+      border-color: #e2a16d;
+      background: #fff5e5;
     }
     .route-group[data-route-level="chapter"] {
-      --route-accent: #47765a;
-      --route-header-start: #386a50;
-      --route-header-end: #47765a;
-      --route-header-text: #fff;
-      --route-count-color: rgba(255, 255, 255, .92);
-      --route-kind-border: rgba(255, 255, 255, .34);
-      --route-kind-background: rgba(255, 255, 255, .15);
-      --route-kind-color: #fff;
-      --route-hover-shadow: rgba(56, 106, 80, .21);
-      border-color: #91ad99;
-      background: #f6f9f6;
+      --route-accent: #c88116;
+      --route-header-start: #f2b649;
+      --route-header-end: #f6c965;
+      --route-header-text: #2b1709;
+      --route-count-color: #2b1709;
+      --route-kind-border: rgba(43, 23, 9, .24);
+      --route-kind-background: rgba(255, 255, 255, .25);
+      --route-kind-color: #2b1709;
+      --route-hover-shadow: rgba(200, 129, 22, .23);
+      border-color: #edc26b;
+      background: #fff8e8;
     }
     .route-group[data-route-level="concept"] {
-      --route-accent: #789078;
-      --route-header-start: #b7c7b4;
-      --route-header-end: #d6dfd2;
-      --route-header-text: #173d35;
-      --route-count-color: #35584d;
-      --route-kind-border: rgba(23, 61, 53, .2);
+      --route-accent: #d39c35;
+      --route-header-start: #ffe7b3;
+      --route-header-end: #fff1d6;
+      --route-header-text: #2b1709;
+      --route-count-color: #5c3210;
+      --route-kind-border: rgba(92, 50, 16, .22);
       --route-kind-background: rgba(255, 255, 255, .42);
-      --route-kind-color: #254d43;
-      --route-hover-shadow: rgba(84, 112, 87, .2);
-      border-color: #b7c8b5;
-      background: #fafcf9;
+      --route-kind-color: #5c3210;
+      --route-hover-shadow: rgba(211, 156, 53, .22);
+      border-color: #efce91;
+      background: #fff8ee;
     }
     .stage[data-route-level="stage"] > .stage-toggle,
     .route-group[data-route-level] > .route-group-toggle {
@@ -436,14 +437,16 @@
       border: 0;
       border-bottom: 1px solid var(--line);
       padding: 12px 2px;
-      background: transparent;
+      background: #fff8ee;
       color: inherit;
       cursor: pointer;
       text-align: left;
       transition: background-color 170ms ease, box-shadow 170ms ease, color 170ms ease, transform 170ms ease;
     }
     .route-node:last-child { border-bottom: 0; }
-    .route-node.current { background: linear-gradient(90deg, rgba(35, 91, 215, .08), transparent); color: var(--primary); }
+    .route-node.chapter-introduction { background: #fff1d6; }
+    .route-node.current { background: linear-gradient(90deg, rgba(35, 91, 215, .1), #fff8ee); color: var(--primary); }
+    .route-node.chapter-introduction.current { background: linear-gradient(90deg, rgba(35, 91, 215, .1), #fff1d6); }
     .route-dot {
       width: 15px;
       height: 15px;
@@ -464,9 +467,9 @@
     .route-node:focus-visible {
       position: relative;
       z-index: 1;
-      outline: 3px solid rgba(35, 91, 215, .58);
+      outline: 3px solid rgba(185, 92, 22, .72);
       outline-offset: -3px;
-      background: #f1f5ff;
+      background: #fff1d6;
     }
     @media (hover: hover) and (pointer: fine) {
       .stage:has(> .stage-toggle:hover),
@@ -479,9 +482,9 @@
         box-shadow: inset 0 -3px 0 rgba(255, 255, 255, .3);
       }
       .route-node:hover {
-        background: #edf5f0;
-        color: #174b3f;
-        box-shadow: inset 4px 0 0 rgba(45, 109, 88, .66), 0 6px 14px rgba(45, 88, 70, .12);
+        background: #ffe7b3;
+        color: #5c3210;
+        box-shadow: inset 4px 0 0 rgba(217, 115, 34, .78), 0 6px 14px rgba(139, 74, 18, .14);
         transform: translateX(3px);
       }
       .route-node.current:hover { color: var(--primary); }
@@ -1538,7 +1541,7 @@
     const PAGE_POSITION_KEY = "bioReadingVisualizer.latestPageByNode.v1";
     const TEXT_SCALE_KEY = "bioReadingVisualizer.textScale.v1";
     const ASSET_BASE = "..";
-    const generatedAt = "2026-08-30T16:53";
+    const generatedAt = "2026-08-30T18:48";
     const routeWeeks = /*__M3_ROUTE_WEEKS_START__*/ [
   {
     "week": 1,
@@ -56876,7 +56879,7 @@
 ] /*__M3_ROUTE_WEEKS_END__*/;
     const mainProgressIntegrity = {
   "status": "PASS",
-  "checkedAt": "2026-08-30T16:53:33",
+  "checkedAt": "2026-08-30T18:48:38",
   "routeAuthority": "APP_AND_PROGRESS_INDEX",
   "taskStateNextHint": "Ch42.2「概念介紹：協調一致的心臟收縮週期驅動哺乳類的雙循環｜Coordinated cycles of heart contraction drive double circulation in mammals」",
   "taskStateNextNodeId": "bio-chapter-42-concept-42-2-intro",
@@ -59571,7 +59574,8 @@
       const status = nodeStatus(item);
       const button = document.createElement("button");
       button.type = "button";
-      button.className = `route-node ${status.key}`;
+      const chapterIntroduction = item.id.includes("chapter-introduction") ? " chapter-introduction" : "";
+      button.className = `route-node ${status.key}${chapterIntroduction}`;
       button.dataset.nodeId = item.id;
       button.setAttribute("aria-label", `${cleanTitle(item)}，${status.label}，${depthLabel(item)}`);
       button.innerHTML = `<span class="route-dot" aria-hidden="true"></span>${rowHtml(item)}${depthTagHtml(item)}`;
