@@ -1390,7 +1390,7 @@
     const PAGE_POSITION_KEY = "bioReadingVisualizer.latestPageByNode.v1";
     const TEXT_SCALE_KEY = "bioReadingVisualizer.textScale.v1";
     const ASSET_BASE = "..";
-    const generatedAt = "2026-08-30T09:28";
+    const generatedAt = "2026-08-30T11:30";
     const routeWeeks = /*__M3_ROUTE_WEEKS_START__*/ [
   {
     "week": 1,
@@ -56728,7 +56728,7 @@
 ] /*__M3_ROUTE_WEEKS_END__*/;
     const mainProgressIntegrity = {
   "status": "PASS",
-  "checkedAt": "2026-08-30T09:28:53",
+  "checkedAt": "2026-08-30T11:30:32",
   "routeAuthority": "APP_AND_PROGRESS_INDEX",
   "taskStateNextHint": "Ch42.2「概念介紹：協調一致的心臟收縮週期驅動哺乳類的雙循環｜Coordinated cycles of heart contraction drive double circulation in mammals」",
   "taskStateNextNodeId": "bio-chapter-42-concept-42-2-intro",
@@ -60181,164 +60181,88 @@
 
 
     const CLOUD_QUEUE_KEY = "bioReadingVisualizerDrive.pending.v1";
-    const CLOUD_BRIDGE_CHANNEL = "bio-reading-progress-v1";
-    const APPS_SCRIPT_WEB_APP_URL = "https://script.google.com/macros/s/AKfycbwBk5O4Hub5AEJ1wz9NRPaZsDntySyXwiY_iol8Nq2kfM8JTuVzWyqZV68uUEXTrhk6/exec";
+    const CLOUD_MIGRATION_KEY = "bioReadingVisualizerDrive.jsonpMigration.v1";
+    const APPS_SCRIPT_WEB_APP_URL = "https://script.google.com/macros/s/AKfycbzXs8u4JaTuswlwocnNyl7W5mBef91vAJ0Z0WmYDn2WGTwR_1GoBKQT7R9TCxtKsuk6/exec";
     const CLOUD_ALLOWED_METHODS = new Set([
       "getProgress",
       "setNodeCompleted",
       "setLatestRead",
+      "setPageIndex",
+      "setPageIndexes",
       "clearProgress",
       "importProgress",
+      "mergeProgress",
     ]);
     let cloudBusy = false;
     let cloudRevision = 0;
 
+    function newMutationId() {
+      const random = crypto.getRandomValues(new Uint32Array(3));
+      return `bio_${Date.now().toString(36)}_${Array.from(random).map((value) => value.toString(36)).join("_")}`;
+    }
+
     const cloudTransport = (() => {
-      const pending = new Map();
-      let bridgeFrame = null;
-      let bridgeWindow = null;
-      let bridgeOrigin = "";
-      let bridgeInstanceId = "";
-      let bridgeReadyPromise = null;
-      let resolveBridgeReady = null;
-      let rejectBridgeReady = null;
-
-      function isDirectAppsScript() {
-        return Boolean(window.google && google.script && google.script.run);
-      }
-
-      function isGitHubPages() {
-        return window.location.protocol === "https:" && window.location.hostname === "ajlee94.github.io";
-      }
-
-      function isAllowedBridgeOrigin(origin) {
-        try {
-          const hostname = new URL(origin).hostname;
-          return hostname === "script.google.com"
-            || hostname === "script.googleusercontent.com"
-            || hostname.endsWith(".script.googleusercontent.com");
-        } catch (error) {
-          return false;
-        }
-      }
-
-      function directCall(method, payload) {
-        return new Promise((resolve, reject) => {
-          const runner = google.script.run.withSuccessHandler(resolve).withFailureHandler(reject);
-          if (method === "getProgress") runner.getProgress();
-          else if (method === "setNodeCompleted") runner.setNodeCompleted(payload);
-          else if (method === "setLatestRead") runner.setLatestRead(payload);
-          else if (method === "clearProgress") runner.clearProgress(payload);
-          else if (method === "importProgress") runner.importProgress(payload);
-          else reject(new Error("未知的雲端進度操作"));
-        });
-      }
-
-      function clearBridge(reason = "") {
-        if (bridgeFrame) bridgeFrame.remove();
-        bridgeFrame = null;
-        bridgeWindow = null;
-        bridgeOrigin = "";
-        bridgeInstanceId = "";
-        if (rejectBridgeReady) rejectBridgeReady(new Error(reason || "Google 進度橋接已重設"));
-        bridgeReadyPromise = null;
-        resolveBridgeReady = null;
-        rejectBridgeReady = null;
-        for (const [requestId, request] of pending.entries()) {
-          clearTimeout(request.timer);
-          request.reject(new Error(reason || "Google 進度橋接已重設"));
-          pending.delete(requestId);
-        }
-      }
-
-      function ensureBridge() {
-        if (!isGitHubPages()) {
-          return Promise.reject(new Error("請由 GitHub Pages 或 Apps Script 私人網址開啟正式版"));
-        }
-        if (bridgeWindow && bridgeOrigin) return Promise.resolve();
-        if (bridgeReadyPromise) return bridgeReadyPromise;
-        bridgeInstanceId = `${Date.now().toString(36)}-${crypto.getRandomValues(new Uint32Array(2)).join("-")}`;
-        bridgeReadyPromise = new Promise((resolve, reject) => {
-          resolveBridgeReady = resolve;
-          rejectBridgeReady = reject;
-          const timer = setTimeout(() => {
-            if (rejectBridgeReady) rejectBridgeReady(new Error("Google 進度連線逾時"));
-            bridgeReadyPromise = null;
-            resolveBridgeReady = null;
-            rejectBridgeReady = null;
-          }, 10000);
-          const originalResolve = resolveBridgeReady;
-          resolveBridgeReady = () => {
-            clearTimeout(timer);
-            originalResolve();
-          };
-        });
-        bridgeFrame = document.createElement("iframe");
-        bridgeFrame.className = "cloud-bridge-frame";
-        bridgeFrame.title = "Google 閱讀進度橋接";
-        bridgeFrame.tabIndex = -1;
-        bridgeFrame.src = `${APPS_SCRIPT_WEB_APP_URL}?mode=bridge&instance=${encodeURIComponent(bridgeInstanceId)}`;
-        document.body.appendChild(bridgeFrame);
-        return bridgeReadyPromise;
-      }
-
-      window.addEventListener("message", (event) => {
-        if (!bridgeFrame || !isAllowedBridgeOrigin(event.origin)) return;
-        const message = event.data || {};
-        if (message.channel !== CLOUD_BRIDGE_CHANNEL || message.instanceId !== bridgeInstanceId) return;
-        if (message.type === "ready") {
-          bridgeWindow = event.source;
-          bridgeOrigin = event.origin;
-          if (resolveBridgeReady) resolveBridgeReady();
-          resolveBridgeReady = null;
-          rejectBridgeReady = null;
-          return;
-        }
-        if (event.source !== bridgeWindow) return;
-        if (message.type !== "response") return;
-        const request = pending.get(String(message.requestId || ""));
-        if (!request) return;
-        clearTimeout(request.timer);
-        pending.delete(String(message.requestId));
-        if (message.ok) request.resolve(message.result);
-        else request.reject(new Error(String(message.error || "Google 進度操作失敗")));
-      });
-
-      async function bridgeCall(method, payload) {
-        await ensureBridge();
-        return new Promise((resolve, reject) => {
-          const requestId = `${Date.now().toString(36)}-${crypto.getRandomValues(new Uint32Array(2)).join("-")}`;
-          const timer = setTimeout(() => {
-            pending.delete(requestId);
-            reject(new Error("Google 進度操作逾時"));
-          }, 10000);
-          pending.set(requestId, { resolve, reject, timer });
-          bridgeWindow.postMessage({
-            channel: CLOUD_BRIDGE_CHANNEL,
-            instanceId: bridgeInstanceId,
-            requestId,
-            method,
-            payload: payload || {},
-          }, bridgeOrigin);
-        });
-      }
-
       function call(method, payload = {}) {
         if (!CLOUD_ALLOWED_METHODS.has(method)) return Promise.reject(new Error("未知的雲端進度操作"));
-        return isDirectAppsScript() ? directCall(method, payload) : bridgeCall(method, payload);
+        return new Promise((resolve, reject) => {
+          const callbackName = `__bioProgressJsonp_${Date.now().toString(36)}_${Math.random().toString(36).slice(2)}`;
+          const script = document.createElement("script");
+          let settled = false;
+          const cleanup = () => {
+            if (settled) return;
+            settled = true;
+            clearTimeout(timer);
+            script.remove();
+            try { delete window[callbackName]; } catch (error) { window[callbackName] = undefined; }
+          };
+          const timer = setTimeout(() => {
+            cleanup();
+            reject(new Error("Google Sheet 同步逾時"));
+          }, 20000);
+          window[callbackName] = (result) => {
+            cleanup();
+            if (result && result.ok) resolve(result);
+            else reject(new Error(String(result && result.error || "Google Sheet 同步失敗")));
+          };
+          script.async = true;
+          script.onerror = () => {
+            cleanup();
+            reject(new Error("無法連上 Google Sheet 同步服務"));
+          };
+          const url = new URL(APPS_SCRIPT_WEB_APP_URL);
+          url.searchParams.set("action", method);
+          url.searchParams.set("callback", callbackName);
+          if (payload && Object.keys(payload).length) url.searchParams.set("payload", JSON.stringify(payload));
+          script.src = url.toString();
+          document.head.appendChild(script);
+        });
       }
 
-      function openConnectionPage() {
-        window.open(`${APPS_SCRIPT_WEB_APP_URL}?mode=bridge&login=1`, "_blank", "noopener,noreferrer");
-      }
-
-      return { call, clearBridge, openConnectionPage, isDirectAppsScript, isGitHubPages };
+      return { call };
     })();
+
+    function makeCloudOperation(method, payload = {}, extra = {}) {
+      const request = { ...(payload || {}) };
+      if (method !== "getProgress" && !request.mutationId) request.mutationId = newMutationId();
+      return { method, payload: request, queuedAt: new Date().toISOString(), ...extra };
+    }
 
     function readCloudQueue() {
       try {
         const value = JSON.parse(localStorage.getItem(CLOUD_QUEUE_KEY) || "[]");
-        return Array.isArray(value) ? value : [];
+        if (!Array.isArray(value)) return [];
+        let changed = false;
+        const queue = value.map((entry) => {
+          const method = String(entry && entry.method || "");
+          const payload = entry && entry.payload && typeof entry.payload === "object" ? { ...entry.payload } : {};
+          if (method !== "getProgress" && !payload.mutationId) {
+            payload.mutationId = newMutationId();
+            changed = true;
+          }
+          return { ...(entry || {}), method, payload };
+        });
+        if (changed) writeCloudQueue(queue);
+        return queue;
       } catch (error) {
         return [];
       }
@@ -60352,37 +60276,82 @@
       if (!payload || typeof payload !== "object") return;
       const validIds = new Set(allNodes().map((item) => item.id));
       const completed = Array.isArray(payload.completedNodeIds) ? payload.completedNodeIds : [];
+      const rawPositions = payload.pageIndexes && typeof payload.pageIndexes === "object" ? payload.pageIndexes : {};
       state.completed = new Set(completed.map(String).filter((id) => validIds.has(id)));
       state.latestReadId = validIds.has(String(payload.latestReadId || "")) ? String(payload.latestReadId) : "";
+      state.pagePositions = Object.fromEntries(
+        Object.entries(rawPositions)
+          .filter(([id, page]) => validIds.has(id) && Number.isFinite(Number(page)))
+          .map(([id, page]) => [id, Math.max(0, Math.floor(Number(page)))])
+      );
       cloudRevision = Number(payload.revision || 0);
       localStorage.setItem(STORAGE_KEY, JSON.stringify(Array.from(state.completed)));
+      localStorage.setItem(PAGE_POSITION_KEY, JSON.stringify(state.pagePositions));
       if (state.latestReadId) localStorage.setItem(LATEST_READ_KEY, JSON.stringify(state.latestReadId));
       else localStorage.removeItem(LATEST_READ_KEY);
+      const item = selectedNode();
+      if (item) {
+        state.pageIndex = Math.max(0, Math.min(Number(state.pagePositions[item.id] || 0), Math.max(0, item.images.length - 1)));
+      }
       render();
     }
 
-    function setCloudConnectionNeeded(needed, message = "") {
+    function setCloudConnectionNeeded(_needed, message = "") {
       const button = document.getElementById("cloudConnectButton");
-      if (button) button.hidden = !needed;
+      if (button) button.hidden = true;
       if (message) setSettingsStatus(message);
     }
 
-    function enqueueCloud(method, payload = {}) {
+    function enqueueCloud(method, payload = {}, extra = {}) {
       const queue = readCloudQueue();
-      queue.push({ method, payload, queuedAt: new Date().toISOString() });
+      queue.push(makeCloudOperation(method, payload, extra));
       writeCloudQueue(queue);
       void flushCloudQueue();
+    }
+
+    function enqueueTrailingReplacement(method, payload, matcher) {
+      const queue = readCloudQueue();
+      const barriers = new Set(["clearProgress", "importProgress", "mergeProgress"]);
+      for (let index = queue.length - 1; index >= 0; index -= 1) {
+        if (barriers.has(queue[index].method)) break;
+        if (matcher(queue[index])) queue.splice(index, 1);
+      }
+      queue.push(makeCloudOperation(method, payload));
+      writeCloudQueue(queue);
+      void flushCloudQueue();
+    }
+
+    function enqueueCloudBatch(operations) {
+      const queue = readCloudQueue();
+      operations.forEach((operation) => queue.push(makeCloudOperation(operation.method, operation.payload || {}, operation.extra || {})));
+      writeCloudQueue(queue);
+      void flushCloudQueue();
+    }
+
+    function queueInitialLocalMigration() {
+      if (localStorage.getItem(CLOUD_MIGRATION_KEY) === "done") return;
+      const queue = readCloudQueue();
+      if (queue.some((operation) => operation && operation.migration === "local-v1")) return;
+      const validIds = new Set(allNodes().map((item) => item.id));
+      const completedNodeIds = Array.from(state.completed).map(String).filter((id) => validIds.has(id));
+      const pageIndexes = Object.fromEntries(
+        Object.entries(state.pagePositions || {})
+          .filter(([id, page]) => validIds.has(id) && Number.isFinite(Number(page)))
+          .map(([id, page]) => [id, Math.max(0, Math.floor(Number(page)))])
+      );
+      const latestReadId = validIds.has(String(state.latestReadId || "")) ? String(state.latestReadId) : "";
+      queue.push(makeCloudOperation("mergeProgress", { completedNodeIds, pageIndexes, latestReadId }, { migration: "local-v1" }));
+      writeCloudQueue(queue);
     }
 
     async function pullCloudProgress() {
       try {
         const result = await cloudTransport.call("getProgress", {});
         applyCloudProgress(result);
-        setCloudConnectionNeeded(false);
-        setSettingsStatus(`雲端進度已同步｜revision ${Number(result.revision || 0)}`);
+        setCloudConnectionNeeded(false, `雲端進度已同步｜revision ${Number(result.revision || 0)}`);
       } catch (error) {
         const detail = error && error.message ? ` ${error.message}` : "";
-        setCloudConnectionNeeded(cloudTransport.isGitHubPages(), `暫時無法讀取雲端進度；本機操作會排隊。${detail}`);
+        setCloudConnectionNeeded(false, `暫時無法讀取雲端進度；本機操作會排隊。${detail}`);
       }
     }
 
@@ -60392,17 +60361,19 @@
       try {
         let queue = readCloudQueue();
         while (queue.length) {
+          const operation = queue[0];
           try {
-            const operation = queue[0];
             const result = await cloudTransport.call(operation.method, operation.payload);
+            cloudRevision = Number(result.revision || cloudRevision || 0);
             queue.shift();
             writeCloudQueue(queue);
-            applyCloudProgress(result);
-            setCloudConnectionNeeded(false);
+            if (operation.migration === "local-v1") localStorage.setItem(CLOUD_MIGRATION_KEY, "done");
+            setCloudConnectionNeeded(false, queue.length ? `正在同步 ${queue.length} 個離線操作…` : "雲端進度已同步");
           } catch (error) {
-            setCloudConnectionNeeded(cloudTransport.isGitHubPages(), "連線暫時失敗，操作已留在待同步佇列。");
+            setCloudConnectionNeeded(false, "連線暫時失敗，操作已留在待同步佇列。");
             return;
           }
+          queue = readCloudQueue();
         }
         await pullCloudProgress();
       } finally {
@@ -60417,7 +60388,23 @@
     saveLatestReadId = function saveLatestReadCloud() {
       if (state.latestReadId) localStorage.setItem(LATEST_READ_KEY, JSON.stringify(state.latestReadId));
       else localStorage.removeItem(LATEST_READ_KEY);
-      enqueueCloud("setLatestRead", { nodeId: state.latestReadId, baseRevision: cloudRevision });
+      enqueueTrailingReplacement(
+        "setLatestRead",
+        { nodeId: state.latestReadId, baseRevision: cloudRevision },
+        (operation) => operation.method === "setLatestRead"
+      );
+    };
+
+    savePagePositions = function savePagePositionsCloud() {
+      localStorage.setItem(PAGE_POSITION_KEY, JSON.stringify(state.pagePositions || {}));
+      const item = selectedNode();
+      if (!item || !Object.prototype.hasOwnProperty.call(state.pagePositions || {}, item.id)) return;
+      const pageIndex = Math.max(0, Math.floor(Number(state.pagePositions[item.id] || 0)));
+      enqueueTrailingReplacement(
+        "setPageIndex",
+        { nodeId: item.id, pageIndex, baseRevision: cloudRevision },
+        (operation) => operation.method === "setPageIndex" && String(operation.payload && operation.payload.nodeId || "") === item.id
+      );
     };
 
     const baseUpdateControls = updateControls;
@@ -60435,21 +60422,43 @@
       nodeIds.forEach((id) => completed ? state.completed.add(id) : state.completed.delete(id));
       state.latestReadId = item.id;
       saveCompleted();
-      enqueueCloud("setNodeCompleted", { nodeIds, completed, baseRevision: cloudRevision });
-      enqueueCloud("setLatestRead", { nodeId: item.id, baseRevision: cloudRevision });
+      if (state.latestReadId) localStorage.setItem(LATEST_READ_KEY, JSON.stringify(state.latestReadId));
+      enqueueCloudBatch([
+        { method: "setNodeCompleted", payload: { nodeIds, completed, baseRevision: cloudRevision } },
+        { method: "setLatestRead", payload: { nodeId: item.id, baseRevision: cloudRevision } },
+      ]);
       if (completed) els.completeModal.classList.add("show");
       render();
     };
 
     clearCompleted = function clearCloudProgress() {
+      if (!window.confirm("確定要清除所有個人閱讀勾選與最近閱讀位置嗎？正式學習進度不會受到影響。")) return;
       state.completed.clear();
       state.latestReadId = "";
+      state.pagePositions = {};
       saveCompleted();
       localStorage.removeItem(LATEST_READ_KEY);
+      localStorage.setItem(PAGE_POSITION_KEY, JSON.stringify({}));
       enqueueCloud("clearProgress", { baseRevision: cloudRevision });
-      setSettingsStatus("清除操作已送往雲端；離線時會排隊。");
+      setSettingsStatus("清除操作已送往雲端；離線時會保留在佇列。正式學習進度沒有變更。");
       render();
     };
+
+    function replacementOperations(completedNodeIds, latestReadId, pageIndexes) {
+      const operations = [{ method: "clearProgress", payload: { baseRevision: cloudRevision } }];
+      for (let index = 0; index < completedNodeIds.length; index += 24) {
+        operations.push({
+          method: "setNodeCompleted",
+          payload: { nodeIds: completedNodeIds.slice(index, index + 24), completed: true, baseRevision: cloudRevision },
+        });
+      }
+      const positionEntries = Object.entries(pageIndexes).filter(([, page]) => Number(page) > 0);
+      for (let index = 0; index < positionEntries.length; index += 24) {
+        operations.push({ method: "setPageIndexes", payload: { pageIndexes: Object.fromEntries(positionEntries.slice(index, index + 24)), baseRevision: cloudRevision } });
+      }
+      if (latestReadId) operations.push({ method: "setLatestRead", payload: { nodeId: latestReadId, baseRevision: cloudRevision } });
+      return operations;
+    }
 
     importProgressFile = function importCloudProgressFile(file) {
       if (!file) return;
@@ -60459,15 +60468,24 @@
           const payload = JSON.parse(String(fileReader.result || ""));
           const imported = normalizeImportedProgress(payload).map(String);
           const validIds = new Set(allNodes().map((item) => item.id));
-          const validCompleted = imported.filter((id) => validIds.has(id));
+          const validCompleted = Array.from(new Set(imported.filter((id) => validIds.has(id))));
           const latestReadId = normalizeImportedLatest(payload, validCompleted, validIds);
+          const rawPositions = payload && payload.latestPageByNode && typeof payload.latestPageByNode === "object" ? payload.latestPageByNode : {};
+          const pageIndexes = Object.fromEntries(
+            Object.entries(rawPositions)
+              .filter(([id, page]) => validIds.has(id) && Number.isFinite(Number(page)))
+              .map(([id, page]) => [id, Math.max(0, Math.floor(Number(page)))])
+          );
           state.completed = new Set(validCompleted);
           state.latestReadId = latestReadId;
+          state.pagePositions = pageIndexes;
           saveCompleted();
+          localStorage.setItem(PAGE_POSITION_KEY, JSON.stringify(pageIndexes));
           if (latestReadId) localStorage.setItem(LATEST_READ_KEY, JSON.stringify(latestReadId));
-          enqueueCloud("importProgress", { completedNodeIds: validCompleted, latestReadId, baseRevision: cloudRevision });
+          else localStorage.removeItem(LATEST_READ_KEY);
+          enqueueCloudBatch(replacementOperations(validCompleted, latestReadId, pageIndexes));
           render();
-          setSettingsStatus(`已匯入 ${validCompleted.length} 個節點並送往雲端。`);
+          setSettingsStatus(`已匯入 ${validCompleted.length} 個節點並送往雲端；離線時會保留在佇列。`);
         } catch (error) {
           setSettingsStatus("匯入失敗：請選擇由本 APP 匯出的 JSON 檔。");
         } finally {
@@ -60478,13 +60496,10 @@
     };
 
     const cloudConnectButton = document.getElementById("cloudConnectButton");
-    if (cloudConnectButton) {
-      cloudConnectButton.addEventListener("click", () => cloudTransport.openConnectionPage());
-    }
-    window.addEventListener("focus", () => {
-      if (!cloudTransport.isDirectAppsScript()) cloudTransport.clearBridge("重新連線 Google 進度");
-      setTimeout(() => void flushCloudQueue(), 50);
-    });
+    if (cloudConnectButton) cloudConnectButton.hidden = true;
+    window.addEventListener("focus", () => setTimeout(() => void flushCloudQueue(), 50));
+    window.addEventListener("online", () => void flushCloudQueue());
+    queueInitialLocalMigration();
     setTimeout(() => void flushCloudQueue(), 0);
 
 
