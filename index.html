@@ -323,9 +323,18 @@
     .route-group-toggle .chevron { flex: 0 0 auto; transition: transform 160ms ease; }
     .route-group-toggle[aria-expanded="true"] .chevron { transform: rotate(180deg); }
     .route-group-content { border-top: 1px solid var(--line); padding: 8px 10px 10px; }
-    .route-group[data-route-level="unit"] { background: rgba(238, 243, 251, .58); }
-    .route-group[data-route-level="chapter"] { background: rgba(255, 255, 255, .82); }
-    .route-group[data-route-level="concept"] { background: rgba(255, 255, 255, .96); }
+    .stage[data-route-level="stage"] { border-color: #b9a7ef; background: #f7f4ff; }
+    .stage[data-route-level="stage"] > .stage-toggle { background: #eee8ff; color: #593aa8; }
+    .stage[data-route-level="stage"] > .stage-toggle .route-group-kind { background: #ddd1ff; color: #4d2f9c; }
+    .route-group[data-route-level="unit"] { border-color: #9bd8f4; background: #f1faff; }
+    .route-group[data-route-level="unit"] > .route-group-toggle { background: #dff3fd; color: #0b6f9c; }
+    .route-group[data-route-level="unit"] > .route-group-toggle .route-group-kind { background: #ccecf9; color: #075f87; }
+    .route-group[data-route-level="chapter"] { border-color: #9edac8; background: #f1fbf7; }
+    .route-group[data-route-level="chapter"] > .route-group-toggle { background: #ddf3eb; color: #177a61; }
+    .route-group[data-route-level="chapter"] > .route-group-toggle .route-group-kind { background: #cdebe1; color: #116650; }
+    .route-group[data-route-level="concept"] { border-color: #e8acc1; background: #fff5f8; }
+    .route-group[data-route-level="concept"] > .route-group-toggle { background: #fbe2eb; color: #9b365c; }
+    .route-group[data-route-level="concept"] > .route-group-toggle .route-group-kind { background: #f5cfdd; color: #852d4e; }
     .route-group[data-route-level="concept"] .route-group-toggle { min-height: 46px; }
     .route-node {
       display: grid;
@@ -528,10 +537,10 @@
       background: var(--surface);
       box-shadow: var(--shadow-surface);
     }
+    .reader-previous-node-button,
     .reader-next-node-button {
       position: absolute;
       top: 50%;
-      right: 14px;
       z-index: 5;
       display: grid;
       width: 46px;
@@ -547,8 +556,13 @@
       transform: translateY(-50%);
       backdrop-filter: blur(8px);
     }
+    .reader-previous-node-button { left: 14px; }
+    .reader-next-node-button { right: 14px; }
+    .reader-previous-node-button:hover:not(:disabled),
     .reader-next-node-button:hover:not(:disabled) { background: #fff; }
+    .reader-previous-node-button:focus-visible,
     .reader-next-node-button:focus-visible { outline: 2px solid var(--primary); outline-offset: 2px; }
+    .reader-previous-node-button:disabled,
     .reader-next-node-button:disabled { opacity: .28; cursor: not-allowed; }
     .reader-media-host { position: relative; display: grid; width: 100%; height: 100%; min-height: 0; overflow: hidden; place-items: center; background: #fffefa; }
     .note-image { display: block; width: 100%; height: 100%; max-width: 100%; max-height: 100%; object-fit: contain; cursor: zoom-in; }
@@ -1056,7 +1070,10 @@
       .reader-node-switcher { width: calc(100% - 20px); margin-bottom: 10px; }
       .reader-node-select { min-height: 44px; padding-left: 12px; font-size: 14px; }
       .reader-stage { width: 100%; height: max(360px, calc(100dvh - 254px)); min-height: 0; border-inline: 0; border-radius: 0; box-shadow: none; }
-      .reader-next-node-button { right: 8px; width: 40px; height: 56px; border-radius: 14px; font-size: 26px; }
+      .reader-previous-node-button,
+      .reader-next-node-button { width: 40px; height: 56px; border-radius: 14px; font-size: 26px; }
+      .reader-previous-node-button { left: 8px; }
+      .reader-next-node-button { right: 8px; }
       .reader-media-host { height: 100%; min-height: 0; }
       .note-image { height: 100%; max-height: 100%; }
       .reader-toolbar {
@@ -1247,10 +1264,11 @@
             </div>
           </header>
           <div class="reader-node-switcher">
-            <select class="reader-node-select" id="readerNodeSelect" aria-label="切換同概念可閱讀最小節點"></select>
+            <select class="reader-node-select" id="readerNodeSelect" aria-label="切換同概念可閱讀節點"></select>
           </div>
           <div class="reader-stage" id="readerStage">
             <div class="reader-media-host" id="readerMediaHost"></div>
+            <button class="reader-previous-node-button" id="readerPreviousNodeButton" type="button" aria-label="前往上一節點" title="前往上一節點">‹</button>
             <button class="reader-next-node-button" id="readerNextNodeButton" type="button" aria-label="前往下一節點" title="前往下一節點">›</button>
             <div class="reader-loading" id="readerLoading">正在載入下一頁…</div>
             <div class="reader-error" id="readerError" hidden><span id="readerErrorText">載入失敗，已保留原頁。</span><button class="text-button" id="readerRetryButton" type="button">重試</button></div>
@@ -1389,7 +1407,7 @@
     const PAGE_POSITION_KEY = "bioReadingVisualizer.latestPageByNode.v1";
     const TEXT_SCALE_KEY = "bioReadingVisualizer.textScale.v1";
     const ASSET_BASE = "..";
-    const generatedAt = "2026-08-30T11:47";
+    const generatedAt = "2026-08-30T12:57";
     const routeWeeks = /*__M3_ROUTE_WEEKS_START__*/ [
   {
     "week": 1,
@@ -56727,7 +56745,7 @@
 ] /*__M3_ROUTE_WEEKS_END__*/;
     const mainProgressIntegrity = {
   "status": "PASS",
-  "checkedAt": "2026-08-30T11:47:24",
+  "checkedAt": "2026-08-30T12:57:40",
   "routeAuthority": "APP_AND_PROGRESS_INDEX",
   "taskStateNextHint": "Ch42.2「概念介紹：協調一致的心臟收縮週期驅動哺乳類的雙循環｜Coordinated cycles of heart contraction drive double circulation in mammals」",
   "taskStateNextNodeId": "bio-chapter-42-concept-42-2-intro",
@@ -59118,6 +59136,11 @@
       return childIds.length > 0 && childIds.every((id) => state.completed.has(id));
     }
     function readableNodes() { return allNodeList.filter(isUnlocked); }
+    function previousReadableNode(item) {
+      const readable = readableNodes();
+      const index = item ? readable.findIndex((candidate) => candidate.id === item.id) : -1;
+      return index > 0 ? readable[index - 1] : null;
+    }
     function nextReadableNode(item) {
       const readable = readableNodes();
       const index = item ? readable.findIndex((candidate) => candidate.id === item.id) : -1;
@@ -59193,16 +59216,16 @@
         : String(item && Object.prototype.hasOwnProperty.call(item, "chapter") ? item.chapter : routeMetadata(item, "Chapter") || "").trim();
     }
     function routeConcept(item) { return String(item && Object.prototype.hasOwnProperty.call(item, "concept") ? item.concept : routeMetadata(item, "Concept") || "").trim(); }
-    function isSmallestNode(item) { return String(item && item.nodeType || "") === "Theme / subheading"; }
     function readerScopeNodes(item) {
+      if (!item) return [];
+      const readable = readableNodes();
       const concept = routeConcept(item);
-      if (!item || !concept) return [];
+      if (!concept) return readable.filter((candidate) => candidate.id === item.id);
       const stage = routeStage(item);
       const unit = routeUnit(item);
       const chapter = routeChapter(item);
-      return readableNodes().filter((candidate) => (
-        isSmallestNode(candidate)
-        && routeStage(candidate) === stage
+      return readable.filter((candidate) => (
+        routeStage(candidate) === stage
         && routeUnit(candidate) === unit
         && routeChapter(candidate) === chapter
         && routeConcept(candidate) === concept
@@ -59702,14 +59725,13 @@
       els.audioTrigger.disabled = !availableAudio;
       els.audioTrigger.title = availableAudio ? `播放 ${item.audioFileName || "語音摘要"}` : "本節點尚無可用語音摘要";
       const scopedNodes = readerScopeNodes(item);
-      const currentIsSmallest = scopedNodes.some((candidate) => candidate.id === item.id);
-      const placeholder = scopedNodes.length
-        ? "選擇同概念的最小節點"
-        : "本頁沒有同概念可閱讀的最小節點";
-      const placeholderOption = `<option value="" disabled${currentIsSmallest ? "" : " selected"}>${placeholder}</option>`;
-      els.readerNodeSelect.innerHTML = `${currentIsSmallest ? "" : placeholderOption}${scopedNodes.map((candidate) => `<option value="${escapeHtml(candidate.id)}">${escapeHtml(cleanTitle(candidate))}</option>`).join("")}`;
-      els.readerNodeSelect.disabled = scopedNodes.length === 0;
-      els.readerNodeSelect.value = currentIsSmallest ? item.id : "";
+      els.readerNodeSelect.innerHTML = scopedNodes.map((candidate) => `<option value="${escapeHtml(candidate.id)}">${escapeHtml(cleanTitle(candidate))}</option>`).join("");
+      els.readerNodeSelect.disabled = false;
+      els.readerNodeSelect.value = item.id;
+      const previous = previousReadableNode(item);
+      els.readerPreviousNodeButton.disabled = !previous;
+      els.readerPreviousNodeButton.title = previous ? `前往上一節點：${cleanTitle(previous)}` : "已是第一個可閱讀節點";
+      els.readerPreviousNodeButton.setAttribute("aria-label", els.readerPreviousNodeButton.title);
       const next = nextReadableNode(item);
       els.readerNextNodeButton.disabled = !next;
       els.readerNextNodeButton.title = next ? `前往下一節點：${cleanTitle(next)}` : "已是最後一個可閱讀節點";
@@ -59808,6 +59830,9 @@
       els.nodeDrawerTitle.textContent = cleanTitle(item);
       els.nodeInfoList.innerHTML = [
         infoRow("正式期限", item.deadlineDate || item.planDate || "尚未排定"),
+        infoRow("單元", routeUnit(item)),
+        infoRow("章", routeChapter(item)),
+        infoRow("概念", routeConcept(item)),
         infoRow("閱讀深度", depthLabel(item)),
         infoRow("閱讀方式", depthDescription(item)),
         infoRow("路線圖依據", depthBasis(item)),
@@ -60110,6 +60135,10 @@
     els.readerNodeSelect.addEventListener("change", () => {
       const item = findNode(els.readerNodeSelect.value);
       if (item && isUnlocked(item)) openReader(item, pageForNode(item));
+    });
+    els.readerPreviousNodeButton.addEventListener("click", () => {
+      const previous = previousReadableNode(selectedNode());
+      if (previous) openReader(previous, 0);
     });
     els.readerNextNodeButton.addEventListener("click", () => {
       const next = nextReadableNode(selectedNode());
