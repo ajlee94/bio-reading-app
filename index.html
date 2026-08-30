@@ -264,7 +264,6 @@
     .row-title { font-weight: 650; }
     .row-meta { margin-top: 3px; color: var(--muted); font-size: 14px; }
     .status-text { font-size: 14px; font-weight: 700; white-space: nowrap; }
-    .status-text.current { color: var(--primary); }
     .status-text.unread { color: var(--unread); }
     .status-text.read { color: var(--success); }
     .status-text.pending { color: var(--warning); }
@@ -476,7 +475,6 @@
       transition: color 260ms ease, background-color 260ms ease;
     }
     .route-node:last-child { border-bottom: 0; }
-    .route-node.current { color: var(--route-on-primary-container); background: var(--route-primary-container); }
     .route-node .row-title, .route-node .row-meta { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
     .route-node .row-title { font-size: 13px; font-weight: 650; }
     .route-node .row-meta { margin-top: 2px; color: var(--route-on-surface-variant); font-size: 10px; }
@@ -490,7 +488,6 @@
     }
     .route-node.read .route-dot, .route-dot.read { border-color: var(--success); background: #20a477; box-shadow: 0 0 0 3px rgba(23, 122, 91, .13); }
     .route-node.unread .route-dot, .route-dot.unread { border-color: var(--unread); background: #ff8a32; box-shadow: 0 0 0 3px rgba(217, 95, 2, .13); }
-    .route-node.current .route-dot, .route-dot.current { border-color: var(--route-primary); background: var(--route-primary); box-shadow: 0 0 0 4px color-mix(in srgb, var(--route-primary) 18%, transparent); }
     .route-dot.locked { border-color: var(--locked); background: var(--surface); }
     .route-control-button::after,
     .stage-toggle::after,
@@ -548,6 +545,7 @@
     }
     .legend-item { display: inline-flex; align-items: center; gap: 8px; }
     .route-location {
+      position: relative;
       display: inline-flex;
       min-height: 42px;
       align-items: center;
@@ -558,10 +556,16 @@
       padding: 8px 14px;
       background: var(--route-primary-container);
       color: var(--route-on-primary-container);
+      cursor: pointer;
       font-size: 14px;
       font-weight: 650;
+      text-align: left;
+      transition: box-shadow 180ms ease, transform 180ms ease, opacity 180ms ease;
     }
     .route-location .inline-icon { color: var(--route-primary); }
+    .route-location:hover:not(:disabled) { box-shadow: 0 2px 5px rgba(0, 0, 0, .14); transform: translateY(-1px); }
+    .route-location:focus-visible { outline: 3px solid color-mix(in srgb, var(--route-primary) 34%, transparent); outline-offset: 2px; }
+    .route-location:disabled { cursor: default; opacity: .72; }
 
     .tag-stack { display: inline-flex; flex-wrap: wrap; align-items: center; justify-content: flex-end; gap: 7px; }
     .depth-tag, .status-tag {
@@ -578,7 +582,6 @@
     .depth-tag.intensive { border-color: rgba(180, 35, 24, .28); background: #fff0ee; color: #a12a22; }
     .depth-tag.foundation { border-color: rgba(35, 91, 215, .24); background: #edf3ff; color: #1e55c4; }
     .depth-tag.skim { border-color: rgba(122, 78, 0, .25); background: #fff7df; color: #865800; }
-    .status-tag.current { border-color: rgba(35, 91, 215, .24); background: #edf3ff; color: var(--primary); }
     .status-tag.read { border-color: rgba(23, 122, 91, .24); background: #eaf8f2; color: var(--success); }
     .status-tag.unread { border-color: rgba(217, 95, 2, .24); background: #fff2e8; color: var(--unread); }
     .status-tag.locked { background: #f2f4f7; color: var(--locked); }
@@ -654,7 +657,6 @@
     .result-facet-label { color: var(--muted); font-size: 12px; }
     .result-value { font-size: 14px; font-weight: 750; }
     .result-value.intensive, .result-value.foundation, .result-value.skim { color: var(--primary); }
-    .result-value.current { color: var(--primary); }
     .result-value.read { color: var(--success); }
     .result-value.unread { color: var(--unread); }
     .result-value.locked { color: var(--locked); }
@@ -1380,9 +1382,8 @@
               <button class="route-control-button" id="collapseAllRoutesButton" type="button">全部收合</button>
             </div>
           </header>
-          <div class="route-location"><svg class="inline-icon" aria-hidden="true"><use href="#icon-pin"></use></svg><span id="routeCurrentLabel">目前位置：依正式路線循序閱讀</span></div>
+          <button class="route-location" id="routeCurrentButton" type="button"><svg class="inline-icon" aria-hidden="true"><use href="#icon-pin"></use></svg><span id="routeCurrentLabel">目前位置：尚無已完成閱讀節點</span></button>
           <div class="route-legend" aria-label="節點狀態圖例">
-            <span class="legend-item"><i class="route-dot current" aria-hidden="true"></i>目前閱讀</span>
             <span class="legend-item"><i class="route-dot read" aria-hidden="true"></i>已讀</span>
             <span class="legend-item"><i class="route-dot unread" aria-hidden="true"></i>未讀</span>
             <span class="legend-item"><i class="route-dot locked" aria-hidden="true"></i>未解鎖</span>
@@ -1584,7 +1585,7 @@
     const PAGE_POSITION_KEY = "bioReadingVisualizer.latestPageByNode.v1";
     const TEXT_SCALE_KEY = "bioReadingVisualizer.textScale.v1";
     const ASSET_BASE = "..";
-    const generatedAt = "2026-08-31T02:49";
+    const generatedAt = "2026-08-31T04:01";
     const routeWeeks = /*__M3_ROUTE_WEEKS_START__*/ [
   {
     "week": 1,
@@ -56922,7 +56923,7 @@
 ] /*__M3_ROUTE_WEEKS_END__*/;
     const mainProgressIntegrity = {
   "status": "PASS",
-  "checkedAt": "2026-08-31T02:49:23",
+  "checkedAt": "2026-08-31T04:01:25",
   "routeAuthority": "APP_AND_PROGRESS_INDEX",
   "taskStateNextHint": "Ch42.2「概念介紹：協調一致的心臟收縮週期驅動哺乳類的雙循環｜Coordinated cycles of heart contraction drive double circulation in mammals」",
   "taskStateNextNodeId": "bio-chapter-42-concept-42-2-intro",
@@ -59343,7 +59344,10 @@
       return unread.find((item) => allNodeList.indexOf(item) > recentIndex) || unread[0];
     }
     function nextNodeAfter(item) { const index = item ? allNodeList.indexOf(item) : -1; return index >= 0 ? allNodeList[index + 1] || null : allNodeList[0] || null; }
-    function latestReadNode() { const item = findNode(state.latestReadId); return item && isUnlocked(item) ? item : null; }
+    function latestReadNode() {
+      const item = findNode(state.latestReadId);
+      return item && state.completed.has(item.id) && isUnlocked(item) ? item : null;
+    }
     function selectedNode() { return findNode(state.selectedId) || latestReadNode() || readableNodes()[0] || allNodeList[0] || null; }
     function cleanTitle(item) {
       return String(item && item.title || "未命名節點").split(" / ")[0].replace(/^#?\d+\s*｜\s*/, "").replace(/\s+/g, " ").trim();
@@ -59453,7 +59457,6 @@
       return "";
     }
     function nodeStatus(item) {
-      if (item && item.id === state.latestReadId && isUnlocked(item)) return { key: "current", label: "目前" };
       if (isRead(item)) return { key: "read", label: "已讀" };
       if (isUnlocked(item)) return { key: "unread", label: "未讀" };
       return { key: "locked", label: "未解鎖" };
@@ -59517,10 +59520,6 @@
       if (parsed.item) {
         state.selectedId = parsed.item.id;
         state.pageIndex = Math.max(0, Math.min(parsed.page || 0, Math.max(0, parsed.item.images.length - 1)));
-        if (isUnlocked(parsed.item)) {
-          state.latestReadId = parsed.item.id;
-          saveLatestReadId();
-        }
       }
       render();
       const targetScroll = changingReaderItem ? 0 : Number(state.viewScrollPositions[nextView] || 0);
@@ -59550,12 +59549,12 @@
 
     function renderHome() {
       const recent = latestReadNode();
-      const latest = recent || readableNodes()[0] || null;
+      const latest = recent;
       const next = nextPersonalUnreadNode();
       const readable = readableNodes();
       const readCount = readable.filter(isRead).length;
-      els.continueHeading.textContent = latest ? cleanTitle(latest) : "尚無已解鎖節點";
-      els.continueMeta.textContent = latest ? `目前第 ${pageForNode(latest) + 1} / ${latest.images.length} 頁` : "內容完成正式同步後即可開始閱讀";
+      els.continueHeading.textContent = latest ? cleanTitle(latest) : "尚無已完成閱讀節點";
+      els.continueMeta.textContent = latest ? `目前第 ${pageForNode(latest) + 1} / ${latest.images.length} 頁` : "完成一個節點後，這裡才會顯示最近閱讀";
       els.continueButton.disabled = !latest;
       els.continueButton.onclick = () => latest && openReader(latest, pageForNode(latest));
       els.homeFormalProgress.textContent = formalCurrentLabel();
@@ -59734,15 +59733,54 @@
       });
     }
 
+    function routeOpenKeysForItem(item) {
+      const weekIndex = routeWeeks.findIndex((week) => week.nodes.some((candidate) => candidate.id === item.id));
+      if (weekIndex < 0) return [];
+      const stageKey = `stage:${weekIndex}`;
+      const keys = [stageKey];
+      const unitLabel = routeUnit(item) || "單元未標示";
+      const unitKey = routeGroupKey("unit", stageKey, unitLabel);
+      keys.push(unitKey);
+      const chapterLabel = routeChapter(item);
+      if (!chapterLabel) return keys;
+      const chapterKey = routeGroupKey("chapter", unitKey, chapterLabel);
+      keys.push(chapterKey);
+      const conceptLabel = routeConcept(item);
+      if (conceptLabel) keys.push(routeGroupKey("concept", chapterKey, conceptLabel));
+      return keys;
+    }
+
+    function locateLatestReadInRoute() {
+      const latest = latestReadNode();
+      if (!latest) {
+        els.routeMenuStatus.textContent = "尚無已完成閱讀節點可定位。";
+        return;
+      }
+      state.routeOpenKeys = new Set(routeOpenKeysForItem(latest));
+      renderRoute();
+      requestAnimationFrame(() => requestAnimationFrame(() => {
+        const target = document.querySelector(`[data-node-id="${CSS.escape(latest.id)}"]`);
+        if (!target) {
+          els.routeMenuStatus.textContent = "無法在學習路線中找到最近閱讀節點。";
+          return;
+        }
+        const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+        target.scrollIntoView({ block: "center", behavior: reduceMotion ? "auto" : "smooth" });
+        target.focus({ preventScroll: true });
+        els.routeMenuStatus.textContent = `已展開並移到最近閱讀：${cleanTitle(latest)}。`;
+      }));
+    }
+
     function renderRoute() {
       if (!(state.routeOpenKeys instanceof Set)) state.routeOpenKeys = new Set();
       const latest = latestReadNode();
-      const locationItem = latest || formalCurrentNode();
-      const locationIndex = routeWeeks.findIndex((week) => week.nodes.some((item) => locationItem && item.id === locationItem.id));
+      const locationIndex = routeWeeks.findIndex((week) => week.nodes.some((item) => latest && item.id === latest.id));
       const locationStage = locationIndex >= 0 ? routeWeeks[locationIndex] : null;
-      els.routeCurrentLabel.textContent = locationItem
-        ? `目前位置：${locationStage ? `${locationStage.round}・` : ""}${cleanTitle(locationItem)}`
-        : "目前位置：尚未開始";
+      els.routeCurrentButton.disabled = !latest;
+      els.routeCurrentButton.setAttribute("aria-label", latest ? `展開並移到最近閱讀：${cleanTitle(latest)}` : "尚無已完成閱讀節點可定位");
+      els.routeCurrentLabel.textContent = latest
+        ? `目前位置：${locationStage ? `${locationStage.round}・` : ""}${cleanTitle(latest)}`
+        : "目前位置：尚無已完成閱讀節點";
       els.routeAccordion.innerHTML = "";
       routeWeeks.forEach((week, weekIndex) => {
         const key = `stage:${weekIndex}`;
@@ -59966,7 +60004,7 @@
       const completed = !isRead(item);
       const ids = [item.id, ...(item.readableChildIds || [])];
       ids.forEach((id) => completed ? state.completed.add(id) : state.completed.delete(id));
-      state.latestReadId = item.id;
+      state.latestReadId = completed ? item.id : (state.completed.has(state.latestReadId) ? state.latestReadId : "");
       saveCompleted();
       saveLatestReadId();
       if (completed) els.completeModal.hidden = false;
@@ -59994,7 +60032,7 @@
     }
     function normalizeImportedLatest(payload, validCompleted, validIds) {
       const candidate = payload && typeof payload.latestReadId === "string" ? payload.latestReadId : "";
-      if (candidate && validIds.has(candidate)) return candidate;
+      if (candidate && validIds.has(candidate) && validCompleted.includes(candidate)) return candidate;
       return validCompleted.length ? validCompleted[validCompleted.length - 1] : "";
     }
     function exportProgress() {
@@ -60399,6 +60437,7 @@
     els.audioClose.addEventListener("click", stopAudioPlayer);
     els.audioMinimize.addEventListener("click", () => { state.audioMinimized = !state.audioMinimized; els.audioDock.classList.toggle("minimized", state.audioMinimized); els.audioMinimize.textContent = state.audioMinimized ? "展開" : "縮小"; });
     els.collapseAllRoutesButton.addEventListener("click", collapseAllRouteGroups);
+    els.routeCurrentButton.addEventListener("click", locateLatestReadInRoute);
     els.clearReadButton.addEventListener("click", () => clearCompleted());
     els.exportProgressButton.addEventListener("click", exportProgress);
     els.importProgressButton.addEventListener("click", () => els.progressImportInput.click());
@@ -60528,7 +60567,8 @@
       const completed = Array.isArray(payload.completedNodeIds) ? payload.completedNodeIds : [];
       const rawPositions = payload.pageIndexes && typeof payload.pageIndexes === "object" ? payload.pageIndexes : {};
       state.completed = new Set(completed.map(String).filter((id) => validIds.has(id)));
-      state.latestReadId = validIds.has(String(payload.latestReadId || "")) ? String(payload.latestReadId) : "";
+      const cloudLatestReadId = String(payload.latestReadId || "");
+      state.latestReadId = validIds.has(cloudLatestReadId) && state.completed.has(cloudLatestReadId) ? cloudLatestReadId : "";
       state.pagePositions = Object.fromEntries(
         Object.entries(rawPositions)
           .filter(([id, page]) => validIds.has(id) && Number.isFinite(Number(page)))
@@ -60589,7 +60629,9 @@
           .filter(([id, page]) => validIds.has(id) && Number.isFinite(Number(page)))
           .map(([id, page]) => [id, Math.max(0, Math.floor(Number(page)))])
       );
-      const latestReadId = validIds.has(String(state.latestReadId || "")) ? String(state.latestReadId) : "";
+      const latestReadId = validIds.has(String(state.latestReadId || "")) && state.completed.has(String(state.latestReadId || ""))
+        ? String(state.latestReadId)
+        : "";
       queue.push(makeCloudOperation("mergeProgress", { completedNodeIds, pageIndexes, latestReadId }, { migration: "local-v1" }));
       writeCloudQueue(queue);
     }
@@ -60637,6 +60679,7 @@
     };
 
     saveLatestReadId = function saveLatestReadCloud() {
+      if (state.latestReadId && !state.completed.has(state.latestReadId)) state.latestReadId = "";
       if (state.latestReadId) localStorage.setItem(LATEST_READ_KEY, JSON.stringify(state.latestReadId));
       else localStorage.removeItem(LATEST_READ_KEY);
       if (!cloudHydrated) return;
@@ -60673,12 +60716,13 @@
       const completed = !isRead(item);
       const nodeIds = [item.id, ...(item.readableChildIds || [])];
       nodeIds.forEach((id) => completed ? state.completed.add(id) : state.completed.delete(id));
-      state.latestReadId = item.id;
+      state.latestReadId = completed ? item.id : (state.completed.has(state.latestReadId) ? state.latestReadId : "");
       saveCompleted();
       if (state.latestReadId) localStorage.setItem(LATEST_READ_KEY, JSON.stringify(state.latestReadId));
+      else localStorage.removeItem(LATEST_READ_KEY);
       enqueueCloudBatch([
         { method: "setNodeCompleted", payload: { nodeIds, completed, baseRevision: cloudRevision } },
-        { method: "setLatestRead", payload: { nodeId: item.id, baseRevision: cloudRevision } },
+        { method: "setLatestRead", payload: { nodeId: state.latestReadId, baseRevision: cloudRevision } },
       ]);
       if (completed) els.completeModal.classList.add("show");
       render();
@@ -60759,7 +60803,10 @@
     const initialScale = Math.max(.9, Math.min(1.15, Number(localStorage.getItem(TEXT_SCALE_KEY) || 1)));
     document.documentElement.style.setProperty("--text-scale", String(initialScale));
     const initial = parseHash();
-    if (!state.latestReadId) state.latestReadId = (readableNodes()[0] || {}).id || "";
+    if (state.latestReadId && !state.completed.has(state.latestReadId)) {
+      state.latestReadId = "";
+      saveLatestReadId();
+    }
     if (initial.view === "reader" && initial.item) {
       state.selectedId = initial.item.id;
       state.pageIndex = initial.page;
