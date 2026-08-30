@@ -1389,7 +1389,7 @@
     const PAGE_POSITION_KEY = "bioReadingVisualizer.latestPageByNode.v1";
     const TEXT_SCALE_KEY = "bioReadingVisualizer.textScale.v1";
     const ASSET_BASE = "..";
-    const generatedAt = "2026-08-30T11:34";
+    const generatedAt = "2026-08-30T11:47";
     const routeWeeks = /*__M3_ROUTE_WEEKS_START__*/ [
   {
     "week": 1,
@@ -56727,7 +56727,7 @@
 ] /*__M3_ROUTE_WEEKS_END__*/;
     const mainProgressIntegrity = {
   "status": "PASS",
-  "checkedAt": "2026-08-30T11:34:30",
+  "checkedAt": "2026-08-30T11:47:24",
   "routeAuthority": "APP_AND_PROGRESS_INDEX",
   "taskStateNextHint": "Ch42.2「概念介紹：協調一致的心臟收縮週期驅動哺乳類的雙循環｜Coordinated cycles of heart contraction drive double circulation in mammals」",
   "taskStateNextNodeId": "bio-chapter-42-concept-42-2-intro",
@@ -60194,6 +60194,7 @@
     ]);
     let cloudBusy = false;
     let cloudRevision = 0;
+    let cloudHydrated = false;
 
     function newMutationId() {
       const random = crypto.getRandomValues(new Uint32Array(3));
@@ -60347,6 +60348,7 @@
       try {
         const result = await cloudTransport.call("getProgress", {});
         applyCloudProgress(result);
+        cloudHydrated = true;
         setCloudConnectionNeeded(false, `雲端進度已同步｜revision ${Number(result.revision || 0)}`);
       } catch (error) {
         const detail = error && error.message ? ` ${error.message}` : "";
@@ -60387,6 +60389,7 @@
     saveLatestReadId = function saveLatestReadCloud() {
       if (state.latestReadId) localStorage.setItem(LATEST_READ_KEY, JSON.stringify(state.latestReadId));
       else localStorage.removeItem(LATEST_READ_KEY);
+      if (!cloudHydrated) return;
       enqueueTrailingReplacement(
         "setLatestRead",
         { nodeId: state.latestReadId, baseRevision: cloudRevision },
@@ -60396,6 +60399,7 @@
 
     savePagePositions = function savePagePositionsCloud() {
       localStorage.setItem(PAGE_POSITION_KEY, JSON.stringify(state.pagePositions || {}));
+      if (!cloudHydrated) return;
       const item = selectedNode();
       if (!item || !Object.prototype.hasOwnProperty.call(state.pagePositions || {}, item.id)) return;
       const pageIndex = Math.max(0, Math.floor(Number(state.pagePositions[item.id] || 0)));
