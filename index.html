@@ -35,7 +35,12 @@
     }
 
     * { box-sizing: border-box; }
-    html { min-width: 320px; overflow-x: hidden; }
+    html {
+      min-width: 320px;
+      overflow-x: hidden;
+      overflow-y: scroll;
+      scrollbar-gutter: stable;
+    }
     body {
       margin: 0;
       min-height: 100dvh;
@@ -91,6 +96,7 @@
       background: transparent;
       color: var(--text);
       cursor: pointer;
+      font-weight: 700;
       text-align: left;
     }
     .nav-button::before {
@@ -151,8 +157,7 @@
       padding: 38px clamp(28px, 5vw, 72px) 76px;
     }
     .content-wrap { width: min(100%, 1180px); margin: 0 auto; }
-    .view { animation: view-in 160ms ease-out; }
-    @keyframes view-in { from { opacity: .2; transform: translateY(3px); } to { opacity: 1; transform: none; } }
+    .view { animation: none; }
     .page-header {
       display: flex;
       align-items: flex-start;
@@ -277,7 +282,51 @@
     .stage-toggle[aria-expanded="true"] { color: var(--primary); }
     .stage-toggle .chevron { transition: transform 160ms ease; }
     .stage-toggle[aria-expanded="true"] .chevron { transform: rotate(180deg); }
-    .stage-content { border-top: 1px solid var(--line); padding: 0 20px; }
+    .stage-content { border-top: 1px solid var(--line); padding: 12px 14px 14px; }
+    .route-group {
+      overflow: hidden;
+      margin-top: 10px;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      background: rgba(255, 255, 255, .72);
+    }
+    .route-group:first-child { margin-top: 0; }
+    .route-group-toggle {
+      display: flex;
+      min-height: 50px;
+      width: 100%;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      border: 0;
+      padding: 10px 14px;
+      background: transparent;
+      color: inherit;
+      cursor: pointer;
+      text-align: left;
+      font: inherit;
+      font-weight: 700;
+    }
+    .route-group-toggle[aria-expanded="true"] { color: var(--primary); }
+    .route-group-heading, .route-group-actions { display: inline-flex; min-width: 0; align-items: center; gap: 9px; }
+    .route-group-heading > span:last-child { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .route-group-kind {
+      flex: 0 0 auto;
+      border-radius: 999px;
+      padding: 2px 8px;
+      background: var(--surface-soft);
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 750;
+    }
+    .route-group-count { flex: 0 0 auto; color: var(--muted); font-size: 12px; font-weight: 600; }
+    .route-group-toggle .chevron { flex: 0 0 auto; transition: transform 160ms ease; }
+    .route-group-toggle[aria-expanded="true"] .chevron { transform: rotate(180deg); }
+    .route-group-content { border-top: 1px solid var(--line); padding: 8px 10px 10px; }
+    .route-group[data-route-level="unit"] { background: rgba(238, 243, 251, .58); }
+    .route-group[data-route-level="chapter"] { background: rgba(255, 255, 255, .82); }
+    .route-group[data-route-level="concept"] { background: rgba(255, 255, 255, .96); }
+    .route-group[data-route-level="concept"] .route-group-toggle { min-height: 46px; }
     .route-node {
       display: grid;
       grid-template-columns: 24px minmax(0, 1fr) auto;
@@ -384,8 +433,9 @@
       background: transparent;
       color: var(--text);
       cursor: pointer;
+      font-weight: 700;
     }
-    .filter-button.active { border-color: var(--primary); background: rgba(35, 91, 215, .08); color: var(--primary); font-weight: 700; }
+    .filter-button.active { border-color: var(--primary); background: rgba(35, 91, 215, .08); color: var(--primary); }
     .filter-groups { margin: 22px 0 30px; border-bottom: 1px solid var(--line); }
     .filter-group {
       display: grid;
@@ -465,10 +515,12 @@
       cursor: pointer;
     }
     .reader-node-select:focus-visible { outline: 2px solid var(--primary); outline-offset: 2px; }
+    .reader-node-select:disabled { background: var(--surface-soft); color: var(--muted); box-shadow: none; cursor: not-allowed; }
     .reader-stage {
       position: relative;
       width: min(100%, 1000px);
-      min-height: 480px;
+      height: clamp(480px, calc(100dvh - 280px), 720px);
+      min-height: 0;
       margin: 0 auto;
       overflow: hidden;
       border: 1px solid var(--line);
@@ -495,11 +547,11 @@
       transform: translateY(-50%);
       backdrop-filter: blur(8px);
     }
-    .reader-next-node-button:hover:not(:disabled) { background: #fff; transform: translateY(-50%) translateX(2px); }
+    .reader-next-node-button:hover:not(:disabled) { background: #fff; }
     .reader-next-node-button:focus-visible { outline: 2px solid var(--primary); outline-offset: 2px; }
     .reader-next-node-button:disabled { opacity: .28; cursor: not-allowed; }
-    .reader-media-host { position: relative; display: grid; min-height: 480px; place-items: center; background: #fffefa; }
-    .note-image { display: block; max-width: 100%; height: auto; max-height: calc(100dvh - 230px); object-fit: contain; cursor: zoom-in; }
+    .reader-media-host { position: relative; display: grid; width: 100%; height: 100%; min-height: 0; overflow: hidden; place-items: center; background: #fffefa; }
+    .note-image { display: block; width: 100%; height: 100%; max-width: 100%; max-height: 100%; object-fit: contain; cursor: zoom-in; }
     .reader-media-host .reader-page-pending {
       position: absolute;
       inset: 0;
@@ -886,7 +938,8 @@
       .accordion { gap: 10px; }
       .stage { border-radius: 14px; box-shadow: none; }
       .stage-toggle { min-height: 54px; padding: 12px 20px; font-size: 17px; }
-      .stage-content { padding-inline: 20px; }
+      .stage-content { padding: 10px 12px 12px; }
+      .route-group-content { padding-inline: 10px; }
       .route-node { min-height: 48px; grid-template-columns: 20px minmax(0, 1fr) auto; gap: 12px; padding: 9px 8px; }
       .route-node .row-meta { display: none; }
       .route-node .depth-tag { min-height: 25px; padding: 2px 9px; font-size: 12px; }
@@ -971,8 +1024,9 @@
         background: transparent;
         color: var(--muted);
         font-size: 13px;
+        font-weight: 700;
       }
-      .mobile-nav button.active { color: var(--primary); font-weight: 750; }
+      .mobile-nav button.active { color: var(--primary); }
       .page-header { align-items: center; margin-bottom: 20px; }
       .page-title { font-size: 24px; }
       .page-subtitle { font-size: 14px; }
@@ -981,7 +1035,12 @@
       .continue-title { font-size: 22px; }
       .continue-surface .button { width: 100%; }
       .plain-row { min-height: 58px; }
-      .stage-content { padding-inline: 14px; }
+      .stage-content { padding: 8px; }
+      .route-group { margin-top: 8px; border-radius: 12px; }
+      .route-group-toggle { min-height: 46px; padding: 9px 10px; }
+      .route-group-content { padding: 6px; }
+      .route-group-count { display: none; }
+      .route-group-kind { padding-inline: 6px; }
       .route-node { grid-template-columns: 14px minmax(0, 1fr) auto; gap: 10px; }
       .route-node .row-meta { display: none; }
       .search-form { grid-template-columns: 1fr; }
@@ -997,10 +1056,10 @@
       .reader-actions .text-button { display: inline-flex; min-height: 38px; align-items: center; justify-content: center; padding: 5px 8px; font-size: 13px; }
       .reader-node-switcher { width: calc(100% - 20px); margin-bottom: 10px; }
       .reader-node-select { min-height: 44px; padding-left: 12px; font-size: 14px; }
-      .reader-stage { width: 100%; min-height: calc(100dvh - 254px); border-inline: 0; border-radius: 0; box-shadow: none; }
+      .reader-stage { width: 100%; height: max(360px, calc(100dvh - 254px)); min-height: 0; border-inline: 0; border-radius: 0; box-shadow: none; }
       .reader-next-node-button { right: 8px; width: 40px; height: 56px; border-radius: 14px; font-size: 26px; }
-      .reader-media-host { min-height: calc(100dvh - 254px); }
-      .note-image { max-height: calc(100dvh - 254px); }
+      .reader-media-host { height: 100%; min-height: 0; }
+      .note-image { height: 100%; max-height: 100%; }
       .reader-toolbar {
         bottom: calc(var(--mobile-nav-height) + env(safe-area-inset-bottom) + 8px);
         grid-template-columns: auto minmax(0, 1fr) auto;
@@ -1189,7 +1248,7 @@
             </div>
           </header>
           <div class="reader-node-switcher">
-            <select class="reader-node-select" id="readerNodeSelect" aria-label="切換可閱讀節點"></select>
+            <select class="reader-node-select" id="readerNodeSelect" aria-label="切換同概念可閱讀最小節點"></select>
           </div>
           <div class="reader-stage" id="readerStage">
             <div class="reader-media-host" id="readerMediaHost"></div>
@@ -1331,7 +1390,7 @@
     const PAGE_POSITION_KEY = "bioReadingVisualizer.latestPageByNode.v1";
     const TEXT_SCALE_KEY = "bioReadingVisualizer.textScale.v1";
     const ASSET_BASE = "..";
-    const generatedAt = "2026-08-30T01:39";
+    const generatedAt = "2026-08-30T09:28";
     const routeWeeks = /*__M3_ROUTE_WEEKS_START__*/ [
   {
     "week": 1,
@@ -56669,7 +56728,7 @@
 ] /*__M3_ROUTE_WEEKS_END__*/;
     const mainProgressIntegrity = {
   "status": "PASS",
-  "checkedAt": "2026-08-30T01:39:21",
+  "checkedAt": "2026-08-30T09:28:53",
   "routeAuthority": "APP_AND_PROGRESS_INDEX",
   "taskStateNextHint": "Ch42.2「概念介紹：協調一致的心臟收縮週期驅動哺乳類的雙循環｜Coordinated cycles of heart contraction drive double circulation in mammals」",
   "taskStateNextNodeId": "bio-chapter-42-concept-42-2-intro",
@@ -58974,6 +59033,18 @@
     applyDriveAssets();
 
     const allNodeList = routeWeeks.flatMap((week) => week.nodes);
+    const nodeStageById = new Map(routeWeeks.flatMap((week) => week.nodes.map((item) => [item.id, week.round])));
+    const chapterLabelCandidates = new Map();
+    allNodeList.forEach((item) => {
+      const chapterNo = routeChapterNumber(item);
+      const label = String(item && Object.prototype.hasOwnProperty.call(item, "chapter") ? item.chapter : routeMetadata(item, "Chapter") || "").trim();
+      const score = routeConcept(item) ? 2 : label ? 1 : 0;
+      const previous = chapterLabelCandidates.get(chapterNo);
+      if (Number.isInteger(chapterNo) && label && (!previous || score > previous.score)) {
+        chapterLabelCandidates.set(chapterNo, { label, score });
+      }
+    });
+    const chapterLabelByNumber = new Map(Array.from(chapterLabelCandidates, ([chapterNo, entry]) => [chapterNo, entry.label]));
     const state = {
       view: "home",
       selectedId: "",
@@ -58981,7 +59052,8 @@
       completed: new Set(readCompleted()),
       latestReadId: readLatestReadId(),
       pagePositions: readPagePositions(),
-      routeOpenIndex: null,
+      routeOpenKeys: null,
+      viewScrollPositions: Object.create(null),
       searchQuery: "",
       statusFilter: "",
       depthFilter: "",
@@ -59078,6 +59150,65 @@
       return String(item && item.title || "未命名節點").split(" / ")[0].replace(/^#?\d+\s*｜\s*/, "").replace(/\s+/g, " ").trim();
     }
     function routePath(item) { return [item.chapter, item.concept].filter(Boolean).join(" › "); }
+    function routeMetadata(item, key) { return String(item && item.metadata && item.metadata[key] || "").trim(); }
+    function routeStage(item) { return String(item && nodeStageById.get(item.id) || routeMetadata(item, "Stage") || "").trim(); }
+    function routeChapterNumber(item) {
+      const chapterMatch = `${String(item && item.chapter || "")} ${String(item && item.id || "")}`.match(/(?:^|\b)Ch(?:apter)?[-\s]?(\d+)|bio-chapter-(\d+)/i);
+      return chapterMatch ? Number(chapterMatch[1] || chapterMatch[2]) : null;
+    }
+    function routeUnitNumber(item) {
+      const chapterNo = routeChapterNumber(item);
+      if (Number.isInteger(chapterNo)) {
+        if (chapterNo === 1) return 0;
+        if (chapterNo <= 5) return 1;
+        if (chapterNo <= 12) return 2;
+        if (chapterNo <= 21) return 3;
+        if (chapterNo <= 26) return 4;
+        if (chapterNo <= 34) return 5;
+        if (chapterNo <= 39) return 6;
+        if (chapterNo <= 51) return 7;
+        if (chapterNo <= 56) return 8;
+      }
+      const unitMatch = `${String(item && item.id || "")} ${routeMetadata(item, "Unit")}`.match(/bio-unit-(\d+)|Unit\s*(\d+)|第\s*(\d+)\s*單元/i);
+      return unitMatch ? Number(unitMatch[1] || unitMatch[2] || unitMatch[3]) : null;
+    }
+    function routeUnit(item) {
+      const unitNo = routeUnitNumber(item);
+      const labels = {
+        0: "Unit 0｜Chapter 1 開場章",
+        1: "Unit 1｜生命的化學基礎",
+        2: "Unit 2｜細胞",
+        3: "Unit 3｜遺傳學",
+        4: "Unit 4｜演化機制",
+        5: "Unit 5｜生命演化史與多樣性",
+        6: "Unit 6｜植物形態與功能",
+        7: "Unit 7｜動物形態與功能",
+        8: "Unit 8｜生態學"
+      };
+      return Number.isInteger(unitNo) ? labels[unitNo] || `Unit ${unitNo}` : "單元未標示";
+    }
+    function routeChapter(item) {
+      const chapterNo = routeChapterNumber(item);
+      return Number.isInteger(chapterNo)
+        ? chapterLabelByNumber.get(chapterNo) || `Ch${chapterNo}`
+        : String(item && Object.prototype.hasOwnProperty.call(item, "chapter") ? item.chapter : routeMetadata(item, "Chapter") || "").trim();
+    }
+    function routeConcept(item) { return String(item && Object.prototype.hasOwnProperty.call(item, "concept") ? item.concept : routeMetadata(item, "Concept") || "").trim(); }
+    function isSmallestNode(item) { return String(item && item.nodeType || "") === "Theme / subheading"; }
+    function readerScopeNodes(item) {
+      const concept = routeConcept(item);
+      if (!item || !concept) return [];
+      const stage = routeStage(item);
+      const unit = routeUnit(item);
+      const chapter = routeChapter(item);
+      return readableNodes().filter((candidate) => (
+        isSmallestNode(candidate)
+        && routeStage(candidate) === stage
+        && routeUnit(candidate) === unit
+        && routeChapter(candidate) === chapter
+        && routeConcept(candidate) === concept
+      ));
+    }
     function depthLabel(item) {
       const depth = String(item && item.depth || "");
       if (depth.includes("精讀")) return "精讀";
@@ -59176,7 +59307,13 @@
     }
     function applyLocation(parsed = parseHash()) {
       const nextView = parsed.view || "home";
-      if (nextView !== state.view) state.previousView = state.view;
+      const previousView = state.view;
+      const changingView = nextView !== previousView;
+      const changingReaderItem = nextView === "reader" && parsed.item && parsed.item.id !== state.selectedId;
+      if (changingView) {
+        state.viewScrollPositions[previousView] = window.scrollY;
+        state.previousView = previousView;
+      }
       state.view = nextView;
       if (parsed.item) {
         state.selectedId = parsed.item.id;
@@ -59187,7 +59324,8 @@
         }
       }
       render();
-      window.scrollTo({ top: 0, behavior: "auto" });
+      const targetScroll = changingReaderItem ? 0 : Number(state.viewScrollPositions[nextView] || 0);
+      window.scrollTo({ top: targetScroll, behavior: "auto" });
     }
     function openReader(item, page = 0) {
       if (!item || !isUnlocked(item)) { if (item) openNodeInfo(item); return; }
@@ -59235,14 +59373,128 @@
       renderIntegrity();
     }
 
-    function currentWeekIndex() {
-      const current = latestReadNode() || formalCurrentNode();
-      const index = routeWeeks.findIndex((week) => week.nodes.some((item) => current && item.id === current.id));
-      return index >= 0 ? index : 0;
+    function groupRouteNodes(nodes, labelFor) {
+      const direct = [];
+      const groups = [];
+      const byLabel = new Map();
+      nodes.forEach((item) => {
+        const label = String(labelFor(item) || "").trim();
+        if (!label) { direct.push(item); return; }
+        if (!byLabel.has(label)) {
+          const group = { label, nodes: [] };
+          byLabel.set(label, group);
+          groups.push(group);
+        }
+        byLabel.get(label).nodes.push(item);
+      });
+      return { direct, groups };
     }
-   function renderRoute() {
-     if (!Number.isInteger(state.routeOpenIndex)) state.routeOpenIndex = currentWeekIndex();
-     const latest = latestReadNode();
+
+    function routeGroupKey(level, parentKey, label) { return `${parentKey}/${level}:${label}`; }
+
+    function currentRouteOpenKeys() {
+      const current = latestReadNode() || formalCurrentNode() || allNodeList[0] || null;
+      const keys = new Set();
+      const weekIndex = routeWeeks.findIndex((week) => week.nodes.some((item) => current && item.id === current.id));
+      const safeWeekIndex = weekIndex >= 0 ? weekIndex : 0;
+      const week = routeWeeks[safeWeekIndex];
+      if (!week) return keys;
+      const stageKey = `stage:${safeWeekIndex}`;
+      keys.add(stageKey);
+      if (!current) return keys;
+      const unit = routeUnit(current) || "單元未標示";
+      const unitKey = routeGroupKey("unit", stageKey, unit);
+      keys.add(unitKey);
+      const chapter = routeChapter(current);
+      if (!chapter) return keys;
+      const chapterKey = routeGroupKey("chapter", unitKey, chapter);
+      keys.add(chapterKey);
+      const concept = routeConcept(current);
+      if (concept) keys.add(routeGroupKey("concept", chapterKey, concept));
+      return keys;
+    }
+
+    function appendRouteNode(container, item) {
+      const status = nodeStatus(item);
+      const button = document.createElement("button");
+      button.type = "button";
+      button.className = `route-node ${status.key}`;
+      button.dataset.nodeId = item.id;
+      button.setAttribute("aria-label", `${cleanTitle(item)}，${status.label}，${depthLabel(item)}`);
+      button.innerHTML = `<span class="route-dot" aria-hidden="true"></span>${rowHtml(item)}${depthTagHtml(item)}`;
+      button.onclick = () => isUnlocked(item) ? openReader(item, 0) : openNodeInfo(item);
+      container.appendChild(button);
+    }
+
+    function appendRouteGroup(container, level, label, key, nodes, renderChildren) {
+      const isStage = level === "stage";
+      const section = document.createElement("section");
+      section.className = isStage ? "stage" : "route-group";
+      section.dataset.routeLevel = level;
+      const expanded = state.routeOpenKeys.has(key);
+      const toggle = document.createElement("button");
+      toggle.className = isStage ? "stage-toggle" : "route-group-toggle";
+      toggle.type = "button";
+      toggle.setAttribute("aria-expanded", String(expanded));
+      const levelLabel = { stage: "階段", unit: "單元", chapter: "章", concept: "概念" }[level] || "分組";
+      toggle.innerHTML = `<span class="route-group-heading"><span class="route-group-kind">${levelLabel}</span><span>${escapeHtml(label)}</span></span><span class="route-group-actions"><span class="route-group-count">${nodes.length} 個節點</span><span class="chevron">⌄</span></span>`;
+      let content = null;
+      const ensureContent = () => {
+        if (content) return content;
+        content = document.createElement("div");
+        content.className = isStage ? "stage-content" : "route-group-content";
+        renderChildren(content);
+        section.appendChild(content);
+        return content;
+      };
+      toggle.onclick = () => {
+        const willExpand = toggle.getAttribute("aria-expanded") !== "true";
+        if (willExpand) state.routeOpenKeys.add(key);
+        else state.routeOpenKeys.delete(key);
+        toggle.setAttribute("aria-expanded", String(willExpand));
+        const panel = willExpand ? ensureContent() : content;
+        if (panel) panel.hidden = !willExpand;
+      };
+      section.appendChild(toggle);
+      if (expanded) ensureContent();
+      container.appendChild(section);
+    }
+
+    function renderConceptLevel(container, nodes, parentKey) {
+      const { direct, groups } = groupRouteNodes(nodes, routeConcept);
+      direct.forEach((item) => appendRouteNode(container, item));
+      groups.forEach((group) => {
+        const key = routeGroupKey("concept", parentKey, group.label);
+        appendRouteGroup(container, "concept", group.label, key, group.nodes, (content) => {
+          group.nodes.forEach((item) => appendRouteNode(content, item));
+        });
+      });
+    }
+
+    function renderChapterLevel(container, nodes, parentKey) {
+      const { direct, groups } = groupRouteNodes(nodes, routeChapter);
+      direct.forEach((item) => appendRouteNode(container, item));
+      groups.forEach((group) => {
+        const key = routeGroupKey("chapter", parentKey, group.label);
+        appendRouteGroup(container, "chapter", group.label, key, group.nodes, (content) => {
+          renderConceptLevel(content, group.nodes, key);
+        });
+      });
+    }
+
+    function renderUnitLevel(container, nodes, parentKey) {
+      const { groups } = groupRouteNodes(nodes, (item) => routeUnit(item) || "單元未標示");
+      groups.forEach((group) => {
+        const key = routeGroupKey("unit", parentKey, group.label);
+        appendRouteGroup(container, "unit", group.label, key, group.nodes, (content) => {
+          renderChapterLevel(content, group.nodes, key);
+        });
+      });
+    }
+
+    function renderRoute() {
+      if (!(state.routeOpenKeys instanceof Set)) state.routeOpenKeys = currentRouteOpenKeys();
+      const latest = latestReadNode();
       const locationItem = latest || formalCurrentNode();
       const locationIndex = routeWeeks.findIndex((week) => week.nodes.some((item) => locationItem && item.id === locationItem.id));
       const locationStage = locationIndex >= 0 ? routeWeeks[locationIndex] : null;
@@ -59251,33 +59503,10 @@
         : "目前位置：尚未開始";
       els.routeAccordion.innerHTML = "";
       routeWeeks.forEach((week, weekIndex) => {
-        const section = document.createElement("section");
-        section.className = "stage";
-        const expanded = weekIndex === state.routeOpenIndex;
-        const toggle = document.createElement("button");
-        toggle.className = "stage-toggle";
-        toggle.type = "button";
-        toggle.setAttribute("aria-expanded", String(expanded));
-        toggle.innerHTML = `<span>${escapeHtml(week.round)}</span><span class="chevron">⌄</span>`;
-        toggle.onclick = () => { state.routeOpenIndex = expanded ? -1 : weekIndex; renderRoute(); };
-        section.appendChild(toggle);
-        if (expanded) {
-          const content = document.createElement("div");
-          content.className = "stage-content";
-          week.nodes.forEach((item) => {
-            const status = nodeStatus(item);
-            const button = document.createElement("button");
-            button.type = "button";
-            button.className = `route-node ${status.key}`;
-            button.dataset.nodeId = item.id;
-            button.setAttribute("aria-label", `${cleanTitle(item)}，${status.label}，${depthLabel(item)}`);
-            button.innerHTML = `<span class="route-dot" aria-hidden="true"></span>${rowHtml(item)}${depthTagHtml(item)}`;
-            button.onclick = () => isUnlocked(item) ? openReader(item, 0) : openNodeInfo(item);
-            content.appendChild(button);
-          });
-          section.appendChild(content);
-        }
-        els.routeAccordion.appendChild(section);
+        const key = `stage:${weekIndex}`;
+        appendRouteGroup(els.routeAccordion, "stage", week.round, key, week.nodes, (content) => {
+          renderUnitLevel(content, week.nodes, key);
+        });
       });
     }
 
@@ -59364,6 +59593,7 @@
       image.loading = "eager";
       image.decoding = "async";
       image.dataset.pageIndex = String(index);
+      image.dataset.nodeId = item.id;
       image.dataset.assetName = String(entry && typeof entry === "object" ? entry.name || "" : entry || "");
       image.dataset.driveFileId = String(entry && typeof entry === "object" ? entry.driveFileId || "" : "");
       image.src = source;
@@ -59410,12 +59640,14 @@
       els.completeButton.querySelector("span").textContent = completeLabel;
     }
     function renderReaderMedia(item) {
-      els.readerMediaHost.innerHTML = "";
       els.readerError.hidden = true;
       if (!isUnlocked(item)) {
         els.readerMediaHost.innerHTML = `<div class="empty-state"><strong>尚未開放閱讀</strong><br>正式圖片、主進度與內容二審全部完成後才會解鎖。</div>`;
         return;
       }
+      const current = els.readerMediaHost.querySelector(".note-image");
+      if (current && current.dataset.nodeId === item.id && Number(current.dataset.pageIndex) === state.pageIndex) return;
+      els.readerMediaHost.innerHTML = "";
       els.readerMediaHost.appendChild(makeMedia(item, state.pageIndex, false));
       preloadAdjacentPages(item, state.pageIndex);
     }
@@ -59470,9 +59702,15 @@
       const availableAudio = Boolean(item.audioAvailable && item.audioPreviewHref && item.audioHref);
       els.audioTrigger.disabled = !availableAudio;
       els.audioTrigger.title = availableAudio ? `播放 ${item.audioFileName || "語音摘要"}` : "本節點尚無可用語音摘要";
-      const readable = readableNodes();
-      els.readerNodeSelect.innerHTML = readable.map((candidate) => `<option value="${escapeHtml(candidate.id)}">${escapeHtml(cleanTitle(candidate))}</option>`).join("");
-      els.readerNodeSelect.value = item.id;
+      const scopedNodes = readerScopeNodes(item);
+      const currentIsSmallest = scopedNodes.some((candidate) => candidate.id === item.id);
+      const placeholder = scopedNodes.length
+        ? "選擇同概念的最小節點"
+        : "本頁沒有同概念可閱讀的最小節點";
+      const placeholderOption = `<option value="" disabled${currentIsSmallest ? "" : " selected"}>${placeholder}</option>`;
+      els.readerNodeSelect.innerHTML = `${currentIsSmallest ? "" : placeholderOption}${scopedNodes.map((candidate) => `<option value="${escapeHtml(candidate.id)}">${escapeHtml(cleanTitle(candidate))}</option>`).join("")}`;
+      els.readerNodeSelect.disabled = scopedNodes.length === 0;
+      els.readerNodeSelect.value = currentIsSmallest ? item.id : "";
       const next = nextReadableNode(item);
       els.readerNextNodeButton.disabled = !next;
       els.readerNextNodeButton.title = next ? `前往下一節點：${cleanTitle(next)}` : "已是最後一個可閱讀節點";
@@ -59927,6 +60165,7 @@
     }));
     bindGestureZone(els.fullscreenLeftZone, -1);
     bindGestureZone(els.fullscreenRightZone, 1);
+    if ("scrollRestoration" in history) history.scrollRestoration = "manual";
     window.addEventListener("popstate", () => applyLocation(parseHash()));
     document.addEventListener("fullscreenchange", () => { if (!document.fullscreenElement && state.fullscreen) void closeFullscreen({ exitBrowser: false }); });
     document.addEventListener("webkitfullscreenchange", () => { if (!document.webkitFullscreenElement && state.fullscreen) void closeFullscreen({ exitBrowser: false }); });
@@ -60257,7 +60496,8 @@
       state.selectedId = initial.item.id;
       state.pageIndex = initial.page;
     }
-    state.routeOpenIndex = currentWeekIndex();
+    state.view = initial.view;
+    state.routeOpenKeys = currentRouteOpenKeys();
     applyLocation(initial);
     console.info(`生物閱讀 M3-A 已載入｜${allNodeList.length} nodes｜generated ${generatedAt}`);
   </script>
