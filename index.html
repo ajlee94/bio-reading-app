@@ -261,9 +261,10 @@
     .stage {
       overflow: hidden;
       border: 1px solid var(--line);
-      border-radius: var(--radius);
+      border-inline: 0;
+      border-radius: 0;
       background: var(--surface);
-      transition: border-color 180ms ease, box-shadow 180ms ease, transform 180ms ease;
+      transition: border-color 220ms ease, box-shadow 220ms ease;
     }
     .stage-toggle {
       display: flex;
@@ -281,16 +282,39 @@
       font-weight: 700;
     }
     .stage-toggle[aria-expanded="true"] { color: var(--primary); }
-    .stage-toggle .chevron { transition: transform 160ms ease; }
+    .stage-toggle .chevron { transition: color 300ms ease, background-color 300ms ease, transform 360ms cubic-bezier(.22, .8, .28, 1); }
     .stage-toggle[aria-expanded="true"] .chevron { transform: rotate(180deg); }
-    .stage-content { border-top: 1px solid var(--line); padding: 12px 14px 14px; }
+    .stage-content, .route-group-content {
+      display: grid;
+      grid-template-rows: 0fr;
+      opacity: 0;
+      visibility: hidden;
+      transition:
+        grid-template-rows 420ms cubic-bezier(.22, .8, .28, 1),
+        opacity 220ms ease,
+        visibility 0s linear 420ms;
+    }
+    .stage-toggle[aria-expanded="true"] + .stage-content,
+    .route-group-toggle[aria-expanded="true"] + .route-group-content {
+      grid-template-rows: 1fr;
+      opacity: 1;
+      visibility: visible;
+      transition:
+        grid-template-rows 420ms cubic-bezier(.22, .8, .28, 1),
+        opacity 260ms ease 70ms,
+        visibility 0s;
+    }
+    .route-collapse-inner { min-height: 0; overflow: hidden; }
+    .stage-content > .route-collapse-inner { border-top: 1px solid var(--line); }
+    .stage-content .route-collapse-body { padding: 0; }
     .route-group {
       overflow: hidden;
       margin-top: 10px;
       border: 1px solid var(--line);
-      border-radius: 14px;
+      border-inline: 0;
+      border-radius: 0;
       background: rgba(255, 255, 255, .72);
-      transition: border-color 180ms ease, box-shadow 180ms ease, transform 180ms ease;
+      transition: border-color 220ms ease, box-shadow 220ms ease;
     }
     .route-group:first-child { margin-top: 0; }
     .route-group-toggle {
@@ -325,57 +349,83 @@
       font-weight: 750;
     }
     .route-group-count { flex: 0 0 auto; color: var(--muted); font-size: 12px; font-weight: 600; }
-    .route-group-toggle .chevron { flex: 0 0 auto; transition: transform 160ms ease; }
+    .route-group-toggle .chevron { flex: 0 0 auto; transition: color 300ms ease, background-color 300ms ease, transform 360ms cubic-bezier(.22, .8, .28, 1); }
     .route-group-toggle[aria-expanded="true"] .chevron { transform: rotate(180deg); }
-    .route-group-content { border-top: 1px solid var(--line); padding: 8px 10px 10px; }
+    .route-group-content > .route-collapse-inner { border-top: 1px solid var(--line); }
+    .route-group-content .route-collapse-body { padding: 0; }
     .stage[data-route-level="stage"] {
-      --route-accent: #6841b5;
-      --route-header-start: #6841b5;
-      --route-header-end: #7d59c8;
-      --route-hover-shadow: rgba(89, 58, 168, .25);
-      border-color: #ad9ae3;
-      background: #f8f5ff;
+      --route-accent: #173f38;
+      --route-header-start: #123c35;
+      --route-header-end: #194d43;
+      --route-header-text: #fff;
+      --route-count-color: rgba(255, 255, 255, .92);
+      --route-kind-border: rgba(255, 255, 255, .36);
+      --route-kind-background: rgba(255, 255, 255, .17);
+      --route-kind-color: #fff;
+      --route-hover-shadow: rgba(18, 60, 53, .24);
+      border-color: #51766d;
+      background: #f2f6f4;
     }
     .route-group[data-route-level="unit"] {
-      --route-accent: #1479a6;
-      --route-header-start: #1479a6;
-      --route-header-end: #24799b;
-      --route-hover-shadow: rgba(11, 111, 156, .24);
-      border-color: #78c4e8;
-      background: #f1faff;
+      --route-accent: #28655a;
+      --route-header-start: #1d5a50;
+      --route-header-end: #2b6b5f;
+      --route-header-text: #fff;
+      --route-count-color: rgba(255, 255, 255, .92);
+      --route-kind-border: rgba(255, 255, 255, .34);
+      --route-kind-background: rgba(255, 255, 255, .16);
+      --route-kind-color: #fff;
+      --route-hover-shadow: rgba(29, 90, 80, .22);
+      border-color: #71968c;
+      background: #f4f8f6;
     }
     .route-group[data-route-level="chapter"] {
-      --route-accent: #19795f;
-      --route-header-start: #19795f;
-      --route-header-end: #27755f;
-      --route-hover-shadow: rgba(23, 122, 97, .24);
-      border-color: #7bcab0;
-      background: #f1fbf7;
+      --route-accent: #47765a;
+      --route-header-start: #386a50;
+      --route-header-end: #47765a;
+      --route-header-text: #fff;
+      --route-count-color: rgba(255, 255, 255, .92);
+      --route-kind-border: rgba(255, 255, 255, .34);
+      --route-kind-background: rgba(255, 255, 255, .15);
+      --route-kind-color: #fff;
+      --route-hover-shadow: rgba(56, 106, 80, .21);
+      border-color: #91ad99;
+      background: #f6f9f6;
     }
     .route-group[data-route-level="concept"] {
-      --route-accent: #a33d67;
-      --route-header-start: #a33d67;
-      --route-header-end: #ad476f;
-      --route-hover-shadow: rgba(155, 54, 92, .24);
-      border-color: #e596b4;
-      background: #fff5f8;
+      --route-accent: #789078;
+      --route-header-start: #b7c7b4;
+      --route-header-end: #d6dfd2;
+      --route-header-text: #173d35;
+      --route-count-color: #35584d;
+      --route-kind-border: rgba(23, 61, 53, .2);
+      --route-kind-background: rgba(255, 255, 255, .42);
+      --route-kind-color: #254d43;
+      --route-hover-shadow: rgba(84, 112, 87, .2);
+      border-color: #b7c8b5;
+      background: #fafcf9;
     }
     .stage[data-route-level="stage"] > .stage-toggle,
     .route-group[data-route-level] > .route-group-toggle {
       background: linear-gradient(135deg, var(--route-header-start), var(--route-header-end));
-      color: #fff;
+      color: var(--route-header-text);
     }
     .stage[data-route-level="stage"] > .stage-toggle .route-group-kind,
     .route-group[data-route-level] > .route-group-toggle .route-group-kind {
-      border: 1px solid rgba(255, 255, 255, .36);
-      background: rgba(255, 255, 255, .18);
-      color: #fff;
+      border: 1px solid var(--route-kind-border);
+      background: var(--route-kind-background);
+      color: var(--route-kind-color);
     }
     .stage[data-route-level="stage"] > .stage-toggle .route-group-count,
     .route-group[data-route-level] > .route-group-toggle .route-group-count {
-      color: rgba(255, 255, 255, .9);
+      color: var(--route-count-color);
     }
     .route-group[data-route-level="concept"] .route-group-toggle { min-height: 46px; }
+    .stage:has(> .stage-toggle[aria-expanded="true"]),
+    .route-group:has(> .route-group-toggle[aria-expanded="true"]) {
+      border-color: var(--route-accent);
+      box-shadow: 0 8px 22px var(--route-hover-shadow);
+    }
     .route-node {
       display: grid;
       grid-template-columns: 24px minmax(0, 1fr) auto;
@@ -423,27 +473,25 @@
       .route-group:has(> .route-group-toggle:hover) {
         border-color: var(--route-accent);
         box-shadow: 0 10px 24px var(--route-hover-shadow);
-        transform: translateY(-2px);
       }
       .stage-toggle:hover, .route-group-toggle:hover {
         filter: saturate(1.08) brightness(1.08);
         box-shadow: inset 0 -3px 0 rgba(255, 255, 255, .3);
       }
       .route-node:hover {
-        background: #eef4ff;
-        color: #173f91;
-        box-shadow: inset 4px 0 0 rgba(35, 91, 215, .62), 0 6px 14px rgba(45, 65, 130, .12);
-        transform: translateX(4px);
+        background: #edf5f0;
+        color: #174b3f;
+        box-shadow: inset 4px 0 0 rgba(45, 109, 88, .66), 0 6px 14px rgba(45, 88, 70, .12);
+        transform: translateX(3px);
       }
       .route-node.current:hover { color: var(--primary); }
     }
     @media (prefers-reduced-motion: reduce) {
       .stage, .route-group, .stage-toggle, .route-group-toggle, .route-node,
-      .stage-toggle .chevron, .route-group-toggle .chevron {
+      .stage-toggle .chevron, .route-group-toggle .chevron,
+      .stage-content, .route-group-content {
         transition: none !important;
       }
-      .stage:has(> .stage-toggle:hover),
-      .route-group:has(> .route-group-toggle:hover),
       .route-node:hover {
         transform: none;
       }
@@ -1032,10 +1080,10 @@
       #viewRoute .content-wrap, #viewSearch .content-wrap { width: min(100%, 1260px); }
       .route-legend { min-height: 54px; align-items: center; margin-bottom: 16px; padding-inline: 22px; }
       .accordion { gap: 10px; }
-      .stage { border-radius: 14px; box-shadow: none; }
+      .stage { border-radius: 0; box-shadow: none; }
       .stage-toggle { min-height: 54px; padding: 12px 20px; font-size: 17px; }
-      .stage-content { padding: 10px 12px 12px; }
-      .route-group-content { padding-inline: 10px; }
+      .stage-content .route-collapse-body { padding: 0; }
+      .route-group-content .route-collapse-body { padding: 0; }
       .route-node { min-height: 48px; grid-template-columns: 20px minmax(0, 1fr) auto; gap: 12px; padding: 9px 8px; }
       .route-node .row-meta { display: none; }
       .route-node .depth-tag { min-height: 25px; padding: 2px 9px; font-size: 12px; }
@@ -1131,10 +1179,10 @@
       .continue-title { font-size: 22px; }
       .continue-surface .button { width: 100%; }
       .plain-row { min-height: 58px; }
-      .stage-content { padding: 8px; }
-      .route-group { margin-top: 8px; border-radius: 12px; }
+      .stage-content .route-collapse-body { padding: 0; }
+      .route-group { margin-top: 8px; border-radius: 0; }
       .route-group-toggle { min-height: 46px; padding: 9px 10px; }
-      .route-group-content { padding: 6px; }
+      .route-group-content .route-collapse-body { padding: 0; }
       .route-group-count { display: none; }
       .route-group-kind { padding-inline: 6px; }
       .route-node { grid-template-columns: 14px minmax(0, 1fr) auto; gap: 10px; }
@@ -1490,7 +1538,7 @@
     const PAGE_POSITION_KEY = "bioReadingVisualizer.latestPageByNode.v1";
     const TEXT_SCALE_KEY = "bioReadingVisualizer.textScale.v1";
     const ASSET_BASE = "..";
-    const generatedAt = "2026-08-30T14:34";
+    const generatedAt = "2026-08-30T16:53";
     const routeWeeks = /*__M3_ROUTE_WEEKS_START__*/ [
   {
     "week": 1,
@@ -56828,7 +56876,7 @@
 ] /*__M3_ROUTE_WEEKS_END__*/;
     const mainProgressIntegrity = {
   "status": "PASS",
-  "checkedAt": "2026-08-30T14:34:41",
+  "checkedAt": "2026-08-30T16:53:33",
   "routeAuthority": "APP_AND_PROGRESS_INDEX",
   "taskStateNextHint": "Ch42.2「概念介紹：協調一致的心臟收縮週期驅動哺乳類的雙循環｜Coordinated cycles of heart contraction drive double circulation in mammals」",
   "taskStateNextNodeId": "bio-chapter-42-concept-42-2-intro",
@@ -59531,6 +59579,7 @@
       container.appendChild(button);
     }
 
+    let routePanelCounter = 0;
     function appendRouteGroup(container, level, label, key, nodes, renderChildren) {
       const isStage = level === "stage";
       const section = document.createElement("section");
@@ -59541,6 +59590,8 @@
       toggle.className = isStage ? "stage-toggle" : "route-group-toggle";
       toggle.type = "button";
       toggle.setAttribute("aria-expanded", String(expanded));
+      const panelId = `route-panel-${++routePanelCounter}`;
+      toggle.setAttribute("aria-controls", panelId);
       const levelLabel = { stage: "階段", unit: "單元", chapter: "章", concept: "概念" }[level] || "分組";
       toggle.innerHTML = `<span class="route-group-heading"><span class="route-group-kind">${levelLabel}</span><span>${escapeHtml(label)}</span></span><span class="route-group-actions"><span class="route-group-count">${nodes.length} 個節點</span><span class="chevron">⌄</span></span>`;
       let content = null;
@@ -59548,7 +59599,15 @@
         if (content) return content;
         content = document.createElement("div");
         content.className = isStage ? "stage-content" : "route-group-content";
-        renderChildren(content);
+        content.id = panelId;
+        content.setAttribute("aria-hidden", String(!expanded));
+        const inner = document.createElement("div");
+        inner.className = "route-collapse-inner";
+        const body = document.createElement("div");
+        body.className = "route-collapse-body";
+        renderChildren(body);
+        inner.appendChild(body);
+        content.appendChild(inner);
         section.appendChild(content);
         return content;
       };
@@ -59556,9 +59615,10 @@
         const willExpand = toggle.getAttribute("aria-expanded") !== "true";
         if (willExpand) state.routeOpenKeys.add(key);
         else state.routeOpenKeys.delete(key);
-        toggle.setAttribute("aria-expanded", String(willExpand));
         const panel = willExpand ? ensureContent() : content;
-        if (panel) panel.hidden = !willExpand;
+        if (willExpand && panel) void panel.offsetHeight;
+        toggle.setAttribute("aria-expanded", String(willExpand));
+        if (panel) panel.setAttribute("aria-hidden", String(!willExpand));
       };
       section.appendChild(toggle);
       if (expanded) ensureContent();
