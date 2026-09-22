@@ -1585,7 +1585,7 @@
     const PAGE_POSITION_KEY = "bioReadingVisualizer.latestPageByNode.v1";
     const TEXT_SCALE_KEY = "bioReadingVisualizer.textScale.v1";
     const ASSET_BASE = "..";
-    const generatedAt = "2026-09-22T10:53+08:00";
+    const generatedAt = "2026-09-22T11:07+08:00";
     const routeWeeks = /*__M3_ROUTE_WEEKS_START__*/ [
   {
     "week": 1,
@@ -64014,7 +64014,7 @@
 
     function imageSource(item, imageEntry) {
       if (imageEntry && typeof imageEntry === "object" && imageEntry.driveFileId) {
-        return `https://drive.google.com/thumbnail?id=${encodeURIComponent(imageEntry.driveFileId)}&sz=w4096`;
+        return `https://drive.google.com/uc?export=view&id=${encodeURIComponent(imageEntry.driveFileId)}`;
       }
       if (imageEntry && typeof imageEntry === "object" && imageEntry.previewHref) return imageEntry.previewHref;
       const folder = imageEntry && typeof imageEntry === "object" ? imageEntry.folder || item.folder : item.folder;
