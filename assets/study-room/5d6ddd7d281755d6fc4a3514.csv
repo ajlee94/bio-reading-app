@@ -1,0 +1,59 @@
+﻿mode,chapter_number,chapter,count
+primary,42,Ch42 Circulation and Gas Exchange,7
+primary,43,Ch43 The Immune System,6
+primary,49,Ch49 Nervous Systems,6
+primary,41,Ch41 Animal Nutrition,4
+primary,50,Ch50 Sensory and Motor Mechanisms,3
+primary,17,Ch17 Gene Expression: From Gene to Protein,2
+primary,18,Ch18 Regulation of Gene Expression,2
+primary,27,Ch27 Bacteria and Archaea,2
+primary,39,Ch39 Plant Responses to Internal and External Signals,2
+primary,40,Ch40 Basic Principles of Animal Form and Function,2
+primary,45,Ch45 Hormones and the Endocrine System,2
+primary,48,"Ch48 Neurons, Synapses, and Signaling",2
+primary,9,Ch09 Cellular Respiration and Fermentation,1
+primary,16,Ch16 The Molecular Basis of Inheritance,1
+primary,21,Ch21 Genomes and Their Evolution,1
+primary,29,Ch29 Plant Diversity I: How Plants Colonized Land,1
+primary,30,Ch30 Plant Diversity II: The Evolution of Seed Plants,1
+primary,31,Ch31 Fungi,1
+primary,38,Ch38 Angiosperm Reproduction and Biotechnology,1
+primary,44,Ch44 Osmoregulation and Excretion,1
+primary,52,Ch52 An Introduction to Ecology and the Biosphere,1
+primary,54,Ch54 Community Ecology,1
+secondary,48,"Ch48 Neurons, Synapses, and Signaling",6
+secondary,11,Ch11 Cell Communication,2
+secondary,41,Ch41 Animal Nutrition,2
+secondary,7,Ch07 Membrane Structure and Function,1
+secondary,9,Ch09 Cellular Respiration and Fermentation,1
+secondary,20,Ch20 DNA Tools and Biotechnology,1
+secondary,37,Ch37 Soil and Plant Nutrition,1
+secondary,45,Ch45 Hormones and the Endocrine System,1
+secondary,49,Ch49 Nervous Systems,1
+secondary,54,Ch54 Community Ecology,1
+both,48,"Ch48 Neurons, Synapses, and Signaling",8
+both,42,Ch42 Circulation and Gas Exchange,7
+both,49,Ch49 Nervous Systems,7
+both,41,Ch41 Animal Nutrition,6
+both,43,Ch43 The Immune System,6
+both,45,Ch45 Hormones and the Endocrine System,3
+both,50,Ch50 Sensory and Motor Mechanisms,3
+both,9,Ch09 Cellular Respiration and Fermentation,2
+both,11,Ch11 Cell Communication,2
+both,17,Ch17 Gene Expression: From Gene to Protein,2
+both,18,Ch18 Regulation of Gene Expression,2
+both,27,Ch27 Bacteria and Archaea,2
+both,39,Ch39 Plant Responses to Internal and External Signals,2
+both,40,Ch40 Basic Principles of Animal Form and Function,2
+both,54,Ch54 Community Ecology,2
+both,7,Ch07 Membrane Structure and Function,1
+both,16,Ch16 The Molecular Basis of Inheritance,1
+both,20,Ch20 DNA Tools and Biotechnology,1
+both,21,Ch21 Genomes and Their Evolution,1
+both,29,Ch29 Plant Diversity I: How Plants Colonized Land,1
+both,30,Ch30 Plant Diversity II: The Evolution of Seed Plants,1
+both,31,Ch31 Fungi,1
+both,37,Ch37 Soil and Plant Nutrition,1
+both,38,Ch38 Angiosperm Reproduction and Biotechnology,1
+both,44,Ch44 Osmoregulation and Excretion,1
+both,52,Ch52 An Introduction to Ecology and the Biosphere,1

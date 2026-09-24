@@ -1,0 +1,1252 @@
+[
+  {
+    "q": 1,
+    "question_or_alternative": "56.4溫室氣體與52.1一般氣候孰主",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1278,
+        1279,
+        1170
+      ],
+      "catalog_ids": [
+        "L3787",
+        "L3483"
+      ],
+      "supplement_ids": [
+        "S01"
+      ]
+    },
+    "resolution": "辨識特定溫室氣體貢獻較直接屬56.4；52.1僅背景，30%保留為題給估計，沒有把當前年份比例強套原題。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 2,
+    "question_or_alternative": "主病毒結構或主附著複製",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        399,
+        400,
+        401,
+        404,
+        405
+      ],
+      "catalog_ids": [
+        "L1196",
+        "L1189",
+        "L1202"
+      ],
+      "supplement_ids": [
+        "S02"
+      ]
+    },
+    "resolution": "題幹強調接合宿主受體，19.2一般週期為主；19.1結構與動物週期作次，具名蛋白由原始研究補足。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 3,
+    "question_or_alternative": "55.2能量預算或55.4碳循環",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1241,
+        1242
+      ],
+      "catalog_ids": [
+        "L3686"
+      ],
+      "supplement_ids": [
+        "S01"
+      ]
+    },
+    "resolution": "加回兩類呼吸的核心是生產力預算，主55.2；NEE/NEP符號差異已由教材及NOAA查證，保留官方150，不以改題消除差異。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 4,
+    "question_or_alternative": "群落多樣性或影響大的物種",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1225,
+        1226
+      ],
+      "catalog_ids": [
+        "L3620"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "原圖A低量高影響、B高量高影響直接對應54.2 Species with a Large Impact；完整圖軸與四點已讀，排除一般多樣性。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 5,
+    "question_or_alternative": "19.1病毒結構或21.3基因組大小",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        399,
+        400
+      ],
+      "catalog_ids": [
+        "L1189"
+      ],
+      "supplement_ids": [
+        "S03"
+      ]
+    },
+    "resolution": "比較四種病毒核酸大小，19.1內病毒基因組最直接；21.3主要真核基因組比較過寬。最大限定題列四種。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 6,
+    "question_or_alternative": "淨反應原子追蹤或光反應為主",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        190,
+        191,
+        197,
+        198
+      ],
+      "catalog_ids": [
+        "L0634",
+        "L0656"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "題明定淨反應所以10.2為主；10.3補充實際水裂解，72兆淨耗與144兆總裂解不能混同，分類與科學限制均保留。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 7,
+    "question_or_alternative": "52.1區域氣候或52.3水域生物群系",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1168,
+        1169,
+        1170
+      ],
+      "catalog_ids": [
+        "L3474"
+      ],
+      "supplement_ids": [
+        "S01"
+      ]
+    },
+    "resolution": "海流信風與氣候耦合屬52.1；NOAA證實暖相上升流減弱，排除只按太平洋字樣列生物群系。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 8,
+    "question_or_alternative": "自由能自發性或活化能障礙",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        147,
+        153,
+        154
+      ],
+      "catalog_ids": [
+        "L0517",
+        "L0491",
+        "L0520"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "負ΔG已給定，問慢速原因在8.4活化能；8.2及酵素降低障礙作同章次項，無待解分類。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 9,
+    "question_or_alternative": "癌細胞或局部訊號為主",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        215,
+        216,
+        248,
+        249
+      ],
+      "catalog_ids": [
+        "L0698",
+        "L0792"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "答案需依作用距離判旁分泌，11.1為主；癌細胞為12.3應用次項，沒有由腫瘤大小推斷唯一實驗機制。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 10,
+    "question_or_alternative": "12.1染色質絲或13.2染色體組套",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        256,
+        257,
+        236
+      ],
+      "catalog_ids": [
+        "L0824",
+        "L0763"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "求n及染色體總數主13.2；12.1解釋32絲=16染色體。正常二倍體複製階段假設已明列。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 11,
+    "question_or_alternative": "病毒核酸分類或DNA複製",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        399,
+        400,
+        406
+      ],
+      "catalog_ids": [
+        "L1189"
+      ],
+      "supplement_ids": [
+        "S04"
+      ]
+    },
+    "resolution": "表19.1與ICTV支持B19 ssDNA及正負股分別封裝，主19.1；不列宿主複製，正負股不混同mRNA可譯性。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 12,
+    "question_or_alternative": "機率或X連鎖遺傳為主",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        299,
+        300,
+        277
+      ],
+      "catalog_ids": [
+        "L0945",
+        "L0882"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "性別特異風險主15.2，乘加法作次；女0、兒1/2為性別條件機率，不是總出生事件機率。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 13,
+    "question_or_alternative": "病毒結構或溫度病原辨識",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        399,
+        400,
+        406,
+        408,
+        409
+      ],
+      "catalog_ids": [
+        "L1212",
+        "L1189"
+      ],
+      "supplement_ids": [
+        "S05"
+      ]
+    },
+    "resolution": "鼻病毒及上呼吸道適溫辨識主19.3；核酸表19.1為次，33–35°C結果與株/宿主條件分開記錄。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 14,
+    "question_or_alternative": "18.4模式形成或21.6保守發育基因",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [
+        5
+      ],
+      "textbook_pages": [
+        463,
+        464,
+        384,
+        385,
+        386
+      ],
+      "catalog_ids": [
+        "L1362",
+        "L1155"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "共同祖先和兩側對稱動物範圍主21.6，發育模式次18.4；釋疑PDF5維持C且不否定Hox其他功能。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 15,
+    "question_or_alternative": "一般轉錄或免疫亞群分化",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        963,
+        964,
+        383,
+        384
+      ],
+      "catalog_ids": [
+        "L2896",
+        "L1152"
+      ],
+      "supplement_ids": [
+        "S06"
+      ]
+    },
+    "resolution": "主43.3輔助T細胞；18.4分化為框架次項。PDF39的Cellular與文字TOC的Cell差異已保留，具名四因子配對由研究支援。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 16,
+    "question_or_alternative": "mRNA端修飾或剪接",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        345,
+        346
+      ],
+      "catalog_ids": [
+        "L1059",
+        "L1062"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "三程序必含兩個真實最小條目，主端修飾、次剪接；同章不刪次條目，典型mRNA範圍明示。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 17,
+    "question_or_alternative": "19.3病原或43.3免疫接種",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        968,
+        969,
+        408
+      ],
+      "catalog_ids": [
+        "L2908",
+        "L1212"
+      ],
+      "supplement_ids": [
+        "S07"
+      ]
+    },
+    "resolution": "考IPV/OPV免疫性質，主43.3；CDC黏膜免疫支援D，病毒疾病保留次項，不將歷史根除背景當現況。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 18,
+    "question_or_alternative": "單基因遺傳或兩基因交互作用",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        281,
+        282,
+        274,
+        275,
+        277
+      ],
+      "catalog_ids": [
+        "L0895",
+        "L0875",
+        "L0885"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "兩基因表型互作主14.3，獨立分配與機率作次；重新計算3:3:1:1，與題給近似數量相容。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 19,
+    "question_or_alternative": "一般機率或基因型與交互表型",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        281,
+        282,
+        274,
+        275
+      ],
+      "catalog_ids": [
+        "L0895",
+        "L0875"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主14.3，以親本Pp×pp限制後代Pp/pp；確認R-Pp及R-pp，完整題組資訊保留。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 20,
+    "question_or_alternative": "病毒結構或複製傳播",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        399,
+        400,
+        404,
+        405,
+        406
+      ],
+      "catalog_ids": [
+        "L1202",
+        "L1189"
+      ],
+      "supplement_ids": [
+        "S03"
+      ]
+    },
+    "resolution": "核內複製與細胞間傳播主19.2，dsDNA包膜為次；直接傳播不等同永遠不離開原細胞的字面含義。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 21,
+    "question_or_alternative": "分子化學或DNA结构模型",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        317,
+        318,
+        319,
+        320
+      ],
+      "catalog_ids": [
+        "L1000"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "結構模型直接包含反向平行、氫鍵與34Å/3.4Å區別，主16.1，不加廣泛化學章。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 22,
+    "question_or_alternative": "環境壓力或光合色素",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        193,
+        194,
+        195
+      ],
+      "catalog_ids": [
+        "L0647",
+        "L0650"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "教材195頁明列carotenoid photoprotection，主10.3色素、次光激發；氧化性分子與自由基範圍已區分。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 23,
+    "question_or_alternative": "39.2auxin或35.5胚胎模式",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        847,
+        848,
+        849,
+        777,
+        778
+      ],
+      "catalog_ids": [
+        "L2557",
+        "L2329"
+      ],
+      "supplement_ids": [
+        "S08"
+      ]
+    },
+    "resolution": "問添加auxin的細胞反應，以39.2為主；35.5保留類比。濃度敏感及根生長抑制證據限制B的普遍化，不影響激素分類確定。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 24,
+    "question_or_alternative": "細胞壁/ECM或分泌系統",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        104,
+        105,
+        118,
+        119
+      ],
+      "catalog_ids": [
+        "L0388",
+        "L0391",
+        "L0343"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主6.7細胞壁，次ECM與ER涵蓋比較；原B寬稱胞質合成不抹除膜上合成與ER/Golgi路徑。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 25,
+    "question_or_alternative": "植物分類或支序判準",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        559,
+        560,
+        561,
+        631,
+        632,
+        621,
+        622
+      ],
+      "catalog_ids": [
+        "L1659",
+        "L1893",
+        "L1870"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "問題在paraphyletic定義，26.3為主，29章類群證據次；D原文與定義相反照留，官方採D不等於科學採納D字面。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 26,
+    "question_or_alternative": "一般酵素抑制或病毒治療",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        408,
+        409,
+        404
+      ],
+      "catalog_ids": [
+        "L1212",
+        "L1202"
+      ],
+      "supplement_ids": [
+        "S09"
+      ]
+    },
+    "resolution": "靶點與釋放週期的應用屬19.3/19.2，FDA明確支持neuraminidase；不因酵素字眼轉8章為主。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 27,
+    "question_or_alternative": "神經肌肉受體或病毒入侵",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        401,
+        404,
+        405
+      ],
+      "catalog_ids": [
+        "L1196",
+        "L1202"
+      ],
+      "supplement_ids": [
+        "S10"
+      ]
+    },
+    "resolution": "題問病毒受體附著，主19.2；AChR非神經傳遞功能題，原始附著實驗與唯一受體主張分開。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 28,
+    "question_or_alternative": "海洋酸化機制或棲地劣化類型",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1263,
+        1264,
+        53,
+        54,
+        1278,
+        1279
+      ],
+      "catalog_ids": [
+        "L3745",
+        "L0184",
+        "L3787"
+      ],
+      "supplement_ids": [
+        "S01"
+      ]
+    },
+    "resolution": "問環境效應名詞主56.1威脅，3.3酸化及56.4CO2次；1960/280ppm差異保留，非碎裂/同質化。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 29,
+    "question_or_alternative": "胞器母系遺傳、印記或母體效應",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        382,
+        383,
+        1046,
+        1047,
+        1048
+      ],
+      "catalog_ids": [
+        "L1149",
+        "L3137"
+      ],
+      "supplement_ids": [
+        "S11"
+      ]
+    },
+    "resolution": "母親核基因透過卵內產物影響卵裂，主18.4細胞質決定因子、次47.1卵裂；排除粒線體遺傳與基因組印記。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 30,
+    "question_or_alternative": "結構或感染週期",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        399,
+        400,
+        404,
+        405,
+        406
+      ],
+      "catalog_ids": [
+        "L1189",
+        "L1202"
+      ],
+      "supplement_ids": [
+        "S12"
+      ]
+    },
+    "resolution": "有無包膜直接屬19.1；表19.1及ICTV補足四種對照，動物週期作次，不用其他年度病毒題答案。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 31,
+    "question_or_alternative": "連續r、離散λ或邏輯斯成長",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [
+        5,
+        6
+      ],
+      "textbook_pages": [
+        1196,
+        1197
+      ],
+      "catalog_ids": [
+        "L3544",
+        "L3541"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "資源充足固定倍數主53.2；釋疑明定λ=3及三代，手算27000，不能代入連續r=3或加成4倍。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 32,
+    "question_or_alternative": "病原病理或核內複製",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        408,
+        409,
+        404,
+        405
+      ],
+      "catalog_ids": [
+        "L1212",
+        "L1202"
+      ],
+      "supplement_ids": [
+        "S03"
+      ]
+    },
+    "resolution": "病理包涵體辨識主19.3，疱疹核內週期作次；研究確有CMV Cowdry A記載，名稱與貓頭鷹眼非互斥。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 33,
+    "question_or_alternative": "核酸結構或區室複製",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        399,
+        400,
+        404,
+        405,
+        406
+      ],
+      "catalog_ids": [
+        "L1202",
+        "L1189"
+      ],
+      "supplement_ids": [
+        "S13"
+      ]
+    },
+    "resolution": "dsDNA但胞質複製的例外主19.2，19.1作核酸次項，ICTV證實痘病毒週期位置。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 34,
+    "question_or_alternative": "同源基因定義或副本功能",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [
+        6
+      ],
+      "textbook_pages": [
+        565,
+        566,
+        455,
+        456
+      ],
+      "catalog_ids": [
+        "L1675",
+        "L1346"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "26.4以事件區分ortholog/paralog為主，21.5分歧為次；不以功能必同/必異當定義，釋疑維持A已核對。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 35,
+    "question_or_alternative": "T細胞殺傷或病毒免疫逃避",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        971,
+        972,
+        959,
+        960,
+        966,
+        967
+      ],
+      "catalog_ids": [
+        "L2927",
+        "L2886",
+        "L2902"
+      ],
+      "supplement_ids": [
+        "S14"
+      ]
+    },
+    "resolution": "目的為阻止MHC-I呈現，主43.4免疫逃避；43.2辨識與43.3毒殺作次，E19原稱與E3/19K研究名並存。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 36,
+    "question_or_alternative": "雜交、HGT或祖先多型排序",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        459,
+        460,
+        461,
+        462,
+        564,
+        565
+      ],
+      "catalog_ids": [
+        "L1359",
+        "L1668"
+      ],
+      "supplement_ids": [
+        "S15"
+      ]
+    },
+    "resolution": "原始大猩猩基因組研究支援ILS；主21.6基因組比較、次26.3親緣假說。局部基因樹不是整體物種祖先關係改變。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 37,
+    "question_or_alternative": "訊號傳遞或先天免疫模式辨識",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        954,
+        955,
+        956
+      ],
+      "catalog_ids": [
+        "L2870"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "教材43.4圖直接給TLR9囊泡定位與CpG；主43.1足夠，無需泛列11章。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 38,
+    "question_or_alternative": "46.5胎盤循環或47.2胚外膜",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1053,
+        1054,
+        1035,
+        1036,
+        1037
+      ],
+      "catalog_ids": [
+        "L3147",
+        "L3114"
+      ],
+      "supplement_ids": [
+        "S16"
+      ]
+    },
+    "resolution": "D問形成，主47.2；46.5支持動靜脈方向及胎盤交換次分類。簡化的卵黃囊描述未作完整臍帶解剖定義。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 39,
+    "question_or_alternative": "器官解剖或內分泌生殖週期",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1032,
+        1033,
+        1034,
+        1026,
+        1027
+      ],
+      "catalog_ids": [
+        "L3104",
+        "L3088"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "是否排卵/第二性徵以46.4為主，46.3為器官次項；限卵巢功能保留的題設，不將子宮等同雌激素來源。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 40,
+    "question_or_alternative": "視覺生理或伴性遺傳",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        299,
+        300
+      ],
+      "catalog_ids": [
+        "L0945"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "推帶因者主15.2，沒有測光受器機制；紅綠色盲模型及母親正常表型假設已另註，劇情不作真實鑑定證據。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 41,
+    "question_or_alternative": "顯微技術或細菌壁結構",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        574,
+        575
+      ],
+      "catalog_ids": [
+        "L1709"
+      ],
+      "supplement_ids": [
+        "S17"
+      ]
+    },
+    "resolution": "陽陰性著色源於細胞壁，27.1為最直接條目；ASM支持乙醇/丙酮並記1884，原題1882照留。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 42,
+    "question_or_alternative": "聽覺或動物溝通",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1112,
+        1113,
+        1114,
+        1115,
+        1116
+      ],
+      "catalog_ids": [
+        "L3351"
+      ],
+      "supplement_ids": [
+        "S18"
+      ]
+    },
+    "resolution": "回聲定位是聲感覺與主動探測，主50.2，移除51.1次項；研究支持自發聲中耳肌收縮及不同頻率，20–120不當所有蝙蝠硬上限。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 43,
+    "question_or_alternative": "敏感期學習或基因組印記",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1144,
+        1145,
+        1146
+      ],
+      "catalog_ids": [
+        "L3424"
+      ],
+      "supplement_ids": [
+        "S19"
+      ]
+    },
+    "resolution": "主51.2學習確定；物種均無印痕的強主張證據不足，維持官方C並標示未確認範圍，未用一般鮭魚替指定物種作結論。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 44,
+    "question_or_alternative": "抗體結構或B細胞發育",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        960,
+        961,
+        962,
+        958,
+        959
+      ],
+      "catalog_ids": [
+        "L2889",
+        "L2883"
+      ],
+      "supplement_ids": [
+        "S20"
+      ]
+    },
+    "resolution": "VpreB/λ5與表面pre-BCR階段主43.2發育，結構為次；較早轉錄與large pre-B表面蛋白區別已由實驗論文核對。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 45,
+    "question_or_alternative": "消化互利或群落種間作用",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1220,
+        1221,
+        912,
+        913,
+        914
+      ],
+      "catalog_ids": [
+        "L3604",
+        "L2733"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "四組跨消化/植物宿主比較，54.1正向交互作用為主，41.4消化互利作次；互利定義不強制專性依賴。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 46,
+    "question_or_alternative": "先天補體或抗體反應",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        955,
+        956,
+        964,
+        965,
+        966
+      ],
+      "catalog_ids": [
+        "L2870",
+        "L2899"
+      ],
+      "supplement_ids": [
+        "S21"
+      ]
+    },
+    "resolution": "直接膜攻擊主43.1，抗體啟动補體作43.3次；結構研究列C5b6/7/8/9，C3為上游而非孔的組成。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 47,
+    "question_or_alternative": "類囊體膜電子流或反應中心",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        197,
+        198,
+        199,
+        200
+      ],
+      "catalog_ids": [
+        "L0656",
+        "L0662"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主10.3線性電子流、次化學滲透；A是最佳概括，教材Pc/Fd移動載體例外保留，避免全稱膜蛋白。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 48,
+    "question_or_alternative": "細胞附著或旁細胞屏障",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        119,
+        120
+      ],
+      "catalog_ids": [
+        "L0394"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "問溶質不易穿間隙，6.7細胞連接中tight junction最直接；結構名與單一蛋白的原文簡化保留。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 49,
+    "question_or_alternative": "42.2循環或41.3吸收",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        926,
+        927,
+        909,
+        910
+      ],
+      "catalog_ids": [
+        "L2770",
+        "L2717"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "比較各循環路徑主42.2，正確D由41.3肝門靜脈段直接支援；脂質淋巴例外與總體循環分開。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 50,
+    "question_or_alternative": "創始效應、隨機交配或基因流",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        494,
+        495,
+        496,
+        497
+      ],
+      "catalog_ids": [
+        "L1458",
+        "L1455"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "同質化主因為有繁殖的遷移即23.3基因流；漂變保留分化背景次項，不把創始效應當新突變來源。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  }
+]

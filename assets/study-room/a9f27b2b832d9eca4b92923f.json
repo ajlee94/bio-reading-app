@@ -1,0 +1,4903 @@
+[
+  {
+    "id": "CMU-111-Q01",
+    "school": "CMU",
+    "year": 111,
+    "q": 1,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 1,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "regions": [
+        [
+          40,
+          85.85199999999998,
+          565.32,
+          206.452
+        ]
+      ],
+      "image": "questions/Q01.png",
+      "sha256": "3a29da9fd8976cfc65e4b617dfa8464feff00dd9c36aa3cb6d50c7cae358fa31",
+      "width": 1051,
+      "height": 241,
+      "question_text": "1. 幽門螺旋桿菌會造成人體胃潰瘍及胃癌，所以提早發現感染與及早治療，對健康有極大的\n幫助。下列何種診斷工具是目前臨床常用來判定人體有幽門螺旋桿菌感染的依據?\n(A) 碳13尿素呼吸檢查(13C-urea breath test)\n(B) 經上消化道內視鏡胃黏膜切片之快速尿素酶檢查(rapid urease test)\n(C) 血清學檢查抗幽門螺旋桿菌抗體\n(D) 經上消化道內視鏡胃黏膜切片之病理檢查",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [
+        8
+      ],
+      "clarification_disposition": "維持原答案A"
+    },
+    "primary": {
+      "id": "L1774",
+      "toc_line": 1774,
+      "chapter": 27,
+      "concept": "27.6",
+      "title": "Pathogenic Bacteria",
+      "printed_page": 588,
+      "body_pdf_page": 637,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        42
+      ],
+      "chapter_label": "Ch27 Bacteria and Archaea"
+    },
+    "secondary": [
+      {
+        "id": "L0110",
+        "toc_line": 110,
+        "chapter": 2,
+        "concept": "2.2",
+        "title": "Isotopes",
+        "printed_page": 31,
+        "body_pdf_page": 80,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          35
+        ],
+        "chapter_label": "Ch02 The Chemical Context of Life"
+      }
+    ],
+    "primary_reason": "題目判斷致病細菌幽門螺旋桿菌感染的診斷，27.6 Pathogenic Bacteria 是病原與疾病的直接目錄條目。",
+    "secondary_reason": "2.2 Isotopes 補充碳13示蹤原理；不把臨床感染診斷整題改歸原子結構。",
+    "answer_analysis": "官方A並於釋疑PDF8維持。尿素酶分解標記尿素後可檢出呼出標記CO2；碳13是穩定同位素，不是放射性碳14。原題只問常用依據，B、D胃鏡切片檢查亦可診斷，C抗體可反映既往感染而不必代表現症；釋疑以非侵入、較快選A，但題幹未明列這些限定。依官方採計，科學上不宣稱其他三法全無用途。",
+    "textbook_evidence": [
+      {
+        "printed_page": 588,
+        "pdf_page": 637,
+        "text_file": "textbook_evidence/pdf-0637.txt",
+        "sha256": "357a8b3756938bcffa4f89d7963c813da645cd9d2bd3f4b4e6e5933afd4b01a1"
+      },
+      {
+        "printed_page": 584,
+        "pdf_page": 633,
+        "text_file": "textbook_evidence/pdf-0633.txt",
+        "sha256": "88337c17b6b223b6cc435d9d97f3698365f796085791eaf5a3abbb33b1fdb137"
+      },
+      {
+        "printed_page": 31,
+        "pdf_page": 80,
+        "text_file": "textbook_evidence/pdf-0080.txt",
+        "sha256": "3c7fb0a2d75fdd1c0e5f98a74209db923e3a0d0a65773b953eb4502a934c59bb"
+      }
+    ],
+    "supplement_ids": [
+      "S01"
+    ],
+    "coverage_note": "Campbell支援所列分類框架；具名機制或科學界線由列示原始研究/官方來源補足。",
+    "second_review_id": "CMU-111-R2-Q01",
+    "issue_resolution_index": 0
+  },
+  {
+    "id": "CMU-111-Q02",
+    "school": "CMU",
+    "year": 111,
+    "q": 2,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 2,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "regions": [
+        [
+          40,
+          206.452,
+          565.32,
+          273.082
+        ]
+      ],
+      "image": "questions/Q02.png",
+      "sha256": "a7bafff05463b37ca25c65da6c2db3a34fd8f96b2ee11d23c549feec39e529c8",
+      "width": 1051,
+      "height": 133,
+      "question_text": "2. 人體的呼吸運動牽扯著複雜的生理機制，其中有關呼吸運動的敘述，下列何者錯誤?\n(A) 肺本身缺乏肌肉，無法自行收縮 (B) 呼氣時橫膈膜下降\n(C) 呼氣時肋間肌舒張 (D) 吸氣時橫膈肌收縮，使胸腔擴大",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L2840",
+      "toc_line": 2840,
+      "chapter": 42,
+      "concept": "42.6",
+      "title": "How a Mammal Breathes",
+      "printed_page": 945,
+      "body_pdf_page": 994,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch42 Circulation and Gas Exchange"
+    },
+    "secondary": [],
+    "primary_reason": "42.6 How a Mammal Breathes 直接解釋橫膈收縮、胸腔容積與負壓呼吸。",
+    "secondary_reason": "四選項皆屬通氣機制，沒有需另列的最小次條目。",
+    "answer_analysis": "官方B。正常安靜吸氣橫膈收縮下降；安靜呼氣放鬆回升，主要靠彈性回縮。C以安靜呼吸為背景；用力呼氣會募集肌群。A「肺本身缺乏肌肉」是指肺不能靠自身骨骼肌主動通氣的簡化，不能推成呼吸道完全沒有平滑肌。",
+    "textbook_evidence": [
+      {
+        "printed_page": 945,
+        "pdf_page": 994,
+        "text_file": "textbook_evidence/pdf-0994.txt",
+        "sha256": "106d0803a079dd474782bd834810bf1a05013b00f74dce7be4ec8972690cc92c"
+      },
+      {
+        "printed_page": 946,
+        "pdf_page": 995,
+        "text_file": "textbook_evidence/pdf-0995.txt",
+        "sha256": "fb6a1e03ce7fd0a3f1ad12b557e965ded3ca9503e48742c8b65c177996400640"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題與官方釋疑的假設、資料及措辭限制另見科學說明。",
+    "second_review_id": "CMU-111-R2-Q02",
+    "issue_resolution_index": 1
+  },
+  {
+    "id": "CMU-111-Q03",
+    "school": "CMU",
+    "year": 111,
+    "q": 3,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 3,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "regions": [
+        [
+          40,
+          273.082,
+          565.32,
+          393.68199999999996
+        ]
+      ],
+      "image": "questions/Q03.png",
+      "sha256": "ff936cd1891ca60486514c13f2725c6de3b7fe1295df179766aa71c2af69c868",
+      "width": 1051,
+      "height": 241,
+      "question_text": "3. 細菌孢子(spore)是細菌用來抵抗惡劣環境所衍生出來的構造，也可能造成動物體誤食而感\n染。下列何者是不產生細菌孢子之病原菌?\n(A) 炭疽桿菌(Bacillus anthracis)\n(B) 破傷風桿菌(Clostridium tetanus)\n(C) 綠膿桿菌(Pseudomonas aeruginosa)\n(D) 產氣莢膜桿菌(Clostridium perfringens)",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1709",
+      "toc_line": 1709,
+      "chapter": 27,
+      "concept": "27.1",
+      "title": "Cell-Surface Structures",
+      "printed_page": 574,
+      "body_pdf_page": 623,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        42
+      ],
+      "chapter_label": "Ch27 Bacteria and Archaea"
+    },
+    "secondary": [
+      {
+        "id": "L1751",
+        "toc_line": 1751,
+        "chapter": 27,
+        "concept": "27.4",
+        "title": "Bacteria",
+        "printed_page": 583,
+        "body_pdf_page": 632,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          42
+        ],
+        "chapter_label": "Ch27 Bacteria and Archaea"
+      }
+    ],
+    "primary_reason": "27.1 Cell-Surface Structures 的正文575直接討論抵抗惡劣環境的內生孢子，優先於一般繁殖條目。",
+    "secondary_reason": "27.4 Bacteria 比較選項所列細菌類群；同章次條目保留，章統計去重。",
+    "answer_analysis": "官方C。Pseudomonas aeruginosa 不形成內生孢子；Bacillus anthracis、Clostridium tetanus 與 C. perfringens 是典型產孢菌。本題的spore是耐受構造，不是藉孢子增加細菌數量的生殖。Campbell供構造框架，Pseudomonas具名性狀另由加拿大公衛署資料核對。",
+    "textbook_evidence": [
+      {
+        "printed_page": 574,
+        "pdf_page": 623,
+        "text_file": "textbook_evidence/pdf-0623.txt",
+        "sha256": "4c0cbc106b78534594bf508222ac5897895de648ff119f8c5a4828b6157db0c0"
+      },
+      {
+        "printed_page": 575,
+        "pdf_page": 624,
+        "text_file": "textbook_evidence/pdf-0624.txt",
+        "sha256": "44a634c8b77e0482403e63c6a2bedb87623f8cb207fc92701c8f5f77056e9cf5"
+      },
+      {
+        "printed_page": 584,
+        "pdf_page": 633,
+        "text_file": "textbook_evidence/pdf-0633.txt",
+        "sha256": "88337c17b6b223b6cc435d9d97f3698365f796085791eaf5a3abbb33b1fdb137"
+      }
+    ],
+    "supplement_ids": [
+      "S26"
+    ],
+    "coverage_note": "Campbell支援所列分類框架；具名機制或科學界線由列示原始研究/官方來源補足。",
+    "second_review_id": "CMU-111-R2-Q03",
+    "issue_resolution_index": 2
+  },
+  {
+    "id": "CMU-111-Q04",
+    "school": "CMU",
+    "year": 111,
+    "q": 4,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 4,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "regions": [
+        [
+          40,
+          393.68199999999996,
+          565.32,
+          460.30199999999996
+        ]
+      ],
+      "image": "questions/Q04.png",
+      "sha256": "db2dce03fde4f604b4ba759bc1e269786570404ac5a2685249f105be77a1ae6d",
+      "width": 1051,
+      "height": 134,
+      "question_text": "4. 組織相容性複合體(MHC)於健康人體的免疫系統中具有很重要的角色，下列何種細胞可表\n達高量第二型主要組織相容性複合體(MHC class II)分子?\n(A) 神經細胞 (B) 肝細胞 (C) B細胞 (D) 紅血球",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L2896",
+      "toc_line": 2896,
+      "chapter": 43,
+      "concept": "43.3",
+      "title": "Helper T Cells: Activating Adaptive Immunity",
+      "printed_page": 963,
+      "body_pdf_page": 1012,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        47
+      ],
+      "chapter_label": "Ch43 The Immune System"
+    },
+    "secondary": [
+      {
+        "id": "L2886",
+        "toc_line": 2886,
+        "chapter": 43,
+        "concept": "43.2",
+        "title": "Antigen Recognition by T Cells",
+        "printed_page": 959,
+        "body_pdf_page": 1008,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          47
+        ],
+        "chapter_label": "Ch43 The Immune System"
+      }
+    ],
+    "primary_reason": "43.3 Helper T Cells: Activating Adaptive Immunity 明列抗原呈現細胞經MHC II活化輔助T細胞，含B細胞。",
+    "secondary_reason": "43.2 Antigen Recognition by T Cells 補充MHC與T受體的配對，不混同B受體直接結合抗原。",
+    "answer_analysis": "官方C。正常B細胞屬專業抗原呈現細胞，可高量表現MHC II；神經、肝與成熟紅血球不符合題設正常高量表現者。此處是B細胞呈現抗原，不是B細胞受體只能辨識MHC結合抗原。",
+    "textbook_evidence": [
+      {
+        "printed_page": 959,
+        "pdf_page": 1008,
+        "text_file": "textbook_evidence/pdf-1008.txt",
+        "sha256": "0691b0c70f5741fe27277d6363e599049269560932b50c836a6580393e9e322d"
+      },
+      {
+        "printed_page": 963,
+        "pdf_page": 1012,
+        "text_file": "textbook_evidence/pdf-1012.txt",
+        "sha256": "e38a372fb8815406707d1e037665747e7396026774507b46591b2276229cea19"
+      },
+      {
+        "printed_page": 964,
+        "pdf_page": 1013,
+        "text_file": "textbook_evidence/pdf-1013.txt",
+        "sha256": "78a632a70aa8a98429cfd299268a2830f7a13cb352a198685455485cff6990db"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題與官方釋疑的假設、資料及措辭限制另見科學說明。",
+    "second_review_id": "CMU-111-R2-Q04",
+    "issue_resolution_index": 3
+  },
+  {
+    "id": "CMU-111-Q05",
+    "school": "CMU",
+    "year": 111,
+    "q": 5,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 5,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "regions": [
+        [
+          40,
+          460.30199999999996,
+          565.32,
+          580.9019999999999
+        ]
+      ],
+      "image": "questions/Q05.png",
+      "sha256": "043586140da2c3a9a4ec81eec4df2b2809076779e85d5452741463f1b1dac055",
+      "width": 1051,
+      "height": 241,
+      "question_text": "5. 淋巴細胞包括B和T 細胞，有關健康人體的B和 T細胞的敘述，下列何者是B細胞所特\n有而T細胞中則沒有發生?\n(A) 在細胞表面表現特定的抗原受體(antigen-specific receptor)\n(B) 在細胞分化過程會進行類型轉換(isotype switching)\n(C) 在細胞發育過程會進行基因重組\n(D) 辨識與自身主要組織相容性複合體(self MHC)結合的抗原分子",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L2899",
+      "toc_line": 2899,
+      "chapter": 43,
+      "concept": "43.3",
+      "title": "B Cells and Antibodies: A Response to Extracellular Pathogens",
+      "printed_page": 964,
+      "body_pdf_page": 1013,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        47
+      ],
+      "chapter_label": "Ch43 The Immune System"
+    },
+    "secondary": [
+      {
+        "id": "L2889",
+        "toc_line": 2889,
+        "chapter": 43,
+        "concept": "43.2",
+        "title": "B Cell and T Cell Development",
+        "printed_page": 960,
+        "body_pdf_page": 1009,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          47
+        ],
+        "chapter_label": "Ch43 The Immune System"
+      }
+    ],
+    "primary_reason": "43.3 B Cells and Antibodies: A Response to Extracellular Pathogens 說明抗體類別及重鏈恆定區，是isotype switching結果的直接條目。",
+    "secondary_reason": "43.2 B Cell and T Cell Development 比較兩類淋巴球均有受體基因片段重組，排除把所有重組當B專有。",
+    "answer_analysis": "官方B。類型轉換改變免疫球蛋白重鏈恆定區及效應功能，保留原抗原特異性；B、T均有特定受體與發育時V(D)J重組。T細胞辨識胜肽–MHC，B受體通常直接結合抗原。Campbell966列抗體類別；AID與類型轉換機制由TFH研究補足，不能將IgM/IgD共表現一律當成類型轉換。",
+    "textbook_evidence": [
+      {
+        "printed_page": 964,
+        "pdf_page": 1013,
+        "text_file": "textbook_evidence/pdf-1013.txt",
+        "sha256": "78a632a70aa8a98429cfd299268a2830f7a13cb352a198685455485cff6990db"
+      },
+      {
+        "printed_page": 965,
+        "pdf_page": 1014,
+        "text_file": "textbook_evidence/pdf-1014.txt",
+        "sha256": "bdf11fcbeca3fc91d34dc09621f414330a3cc0f15414e69d44b3b901959e1338"
+      },
+      {
+        "printed_page": 966,
+        "pdf_page": 1015,
+        "text_file": "textbook_evidence/pdf-1015.txt",
+        "sha256": "9fdd14c66e516e549364b3c5cfa12d681c767a71c300b57bdf2a834ad8395249"
+      },
+      {
+        "printed_page": 960,
+        "pdf_page": 1009,
+        "text_file": "textbook_evidence/pdf-1009.txt",
+        "sha256": "f9030c44f39b2f209ec81cf867826cdbcaa0c3f0be0ad48aa936f9af4bea9af2"
+      },
+      {
+        "printed_page": 961,
+        "pdf_page": 1010,
+        "text_file": "textbook_evidence/pdf-1010.txt",
+        "sha256": "e743f816202563965c87268f193e847c2577df26a9c435a8d2fc1668da905f7f"
+      }
+    ],
+    "supplement_ids": [
+      "S06"
+    ],
+    "coverage_note": "Campbell支援所列分類框架；具名機制或科學界線由列示原始研究/官方來源補足。",
+    "second_review_id": "CMU-111-R2-Q05",
+    "issue_resolution_index": 4
+  },
+  {
+    "id": "CMU-111-Q06",
+    "school": "CMU",
+    "year": 111,
+    "q": 6,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 6,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "regions": [
+        [
+          40,
+          580.9019999999999,
+          565.32,
+          683.5319999999999
+        ]
+      ],
+      "image": "questions/Q06.png",
+      "sha256": "e0271bcd61de0d7a7d7ec389875f47c3d853512f30986115e10eadb151f4db9f",
+      "width": 1051,
+      "height": 205,
+      "question_text": "6. 下列為病毒生活史的基本步驟，請依照感染步驟依序加以排列：\nI：釋放 II：穿透 III：基因體的複製及蛋白質的產生\nIV：組裝 V：吸附 VI：去蛋白衣\n(A) V→VI→II→IV→I→III (B) VI→II→III→IV→I→V\n(C) II→VI→V→III→IV→I (D) V→II→VI→III→IV→I",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1196",
+      "toc_line": 1196,
+      "chapter": 19,
+      "concept": "19.2",
+      "title": "General Features of Viral Replicative Cycles",
+      "printed_page": 401,
+      "body_pdf_page": 450,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        40
+      ],
+      "chapter_label": "Ch19 Viruses"
+    },
+    "secondary": [
+      {
+        "id": "L1202",
+        "toc_line": 1202,
+        "chapter": 19,
+        "concept": "19.2",
+        "title": "Replicative Cycles of Animal Viruses",
+        "printed_page": 404,
+        "body_pdf_page": 453,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          40
+        ],
+        "chapter_label": "Ch19 Viruses"
+      }
+    ],
+    "primary_reason": "19.2 General Features of Viral Replicative Cycles 直接涵蓋吸附、進入、脫殼、合成、組裝與釋放的總流程。",
+    "secondary_reason": "19.2 Replicative Cycles of Animal Viruses 補充圖示脫殼與出芽；同章另留具體病毒生活史條目。",
+    "answer_analysis": "官方D，順序V→II→VI→III→IV→I。這是可脫殼病毒感染的基本教學模型；病毒類型可在進入、脫殼及釋放方式上不同，不聲稱所有病毒都以完全相同細節循環。",
+    "textbook_evidence": [
+      {
+        "printed_page": 401,
+        "pdf_page": 450,
+        "text_file": "textbook_evidence/pdf-0450.txt",
+        "sha256": "12ae1bc091574db33dbff904e77ca9feb9f80d91882599bba6fc6a5a0f5026a5"
+      },
+      {
+        "printed_page": 404,
+        "pdf_page": 453,
+        "text_file": "textbook_evidence/pdf-0453.txt",
+        "sha256": "c89c8a8f4e79ae7f107ce444f50c6c9084a6cf684f159dce135c3906424a797a"
+      },
+      {
+        "printed_page": 405,
+        "pdf_page": 454,
+        "text_file": "textbook_evidence/pdf-0454.txt",
+        "sha256": "ab3091fcc0965fecadd47e170e14cb0ad3a32ae0cdfb06bc707d08683c65aeb7"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題與官方釋疑的假設、資料及措辭限制另見科學說明。",
+    "second_review_id": "CMU-111-R2-Q06",
+    "issue_resolution_index": 5
+  },
+  {
+    "id": "CMU-111-Q07",
+    "school": "CMU",
+    "year": 111,
+    "q": 7,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 7,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "regions": [
+        [
+          40,
+          683.5319999999999,
+          565.32,
+          816.92
+        ]
+      ],
+      "image": "questions/Q07.png",
+      "sha256": "b327a3644f9bcd32fc5e9eb6f678c60389b46465641e0d125be14667caa04688",
+      "width": 1051,
+      "height": 267,
+      "question_text": "7. 人類糖尿病患者的血糖調控非常重要，有關胰島素和昇糖素的敘述，下列何者錯誤?\n(A) 胰島素可以促進組織細胞吸收血液中的葡萄糖\n(B) 肌肉和肝臟細胞將吸收的葡萄糖轉化為肝醣\n(C) 當血糖低時，胰島的 β 細胞可分泌昇糖素促進肝醣分解為葡萄糖\n(D) 胰島素分泌不足時，會導致血糖升高\n本試題（含封面）共計9頁之第2頁",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L2743",
+      "toc_line": 2743,
+      "chapter": 41,
+      "concept": "41.5",
+      "title": "Regulation of Energy Storage",
+      "printed_page": 915,
+      "body_pdf_page": 964,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch41 Animal Nutrition"
+    },
+    "secondary": [],
+    "primary_reason": "41.5 Regulation of Energy Storage 的印刷916及圖41.23直接呈現胰島素、昇糖素與血糖回饋，是真實最小目錄。",
+    "secondary_reason": "題目焦點是能量儲存與血糖，該條目已完整涵蓋；不僅因荷爾蒙名稱重複列45章。",
+    "answer_analysis": "官方C。低血糖刺激胰島α細胞分泌昇糖素；β細胞分泌胰島素。胰島素促進葡萄糖利用與儲存，昇糖素促進肝臟釋糖；並非所有組織葡萄糖攝取都依賴胰島素。",
+    "textbook_evidence": [
+      {
+        "printed_page": 915,
+        "pdf_page": 964,
+        "text_file": "textbook_evidence/pdf-0964.txt",
+        "sha256": "ea29e08d83b858bdaf063849870592412ee08d84e6bc84fdfbb45f89df73033e"
+      },
+      {
+        "printed_page": 916,
+        "pdf_page": 965,
+        "text_file": "textbook_evidence/pdf-0965.txt",
+        "sha256": "d153f211471595d3817b8b8adbe5434434f9d4a15ce1ee0a32d61ba594c6cf32"
+      },
+      {
+        "printed_page": 917,
+        "pdf_page": 966,
+        "text_file": "textbook_evidence/pdf-0966.txt",
+        "sha256": "4087d167197a5dbed7d7225d557f5f6baeda064de6ef4dd0a635c28a22b08a04"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題與官方釋疑的假設、資料及措辭限制另見科學說明。",
+    "second_review_id": "CMU-111-R2-Q07",
+    "issue_resolution_index": 6
+  },
+  {
+    "id": "CMU-111-Q08",
+    "school": "CMU",
+    "year": 111,
+    "q": 8,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 8,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "regions": [
+        [
+          40,
+          85.85199999999998,
+          565.32,
+          170.452
+        ]
+      ],
+      "image": "questions/Q08.png",
+      "sha256": "f1f654654b51a3ae6f4e72d9cd1e60cd582dfc19f467a0c7dd4a37490ba4d4c5",
+      "width": 1051,
+      "height": 169,
+      "question_text": "8. 病毒造成的疾病和其所感染的細胞非常有相關性，有關病毒和其主要感染人體細胞的配對，\n下列何者錯誤?\n(A) 狂犬病毒；神經細胞 (B) B19病毒；血小板母細胞\n(C) EBV；B細胞 (D) HIV；T細胞",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [
+        9
+      ],
+      "clarification_disposition": "維持原答案B"
+    },
+    "primary": {
+      "id": "L1196",
+      "toc_line": 1196,
+      "chapter": 19,
+      "concept": "19.2",
+      "title": "General Features of Viral Replicative Cycles",
+      "printed_page": 401,
+      "body_pdf_page": 450,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        40
+      ],
+      "chapter_label": "Ch19 Viruses"
+    },
+    "secondary": [],
+    "primary_reason": "19.2 General Features of Viral Replicative Cycles 的宿主範圍及細胞受體條件直接對應病毒細胞嗜性。",
+    "secondary_reason": "四配對皆為病毒宿主細胞選擇；不把錯選項血小板母細胞另列造血章。",
+    "answer_analysis": "官方B，釋疑PDF9維持。B19主要支持生產性感染的是紅系前驅細胞；狂犬神經、EBV B細胞、HIV以CD4 T細胞為主要教學配對，但不等於各病毒只感染一種細胞。MB-02研究在Epo誘導5–10日的紅系分化狀態支持B19複製，不能因細胞株原始名稱推成血小板母細胞嗜性；釋疑「三天以上」較原研究寬鬆。",
+    "textbook_evidence": [
+      {
+        "printed_page": 401,
+        "pdf_page": 450,
+        "text_file": "textbook_evidence/pdf-0450.txt",
+        "sha256": "12ae1bc091574db33dbff904e77ca9feb9f80d91882599bba6fc6a5a0f5026a5"
+      }
+    ],
+    "supplement_ids": [
+      "S02"
+    ],
+    "coverage_note": "Campbell支援所列分類框架；具名機制或科學界線由列示原始研究/官方來源補足。",
+    "second_review_id": "CMU-111-R2-Q08",
+    "issue_resolution_index": 7
+  },
+  {
+    "id": "CMU-111-Q09",
+    "school": "CMU",
+    "year": 111,
+    "q": 9,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 9,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "regions": [
+        [
+          40,
+          170.452,
+          565.32,
+          273.082
+        ]
+      ],
+      "image": "questions/Q09.png",
+      "sha256": "2e846fd422e9fba62e6792d8ffba8702819f91a1cfe85a5d3827b579799a7025",
+      "width": 1051,
+      "height": 205,
+      "question_text": "9. 麗莎不曾被 B 型肝炎病毒(hepatitis B virus)感染，因為要從印尼到台灣擔任看護工作，所\n以依照規定，接種了三次 B型肝炎疫苗。請問以下何種血清學檢驗結果可能是麗莎接種後\n半年的檢驗結果?\n(A) HBcAg(-);anti-HBc(-);anti-HBs(+) (B) HBcAg(+);anti-HBc(-);anti-HBs(+)\n(C) HBsAg(+);anti-HBc(+);anti-HBs(-) (D) HBsAg(-);anti-HBc(+);anti-HBs(-)",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L2908",
+      "toc_line": 2908,
+      "chapter": 43,
+      "concept": "43.3",
+      "title": "Immunization",
+      "printed_page": 968,
+      "body_pdf_page": 1017,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        47
+      ],
+      "chapter_label": "Ch43 The Immune System"
+    },
+    "secondary": [
+      {
+        "id": "L2911",
+        "toc_line": 2911,
+        "chapter": 43,
+        "concept": "43.3",
+        "title": "Active and Passive Immunity",
+        "printed_page": 968,
+        "body_pdf_page": 1017,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          47
+        ],
+        "chapter_label": "Ch43 The Immune System"
+      }
+    ],
+    "primary_reason": "43.3 Immunization 直接說明接種抗原產生主動免疫與抗體，是疫苗後血清判讀的核心。",
+    "secondary_reason": "43.3 Active and Passive Immunity 區分接種者自己產生抗體與外來抗體，並支援半年後的免疫背景。",
+    "answer_analysis": "官方A。單純疫苗誘發anti-HBs，不產生anti-HBc；CDC標準疫苗免疫組合是HBsAg陰、anti-HBc陰、anti-HBs陽。原題A、B實際印成HBcAg，不是HBsAg，保留原文與差異，不偷偷改字。題設三劑為既定情境，不把題文移工接種規定當作已查核的現行法規。",
+    "textbook_evidence": [
+      {
+        "printed_page": 968,
+        "pdf_page": 1017,
+        "text_file": "textbook_evidence/pdf-1017.txt",
+        "sha256": "615586cf8b171245b2a8477594b58dcf0201ed0697fc09d82c25d54802352db1"
+      },
+      {
+        "printed_page": 969,
+        "pdf_page": 1018,
+        "text_file": "textbook_evidence/pdf-1018.txt",
+        "sha256": "d71aa021dcb9e4b52dd27f9d08d1f6bbe65c7b0ec69e018c38761ac054706848"
+      }
+    ],
+    "supplement_ids": [
+      "S03"
+    ],
+    "coverage_note": "Campbell支援所列分類框架；具名機制或科學界線由列示原始研究/官方來源補足。",
+    "second_review_id": "CMU-111-R2-Q09",
+    "issue_resolution_index": 8
+  },
+  {
+    "id": "CMU-111-Q10",
+    "school": "CMU",
+    "year": 111,
+    "q": 10,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 10,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "regions": [
+        [
+          40,
+          273.082,
+          565.32,
+          357.68199999999996
+        ]
+      ],
+      "image": "questions/Q10.png",
+      "sha256": "377202bb5ab1a370f1f44ea2895fb6ea6999c223a9e28fe3c2068918b90e99ba",
+      "width": 1051,
+      "height": 169,
+      "question_text": "10. 學校賣場的大門及電梯皆放置乾洗手(內含70%酒精)讓大家使用，請問乾洗手對於下列何\n種病毒的抑制效果不佳?\n(A) 腺病毒(adenovirus) (B) 流行性感冒病毒(influenza virus)\n(C) 麻疹病毒(measles virus) (D) 冠狀病毒(coronavirus)",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1189",
+      "toc_line": 1189,
+      "chapter": 19,
+      "concept": "19.1",
+      "title": "Structure of Viruses",
+      "printed_page": 399,
+      "body_pdf_page": 448,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        40
+      ],
+      "chapter_label": "Ch19 Viruses"
+    },
+    "secondary": [
+      {
+        "id": "L1212",
+        "toc_line": 1212,
+        "chapter": 19,
+        "concept": "19.3",
+        "title": "Viral Diseases in Animals",
+        "printed_page": 408,
+        "body_pdf_page": 457,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          40
+        ],
+        "chapter_label": "Ch19 Viruses"
+      }
+    ],
+    "primary_reason": "19.1 Structure of Viruses 區分腺病毒無套膜與其餘選項套膜結構，提供酒精敏感度比較的框架。",
+    "secondary_reason": "19.3 Viral Diseases in Animals 補充病毒感染控制背景，具體消毒效力另列官方來源。",
+    "answer_analysis": "官方A。無套膜腺病毒相對較難以一般酒精乾洗手控制；實際效力取決於酒精種類、濃度、接觸時間與病毒型別。CDC指出70%異丙醇對腺病毒無效，另載適當條件下60–80%乙醇可使腺病毒失活，故不把原題未指定的「70%酒精」擴張成所有乙醇製劑必然無效，也不以表面消毒試驗等同實際洗手效果。",
+    "textbook_evidence": [
+      {
+        "printed_page": 399,
+        "pdf_page": 448,
+        "text_file": "textbook_evidence/pdf-0448.txt",
+        "sha256": "5495dd0e04e49482a5d395f0e211c478294f9e597e7de7fba37b2c18e2c063fc"
+      },
+      {
+        "printed_page": 400,
+        "pdf_page": 449,
+        "text_file": "textbook_evidence/pdf-0449.txt",
+        "sha256": "24a22eddb7202591b5c78f0d6c4478d66aed2efc2ad657a1ea947bc7051519cb"
+      },
+      {
+        "printed_page": 408,
+        "pdf_page": 457,
+        "text_file": "textbook_evidence/pdf-0457.txt",
+        "sha256": "c45218305ce62726f1ce01c74462e71914534dd66e4f698178c95834fa93b1e2"
+      },
+      {
+        "printed_page": 409,
+        "pdf_page": 458,
+        "text_file": "textbook_evidence/pdf-0458.txt",
+        "sha256": "a2d0b1f1761255575d5a49a42f65eec36f50161fc5fbe068683f883e3d9ae196"
+      }
+    ],
+    "supplement_ids": [
+      "S04"
+    ],
+    "coverage_note": "Campbell支援所列分類框架；具名機制或科學界線由列示原始研究/官方來源補足。",
+    "second_review_id": "CMU-111-R2-Q10",
+    "issue_resolution_index": 9
+  },
+  {
+    "id": "CMU-111-Q11",
+    "school": "CMU",
+    "year": 111,
+    "q": 11,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 11,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "regions": [
+        [
+          40,
+          357.68199999999996,
+          565.32,
+          424.2819999999999
+        ]
+      ],
+      "image": "questions/Q11.png",
+      "sha256": "8d5c9f57aa2efae67cfe2c1d96a356ef087db81ced95e75d8d44ff514aad549e",
+      "width": 1051,
+      "height": 134,
+      "question_text": "11. 健康人體的大腦皮層分為四大葉，主管感覺、聽覺及觸覺等刺激，請問下列哪一部分主要\n負責聽覺?\n(A) 額葉 (B) 頂葉 (C) 顳葉 (D) 枕葉",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L3271",
+      "toc_line": 3271,
+      "chapter": 49,
+      "concept": "49.3",
+      "title": "Information Processing",
+      "printed_page": 1097,
+      "body_pdf_page": 1146,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        48
+      ],
+      "chapter_label": "Ch49 Nervous Systems"
+    },
+    "secondary": [],
+    "primary_reason": "49.3 Information Processing 及圖49.16在印刷1097定位顳葉聽覺皮質，直接回答腦葉功能。",
+    "secondary_reason": "題目沒有耳部受器或聲波轉導過程，不另掛50章感覺接收。",
+    "answer_analysis": "官方C。聽覺皮質主要位於顳葉；枕葉主要視覺、頂葉主要體感、額葉主要運動與高階功能。已實看教材圖49.16標記，不僅由關鍵字推論。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1096,
+        "pdf_page": 1145,
+        "text_file": "textbook_evidence/pdf-1145.txt",
+        "sha256": "4ca84f96ec77b2cdd3c57b93388ac9efd31405d4628ad38755f2157fd419f3f4"
+      },
+      {
+        "printed_page": 1097,
+        "pdf_page": 1146,
+        "text_file": "textbook_evidence/pdf-1146.txt",
+        "sha256": "637660c05e8824db9518565ddf9809b69391b44120235bc03404eec9ed7ce8d7"
+      },
+      {
+        "printed_page": 1098,
+        "pdf_page": 1147,
+        "text_file": "textbook_evidence/pdf-1147.txt",
+        "sha256": "1832868deab7da5a5c5c20f77f65e71e676a8f215fae307e3f31a9581f8d16cb"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題與官方釋疑的假設、資料及措辭限制另見科學說明。",
+    "second_review_id": "CMU-111-R2-Q11",
+    "issue_resolution_index": 10
+  },
+  {
+    "id": "CMU-111-Q12",
+    "school": "CMU",
+    "year": 111,
+    "q": 12,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 12,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "regions": [
+        [
+          40,
+          424.2819999999999,
+          565.32,
+          508.90199999999993
+        ]
+      ],
+      "image": "questions/Q12.png",
+      "sha256": "aac49561bc010aee162e3f991097b168e6b2ddb5c0e96cd67d3848e72dc44db7",
+      "width": 1051,
+      "height": 169,
+      "question_text": "12. 在人類先天性免疫反應中有所謂補體系統，其發生反應時需有很多酵素反應，下列何種組\n合全是C5轉換酶(C5 convertase)，讓補體可以形成攻膜複合物，進而殺死細菌?\nI：C4b2a3b II：C3bBb III：C3b Bb IV：C4b2a\n2\n(A) I、II (B) II、III (C) II、IV (D) I、III",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L2870",
+      "toc_line": 2870,
+      "chapter": 43,
+      "concept": "43.1",
+      "title": "Innate Immunity of Vertebrates",
+      "printed_page": 954,
+      "body_pdf_page": 1003,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        47
+      ],
+      "chapter_label": "Ch43 The Immune System"
+    },
+    "secondary": [
+      {
+        "id": "L2899",
+        "toc_line": 2899,
+        "chapter": 43,
+        "concept": "43.3",
+        "title": "B Cells and Antibodies: A Response to Extracellular Pathogens",
+        "printed_page": 964,
+        "body_pdf_page": 1013,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          47
+        ],
+        "chapter_label": "Ch43 The Immune System"
+      }
+    ],
+    "primary_reason": "43.1 Innate Immunity of Vertebrates 列補體級聯與膜攻擊，是題目先天免疫系統的主要目錄。",
+    "secondary_reason": "43.3 B Cells and Antibodies: A Response to Extracellular Pathogens 補充抗體啟動補體及成孔，連接經典途徑。",
+    "answer_analysis": "官方D，I C4b2a3b及III C3b2Bb為兩種C5轉換酶；II C3bBb及IV C4b2a是C3轉換酶。C5被切割產生C5b後參與終端膜攻擊複合物。Campbell沒有完整列出兩套複合物配方，配方另以經典與替代途徑原始研究核對；C3b2Bb也可表作C3bBb3b。",
+    "textbook_evidence": [
+      {
+        "printed_page": 955,
+        "pdf_page": 1004,
+        "text_file": "textbook_evidence/pdf-1004.txt",
+        "sha256": "bf64e7e0e49015a26d4d4ca0e513887a66d4fdb2f3703d3fe0809ec3335f7212"
+      },
+      {
+        "printed_page": 956,
+        "pdf_page": 1005,
+        "text_file": "textbook_evidence/pdf-1005.txt",
+        "sha256": "408471536c1f2399bcde0bcc125e0b7160c838e95c177754294b8271dc4c1ed9"
+      },
+      {
+        "printed_page": 965,
+        "pdf_page": 1014,
+        "text_file": "textbook_evidence/pdf-1014.txt",
+        "sha256": "bdf11fcbeca3fc91d34dc09621f414330a3cc0f15414e69d44b3b901959e1338"
+      },
+      {
+        "printed_page": 966,
+        "pdf_page": 1015,
+        "text_file": "textbook_evidence/pdf-1015.txt",
+        "sha256": "9fdd14c66e516e549364b3c5cfa12d681c767a71c300b57bdf2a834ad8395249"
+      }
+    ],
+    "supplement_ids": [
+      "S05"
+    ],
+    "coverage_note": "Campbell支援所列分類框架；具名機制或科學界線由列示原始研究/官方來源補足。",
+    "second_review_id": "CMU-111-R2-Q12",
+    "issue_resolution_index": 11
+  },
+  {
+    "id": "CMU-111-Q13",
+    "school": "CMU",
+    "year": 111,
+    "q": 13,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 13,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "regions": [
+        [
+          40,
+          508.90199999999993,
+          565.32,
+          629.502
+        ]
+      ],
+      "image": "questions/Q13.png",
+      "sha256": "a49b41a3cbdb8873de9743628a9d6a60757ecfe6a15fc78a10ea536aab34f1de",
+      "width": 1051,
+      "height": 241,
+      "question_text": "13. 細胞膜上的膜與孔徑蛋白和生物體傳送物質息息相關，有關細胞膜運輸的敘述，下列何者\n最正確?\n(A) 海帶可以藉擴散作用自海洋中將碘吸收入體內\n(B) 植物根細胞從土壤中吸收無機鹽為主動運輸\n(C) 動物小腸吸收葡萄糖是利用滲透壓差異\n(D) 水通過細胞膜是被動運輸",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B或D",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [
+        9
+      ],
+      "clarification_disposition": "原B，官方更正為B或D"
+    },
+    "primary": {
+      "id": "L0450",
+      "toc_line": 450,
+      "chapter": 7,
+      "concept": "7.4",
+      "title": "The Need for Energy in Active Transport",
+      "printed_page": 136,
+      "body_pdf_page": 185,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        36
+      ],
+      "chapter_label": "Ch07 Membrane Structure and Function"
+    },
+    "secondary": [
+      {
+        "id": "L0443",
+        "toc_line": 443,
+        "chapter": 7,
+        "concept": "7.3",
+        "title": "Facilitated Diffusion: Passive Transport Aided by Proteins",
+        "printed_page": 135,
+        "body_pdf_page": 184,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          36
+        ],
+        "chapter_label": "Ch07 Membrane Structure and Function"
+      },
+      {
+        "id": "L0440",
+        "toc_line": 440,
+        "chapter": 7,
+        "concept": "7.3",
+        "title": "Effects of Osmosis on Water Balance",
+        "printed_page": 133,
+        "body_pdf_page": 182,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          36
+        ],
+        "chapter_label": "Ch07 Membrane Structure and Function"
+      }
+    ],
+    "primary_reason": "7.4 The Need for Energy in Active Transport 處理原答案B根細胞離子逆梯度運輸，且與其他選項比較能源需求。",
+    "secondary_reason": "7.3 Facilitated Diffusion: Passive Transport Aided by Proteins 及 Effects of Osmosis on Water Balance 直接支援正式另採D水的被動運輸，兩個真實次條目均保存。",
+    "answer_analysis": "原答案B；111釋疑PDF9更正為B或D，兩者任選其一皆採計。D水的滲透及經水通道移動不直接耗ATP；B指根部建立離子梯度的主動吸收，並非每一種離子的每一步均直接水解ATP。小腸葡萄糖常藉Na+共運輸，不是滲透壓驅動溶質；海帶濃縮碘不能只用順梯度擴散說明。",
+    "textbook_evidence": [
+      {
+        "printed_page": 132,
+        "pdf_page": 181,
+        "text_file": "textbook_evidence/pdf-0181.txt",
+        "sha256": "15df8322d7f3e2f3643953d0fe8ca6a8367e7d26850069977f5a320ed668fc49"
+      },
+      {
+        "printed_page": 133,
+        "pdf_page": 182,
+        "text_file": "textbook_evidence/pdf-0182.txt",
+        "sha256": "a891eddb4fd6c31757fd5f540fa190cb5946d67c5f6da952a46b32ab336664bc"
+      },
+      {
+        "printed_page": 134,
+        "pdf_page": 183,
+        "text_file": "textbook_evidence/pdf-0183.txt",
+        "sha256": "6d7a7a09490d89a88127a98813f3fc765194f0ecccabf31a130c47f48718389a"
+      },
+      {
+        "printed_page": 135,
+        "pdf_page": 184,
+        "text_file": "textbook_evidence/pdf-0184.txt",
+        "sha256": "c829dd67ab8a4bbae34803f28574a1e220defa8f6c411e9d21ca0478c12f5603"
+      },
+      {
+        "printed_page": 136,
+        "pdf_page": 185,
+        "text_file": "textbook_evidence/pdf-0185.txt",
+        "sha256": "5885c4d3dfd4af52087a5314c2ae5a25be09e61093fca687c1632ecbf221a2cc"
+      },
+      {
+        "printed_page": 137,
+        "pdf_page": 186,
+        "text_file": "textbook_evidence/pdf-0186.txt",
+        "sha256": "dae08628541b74763aa914a4c3c6c6ac97d48256c97b34111062d5b82b4b714d"
+      },
+      {
+        "printed_page": 138,
+        "pdf_page": 187,
+        "text_file": "textbook_evidence/pdf-0187.txt",
+        "sha256": "26c3029e5ec80ff16962be585fc5307a65ace6bc184ca2941e37ed1d411397bf"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題與官方釋疑的假設、資料及措辭限制另見科學說明。",
+    "second_review_id": "CMU-111-R2-Q13",
+    "issue_resolution_index": 12
+  },
+  {
+    "id": "CMU-111-Q14",
+    "school": "CMU",
+    "year": 111,
+    "q": 14,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 14,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "regions": [
+        [
+          40,
+          629.502,
+          565.32,
+          696.132
+        ]
+      ],
+      "image": "questions/Q14.png",
+      "sha256": "6b143a5ca3a49fbd0a5842cb2c1672efd7c8bcedb9caec3b457918b746993519",
+      "width": 1051,
+      "height": 133,
+      "question_text": "14. 原生動物與我們生活的環境息息相關，下列何種組合都是原生動物?\nI：變形蟲 II：蟯蟲 III：滴蟲 IV：錐蟲\n(A) I、II (B) II、III (C) II、IV (D) I、IV",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1791",
+      "toc_line": 1791,
+      "chapter": 28,
+      "concept": "28.1",
+      "title": "Structural and Functional Diversity in Protists",
+      "printed_page": 594,
+      "body_pdf_page": 643,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        42
+      ],
+      "chapter_label": "Ch28 Protists"
+    },
+    "secondary": [
+      {
+        "id": "L1837",
+        "toc_line": 1837,
+        "chapter": 28,
+        "concept": "28.5",
+        "title": "Amoebozoans",
+        "printed_page": 612,
+        "body_pdf_page": 661,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          42
+        ],
+        "chapter_label": "Ch28 Protists"
+      },
+      {
+        "id": "L1807",
+        "toc_line": 1807,
+        "chapter": 28,
+        "concept": "28.2",
+        "title": "Euglenozoans",
+        "printed_page": 600,
+        "body_pdf_page": 649,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          42
+        ],
+        "chapter_label": "Ch28 Protists"
+      },
+      {
+        "id": "L1804",
+        "toc_line": 1804,
+        "chapter": 28,
+        "concept": "28.2",
+        "title": "Diplomonads and Parabasalids",
+        "printed_page": 600,
+        "body_pdf_page": 649,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          42
+        ],
+        "chapter_label": "Ch28 Protists"
+      }
+    ],
+    "primary_reason": "28.1 Structural and Functional Diversity in Protists 處理原生生物的廣泛多樣性，避免把傳統「原生動物」當單系群。",
+    "secondary_reason": "28.6 Amoebozoans、28.2 Euglenozoans 與 Diplomonads and Parabasalids 分別對應變形蟲、錐蟲與滴蟲，保留同章各最小條目。",
+    "answer_analysis": "官方D I、IV。I變形蟲、III滴蟲、IV錐蟲皆屬傳統所稱原生動物，II蟯蟲為多細胞線蟲；提供的四個成對選項中只有I、IV不含II。不能因答案D未列III就寫成滴蟲不是原生動物。",
+    "textbook_evidence": [
+      {
+        "printed_page": 594,
+        "pdf_page": 643,
+        "text_file": "textbook_evidence/pdf-0643.txt",
+        "sha256": "b7125dfb0b15f139a08b119f1442d1e9d23b2a9ff200236b88cc9bfaffff8d57"
+      },
+      {
+        "printed_page": 597,
+        "pdf_page": 646,
+        "text_file": "textbook_evidence/pdf-0646.txt",
+        "sha256": "5f4e49820bb82b8a16de1ba05f43931f5211902aa1c446675e58a80d672788af"
+      },
+      {
+        "printed_page": 600,
+        "pdf_page": 649,
+        "text_file": "textbook_evidence/pdf-0649.txt",
+        "sha256": "59e8086403c85b337b73392b4d8bfec7cd58053ae6c239fd5ce4727d674df479"
+      },
+      {
+        "printed_page": 601,
+        "pdf_page": 650,
+        "text_file": "textbook_evidence/pdf-0650.txt",
+        "sha256": "40fc51b407cb0b38bb74f59fea3496d96691c50f47466169b15cb907f8354b8c"
+      },
+      {
+        "printed_page": 612,
+        "pdf_page": 661,
+        "text_file": "textbook_evidence/pdf-0661.txt",
+        "sha256": "d376d88cb09dcfb5a2af445e7a124e5bed0cb2f0e216232a9a7829998a4aa34f"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題與官方釋疑的假設、資料及措辭限制另見科學說明。",
+    "second_review_id": "CMU-111-R2-Q14",
+    "issue_resolution_index": 13
+  },
+  {
+    "id": "CMU-111-Q15",
+    "school": "CMU",
+    "year": 111,
+    "q": 15,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 15,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "regions": [
+        [
+          40,
+          696.132,
+          565.32,
+          816.92
+        ]
+      ],
+      "image": "questions/Q15.png",
+      "sha256": "e89c0a6880b4fb6a829c1ab742e31acded2657af9e317c04aa6487f702cb9d05",
+      "width": 1051,
+      "height": 242,
+      "question_text": "15. 淋病雙球菌(Neisseria gonorrhoeae)是一廣泛造成全世界人類感染的細菌，並擁有多重抗藥\n的特性，是非常棘手的病原菌，所以了解其致病因子是非常重要的工作，目前為止發現下\n列何種淋病雙球菌致病因子，最有可能幫助淋病雙球菌附著到黏膜上?\n(A) 鞭毛(flagella) (B) 外毒素及腸毒素(enterotoxin)\n(C) Opa 蛋白質(Opa protein) (D) 觸酶(catalase)\n本試題（含封面）共計9頁之第3頁",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1774",
+      "toc_line": 1774,
+      "chapter": 27,
+      "concept": "27.6",
+      "title": "Pathogenic Bacteria",
+      "printed_page": 588,
+      "body_pdf_page": 637,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        42
+      ],
+      "chapter_label": "Ch27 Bacteria and Archaea"
+    },
+    "secondary": [
+      {
+        "id": "L1709",
+        "toc_line": 1709,
+        "chapter": 27,
+        "concept": "27.1",
+        "title": "Cell-Surface Structures",
+        "printed_page": 574,
+        "body_pdf_page": 623,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          42
+        ],
+        "chapter_label": "Ch27 Bacteria and Archaea"
+      }
+    ],
+    "primary_reason": "27.6 Pathogenic Bacteria 的致病與宿主互作是淋病雙球菌黏膜附著題的主軸。",
+    "secondary_reason": "27.1 Cell-Surface Structures 補充表面附著構造的功能；Opa的具名蛋白機制由原始研究支援。",
+    "answer_analysis": "官方C。Opa是外膜黏附相關蛋白，部分Opa與宿主CEACAM受器互作，有助附著及侵入；它不是鞭毛、觸酶、毒素，也不能直接改叫菌毛。淋菌菌毛亦參與附著，但不是本題四個選項中的Opa同義物。",
+    "textbook_evidence": [
+      {
+        "printed_page": 588,
+        "pdf_page": 637,
+        "text_file": "textbook_evidence/pdf-0637.txt",
+        "sha256": "357a8b3756938bcffa4f89d7963c813da645cd9d2bd3f4b4e6e5933afd4b01a1"
+      },
+      {
+        "printed_page": 574,
+        "pdf_page": 623,
+        "text_file": "textbook_evidence/pdf-0623.txt",
+        "sha256": "4c0cbc106b78534594bf508222ac5897895de648ff119f8c5a4828b6157db0c0"
+      },
+      {
+        "printed_page": 575,
+        "pdf_page": 624,
+        "text_file": "textbook_evidence/pdf-0624.txt",
+        "sha256": "44a634c8b77e0482403e63c6a2bedb87623f8cb207fc92701c8f5f77056e9cf5"
+      }
+    ],
+    "supplement_ids": [
+      "S07"
+    ],
+    "coverage_note": "Campbell支援所列分類框架；具名機制或科學界線由列示原始研究/官方來源補足。",
+    "second_review_id": "CMU-111-R2-Q15",
+    "issue_resolution_index": 14
+  },
+  {
+    "id": "CMU-111-Q16",
+    "school": "CMU",
+    "year": 111,
+    "q": 16,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 16,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "regions": [
+        [
+          40,
+          85.85199999999998,
+          565.32,
+          152.452
+        ]
+      ],
+      "image": "questions/Q16.png",
+      "sha256": "d9b4586bb902ed8e91e46cd3a66d6b358ee8a56d568a265a2bd368265f7b53a9",
+      "width": 1051,
+      "height": 133,
+      "question_text": "16. 人類由於染色體異常會造成遺傳的疾病，有關人類常見遺傳疾病的敘述，下列何者最正確?\n(A) 唐氏症患者只有44 條染色體 (B) 白化症是缺乏黑色素的顯性遺傳疾病\n(C) 唐氏症患者在第21 對染色體缺一條 (D) 克萊恩斐特氏症候群有兩條 X染色體",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L0974",
+      "toc_line": 974,
+      "chapter": 15,
+      "concept": "15.4",
+      "title": "Human Conditions Due to Chromosomal Alterations",
+      "printed_page": 308,
+      "body_pdf_page": 357,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        39
+      ],
+      "chapter_label": "Ch15 The Chromosomal Basis of Inheritance"
+    },
+    "secondary": [],
+    "primary_reason": "15.4 Human Conditions Due to Chromosomal Alterations 直接含XXY克萊恩斐特及21三體，對應染色體異常辨識。",
+    "secondary_reason": "白化症僅是錯誤敘述的干擾選項，未另列孟德爾遺傳條目。",
+    "answer_analysis": "官方D。典型Klinefelter為47,XXY，含兩條X及一條Y；典型唐氏症是21三體、47條，不是44條或少一條21。常見白化症型態多為隱性，不能概括為顯性。",
+    "textbook_evidence": [
+      {
+        "printed_page": 308,
+        "pdf_page": 357,
+        "text_file": "textbook_evidence/pdf-0357.txt",
+        "sha256": "985752ae91132e502a4385656c987fa7defe5a31468aa40df42e13f792d59ad0"
+      },
+      {
+        "printed_page": 309,
+        "pdf_page": 358,
+        "text_file": "textbook_evidence/pdf-0358.txt",
+        "sha256": "5db36d74d75f9071ac7ae7deeecb9685faa8a67f91ca140fd392f9a2504290ff"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題與官方釋疑的假設、資料及措辭限制另見科學說明。",
+    "second_review_id": "CMU-111-R2-Q16",
+    "issue_resolution_index": 15
+  },
+  {
+    "id": "CMU-111-Q17",
+    "school": "CMU",
+    "year": 111,
+    "q": 17,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 17,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "regions": [
+        [
+          40,
+          152.452,
+          565.32,
+          219.0519999999999
+        ]
+      ],
+      "image": "questions/Q17.png",
+      "sha256": "360cfa0cd6d6381e290ec9253787e2bd1bb82363ed655ba70eeb5fa39abf4d90",
+      "width": 1051,
+      "height": 133,
+      "question_text": "17. 動物為增加競爭力需繁衍後代，有關人類生殖的敘述，下列何者錯誤?\n(A) 卵巢週期包括濾泡期、排卵期和黃體期 (B) 月經週期包括行經期、增生期和分泌期\n(C) 胎盤是由子宮內膜和卵黃囊所構成 (D) 卵巢可產生黃體素和動情激素",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L3114",
+      "toc_line": 3114,
+      "chapter": 46,
+      "concept": "46.5",
+      "title": "Conception, Embryonic Development, and Birth",
+      "printed_page": 1034,
+      "body_pdf_page": 1083,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        48
+      ],
+      "chapter_label": "Ch46 Animal Reproduction"
+    },
+    "secondary": [
+      {
+        "id": "L3104",
+        "toc_line": 3104,
+        "chapter": 46,
+        "concept": "46.4",
+        "title": "Hormonal Control of Female Reproductive Cycles",
+        "printed_page": 1032,
+        "body_pdf_page": 1081,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          48
+        ],
+        "chapter_label": "Ch46 Animal Reproduction"
+      }
+    ],
+    "primary_reason": "46.5 Conception, Embryonic Development, and Birth 的胎盤來源直接解決錯誤選項C。",
+    "secondary_reason": "46.4 Hormonal Control of Female Reproductive Cycles 比較卵巢週期、子宮週期與卵巢荷爾蒙，實際支援A、B、D的判讀。",
+    "answer_analysis": "官方C。胎盤由胎兒絨毛膜組織及母體子宮內膜部分構成，卵黃囊不是與子宮內膜組成胎盤的胎兒部分。卵巢濾泡期／排卵／黃體期與子宮行經／增生／分泌期是不同層面的分期。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1032,
+        "pdf_page": 1081,
+        "text_file": "textbook_evidence/pdf-1081.txt",
+        "sha256": "deef47f77a740396d520a4adbff033a8f1e9c0319f952c51b8345c365064c2b7"
+      },
+      {
+        "printed_page": 1033,
+        "pdf_page": 1082,
+        "text_file": "textbook_evidence/pdf-1082.txt",
+        "sha256": "eafb85fddce340bf688aa2b916ec04511bff63cbe4541a6c3424eb5bbf53bee0"
+      },
+      {
+        "printed_page": 1034,
+        "pdf_page": 1083,
+        "text_file": "textbook_evidence/pdf-1083.txt",
+        "sha256": "e9960876925f54d3f6af5714fce034f15d743256fe97cd943b51d03b719b7e9d"
+      },
+      {
+        "printed_page": 1035,
+        "pdf_page": 1084,
+        "text_file": "textbook_evidence/pdf-1084.txt",
+        "sha256": "32f467b273f9fbb5a0948e1c8cd1285f89513ba2c5e6aa13f23cff9e6ecc940a"
+      },
+      {
+        "printed_page": 1036,
+        "pdf_page": 1085,
+        "text_file": "textbook_evidence/pdf-1085.txt",
+        "sha256": "e3305dc4038fed185789db5942f136f5c5231ae1ce5c16e1aefef5318134b896"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題與官方釋疑的假設、資料及措辭限制另見科學說明。",
+    "second_review_id": "CMU-111-R2-Q17",
+    "issue_resolution_index": 16
+  },
+  {
+    "id": "CMU-111-Q18",
+    "school": "CMU",
+    "year": 111,
+    "q": 18,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 18,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "regions": [
+        [
+          40,
+          219.0519999999999,
+          565.32,
+          303.6819999999999
+        ]
+      ],
+      "image": "questions/Q18.png",
+      "sha256": "9f59d4a3eaa268f125a133217f4dfffb8fa6a7f9976bd84edbcbbb8abed831a9",
+      "width": 1051,
+      "height": 169,
+      "question_text": "18. 在人體的免疫系統，B細胞為淋巴細胞中的一種，其中 B細胞在周邊淋巴結進行類型轉換\n(class switching)及體超突變(somatic hypermutation)時，主要需要下列哪種細胞的協助?\n(A) 樹突細胞(dendritic cells) (B) TH1 細胞(type I helper T cells)\n(C) TFH細胞(follicular helper T) (D) 巨噬細胞(macrophage)",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [
+        9
+      ],
+      "clarification_disposition": "維持原答案C"
+    },
+    "primary": {
+      "id": "L2896",
+      "toc_line": 2896,
+      "chapter": 43,
+      "concept": "43.3",
+      "title": "Helper T Cells: Activating Adaptive Immunity",
+      "printed_page": 963,
+      "body_pdf_page": 1012,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        47
+      ],
+      "chapter_label": "Ch43 The Immune System"
+    },
+    "secondary": [
+      {
+        "id": "L2899",
+        "toc_line": 2899,
+        "chapter": 43,
+        "concept": "43.3",
+        "title": "B Cells and Antibodies: A Response to Extracellular Pathogens",
+        "printed_page": 964,
+        "body_pdf_page": 1013,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          47
+        ],
+        "chapter_label": "Ch43 The Immune System"
+      }
+    ],
+    "primary_reason": "43.3 Helper T Cells: Activating Adaptive Immunity 是協助B細胞反應的最近目錄，TFH具名亞群由補充研究細化。",
+    "secondary_reason": "43.3 B Cells and Antibodies: A Response to Extracellular Pathogens 保留類型轉換、抗體效應及B細胞反應結果。",
+    "answer_analysis": "官方C，釋疑PDF9維持。TFH藉CD40L與細胞激素支援生發中心B細胞反應；AID參與類型轉換與體細胞高突變，親和力成熟含突變與後續選擇。釋疑將親和力成熟寫成造成突變的單向原因過度簡化；濾泡樹突細胞與一般樹突細胞也不能混為一種。TFH不等同Th1。",
+    "textbook_evidence": [
+      {
+        "printed_page": 963,
+        "pdf_page": 1012,
+        "text_file": "textbook_evidence/pdf-1012.txt",
+        "sha256": "e38a372fb8815406707d1e037665747e7396026774507b46591b2276229cea19"
+      },
+      {
+        "printed_page": 964,
+        "pdf_page": 1013,
+        "text_file": "textbook_evidence/pdf-1013.txt",
+        "sha256": "78a632a70aa8a98429cfd299268a2830f7a13cb352a198685455485cff6990db"
+      },
+      {
+        "printed_page": 965,
+        "pdf_page": 1014,
+        "text_file": "textbook_evidence/pdf-1014.txt",
+        "sha256": "bdf11fcbeca3fc91d34dc09621f414330a3cc0f15414e69d44b3b901959e1338"
+      },
+      {
+        "printed_page": 966,
+        "pdf_page": 1015,
+        "text_file": "textbook_evidence/pdf-1015.txt",
+        "sha256": "9fdd14c66e516e549364b3c5cfa12d681c767a71c300b57bdf2a834ad8395249"
+      }
+    ],
+    "supplement_ids": [
+      "S06"
+    ],
+    "coverage_note": "Campbell支援所列分類框架；具名機制或科學界線由列示原始研究/官方來源補足。",
+    "second_review_id": "CMU-111-R2-Q18",
+    "issue_resolution_index": 17
+  },
+  {
+    "id": "CMU-111-Q19",
+    "school": "CMU",
+    "year": 111,
+    "q": 19,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 19,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "regions": [
+        [
+          40,
+          303.6819999999999,
+          565.32,
+          370.2819999999999
+        ]
+      ],
+      "image": "questions/Q19.png",
+      "sha256": "9d2ad8248adaa08cd627ad9702c57b3d9332696e77642ce7efbcd8dc929eed5e",
+      "width": 1051,
+      "height": 134,
+      "question_text": "19. 在生物技術操作上抗體的使用非常廣泛，抗體與抗原結合所使用的交互作用力有許多種，\n下列何者沒有參與其中?\n(A) 共價鍵 (B) 氫鍵 (C) 凡德瓦爾力 (D) 疏水親水性作用力",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L0132",
+      "toc_line": 132,
+      "chapter": 2,
+      "concept": "2.3",
+      "title": "Weak Chemical Interactions",
+      "printed_page": 38,
+      "body_pdf_page": 87,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        35
+      ],
+      "chapter_label": "Ch02 The Chemical Context of Life"
+    },
+    "secondary": [
+      {
+        "id": "L2883",
+        "toc_line": 2883,
+        "chapter": 43,
+        "concept": "43.2",
+        "title": "Antigen Recognition by B Cells and Antibodies",
+        "printed_page": 958,
+        "body_pdf_page": 1007,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          47
+        ],
+        "chapter_label": "Ch43 The Immune System"
+      },
+      {
+        "id": "L0268",
+        "toc_line": 268,
+        "chapter": 5,
+        "concept": "5.4",
+        "title": "Protein Structure and Function",
+        "printed_page": 78,
+        "body_pdf_page": 127,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          36
+        ],
+        "chapter_label": "Ch05 The Structure and Function of Large Biological Molecules"
+      }
+    ],
+    "primary_reason": "2.3 Weak Chemical Interactions 直接比較抗原–抗體界面的非共價作用與共價鍵，符合問「何者沒有參與」的鑑別。",
+    "secondary_reason": "43.2 Antigen Recognition by B Cells and Antibodies 給出抗原結合位點；5.4 Protein Structure and Function 補充蛋白質立體互補與內部穩定作用。",
+    "answer_analysis": "官方A。一般抗原–抗體特異結合由多種非共價作用協同，包括氫鍵、凡德瓦爾力及疏水效應；抗體本體含共價胜肽鍵及雙硫鍵，與本題問的抗原結合界面不同。題文「疏水親水性作用力」屬概括措辭，不能等同新的一種化學鍵。",
+    "textbook_evidence": [
+      {
+        "printed_page": 38,
+        "pdf_page": 87,
+        "text_file": "textbook_evidence/pdf-0087.txt",
+        "sha256": "7b436164702170dd3d9ef6ec1925721413e5bbaa106eeb9546615e9db6500eff"
+      },
+      {
+        "printed_page": 39,
+        "pdf_page": 88,
+        "text_file": "textbook_evidence/pdf-0088.txt",
+        "sha256": "82f4b763ed0d8475254157cd7a4ce699cdbac78af2926683433a6aa5b1546c38"
+      },
+      {
+        "printed_page": 81,
+        "pdf_page": 130,
+        "text_file": "textbook_evidence/pdf-0130.txt",
+        "sha256": "334c42b756a3b5457a48d60978250e8d1927544dd58f67078a92ae717ef978fb"
+      },
+      {
+        "printed_page": 958,
+        "pdf_page": 1007,
+        "text_file": "textbook_evidence/pdf-1007.txt",
+        "sha256": "6dab36688fee93277c6b00e8154cb9c868728ed4e6ed19989a93c8851cf5788b"
+      },
+      {
+        "printed_page": 959,
+        "pdf_page": 1008,
+        "text_file": "textbook_evidence/pdf-1008.txt",
+        "sha256": "0691b0c70f5741fe27277d6363e599049269560932b50c836a6580393e9e322d"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題與官方釋疑的假設、資料及措辭限制另見科學說明。",
+    "second_review_id": "CMU-111-R2-Q19",
+    "issue_resolution_index": 18
+  },
+  {
+    "id": "CMU-111-Q20",
+    "school": "CMU",
+    "year": 111,
+    "q": 20,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 20,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "regions": [
+        [
+          40,
+          370.2819999999999,
+          565.32,
+          490.90199999999993
+        ]
+      ],
+      "image": "questions/Q20.png",
+      "sha256": "15d5b6676a37df66f4a855a44683d85dfd1ee29ca412624fef23b64f20714013",
+      "width": 1051,
+      "height": 241,
+      "question_text": "20. 披衣菌從中文名稱看似是一種細菌，但早期一度認為是屬於病毒，後來仍歸類為細菌的主\n要原因是?\n(A) 感染方式異於病毒而與細菌雷同\n(B) 菌體大於病毒\n(C) 不能通過0.45微米孔徑的過濾器\n(D) 可以合成自身的蛋白質、核酸、脂質，因此與細菌類似",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [
+        10
+      ],
+      "clarification_disposition": "維持原答案D"
+    },
+    "primary": {
+      "id": "L1751",
+      "toc_line": 1751,
+      "chapter": 27,
+      "concept": "27.4",
+      "title": "Bacteria",
+      "printed_page": 583,
+      "body_pdf_page": 632,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        42
+      ],
+      "chapter_label": "Ch27 Bacteria and Archaea"
+    },
+    "secondary": [
+      {
+        "id": "L1715",
+        "toc_line": 1715,
+        "chapter": 27,
+        "concept": "27.1",
+        "title": "Internal Organization and DNA",
+        "printed_page": 577,
+        "body_pdf_page": 626,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          42
+        ],
+        "chapter_label": "Ch27 Bacteria and Archaea"
+      },
+      {
+        "id": "L1196",
+        "toc_line": 1196,
+        "chapter": 19,
+        "concept": "19.2",
+        "title": "General Features of Viral Replicative Cycles",
+        "printed_page": 401,
+        "body_pdf_page": 450,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          40
+        ],
+        "chapter_label": "Ch19 Viruses"
+      }
+    ],
+    "primary_reason": "27.4 Bacteria 直接把Chlamydia納為細菌且記載其胞內寄生性，支援分類界線。",
+    "secondary_reason": "27.1 Internal Organization and DNA 支援細菌核糖體與基因組；19.2 General Features of Viral Replicative Cycles 比較病毒仰賴宿主的蛋白質製造。",
+    "answer_analysis": "官方D，釋疑PDF10維持。披衣菌有細胞結構、核糖體與自身合成路徑，雖為專性胞內寄生者仍是細菌；研究支持其膜形成需要自身磷脂合成。這不表示可完全脫離宿主生長，也不表示每一種脂質都自行取得；某些病毒可編碼核酸聚合酶，不能把「病毒無自身核糖體翻譯」誤寫為病毒完全沒有核酸合成能力。尺寸與濾膜不是可靠域級界線。",
+    "textbook_evidence": [
+      {
+        "printed_page": 584,
+        "pdf_page": 633,
+        "text_file": "textbook_evidence/pdf-0633.txt",
+        "sha256": "88337c17b6b223b6cc435d9d97f3698365f796085791eaf5a3abbb33b1fdb137"
+      },
+      {
+        "printed_page": 401,
+        "pdf_page": 450,
+        "text_file": "textbook_evidence/pdf-0450.txt",
+        "sha256": "12ae1bc091574db33dbff904e77ca9feb9f80d91882599bba6fc6a5a0f5026a5"
+      },
+      {
+        "printed_page": 577,
+        "pdf_page": 626,
+        "text_file": "textbook_evidence/pdf-0626.txt",
+        "sha256": "49f9e2543eb091244730200f56db00e8fd8c8fba2087eddf85f186eee776d4ce"
+      }
+    ],
+    "supplement_ids": [
+      "S08"
+    ],
+    "coverage_note": "Campbell支援所列分類框架；具名機制或科學界線由列示原始研究/官方來源補足。",
+    "second_review_id": "CMU-111-R2-Q20",
+    "issue_resolution_index": 19
+  },
+  {
+    "id": "CMU-111-Q21",
+    "school": "CMU",
+    "year": 111,
+    "q": 21,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 21,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "regions": [
+        [
+          40,
+          490.90199999999993,
+          565.32,
+          575.502
+        ]
+      ],
+      "image": "questions/Q21.png",
+      "sha256": "072d658c0227b033caa2ae80596b6fe2ef97263e15f60a1ea61a1d16e815fbe1",
+      "width": 1051,
+      "height": 169,
+      "question_text": "21. 在顯微鏡下觀察到金黃色葡萄球菌與鏈球菌同為外型相似的球菌，利用革蘭氏染色也皆為\n陽性，所以常以何種檢驗方法可快速且正確地區分這兩種菌?\n(A) 葡萄糖及蔗糖發酵試驗 (B) 觸酶(catalase)試驗\n(C) 凝固酶(coagulase)試驗 (D) 接種於血液瓊脂平板上觀察其溶血性",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [
+        10
+      ],
+      "clarification_disposition": "維持原答案B"
+    },
+    "primary": {
+      "id": "L1751",
+      "toc_line": 1751,
+      "chapter": 27,
+      "concept": "27.4",
+      "title": "Bacteria",
+      "printed_page": 583,
+      "body_pdf_page": 632,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        42
+      ],
+      "chapter_label": "Ch27 Bacteria and Archaea"
+    },
+    "secondary": [
+      {
+        "id": "L1709",
+        "toc_line": 1709,
+        "chapter": 27,
+        "concept": "27.1",
+        "title": "Cell-Surface Structures",
+        "printed_page": 574,
+        "body_pdf_page": 623,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          42
+        ],
+        "chapter_label": "Ch27 Bacteria and Archaea"
+      }
+    ],
+    "primary_reason": "27.4 Bacteria 對照葡萄球菌與鏈球菌類群，核心是細菌表型鑑別。",
+    "secondary_reason": "27.1 Cell-Surface Structures 說明兩者Gram陽性外形為何不足以區分；檢驗步驟由ASM官方教材補足。",
+    "answer_analysis": "官方B，釋疑PDF10維持。觸酶試驗迅速辨別常見葡萄球菌陽性與鏈球菌陰性。原題點名金黃色葡萄球菌，因此凝固酶也可能提供鑑別資訊；官方以屬級常用、簡單快速的第一步選B，不能將C概括說成對S. aureus完全沒有鑑別力。",
+    "textbook_evidence": [
+      {
+        "printed_page": 574,
+        "pdf_page": 623,
+        "text_file": "textbook_evidence/pdf-0623.txt",
+        "sha256": "4c0cbc106b78534594bf508222ac5897895de648ff119f8c5a4828b6157db0c0"
+      },
+      {
+        "printed_page": 575,
+        "pdf_page": 624,
+        "text_file": "textbook_evidence/pdf-0624.txt",
+        "sha256": "44a634c8b77e0482403e63c6a2bedb87623f8cb207fc92701c8f5f77056e9cf5"
+      },
+      {
+        "printed_page": 584,
+        "pdf_page": 633,
+        "text_file": "textbook_evidence/pdf-0633.txt",
+        "sha256": "88337c17b6b223b6cc435d9d97f3698365f796085791eaf5a3abbb33b1fdb137"
+      }
+    ],
+    "supplement_ids": [
+      "S09"
+    ],
+    "coverage_note": "Campbell支援所列分類框架；具名機制或科學界線由列示原始研究/官方來源補足。",
+    "second_review_id": "CMU-111-R2-Q21",
+    "issue_resolution_index": 20
+  },
+  {
+    "id": "CMU-111-Q22",
+    "school": "CMU",
+    "year": 111,
+    "q": 22,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 22,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "regions": [
+        [
+          40,
+          575.502,
+          565.32,
+          678.132
+        ]
+      ],
+      "image": "questions/Q22.png",
+      "sha256": "e85f5c4b332ba7c3f83b3ee79c22253446b3bfe82303e0ddd82a30360ddd6a1c",
+      "width": 1051,
+      "height": 205,
+      "question_text": "22. 細菌因為抗生素藥物的濫用，造成許多抗藥性的細菌，其中細菌產生 β-lactamase 可以分\n解下列那些抗生素，來抵抗這些抗生素的抑制作用?\nI：頭孢素(cephalosporin) II：青黴素(penicillin)\nIII：鏈黴素(streptomycin) IV：多黏桿菌素(polymyxin)\n(A) I、II (B) II、III (C) III、IV (D) I、IV",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1777",
+      "toc_line": 1777,
+      "chapter": 27,
+      "concept": "27.6",
+      "title": "Antibiotic Resistance",
+      "printed_page": 588,
+      "body_pdf_page": 637,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        42
+      ],
+      "chapter_label": "Ch27 Bacteria and Archaea"
+    },
+    "secondary": [
+      {
+        "id": "L1709",
+        "toc_line": 1709,
+        "chapter": 27,
+        "concept": "27.1",
+        "title": "Cell-Surface Structures",
+        "printed_page": 574,
+        "body_pdf_page": 623,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          42
+        ],
+        "chapter_label": "Ch27 Bacteria and Archaea"
+      }
+    ],
+    "primary_reason": "27.6 Antibiotic Resistance 直接討論抗生素失效及抗藥性，是β-lactamase效應的最小目錄。",
+    "secondary_reason": "27.1 Cell-Surface Structures 的肽聚糖與青黴素作用對應β-lactam類抗生素的共同背景。",
+    "answer_analysis": "官方A I、II。β-lactamase水解β-lactam環；青黴素及頭孢菌素屬此類，鏈黴素為胺基糖苷、多黏桿菌素為多肽類。不同β-lactamase的受質範圍不一，不表示任一種酶都能同樣分解所有頭孢菌素。",
+    "textbook_evidence": [
+      {
+        "printed_page": 574,
+        "pdf_page": 623,
+        "text_file": "textbook_evidence/pdf-0623.txt",
+        "sha256": "4c0cbc106b78534594bf508222ac5897895de648ff119f8c5a4828b6157db0c0"
+      },
+      {
+        "printed_page": 575,
+        "pdf_page": 624,
+        "text_file": "textbook_evidence/pdf-0624.txt",
+        "sha256": "44a634c8b77e0482403e63c6a2bedb87623f8cb207fc92701c8f5f77056e9cf5"
+      },
+      {
+        "printed_page": 588,
+        "pdf_page": 637,
+        "text_file": "textbook_evidence/pdf-0637.txt",
+        "sha256": "357a8b3756938bcffa4f89d7963c813da645cd9d2bd3f4b4e6e5933afd4b01a1"
+      },
+      {
+        "printed_page": 589,
+        "pdf_page": 638,
+        "text_file": "textbook_evidence/pdf-0638.txt",
+        "sha256": "be1de5bc1c6e4b9c4ada34ef5d1d59bfbe9fc48bac83882f026a3eb74adbc983"
+      }
+    ],
+    "supplement_ids": [
+      "S10"
+    ],
+    "coverage_note": "Campbell支援所列分類框架；具名機制或科學界線由列示原始研究/官方來源補足。",
+    "second_review_id": "CMU-111-R2-Q22",
+    "issue_resolution_index": 21
+  },
+  {
+    "id": "CMU-111-Q23",
+    "school": "CMU",
+    "year": 111,
+    "q": 23,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 23,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "regions": [
+        [
+          40,
+          678.132,
+          565.32,
+          816.92
+        ]
+      ],
+      "image": "questions/Q23.png",
+      "sha256": "2112ed997b745c357a2e84466f6b3f9f1b7359e3d80665ca567f70a1678b2988",
+      "width": 1051,
+      "height": 278,
+      "question_text": "23. 族群生態學屬於生態學的子領域，研究物種族群的動態和這些族群與環境間相互作用關係，\n例如出生率和死亡率、遷出率與遷入率，有關族群生態學的敘述，下列何者最正確?\n(A) 量化蝴蝶族群密度的最佳方法，是使用穿越線調查法\n(B) 寄生現象通常是影響族群的密度依賴性因子\n(C) 在族群過渡階段，通常出生率下降較早於死亡率\n(D) 乾旱和洪水是可能影響族群規模的密度依賴因子\n本試題（含封面）共計9頁之第4頁",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [
+        10
+      ],
+      "clarification_disposition": "維持原答案B"
+    },
+    "primary": {
+      "id": "L3574",
+      "toc_line": 3574,
+      "chapter": 53,
+      "concept": "53.5",
+      "title": "Mechanisms of Density-Dependent Population Regulation",
+      "printed_page": 1203,
+      "body_pdf_page": 1252,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        49
+      ],
+      "chapter_label": "Ch53 Population Ecology"
+    },
+    "secondary": [
+      {
+        "id": "L3531",
+        "toc_line": 3531,
+        "chapter": 53,
+        "concept": "53.1",
+        "title": "Density and Dispersion",
+        "printed_page": 1191,
+        "body_pdf_page": 1240,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          49
+        ],
+        "chapter_label": "Ch53 Population Ecology"
+      },
+      {
+        "id": "L3584",
+        "toc_line": 3584,
+        "chapter": 53,
+        "concept": "53.6",
+        "title": "The Global Human Population",
+        "printed_page": 1207,
+        "body_pdf_page": 1256,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          50
+        ],
+        "chapter_label": "Ch53 Population Ecology"
+      }
+    ],
+    "primary_reason": "53.5 Mechanisms of Density-Dependent Population Regulation 直接處理寄生與疾病隨密度影響族群，對應答案B。",
+    "secondary_reason": "53.1 Density and Dispersion 處理蝴蝶數量估計方法；53.6 The Global Human Population（正文的Demographic Transition） 比較死亡率及出生率下降先後。",
+    "answer_analysis": "官方B，釋疑PDF10維持。寄生通常為密度依賴因子；人口轉型一般死亡率先下降，乾旱洪水常作密度非依賴例子。穿越線可估計蝴蝶相對豐度，配合偵測率也可作密度估計；標記再捕亦需封閉及捕捉機率假設。原題「最佳」過強，釋疑把穿越線只限生物多樣性也過窄，保留方法界線而不改官方B。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1191,
+        "pdf_page": 1240,
+        "text_file": "textbook_evidence/pdf-1240.txt",
+        "sha256": "352f7cc9e9a6be01f4306097727c5c7eff47ce283ac379619120c543e5ff481b"
+      },
+      {
+        "printed_page": 1192,
+        "pdf_page": 1241,
+        "text_file": "textbook_evidence/pdf-1241.txt",
+        "sha256": "01a711be3df7e1efd486a4523a7ed66e4b8beafab1cb0cbdd66d53850ed005c3"
+      },
+      {
+        "printed_page": 1202,
+        "pdf_page": 1251,
+        "text_file": "textbook_evidence/pdf-1251.txt",
+        "sha256": "f644153a48a3558975f05e9d91254eb27c5d49407abf93f69c90b40f8e478696"
+      },
+      {
+        "printed_page": 1203,
+        "pdf_page": 1252,
+        "text_file": "textbook_evidence/pdf-1252.txt",
+        "sha256": "b1c261d6ea6c79e71e77903ed1ea62a4a3d104590f78e4296a588dab2f72a380"
+      },
+      {
+        "printed_page": 1204,
+        "pdf_page": 1253,
+        "text_file": "textbook_evidence/pdf-1253.txt",
+        "sha256": "3a01a0c721431377475083dd3f4723b5fdc76bdb8bfa389be1cd03d2a91a7cfb"
+      },
+      {
+        "printed_page": 1207,
+        "pdf_page": 1256,
+        "text_file": "textbook_evidence/pdf-1256.txt",
+        "sha256": "9c6955c5a0be6f6b41f026bd7fc8c27e0cf53222194c1496dd2e831004607a3c"
+      },
+      {
+        "printed_page": 1208,
+        "pdf_page": 1257,
+        "text_file": "textbook_evidence/pdf-1257.txt",
+        "sha256": "bfdb1198ec6cad56b3d0fd1f98edc3a9b1f1ec1c59c498204955e28f8532c2b0"
+      }
+    ],
+    "supplement_ids": [
+      "S11"
+    ],
+    "coverage_note": "Campbell支援所列分類框架；具名機制或科學界線由列示原始研究/官方來源補足。",
+    "second_review_id": "CMU-111-R2-Q23",
+    "issue_resolution_index": 22
+  },
+  {
+    "id": "CMU-111-Q24",
+    "school": "CMU",
+    "year": 111,
+    "q": 24,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 24,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "regions": [
+        [
+          40,
+          85.85199999999998,
+          565.32,
+          188.452
+        ]
+      ],
+      "image": "questions/Q24.png",
+      "sha256": "8e28a2d44fd641c7305a80e7b034cc5a232c966d868d27c707ed70bbb3a572d9",
+      "width": 1051,
+      "height": 205,
+      "question_text": "24. 反轉錄酶的發現顛覆了原本自然界的法則，也促進生物產業的進步。下列哪兩個病毒複製\n皆需要反轉錄酶?\nI：慢病毒(lentivirus) II：腸病毒(enteric virus)\nIII：B 型肝炎病毒(hepatitis B virus) IV：痘病毒(pox virus)\n(A) I、II (B) I、III (C) III、IV (D) I、IV",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [
+        11
+      ],
+      "clarification_disposition": "維持原答案B"
+    },
+    "primary": {
+      "id": "L1202",
+      "toc_line": 1202,
+      "chapter": 19,
+      "concept": "19.2",
+      "title": "Replicative Cycles of Animal Viruses",
+      "printed_page": 404,
+      "body_pdf_page": 453,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        40
+      ],
+      "chapter_label": "Ch19 Viruses"
+    },
+    "secondary": [],
+    "primary_reason": "19.2 Replicative Cycles of Animal Viruses 直接比較RNA反轉錄病毒及DNA病毒複製路徑。",
+    "secondary_reason": "兩個正解均屬同一最小條目的病毒基因組複製，無必要重列一般遺傳資訊流。",
+    "answer_analysis": "官方B I、III，釋疑PDF11維持。慢病毒為反轉錄病毒；HBV雖為DNA病毒，利用pgRNA中間體反轉錄製造DNA，不能將HBV改列成Retroviridae。題文中文「腸病毒」與英文enteric virus並不完全同範圍，依選項預期的腸病毒群比較；不是所有腸道感染病毒的正式分類名稱。",
+    "textbook_evidence": [
+      {
+        "printed_page": 404,
+        "pdf_page": 453,
+        "text_file": "textbook_evidence/pdf-0453.txt",
+        "sha256": "c89c8a8f4e79ae7f107ce444f50c6c9084a6cf684f159dce135c3906424a797a"
+      },
+      {
+        "printed_page": 405,
+        "pdf_page": 454,
+        "text_file": "textbook_evidence/pdf-0454.txt",
+        "sha256": "ab3091fcc0965fecadd47e170e14cb0ad3a32ae0cdfb06bc707d08683c65aeb7"
+      },
+      {
+        "printed_page": 406,
+        "pdf_page": 455,
+        "text_file": "textbook_evidence/pdf-0455.txt",
+        "sha256": "7033ad441c19dcb5c3bd94f350b532666dc7cb0705f5daca13551a162d80cf76"
+      }
+    ],
+    "supplement_ids": [
+      "S12"
+    ],
+    "coverage_note": "Campbell支援所列分類框架；具名機制或科學界線由列示原始研究/官方來源補足。",
+    "second_review_id": "CMU-111-R2-Q24",
+    "issue_resolution_index": 23
+  },
+  {
+    "id": "CMU-111-Q25",
+    "school": "CMU",
+    "year": 111,
+    "q": 25,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 25,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "regions": [
+        [
+          40,
+          188.452,
+          565.32,
+          273.082
+        ]
+      ],
+      "image": "questions/Q25.png",
+      "sha256": "cb2c1f31f4f033d70fd58ebaed0270ba4e18e61f9c7d9b555a5ead43b0ef5e43",
+      "width": 1051,
+      "height": 169,
+      "question_text": "25. 傳染性蛋白(prion)無法利用消毒滅菌的方式消滅，也沒有疫苗可以防治，下列何種疾病不\n是由傳染性蛋白(prion)引起?\n(A) 狂牛病(mad cow disease) (B) 庫賈氏病(Creutzfeldt-Jakob Disease)\n(C) 克魯症(kuru) (D) 亞急性硬化性全腦炎(subacute sclerosing panencephalitis)",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1221",
+      "toc_line": 1221,
+      "chapter": 19,
+      "concept": "19.3",
+      "title": "Prions: Proteins as Infectious Agents",
+      "printed_page": 412,
+      "body_pdf_page": 461,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        40
+      ],
+      "chapter_label": "Ch19 Viruses"
+    },
+    "secondary": [
+      {
+        "id": "L1212",
+        "toc_line": 1212,
+        "chapter": 19,
+        "concept": "19.3",
+        "title": "Viral Diseases in Animals",
+        "printed_page": 408,
+        "body_pdf_page": 457,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          40
+        ],
+        "chapter_label": "Ch19 Viruses"
+      }
+    ],
+    "primary_reason": "19.3 Prions: Proteins as Infectious Agents 直接定義prion及其相關神經退化疾病。",
+    "secondary_reason": "19.3 Viral Diseases in Animals 連接SSPE為麻疹病毒持續感染後果的反例。",
+    "answer_analysis": "官方D。SSPE與麻疹病毒持續感染有關；狂牛病、CJD與kuru屬prion疾病。原題「無法利用消毒滅菌方式消滅」過度絕對，CDC有專門prion去污處理規範，不能把抗一般處理等同任何方法皆無效。此處僅記錄科學差異，不提供操作處方。",
+    "textbook_evidence": [
+      {
+        "printed_page": 412,
+        "pdf_page": 461,
+        "text_file": "textbook_evidence/pdf-0461.txt",
+        "sha256": "6537c66ded6487bf7a1506220deebbaae8acbb4e162025da08441fba337b4df0"
+      },
+      {
+        "printed_page": 413,
+        "pdf_page": 462,
+        "text_file": "textbook_evidence/pdf-0462.txt",
+        "sha256": "a98b9f8177e2d8863c7bb160fb4061e17a24dba8473c39bae775c39d404a85da"
+      },
+      {
+        "printed_page": 408,
+        "pdf_page": 457,
+        "text_file": "textbook_evidence/pdf-0457.txt",
+        "sha256": "c45218305ce62726f1ce01c74462e71914534dd66e4f698178c95834fa93b1e2"
+      }
+    ],
+    "supplement_ids": [
+      "S13"
+    ],
+    "coverage_note": "Campbell支援所列分類框架；具名機制或科學界線由列示原始研究/官方來源補足。",
+    "second_review_id": "CMU-111-R2-Q25",
+    "issue_resolution_index": 24
+  },
+  {
+    "id": "CMU-111-Q26",
+    "school": "CMU",
+    "year": 111,
+    "q": 26,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 26,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "regions": [
+        [
+          40,
+          273.082,
+          565.32,
+          375.68199999999996
+        ]
+      ],
+      "image": "questions/Q26.png",
+      "sha256": "0b77dd9f52cdeeba916fa3912d6659748aff606cee4a601e3c6411cfea17ad61",
+      "width": 1051,
+      "height": 205,
+      "question_text": "26. 小吳到高雄壽山遊玩時，不小心被蝙蝠咬到，回到家後，出現不適、意識不清、口水變多、\n吞嚥時喉嚨劇烈疼痛的現象，腦部病理切片可見嗜酸性質內包涵體。請問小吳可能罹患下\n列何種疾病?\n(A) 狂犬病(rabies) (B) 疱疹性腦炎(herpes encephalitis)\n(C) 脊髓灰質炎(poliomyelitis) (D) 狂牛病(mad cow disease)",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1212",
+      "toc_line": 1212,
+      "chapter": 19,
+      "concept": "19.3",
+      "title": "Viral Diseases in Animals",
+      "printed_page": 408,
+      "body_pdf_page": 457,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        40
+      ],
+      "chapter_label": "Ch19 Viruses"
+    },
+    "secondary": [],
+    "primary_reason": "19.3 Viral Diseases in Animals 依病原與感染症表現辨識狂犬病，並非考一般神經傳導。",
+    "secondary_reason": "症候與Negri小體是辨識病原線索，未另擴列神經系統章作主要學習目標。",
+    "answer_analysis": "官方A。蝙蝠暴露、吞嚥痙攣及流涎、腦炎與神經細胞胞質嗜酸性Negri包涵體支持狂犬病。Campbell供動物病毒疾病框架，臨床與病理辨識由CDC補足。原文「回到家後」未給潛伏期，不能解讀成此次咬傷同日必然引起症狀；一般潛伏數週至數月。",
+    "textbook_evidence": [
+      {
+        "printed_page": 405,
+        "pdf_page": 454,
+        "text_file": "textbook_evidence/pdf-0454.txt",
+        "sha256": "ab3091fcc0965fecadd47e170e14cb0ad3a32ae0cdfb06bc707d08683c65aeb7"
+      },
+      {
+        "printed_page": 408,
+        "pdf_page": 457,
+        "text_file": "textbook_evidence/pdf-0457.txt",
+        "sha256": "c45218305ce62726f1ce01c74462e71914534dd66e4f698178c95834fa93b1e2"
+      }
+    ],
+    "supplement_ids": [
+      "S14"
+    ],
+    "coverage_note": "Campbell支援所列分類框架；具名機制或科學界線由列示原始研究/官方來源補足。",
+    "second_review_id": "CMU-111-R2-Q26",
+    "issue_resolution_index": 25
+  },
+  {
+    "id": "CMU-111-Q27",
+    "school": "CMU",
+    "year": 111,
+    "q": 27,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 27,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "regions": [
+        [
+          40,
+          375.68199999999996,
+          565.32,
+          496.30199999999996
+        ]
+      ],
+      "image": "questions/Q27.png",
+      "sha256": "0f8599d39752c98c29e3b3a41a87bbe1f575ab056bf2a9a979e33b77be111660",
+      "width": 1051,
+      "height": 242,
+      "question_text": "27. 在早期的人類胚胎中，基因 HoxB7表現後，生產出同源盒蛋白(homeobox protein) HoxB7，\n此蛋白參與中樞神經系統的發育，持續發育的人類胚胎中，HoxB7 亦在腎臟的生長和發育\n中起關鍵作用，此種同一基因表現在不同時間和發育區域具有不同功能的現象，是屬於下\n列何種現象?\n(A) 多效性(pleiotropy) (B) 同源性(homology)\n(C) 不整合(unconformity) (D) 約束(constraint)",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L0892",
+      "toc_line": 892,
+      "chapter": 14,
+      "concept": "14.3",
+      "title": "Extending Mendelian Genetics for a Single Gene",
+      "printed_page": 278,
+      "body_pdf_page": 327,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        38
+      ],
+      "chapter_label": "Ch14 Mendel and the Gene Idea"
+    },
+    "secondary": [
+      {
+        "id": "L1362",
+        "toc_line": 1362,
+        "chapter": 21,
+        "concept": "21.6",
+        "title": "Widespread Conservation of Developmental Genes Among Animals",
+        "printed_page": 463,
+        "body_pdf_page": 512,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          40
+        ],
+        "chapter_label": "Ch21 Genomes and Their Evolution"
+      }
+    ],
+    "primary_reason": "14.3 Extending Mendelian Genetics for a Single Gene 包含正文的pleiotropy，一基因影響多種性狀最直接對應題意。",
+    "secondary_reason": "21.6 Widespread Conservation of Developmental Genes Among Animals 補充Hox與homeobox的發育調控背景。",
+    "answer_analysis": "官方A。依題設，同一基因對中樞神經及腎發育有多種作用，屬多效性，不是多基因共同控制單一性狀。HoxB7的人類具體例證在本輪未獨立證明每一功能；小鼠Hox腎發育圖譜只作有限背景，不冒充人類臨床功能證明，更不使用名稱相似但實為Msx1的Hox-7論文。分類可由題設明確的原理判定。",
+    "textbook_evidence": [
+      {
+        "printed_page": 280,
+        "pdf_page": 329,
+        "text_file": "textbook_evidence/pdf-0329.txt",
+        "sha256": "3eed65004beb624f277c96aff17f92ad678c5cc73f2fe1ac855edcb93fc1dd17"
+      },
+      {
+        "printed_page": 281,
+        "pdf_page": 330,
+        "text_file": "textbook_evidence/pdf-0330.txt",
+        "sha256": "4ab76504c8b946848b988e4e55d97315b962fcc9d8d979e446df0818a74283c1"
+      },
+      {
+        "printed_page": 463,
+        "pdf_page": 512,
+        "text_file": "textbook_evidence/pdf-0512.txt",
+        "sha256": "29dee7d5e78673e230a1bcfd0e13b04708f51fcdc5bf5b7ba05c1cb674284e05"
+      },
+      {
+        "printed_page": 464,
+        "pdf_page": 513,
+        "text_file": "textbook_evidence/pdf-0513.txt",
+        "sha256": "59cdbf4104f1a6007caf482d1f3d381642a3f585483c43d06f339b9efd61438f"
+      }
+    ],
+    "supplement_ids": [
+      "S15"
+    ],
+    "coverage_note": "Campbell支援所列分類框架；具名機制或科學界線由列示原始研究/官方來源補足。",
+    "second_review_id": "CMU-111-R2-Q27",
+    "issue_resolution_index": 26
+  },
+  {
+    "id": "CMU-111-Q28",
+    "school": "CMU",
+    "year": 111,
+    "q": 28,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 28,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "regions": [
+        [
+          40,
+          496.30199999999996,
+          565.32,
+          634.9019999999999
+        ]
+      ],
+      "image": "questions/Q28.png",
+      "sha256": "9fb033ec177425a6580eb1f90ae7ca889cffcb08d86043a46bcf790f768f9c40",
+      "width": 1051,
+      "height": 277,
+      "question_text": "28. 假設在地質變動的過程，導致地層抬升與切割後，發現了一脊椎動物的骨骼化石，經由地\n層的定年結果為距今約 3.6 億至 3.8 億年前的晚泥盆紀，古生物學者研究後，依據下列何\n種構造特徵，推斷此種化石生物屬於一種四足類動物(tetrapod)?\n(A) 一個具有背對眼眶(dorsally facing orbits)的扁平狀頭骨\n(B) 鰓的骨骼支撐(skeletal support)消失\n(C) 椎骨(vertebrae)間以及椎骨與骨盆(pelvis)間的關節發育完全\n(D) 肺臟能夠呼吸大氣中的氧氣",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L2199",
+      "toc_line": 2199,
+      "chapter": 34,
+      "concept": "34.4",
+      "title": "Derived Characters of Tetrapods",
+      "printed_page": 730,
+      "body_pdf_page": 779,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        44
+      ],
+      "chapter_label": "Ch34 The Origin and Evolution of Vertebrates"
+    },
+    "secondary": [
+      {
+        "id": "L2202",
+        "toc_line": 2202,
+        "chapter": 34,
+        "concept": "34.4",
+        "title": "The Origin of Tetrapods",
+        "printed_page": 731,
+        "body_pdf_page": 780,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          44
+        ],
+        "chapter_label": "Ch34 The Origin and Evolution of Vertebrates"
+      }
+    ],
+    "primary_reason": "34.4 Derived Characters of Tetrapods 直接討論四足類支持軀幹與骨盆連接，對應答案C的形態證據。",
+    "secondary_reason": "34.4 The Origin of Tetrapods 以泥盆紀過渡化石說明性狀逐步取得，限制單一特徵的排他性。",
+    "answer_analysis": "官方C。相較扁頭、背向眼眶及肺，椎骨／骨盆連接是題目支持承重的最佳線索；早期四足類並非一律失去鰓的骨骼支持。教材以具指四肢等整套性狀定義四足類；2024 Tiktaalik研究指出近親也已有部分薦部專化，因此不把C當不受過渡化石限制的唯一絕對診斷，且骨骼不能直接證實肺的生理功能。",
+    "textbook_evidence": [
+      {
+        "printed_page": 730,
+        "pdf_page": 779,
+        "text_file": "textbook_evidence/pdf-0779.txt",
+        "sha256": "da53978cd4674bb713fa5f6829c83b4c7948d53eaf2e50573a173a9b1d959ccd"
+      },
+      {
+        "printed_page": 731,
+        "pdf_page": 780,
+        "text_file": "textbook_evidence/pdf-0780.txt",
+        "sha256": "f1ba2139cde9e930232680148006db1e14670de8bdefe3b304bc7cf7c2991806"
+      },
+      {
+        "printed_page": 732,
+        "pdf_page": 781,
+        "text_file": "textbook_evidence/pdf-0781.txt",
+        "sha256": "7448b8aac94f7ae08c26ebc8b79581eb50ca5502f406a2c8fad0bc54eabccd40"
+      }
+    ],
+    "supplement_ids": [
+      "S16"
+    ],
+    "coverage_note": "Campbell支援所列分類框架；具名機制或科學界線由列示原始研究/官方來源補足。",
+    "second_review_id": "CMU-111-R2-Q28",
+    "issue_resolution_index": 27
+  },
+  {
+    "id": "CMU-111-Q29",
+    "school": "CMU",
+    "year": 111,
+    "q": 29,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 29,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "regions": [
+        [
+          40,
+          634.9019999999999,
+          565.32,
+          719.5319999999999
+        ]
+      ],
+      "image": "questions/Q29.png",
+      "sha256": "9ccec918cd708dc8553a6fc1cfee7f969216529d12a74c4a7053cb51cea6d1cf",
+      "width": 1051,
+      "height": 169,
+      "question_text": "29. 有關測量個體之間的變異如何受遺傳差異的影響，而這些遺傳差異則由父母親平均傳給子\n代，即累加性遺傳變異所導致的外表型變異比例，此敘述與下列何者最接近？\n(A) 外表型變異(phenotypic variation) (B) 遺傳變異(genetic variation)\n(C) 廣義遺傳率(broad-sense heritability) (D) 狹義遺傳率(narrow-sense heritability)",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L0898",
+      "toc_line": 898,
+      "chapter": 14,
+      "concept": "14.3",
+      "title": "Nature and Nurture: The Environmental Impact on Phenotype",
+      "printed_page": 282,
+      "body_pdf_page": 331,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        38
+      ],
+      "chapter_label": "Ch14 Mendel and the Gene Idea"
+    },
+    "secondary": [
+      {
+        "id": "L0895",
+        "toc_line": 895,
+        "chapter": 14,
+        "concept": "14.3",
+        "title": "Extending Mendelian Genetics for Two or More Genes",
+        "printed_page": 281,
+        "body_pdf_page": 330,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          38
+        ],
+        "chapter_label": "Ch14 Mendel and the Gene Idea"
+      }
+    ],
+    "primary_reason": "14.3 Nature and Nurture: The Environmental Impact on Phenotype 比較基因與環境對表型的貢獻，是本地TOC可用的最小對應。",
+    "secondary_reason": "14.3 Extending Mendelian Genetics for Two or More Genes（正文的Polygenic Inheritance） 補充累加性等位基因效果；不用正文術語自行虛構TOC的「heritability」條目。",
+    "answer_analysis": "官方D。狹義遺傳率h²=VA/VP；廣義H²=VG/VP，VG含累加、顯性與交互作用等遺傳變異。本題明指累加性比例，所以選D。這是特定族群及環境的變異比例，不是個體性狀有幾成由父母造成，也不是父母各傳一半便得到0.5遺傳率。公式由Nature教育原文補足。",
+    "textbook_evidence": [
+      {
+        "printed_page": 281,
+        "pdf_page": 330,
+        "text_file": "textbook_evidence/pdf-0330.txt",
+        "sha256": "4ab76504c8b946848b988e4e55d97315b962fcc9d8d979e446df0818a74283c1"
+      },
+      {
+        "printed_page": 282,
+        "pdf_page": 331,
+        "text_file": "textbook_evidence/pdf-0331.txt",
+        "sha256": "bd4418e48e71b013f6b1cd6f0acc0afd130acdcc1885c48c5ffda74d34c9b3cd"
+      },
+      {
+        "printed_page": 283,
+        "pdf_page": 332,
+        "text_file": "textbook_evidence/pdf-0332.txt",
+        "sha256": "a9461254d251f1a5ed778329c0389b3681bedd00ed6a92fa0af4ddd65a20d90b"
+      }
+    ],
+    "supplement_ids": [
+      "S17"
+    ],
+    "coverage_note": "Campbell支援所列分類框架；具名機制或科學界線由列示原始研究/官方來源補足。",
+    "second_review_id": "CMU-111-R2-Q29",
+    "issue_resolution_index": 28
+  },
+  {
+    "id": "CMU-111-Q30",
+    "school": "CMU",
+    "year": 111,
+    "q": 30,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 30,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "regions": [
+        [
+          40,
+          719.5319999999999,
+          565.32,
+          816.92
+        ]
+      ],
+      "image": "questions/Q30.png",
+      "sha256": "3eca6a96c554bb9d81ee584920d18fcfaadc0a5687a8d6971525ba72c374c25f",
+      "width": 1051,
+      "height": 195,
+      "question_text": "30. 在植物細胞中，除了細胞質游離的核醣體或附著在內質網的核醣體會進行轉譯作用而生合\n成蛋白質，下列何種細胞構造中可以發現蛋白質的生合成?\n(A) 細胞間基質(extracellular matrix) (B) 高爾基氏體(Golgi apparatus)\n(C) 有色體(chromoplast) (D) 核仁(nucleolus)\n本試題（含封面）共計9頁之第5頁",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L0362",
+      "toc_line": 362,
+      "chapter": 6,
+      "concept": "6.5",
+      "title": "The Evolutionary Origins of Mitochondria and Chloroplasts",
+      "printed_page": 109,
+      "body_pdf_page": 158,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        36
+      ],
+      "chapter_label": "Ch06 A Tour of the Cell"
+    },
+    "secondary": [
+      {
+        "id": "L0368",
+        "toc_line": 368,
+        "chapter": 6,
+        "concept": "6.5",
+        "title": "Chloroplasts: Capture of Light Energy",
+        "printed_page": 110,
+        "body_pdf_page": 159,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          36
+        ],
+        "chapter_label": "Ch06 A Tour of the Cell"
+      }
+    ],
+    "primary_reason": "6.5 The Evolutionary Origins of Mitochondria and Chloroplasts 說明半自主胞器保留DNA與核糖體，對應非細胞質位置的蛋白質製造。",
+    "secondary_reason": "6.5 Chloroplasts: Capture of Light Energy 正文延伸plastids含chromoplast，建立有色體與質體的關係。",
+    "answer_analysis": "官方C。有色體屬質體；番茄成熟有色體原始研究顯示仍有特定轉譯活動。不能由「含質體基因組」推成每一種成熟有色體都有同等活性：水仙成熟有色體研究可見核糖體消失。Golgi與細胞外基質不是自主核糖體轉譯場所，核仁主要rRNA及核糖體次單元形成。",
+    "textbook_evidence": [
+      {
+        "printed_page": 109,
+        "pdf_page": 158,
+        "text_file": "textbook_evidence/pdf-0158.txt",
+        "sha256": "7de28165cb8bff3bacd880ad5856c6e4ac13778a2dfe70f3df7ec9cc88939b69"
+      },
+      {
+        "printed_page": 110,
+        "pdf_page": 159,
+        "text_file": "textbook_evidence/pdf-0159.txt",
+        "sha256": "b19dc207171e51593e43340c05466120f897d531809799535931bbc2044c389f"
+      },
+      {
+        "printed_page": 111,
+        "pdf_page": 160,
+        "text_file": "textbook_evidence/pdf-0160.txt",
+        "sha256": "6b944add21bec0bf254e85e38cc27ae7b6b975c5f9a4ac6ab26ae19227cd55e3"
+      }
+    ],
+    "supplement_ids": [
+      "S18"
+    ],
+    "coverage_note": "Campbell支援所列分類框架；具名機制或科學界線由列示原始研究/官方來源補足。",
+    "second_review_id": "CMU-111-R2-Q30",
+    "issue_resolution_index": 29
+  },
+  {
+    "id": "CMU-111-Q31",
+    "school": "CMU",
+    "year": 111,
+    "q": 31,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 31,
+      "pdf_page": 6,
+      "printed_page": 6,
+      "regions": [
+        [
+          40,
+          85.85199999999998,
+          565.32,
+          224.452
+        ]
+      ],
+      "image": "questions/Q31.png",
+      "sha256": "85ebada2cb48d8e6110f0a0a8c149f82a6f6124f15a76eccb57f630bff17b748",
+      "width": 1051,
+      "height": 277,
+      "question_text": "31. 藻類與植物的生活史類型，依據染色體套數來劃分，可以區分為單倍體時期和二倍體時期，\n不同分類群因生活史而區分為合子生活史(zygotic life cycle)、配子生活史(gametic life cycle)\n和孢子生活史(sporic life cycle)。有關藻類與植物生活史的敘述，下列何者最正確?\n(A) 合子生活史的物種以孢子體世代為主\n(B) 配子生活史的物種只在合子時短暫的具有二倍體階段\n(C) 配子生活史的物種產生配子前行減數分裂\n(D) 合子生活史的物種具明顯的世代交替",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [
+        12
+      ],
+      "clarification_disposition": "維持原答案C"
+    },
+    "primary": {
+      "id": "L0830",
+      "toc_line": 830,
+      "chapter": 13,
+      "concept": "13.2",
+      "title": "The Variety of Sexual Life Cycles",
+      "printed_page": 258,
+      "body_pdf_page": 307,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        38
+      ],
+      "chapter_label": "Ch13 Meiosis and Sexual Life Cycles"
+    },
+    "secondary": [],
+    "primary_reason": "13.2 The Variety of Sexual Life Cycles 比較減數分裂所在階段與單／雙倍體生活史，直接解決配子生活史。",
+    "secondary_reason": "三生活史已在同一條目中比較，不因題目寫藻類便重複加入多個分類群條目。",
+    "answer_analysis": "官方C，釋疑PDF12維持。gametic meiosis由雙倍體直接產生單倍體配子；zygotic meiosis的雙倍體階段主要為合子，sporic meiosis有多細胞孢子體及配子體交替。釋疑把gametic的雙倍體概稱「孢子體」較鬆，並非所有雙倍體個體都等同植物學孢子體。",
+    "textbook_evidence": [
+      {
+        "printed_page": 258,
+        "pdf_page": 307,
+        "text_file": "textbook_evidence/pdf-0307.txt",
+        "sha256": "488ba6583d7d0469f20e1f726d79e0dade35387b06b3d3d9f75ede217df93378"
+      },
+      {
+        "printed_page": 259,
+        "pdf_page": 308,
+        "text_file": "textbook_evidence/pdf-0308.txt",
+        "sha256": "c22bea47ebb00e5fa913d935310d73221c9117e771ee2e371bd60b70b148a5e2"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題與官方釋疑的假設、資料及措辭限制另見科學說明。",
+    "second_review_id": "CMU-111-R2-Q31",
+    "issue_resolution_index": 30
+  },
+  {
+    "id": "CMU-111-Q32",
+    "school": "CMU",
+    "year": 111,
+    "q": 32,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 32,
+      "pdf_page": 6,
+      "printed_page": 6,
+      "regions": [
+        [
+          40,
+          224.452,
+          565.32,
+          332.27799999999996
+        ]
+      ],
+      "image": "questions/Q32.png",
+      "sha256": "a863b94c053ad1896d51b8f567e8291194d1b767297c0955355ef9a97a7fa844",
+      "width": 1051,
+      "height": 216,
+      "question_text": "32. 有關達爾文雀(Darwin's finches)的研究發現，在其分布島嶼的獨立族群，因乾旱來臨導致\n食物不足，致使此種鳥類族群之平均鳥喙大小在連續幾代間產生變化，此種變化的情形最\n符合下列何種現象?\n(A) 隔離(sequestration) (B) 種化(speciation)\n(C) 溯祖理論(coalescence) (D) 微演化(microevolution)",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1452",
+      "toc_line": 1452,
+      "chapter": 23,
+      "concept": "23.3",
+      "title": "Natural Selection",
+      "printed_page": 494,
+      "body_pdf_page": 543,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        41
+      ],
+      "chapter_label": "Ch23 The Evolution of Populations"
+    },
+    "secondary": [
+      {
+        "id": "L1465",
+        "toc_line": 1465,
+        "chapter": 23,
+        "concept": "23.4",
+        "title": "Natural Selection: A Closer Look",
+        "printed_page": 497,
+        "body_pdf_page": 546,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          41
+        ],
+        "chapter_label": "Ch23 The Evolution of Populations"
+      }
+    ],
+    "primary_reason": "23.3 Natural Selection 解釋乾旱造成不同鳥喙個體存活與繁殖差異，直接對應數代族群改變。",
+    "secondary_reason": "23.4 Natural Selection: A Closer Look 保留方向性選擇與適應效果；印刷487的達爾文雀實例輔助確認微演化。",
+    "answer_analysis": "官方D。題目是同一族群連續世代平均喙形與等位基因頻率的變化，不表示每一隻鳥在乾旱時主動把喙變大，也沒有足夠資訊判定已形成生殖隔離或新種。",
+    "textbook_evidence": [
+      {
+        "printed_page": 486,
+        "pdf_page": 535,
+        "text_file": "textbook_evidence/pdf-0535.txt",
+        "sha256": "40ef8f25e899ead6710739a811a39cd72b662c3b0eae63bcded969fb0972f8e1"
+      },
+      {
+        "printed_page": 487,
+        "pdf_page": 536,
+        "text_file": "textbook_evidence/pdf-0536.txt",
+        "sha256": "c85903c27e93d13f7d85dcd230c7358d03be8491305296e213f140cf00f666cc"
+      },
+      {
+        "printed_page": 493,
+        "pdf_page": 542,
+        "text_file": "textbook_evidence/pdf-0542.txt",
+        "sha256": "3652b1fd2ea97eb6f099b8ea306c9bc2ee6e80630c92c6b53ff1156c7e8e4a3b"
+      },
+      {
+        "printed_page": 494,
+        "pdf_page": 543,
+        "text_file": "textbook_evidence/pdf-0543.txt",
+        "sha256": "083ff25dc821ec4a71d3ccca177ceadd1f156f9e01b2240d816a13558dcb360f"
+      },
+      {
+        "printed_page": 497,
+        "pdf_page": 546,
+        "text_file": "textbook_evidence/pdf-0546.txt",
+        "sha256": "fae9e775197dea5910b874038d50f2244276f86d6af651db3120fa43280ca997"
+      },
+      {
+        "printed_page": 498,
+        "pdf_page": 547,
+        "text_file": "textbook_evidence/pdf-0547.txt",
+        "sha256": "3403e8b7f991e24a1527ff71deb96fdc2288e8f2586dbc611da0cf905c9ce414"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題與官方釋疑的假設、資料及措辭限制另見科學說明。",
+    "second_review_id": "CMU-111-R2-Q32",
+    "issue_resolution_index": 31
+  },
+  {
+    "id": "CMU-111-Q33",
+    "school": "CMU",
+    "year": 111,
+    "q": 33,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 33,
+      "pdf_page": 6,
+      "printed_page": 6,
+      "regions": [
+        [
+          40,
+          332.27799999999996,
+          565.32,
+          604.3019999999999
+        ]
+      ],
+      "image": "questions/Q33.png",
+      "sha256": "1563d57fd6bfb890ec8205c67bbbf463b720d8b2b22e670daf2ee736c23b6f5e",
+      "width": 1051,
+      "height": 544,
+      "question_text": "※33-34題組題\n33. 如右圖，此為被子植物根的縱切片，依據根部區域的特性與構\n造，區分為下圖 I至 IV 的四個區域，有關此四個區域的敘述，\n下列何者最正確?\n(A) I區具有共質體運輸與質外體運輸\n(B) II區的細胞與感應重力方向有關，使根向下生長\n(C) III區的細胞較小且細胞質濃厚而可持續減數分裂\n(D) IV 區功能為保護生長點，且富含生長素可延長\n34. 有關根部內具有一層排列緊密的細胞所形成的內皮，在徑向壁\n和橫向壁形成木栓化和木質化的帶狀增厚現象來阻止水份向組\n織滲透，管制水份和無機鹽進入維管束的功能，此構造會在下列\n哪一區域中發現?\n(A) I區 (B) II區 (C) III區 (D) IV 區",
+      "shared_stimulus": true
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L2300",
+      "toc_line": 2300,
+      "chapter": 35,
+      "concept": "35.3",
+      "title": "Primary Growth of Roots",
+      "printed_page": 768,
+      "body_pdf_page": 817,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        44
+      ],
+      "chapter_label": "Ch35 Vascular Plant Structure, Growth, and Development"
+    },
+    "secondary": [
+      {
+        "id": "L2359",
+        "toc_line": 2359,
+        "chapter": 36,
+        "concept": "36.2",
+        "title": "The Apoplast and Symplast: Transport Continuums",
+        "printed_page": 787,
+        "body_pdf_page": 836,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          45
+        ],
+        "chapter_label": "Ch36 Resource Acquisition and Transport in Vascular Plants"
+      }
+    ],
+    "primary_reason": "35.3 Primary Growth of Roots 對照完整題組圖的成熟、伸長、分裂與根冠四區，是圖像判讀的主要條目。",
+    "secondary_reason": "36.2 The Apoplast and Symplast: Transport Continuums 直接支援正解I區的質外體及共質體路徑。",
+    "answer_analysis": "官方A。原圖I成熟分化區、II伸長區、III分裂區、IV根冠。成熟區可有兩種運輸路徑；重力感受主要涉及根冠，分生組織行有絲分裂而非減數分裂，根冠保護生長點而非主要細胞伸長區。Q33、34各自圖檔均保留整個共用圖和兩題，不切掉右側標記。",
+    "textbook_evidence": [
+      {
+        "printed_page": 768,
+        "pdf_page": 817,
+        "text_file": "textbook_evidence/pdf-0817.txt",
+        "sha256": "9695588ab38af12a0b507d458752c80e03e942bfa99154f8310c35d74eb50737"
+      },
+      {
+        "printed_page": 769,
+        "pdf_page": 818,
+        "text_file": "textbook_evidence/pdf-0818.txt",
+        "sha256": "1c6ac14bacd723dd1d8f33611a9b765cc4b9325d965357dafb2bda52282f83d7"
+      },
+      {
+        "printed_page": 787,
+        "pdf_page": 836,
+        "text_file": "textbook_evidence/pdf-0836.txt",
+        "sha256": "2be546833012e561e46fe8ecd006f200f5acb7f697ced7f6d6e7cdf19b05e2e8"
+      },
+      {
+        "printed_page": 788,
+        "pdf_page": 837,
+        "text_file": "textbook_evidence/pdf-0837.txt",
+        "sha256": "8e61a0ffdf3bc8bcb0623ce9f9d94f3ab2b19f9efaf2bcd3e4111a804721385e"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題與官方釋疑的假設、資料及措辭限制另見科學說明。",
+    "second_review_id": "CMU-111-R2-Q33",
+    "issue_resolution_index": 32
+  },
+  {
+    "id": "CMU-111-Q34",
+    "school": "CMU",
+    "year": 111,
+    "q": 34,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 34,
+      "pdf_page": 6,
+      "printed_page": 6,
+      "regions": [
+        [
+          40,
+          332.27799999999996,
+          565.32,
+          604.3019999999999
+        ]
+      ],
+      "image": "questions/Q34.png",
+      "sha256": "1563d57fd6bfb890ec8205c67bbbf463b720d8b2b22e670daf2ee736c23b6f5e",
+      "width": 1051,
+      "height": 544,
+      "question_text": "※33-34題組題\n33. 如右圖，此為被子植物根的縱切片，依據根部區域的特性與構\n造，區分為下圖 I至 IV 的四個區域，有關此四個區域的敘述，\n下列何者最正確?\n(A) I區具有共質體運輸與質外體運輸\n(B) II區的細胞與感應重力方向有關，使根向下生長\n(C) III區的細胞較小且細胞質濃厚而可持續減數分裂\n(D) IV 區功能為保護生長點，且富含生長素可延長\n34. 有關根部內具有一層排列緊密的細胞所形成的內皮，在徑向壁\n和橫向壁形成木栓化和木質化的帶狀增厚現象來阻止水份向組\n織滲透，管制水份和無機鹽進入維管束的功能，此構造會在下列\n哪一區域中發現?\n(A) I區 (B) II區 (C) III區 (D) IV 區",
+      "shared_stimulus": true
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L2378",
+      "toc_line": 2378,
+      "chapter": 36,
+      "concept": "36.3",
+      "title": "Transport of Water and Minerals into the Xylem",
+      "printed_page": 792,
+      "body_pdf_page": 841,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        45
+      ],
+      "chapter_label": "Ch36 Resource Acquisition and Transport in Vascular Plants"
+    },
+    "secondary": [
+      {
+        "id": "L2300",
+        "toc_line": 2300,
+        "chapter": 35,
+        "concept": "35.3",
+        "title": "Primary Growth of Roots",
+        "printed_page": 768,
+        "body_pdf_page": 817,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          44
+        ],
+        "chapter_label": "Ch35 Vascular Plant Structure, Growth, and Development"
+      }
+    ],
+    "primary_reason": "36.3 Transport of Water and Minerals into the Xylem 直接說明內皮層Casparian strip限制質外體路徑並管制維管束進入。",
+    "secondary_reason": "35.3 Primary Growth of Roots 對照題組I為分化區，定位結構出現區域。",
+    "answer_analysis": "官方A I區。卡氏帶限制沿細胞壁繞過選擇性膜的水與溶質移動，不是完全阻止根吸水。教材792用suberin解釋；Arabidopsis原始研究指出初生卡氏帶以lignin構成，與稍後suberin lamellae須區別，原題木栓化／木質化並列的寬泛敘述照存。",
+    "textbook_evidence": [
+      {
+        "printed_page": 792,
+        "pdf_page": 841,
+        "text_file": "textbook_evidence/pdf-0841.txt",
+        "sha256": "519a4eaf525525229e0df6422fdb3e4854dd5cf4ddde762519376a9d235cde54"
+      },
+      {
+        "printed_page": 793,
+        "pdf_page": 842,
+        "text_file": "textbook_evidence/pdf-0842.txt",
+        "sha256": "5fdbfd41922544908a9b21acfdccc50cb6372ee9e22fa985db2e8c5122a4fa20"
+      },
+      {
+        "printed_page": 768,
+        "pdf_page": 817,
+        "text_file": "textbook_evidence/pdf-0817.txt",
+        "sha256": "9695588ab38af12a0b507d458752c80e03e942bfa99154f8310c35d74eb50737"
+      },
+      {
+        "printed_page": 769,
+        "pdf_page": 818,
+        "text_file": "textbook_evidence/pdf-0818.txt",
+        "sha256": "1c6ac14bacd723dd1d8f33611a9b765cc4b9325d965357dafb2bda52282f83d7"
+      }
+    ],
+    "supplement_ids": [
+      "S19"
+    ],
+    "coverage_note": "Campbell支援所列分類框架；具名機制或科學界線由列示原始研究/官方來源補足。",
+    "second_review_id": "CMU-111-R2-Q34",
+    "issue_resolution_index": 33
+  },
+  {
+    "id": "CMU-111-Q35",
+    "school": "CMU",
+    "year": 111,
+    "q": 35,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 35,
+      "pdf_page": 6,
+      "printed_page": 6,
+      "regions": [
+        [
+          40,
+          604.3019999999999,
+          565.32,
+          724.932
+        ]
+      ],
+      "image": "questions/Q35.png",
+      "sha256": "4fd5320ccafba30299ad23958169ce2e20315f3155e9e6b267274a9bd52dadfe",
+      "width": 1051,
+      "height": 241,
+      "question_text": "35. 人體的肝臟參與許多毒物和藥物的解毒作用，能夠保護個體免受潛在的有毒化學物質傷害，\n主要是它能夠將親脂性物質轉化為水溶性的代謝物質，此類代謝物可以經由尿液有效地從\n體內排出，主要可能的解毒機制是由下列何種細胞構造主要參與，而在肝細胞中具有高度\n的數量?\n(A) 粗糙內質網(rough ER) (B) 平滑內質網(smooth ER)\n(C) 高爾基氏體(Golgi apparatus) (D) 運輸囊泡(transport vesicles)",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L0343",
+      "toc_line": 343,
+      "chapter": 6,
+      "concept": "6.4",
+      "title": "The Endoplasmic Reticulum: Biosynthetic Factory",
+      "printed_page": 104,
+      "body_pdf_page": 153,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        36
+      ],
+      "chapter_label": "Ch06 A Tour of the Cell"
+    },
+    "secondary": [],
+    "primary_reason": "6.4 The Endoplasmic Reticulum: Biosynthetic Factory 的平滑ER酵素解毒段落直接描述肝細胞、增加水溶性與排除。",
+    "secondary_reason": "四選項是同一胞器功能比較，不另列整體消化或排泄生理章。",
+    "answer_analysis": "官方B。平滑ER的部分酵素使脂溶性藥物更易溶於水，肝細胞可富含此系統。這是題目主要機制，並不等同肝臟所有解毒反應都只在ER，或所有代謝一定降低毒性。",
+    "textbook_evidence": [
+      {
+        "printed_page": 104,
+        "pdf_page": 153,
+        "text_file": "textbook_evidence/pdf-0153.txt",
+        "sha256": "28f54efc6014c231d064754c6e6c87392167c3dabbd0b99b094a095fdc00f1e0"
+      },
+      {
+        "printed_page": 105,
+        "pdf_page": 154,
+        "text_file": "textbook_evidence/pdf-0154.txt",
+        "sha256": "80c7dfc003db4dea3b7e6d94aacf6a48816e4a6df7a3457209cd7f2cdb908c03"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題與官方釋疑的假設、資料及措辭限制另見科學說明。",
+    "second_review_id": "CMU-111-R2-Q35",
+    "issue_resolution_index": 34
+  },
+  {
+    "id": "CMU-111-Q36",
+    "school": "CMU",
+    "year": 111,
+    "q": 36,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 36,
+      "pdf_page": 6,
+      "printed_page": 6,
+      "regions": [
+        [
+          40,
+          724.932,
+          565.32,
+          816.92
+        ]
+      ],
+      "image": "questions/Q36.png",
+      "sha256": "331a1a8f6edd46f7071b8e492ff8d0247a3c408b41d144d067de107610d307df",
+      "width": 1051,
+      "height": 184,
+      "question_text": "36. 在族群的發展過程，會因為各種可能的因素促進種化(speciation)發生，有關各種影響族群\n的因素中，下列何者最不可能導致種化(speciation)發生?\n(A) 先驅者效應(founder effect) (B) 穩定天擇(stabilizing selection)\n(C) 分歧性天擇(disruptive selection) (D) 多倍化(polyploidy)\n本試題（含封面）共計9頁之第6頁",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1465",
+      "toc_line": 1465,
+      "chapter": 23,
+      "concept": "23.4",
+      "title": "Natural Selection: A Closer Look",
+      "printed_page": 497,
+      "body_pdf_page": 546,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        41
+      ],
+      "chapter_label": "Ch23 The Evolution of Populations"
+    },
+    "secondary": [
+      {
+        "id": "L1498",
+        "toc_line": 1498,
+        "chapter": 24,
+        "concept": "24.2",
+        "title": "Allopatric (“Other Country”) Speciation",
+        "printed_page": 511,
+        "body_pdf_page": 560,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          41
+        ],
+        "chapter_label": "Ch24 The Origin of Species"
+      },
+      {
+        "id": "L1501",
+        "toc_line": 1501,
+        "chapter": 24,
+        "concept": "24.2",
+        "title": "Sympatric (“Same Country”) Speciation",
+        "printed_page": 513,
+        "body_pdf_page": 562,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          41
+        ],
+        "chapter_label": "Ch24 The Origin of Species"
+      }
+    ],
+    "primary_reason": "23.4 Natural Selection: A Closer Look 直接比較穩定與分歧天擇，穩定選擇保留中間表型而最不利於形成兩端分化。",
+    "secondary_reason": "24.2 Allopatric (“Other Country”) Speciation 比較小族群隔離與先驅者效應；Sympatric (“Same Country”) Speciation 處理多倍化與分歧選擇。",
+    "answer_analysis": "官方B。多倍化可迅速造成生殖隔離，分歧選擇或隔離小族群在其他條件配合時可促進種化；穩定選擇相較之下最不可能。不能把B寫成在任何情境下絕不可能種化，也不能把先驅者效應本身當成新種已成立的證據。",
+    "textbook_evidence": [
+      {
+        "printed_page": 497,
+        "pdf_page": 546,
+        "text_file": "textbook_evidence/pdf-0546.txt",
+        "sha256": "fae9e775197dea5910b874038d50f2244276f86d6af651db3120fa43280ca997"
+      },
+      {
+        "printed_page": 498,
+        "pdf_page": 547,
+        "text_file": "textbook_evidence/pdf-0547.txt",
+        "sha256": "3403e8b7f991e24a1527ff71deb96fdc2288e8f2586dbc611da0cf905c9ce414"
+      },
+      {
+        "printed_page": 511,
+        "pdf_page": 560,
+        "text_file": "textbook_evidence/pdf-0560.txt",
+        "sha256": "b8ab5019f798ae97c093d5986bda549a643d5816ebb0d24f336f724866cb7939"
+      },
+      {
+        "printed_page": 512,
+        "pdf_page": 561,
+        "text_file": "textbook_evidence/pdf-0561.txt",
+        "sha256": "f512d70bb8244cf9db2d7b0e2ae8c0650cf87da3864c150de59a3b6eaa701d9d"
+      },
+      {
+        "printed_page": 513,
+        "pdf_page": 562,
+        "text_file": "textbook_evidence/pdf-0562.txt",
+        "sha256": "4912c3c3447894bdb57627d5d4df256e579e89395f1ef0ee542e4185bc7c8554"
+      },
+      {
+        "printed_page": 514,
+        "pdf_page": 563,
+        "text_file": "textbook_evidence/pdf-0563.txt",
+        "sha256": "a805aca7209ff3f9eb4fad2f5b4fcd715f47620708232141662767faa69a471f"
+      },
+      {
+        "printed_page": 515,
+        "pdf_page": 564,
+        "text_file": "textbook_evidence/pdf-0564.txt",
+        "sha256": "e20ef1dbfba35050043289945e86b500921dccdbfa3b0ad8d747002601d37d1f"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題與官方釋疑的假設、資料及措辭限制另見科學說明。",
+    "second_review_id": "CMU-111-R2-Q36",
+    "issue_resolution_index": 35
+  },
+  {
+    "id": "CMU-111-Q37",
+    "school": "CMU",
+    "year": 111,
+    "q": 37,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 37,
+      "pdf_page": 7,
+      "printed_page": 7,
+      "regions": [
+        [
+          40,
+          85.85199999999998,
+          565.32,
+          206.452
+        ]
+      ],
+      "image": "questions/Q37.png",
+      "sha256": "68cc918de800c59088683c3f57b3cd456c58ae3e2b2f8f4c2b733a35525db539",
+      "width": 1051,
+      "height": 241,
+      "question_text": "37. 在細胞構造的研究結果顯示，溶酶體(lysosomes)被認為是屬於內膜系統(endomembrane\nsystem)一部分的原因，下列何者最正確?\n(A) 在內質網中沉積消化的終產物\n(B) 由內質網合成並經高爾基氏體加工的產物所形成\n(C) 促進高爾基氏體之間的移動\n(D) 可以儲存作為蛋白質合成抑製劑的鈣離子",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L0349",
+      "toc_line": 349,
+      "chapter": 6,
+      "concept": "6.4",
+      "title": "Lysosomes: Digestive Compartments",
+      "printed_page": 107,
+      "body_pdf_page": 156,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        36
+      ],
+      "chapter_label": "Ch06 A Tour of the Cell"
+    },
+    "secondary": [
+      {
+        "id": "L0355",
+        "toc_line": 355,
+        "chapter": 6,
+        "concept": "6.4",
+        "title": "The Endomembrane System: A Review",
+        "printed_page": 108,
+        "body_pdf_page": 157,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          36
+        ],
+        "chapter_label": "Ch06 A Tour of the Cell"
+      }
+    ],
+    "primary_reason": "6.4 Lysosomes: Digestive Compartments 說明溶酶體水解酵素經ER與Golgi處理，是題目形成途徑的直接條目。",
+    "secondary_reason": "6.4 The Endomembrane System: A Review 保留膜與囊泡交通關係，不把內膜系統理解成所有膜始終相連。",
+    "answer_analysis": "官方B。酵素由粗糙ER合成後經Golgi加工與分選，送入相關內膜區室形成消化系統；不是在ER堆積消化終產物，也不是以儲鈣抑制蛋白質製造為主要功能。",
+    "textbook_evidence": [
+      {
+        "printed_page": 107,
+        "pdf_page": 156,
+        "text_file": "textbook_evidence/pdf-0156.txt",
+        "sha256": "28d4b35a36abc90a9ca007da1ce17e4310b4b63c586652df16e7f49afc21a5a2"
+      },
+      {
+        "printed_page": 108,
+        "pdf_page": 157,
+        "text_file": "textbook_evidence/pdf-0157.txt",
+        "sha256": "fb99e477f89ecb9cbecdd8568318611f4a90af67c31a3c223920ef36742901c9"
+      },
+      {
+        "printed_page": 109,
+        "pdf_page": 158,
+        "text_file": "textbook_evidence/pdf-0158.txt",
+        "sha256": "7de28165cb8bff3bacd880ad5856c6e4ac13778a2dfe70f3df7ec9cc88939b69"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題與官方釋疑的假設、資料及措辭限制另見科學說明。",
+    "second_review_id": "CMU-111-R2-Q37",
+    "issue_resolution_index": 36
+  },
+  {
+    "id": "CMU-111-Q38",
+    "school": "CMU",
+    "year": 111,
+    "q": 38,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 38,
+      "pdf_page": 7,
+      "printed_page": 7,
+      "regions": [
+        [
+          40,
+          206.452,
+          565.32,
+          363.08199999999994
+        ]
+      ],
+      "image": "questions/Q38.png",
+      "sha256": "b219a48d2193cd5823bc7ec3f4c6a4dab66ac2ee0d1f2bba34f464d9fb19400d",
+      "width": 1051,
+      "height": 313,
+      "question_text": "38. 在1977年，由卡爾烏斯(Carl Richard Woese)和喬治福克斯(George Edward Fox)依據相關生\n物學證據，提出了「古細菌」概念，進而將原核生物區分為細菌和古細菌，形成細菌、古\n細菌和真核生物的三域系統。有關細菌、古細菌的敘述，下列何者最正確?\n(A) 二者細胞壁皆含有肽聚糖，細菌細胞膜的脂類主要為甘油酯，古細菌為甘油醚\n(B) 二者的基因組皆為環狀 DNA且與組蛋白結合\n(C) 二者的基因表達皆為多順反子 mRNA，且沒有轉錄後修飾作用\n(D) 二者的轉譯過程中皆會使用 TATA 結合蛋白(TATA-binding protein)和轉錄因子\nIIB(TFIIB)",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1754",
+      "toc_line": 1754,
+      "chapter": 27,
+      "concept": "27.4",
+      "title": "Archaea",
+      "printed_page": 585,
+      "body_pdf_page": 634,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        42
+      ],
+      "chapter_label": "Ch27 Bacteria and Archaea"
+    },
+    "secondary": [
+      {
+        "id": "L1715",
+        "toc_line": 1715,
+        "chapter": 27,
+        "concept": "27.1",
+        "title": "Internal Organization and DNA",
+        "printed_page": 577,
+        "body_pdf_page": 626,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          42
+        ],
+        "chapter_label": "Ch27 Bacteria and Archaea"
+      },
+      {
+        "id": "L1078",
+        "toc_line": 1078,
+        "chapter": 17,
+        "concept": "17.4",
+        "title": "Making Multiple Polypeptides in Bacteria and Eukaryotes",
+        "printed_page": 355,
+        "body_pdf_page": 404,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          39
+        ],
+        "chapter_label": "Ch17 Gene Expression: From Gene to Protein"
+      }
+    ],
+    "primary_reason": "27.4 Archaea 的Table27.2直接比較細菌與古菌細胞壁、膜脂、組蛋白及基因表達，為分類核心。",
+    "secondary_reason": "27.1 Internal Organization and DNA 保留原核基因組；17.4 Making Multiple Polypeptides in Bacteria and Eukaryotes 說明轉錄、轉譯與RNA處理差異。",
+    "answer_analysis": "官方C照存，但C的「皆為多順反子」和「沒有轉錄後修飾」不能作普遍真命題，古菌mRNA加工已有原始研究。A古菌細胞壁無細菌式肽聚糖；B環狀基因組與組蛋白皆非兩域普遍共有；D原文是「轉譯」，TBP/TFIIB屬轉錄起始相關因子，不能偷偷改為轉錄。1977提出古菌與1990正式domains命名亦分開。因此官方採計C、科學上無一選項完全嚴謹，分類已由比較細菌古菌的證據確定。",
+    "textbook_evidence": [
+      {
+        "printed_page": 585,
+        "pdf_page": 634,
+        "text_file": "textbook_evidence/pdf-0634.txt",
+        "sha256": "1470ec4a8926a07d504ddac7edf001cc001c099b51a022abe97282f4619a3101"
+      },
+      {
+        "printed_page": 586,
+        "pdf_page": 635,
+        "text_file": "textbook_evidence/pdf-0635.txt",
+        "sha256": "cbf1ced1effe52196e9caedb56f62c9c6d4252ef7148dc2952146e1bfc260fd0"
+      },
+      {
+        "printed_page": 577,
+        "pdf_page": 626,
+        "text_file": "textbook_evidence/pdf-0626.txt",
+        "sha256": "49f9e2543eb091244730200f56db00e8fd8c8fba2087eddf85f186eee776d4ce"
+      },
+      {
+        "printed_page": 355,
+        "pdf_page": 404,
+        "text_file": "textbook_evidence/pdf-0404.txt",
+        "sha256": "49fe572ac1ee70148fa55961e44a6e88aa9043c77d6f49f1cf5e065b2d87dcfe"
+      },
+      {
+        "printed_page": 356,
+        "pdf_page": 405,
+        "text_file": "textbook_evidence/pdf-0405.txt",
+        "sha256": "a61538cd07b506ce8aa9b2b5bfd73d31381ba296a28c4dea2e998c55c8bd5539"
+      }
+    ],
+    "supplement_ids": [
+      "S20",
+      "S27"
+    ],
+    "coverage_note": "Campbell支援所列分類框架；具名機制或科學界線由列示原始研究/官方來源補足。",
+    "second_review_id": "CMU-111-R2-Q38",
+    "issue_resolution_index": 37
+  },
+  {
+    "id": "CMU-111-Q39",
+    "school": "CMU",
+    "year": 111,
+    "q": 39,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 39,
+      "pdf_page": 7,
+      "printed_page": 7,
+      "regions": [
+        [
+          40,
+          363.08199999999994,
+          565.32,
+          537.702
+        ]
+      ],
+      "image": "questions/Q39.png",
+      "sha256": "3865333fe6cc89750609322dfae0d229ae1f7104b9cfc9720a9ecdeae1e3c8ad",
+      "width": 1051,
+      "height": 350,
+      "question_text": "39. 陸地植物進行光合作用，將光能轉換成為化學能儲存，在光線照射下，經由葉綠素\na(chlorophyll a)、葉綠素 b(chlorophyll b)、類胡蘿蔔素(carotenoids)等組成的光系統吸收光\n能，由反應中心的葉綠素 a激發出一個電子而進入電子傳遞鏈。有關電子傳遞鏈的敘述，\n下列何者最正確?\n(A) 由光系統 I的水分解複合體(oxygen-evolving complex)分解水釋放氧氣\n(B) 非循環電子傳遞鏈由光系統 II 開始進行，由 NAD+還原酶(NAD+ reductase)與 ATP\n合成酶生成NADH 和 ATP\n(C) 非循環電子傳遞鏈中，質體醌(Pq)會將氫離子打到類囊體(thylakoid)\n(D) 類囊體中累積的氫離子須經由 ATP 合成酶做為通道流至基質",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L0662",
+      "toc_line": 662,
+      "chapter": 10,
+      "concept": "10.3",
+      "title": "A Comparison of Chemiosmosis in Chloroplasts and Mitochondria",
+      "printed_page": 199,
+      "body_pdf_page": 248,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        37
+      ],
+      "chapter_label": "Ch10 Photosynthesis"
+    },
+    "secondary": [
+      {
+        "id": "L0656",
+        "toc_line": 656,
+        "chapter": 10,
+        "concept": "10.3",
+        "title": "Linear Electron Flow",
+        "printed_page": 197,
+        "body_pdf_page": 246,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          37
+        ],
+        "chapter_label": "Ch10 Photosynthesis"
+      }
+    ],
+    "primary_reason": "10.2 A Comparison of Chemiosmosis in Chloroplasts and Mitochondria 直接定位H+由類囊體腔經ATP synthase回基質，對應D。",
+    "secondary_reason": "10.2 Linear Electron Flow 補充PSII水分解、Pq及電子傳遞到NADP+的方向。",
+    "answer_analysis": "官方D。A水分解在PSII，不是PSI；B應為NADP+還原成NADPH，不是NAD+／NADH。Pq可攜帶質子並配合cytochrome b6f促進腔內H+累積，C以Pq單獨「打到類囊體」措辭不精準，不應反向說Pq完全不參與質子移動。D的跨膜回流方向與ATP生成明確。",
+    "textbook_evidence": [
+      {
+        "printed_page": 197,
+        "pdf_page": 246,
+        "text_file": "textbook_evidence/pdf-0246.txt",
+        "sha256": "16d5d01548d2dccdbcfd4ab7f0ac2e702e72f6bfcf91e46ea6c1450ec3e74db2"
+      },
+      {
+        "printed_page": 198,
+        "pdf_page": 247,
+        "text_file": "textbook_evidence/pdf-0247.txt",
+        "sha256": "9f08bb6603f4bfe02406f0bed8181bb043d0104ec355b3a529dd3e6133fe6be2"
+      },
+      {
+        "printed_page": 199,
+        "pdf_page": 248,
+        "text_file": "textbook_evidence/pdf-0248.txt",
+        "sha256": "cfae8231f10dc3516cc82fff9bfaf894a3b07bb1fb2eca0cbb98873d029588a2"
+      },
+      {
+        "printed_page": 200,
+        "pdf_page": 249,
+        "text_file": "textbook_evidence/pdf-0249.txt",
+        "sha256": "65fa88fecb8e02c44cc2fa6e3002b4407d2092108416f589bb9911e5e97c494c"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題與官方釋疑的假設、資料及措辭限制另見科學說明。",
+    "second_review_id": "CMU-111-R2-Q39",
+    "issue_resolution_index": 38
+  },
+  {
+    "id": "CMU-111-Q40",
+    "school": "CMU",
+    "year": 111,
+    "q": 40,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 40,
+      "pdf_page": 7,
+      "printed_page": 7,
+      "regions": [
+        [
+          40,
+          537.702,
+          565.32,
+          694.332
+        ]
+      ],
+      "image": "questions/Q40.png",
+      "sha256": "318e7d3d4ace4d2a7332ed8d00aeffc42fd585bc78ed31e77966d6fb716f7feb",
+      "width": 1051,
+      "height": 313,
+      "question_text": "40. 動物細胞的部分蛋白質會依其功能而進行添加多醣修飾，來提高其生物活性或是產生新的\n生物活性，在動物細胞階層篩選突變時，有一突變細胞株呈現蛋白質添加多醣修飾能力喪\n失的現象，依據細胞構造的功能，推測此突變細胞株可能會導致某些細胞構造功能的缺陷，\n下列何者是最可能發生缺陷的細胞構造?\n(A) 核蛋白片層(nuclear lamina)和核基質(nuclear matrix)\n(B) 核基質(nuclear matrix)和細胞間基質(extracellular matrix)\n(C) 粒線體(mitochondria)和高爾基氏體(Golgi apparatus)\n(D) 高爾基氏體(Golgi apparatus)和細胞間基質(extracellular matrix)",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [
+        12
+      ],
+      "clarification_disposition": "維持原答案D"
+    },
+    "primary": {
+      "id": "L0346",
+      "toc_line": 346,
+      "chapter": 6,
+      "concept": "6.4",
+      "title": "The Golgi Apparatus: Shipping and Receiving Center",
+      "printed_page": 105,
+      "body_pdf_page": 154,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        36
+      ],
+      "chapter_label": "Ch06 A Tour of the Cell"
+    },
+    "secondary": [
+      {
+        "id": "L0391",
+        "toc_line": 391,
+        "chapter": 6,
+        "concept": "6.7",
+        "title": "The Extracellular Matrix (ECM) of Animal Cells",
+        "printed_page": 118,
+        "body_pdf_page": 167,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          36
+        ],
+        "chapter_label": "Ch06 A Tour of the Cell"
+      },
+      {
+        "id": "L0343",
+        "toc_line": 343,
+        "chapter": 6,
+        "concept": "6.4",
+        "title": "The Endoplasmic Reticulum: Biosynthetic Factory",
+        "printed_page": 104,
+        "body_pdf_page": 153,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          36
+        ],
+        "chapter_label": "Ch06 A Tour of the Cell"
+      }
+    ],
+    "primary_reason": "6.4 The Golgi Apparatus: Shipping and Receiving Center 的蛋白質糖基化修飾直接對應細胞株缺陷。",
+    "secondary_reason": "6.7 The Extracellular Matrix (ECM) of Animal Cells 說明外部糖蛋白結構；6.4 The Endoplasmic Reticulum: Biosynthetic Factory 保留ER先行糖基化，不把全部修飾限於Golgi。",
+    "answer_analysis": "官方D，釋疑PDF12維持。Golgi加工及糖蛋白豐富的ECM最直接受影響；ECM位於細胞外，不能改寫成胞內胞器。ER也參與糖蛋白合成起始，故不聲稱多醣修飾只在Golgi，且題目不能由單一現象直接定位唯一突變基因。",
+    "textbook_evidence": [
+      {
+        "printed_page": 105,
+        "pdf_page": 154,
+        "text_file": "textbook_evidence/pdf-0154.txt",
+        "sha256": "80c7dfc003db4dea3b7e6d94aacf6a48816e4a6df7a3457209cd7f2cdb908c03"
+      },
+      {
+        "printed_page": 106,
+        "pdf_page": 155,
+        "text_file": "textbook_evidence/pdf-0155.txt",
+        "sha256": "c778c375ecfbebfc4b2e6e792f9cd025f3efaa92e791122078fc4ad0945ac4a8"
+      },
+      {
+        "printed_page": 118,
+        "pdf_page": 167,
+        "text_file": "textbook_evidence/pdf-0167.txt",
+        "sha256": "8b1d191bf4b94863013538bf903011296172f9d81c69f1db2242503316597f4a"
+      },
+      {
+        "printed_page": 119,
+        "pdf_page": 168,
+        "text_file": "textbook_evidence/pdf-0168.txt",
+        "sha256": "3ed78a1bac5ab8e6d5e65e1c092bf40b03796133c83ccbc5ee6301303ce693ec"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題與官方釋疑的假設、資料及措辭限制另見科學說明。",
+    "second_review_id": "CMU-111-R2-Q40",
+    "issue_resolution_index": 39
+  },
+  {
+    "id": "CMU-111-Q41",
+    "school": "CMU",
+    "year": 111,
+    "q": 41,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 41,
+      "pdf_page": 7,
+      "printed_page": 7,
+      "regions": [
+        [
+          40,
+          694.332,
+          565.32,
+          816.92
+        ]
+      ],
+      "image": "questions/Q41.png",
+      "sha256": "35b9f841a69981242b984fa896843a583d8f2b6947ce813974742211fc590cde",
+      "width": 1051,
+      "height": 245,
+      "question_text": "41. 石蓴(Ulva lactuca)屬於綠藻門石蓴科石蓴屬物種，藻體外型為片狀，似卵形的葉狀體由兩\n層細胞構成，廣泛分布於世界各地海岸礁石，其生活史中具有二倍體的孢子體和單倍體的\n配子體之世代交替現象。有關石蓴形態與構造，下列何者最正確?\n(A) 屬於同形配子(isogametes) (B) 會形成芽胞(gonidium)\n(C) 外型為擬分枝(false branching) (D) 會進行接合繁殖(conjugation)\n本試題（含封面）共計9頁之第7頁",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1830",
+      "toc_line": 1830,
+      "chapter": 28,
+      "concept": "28.4",
+      "title": "Green Algae",
+      "printed_page": 610,
+      "body_pdf_page": 659,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        42
+      ],
+      "chapter_label": "Ch28 Protists"
+    },
+    "secondary": [
+      {
+        "id": "L0830",
+        "toc_line": 830,
+        "chapter": 13,
+        "concept": "13.2",
+        "title": "The Variety of Sexual Life Cycles",
+        "printed_page": 258,
+        "body_pdf_page": 307,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          38
+        ],
+        "chapter_label": "Ch13 Meiosis and Sexual Life Cycles"
+      }
+    ],
+    "primary_reason": "28.5 Green Algae 包含Ulva綠藻及生活史背景，是具名藻類形態的最近目錄。",
+    "secondary_reason": "13.2 The Variety of Sexual Life Cycles 補充孢子體／配子體世代交替，避免和配子大小相混。",
+    "answer_analysis": "官方A。題目採同形配子教學說法；但Melkonian1980針對Ulva lactuca的原始觀察明載slightly anisogamous，故物種層級需保留差異。配子體與孢子體同形(isomorphic)不等同兩種配子同形(isogamous)，不能用世代同形直接證明A。分類28.5綠藻不受此採計差異影響。",
+    "textbook_evidence": [
+      {
+        "printed_page": 610,
+        "pdf_page": 659,
+        "text_file": "textbook_evidence/pdf-0659.txt",
+        "sha256": "60aa6599b89620b7f743a379235d26fa501b3c6c25437b92c0073880d5c6d6db"
+      },
+      {
+        "printed_page": 611,
+        "pdf_page": 660,
+        "text_file": "textbook_evidence/pdf-0660.txt",
+        "sha256": "3a523872621f12d6b87f635f49bb155582398c54d078ac3fdf549556c115f2c8"
+      },
+      {
+        "printed_page": 258,
+        "pdf_page": 307,
+        "text_file": "textbook_evidence/pdf-0307.txt",
+        "sha256": "488ba6583d7d0469f20e1f726d79e0dade35387b06b3d3d9f75ede217df93378"
+      },
+      {
+        "printed_page": 259,
+        "pdf_page": 308,
+        "text_file": "textbook_evidence/pdf-0308.txt",
+        "sha256": "c22bea47ebb00e5fa913d935310d73221c9117e771ee2e371bd60b70b148a5e2"
+      }
+    ],
+    "supplement_ids": [
+      "S21"
+    ],
+    "coverage_note": "Campbell支援所列分類框架；具名機制或科學界線由列示原始研究/官方來源補足。",
+    "second_review_id": "CMU-111-R2-Q41",
+    "issue_resolution_index": 40
+  },
+  {
+    "id": "CMU-111-Q42",
+    "school": "CMU",
+    "year": 111,
+    "q": 42,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 42,
+      "pdf_page": 8,
+      "printed_page": 8,
+      "regions": [
+        [
+          40,
+          85.85199999999998,
+          565.32,
+          296.48199999999997
+        ]
+      ],
+      "image": "questions/Q42.png",
+      "sha256": "59a2680d7b6dc198d8521360fb82282bf7d4ba784c93b4188388782c107ee78a",
+      "width": 1051,
+      "height": 421,
+      "question_text": "42. 有關真核細胞的基因表達過程，其轉錄(transcription)的啟動到結束可以分為下列步驟，有\n關轉錄的步驟按時間順序排列，下列何者最正確?\nI： 打開雙股DNA 鏈形成兩條分離單股 DNA，RNA 聚合酶定位到模板鏈作用位點\nII： 被推進的RNA聚合酶將二股的每個DNA鹼基對分離，而立即形成 RNA：DNA\n混和鹼基對\nIII： RNA聚合酶與一般轉錄因子結合到基因的啟動子區域，形成一個封閉的複合物\nIV： 若是 mRNA 的生合成，從 RNA 聚合酶的出口通道中出現 RNA 就立刻被加蓋\n(capped)\nV： 兩股DNA鏈在轉錄泡(transcription bubble)尾端重聚，單鏈 RNA獨立移出\n(A) III→I→II→V→IV (B) I→II→III→IV→V\n(C) II→IV→V→I→III (D) III→IV→I→V→II",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1052",
+      "toc_line": 1052,
+      "chapter": 17,
+      "concept": "17.2",
+      "title": "Synthesis of an RNA Transcript",
+      "printed_page": 342,
+      "body_pdf_page": 391,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        39
+      ],
+      "chapter_label": "Ch17 Gene Expression: From Gene to Protein"
+    },
+    "secondary": [
+      {
+        "id": "L1059",
+        "toc_line": 1059,
+        "chapter": 17,
+        "concept": "17.3",
+        "title": "Alteration of mRNA Ends",
+        "printed_page": 345,
+        "body_pdf_page": 394,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          39
+        ],
+        "chapter_label": "Ch17 Gene Expression: From Gene to Protein"
+      }
+    ],
+    "primary_reason": "17.2 Synthesis of an RNA Transcript 比較轉錄前複合體、打開DNA、延長與RNA移出，是步驟排序核心。",
+    "secondary_reason": "17.3 Alteration of mRNA Ends 保留5′ cap屬於mRNA加工且可與轉錄同時發生。",
+    "answer_analysis": "官方A，III→I→II→V→IV。按新生RNA形成與出口的相依關係，先建立複合體再開放／延長，RNA從轉錄泡解離後可進行加蓋。V是轉錄泡後方DNA重新配對，不是整條RNA已轉錄終止；5′加蓋發生於轉錄早期，不應把題目線性排序教成等整條轉錄完成才加蓋。",
+    "textbook_evidence": [
+      {
+        "printed_page": 342,
+        "pdf_page": 391,
+        "text_file": "textbook_evidence/pdf-0391.txt",
+        "sha256": "4b99eada22ebd57a42b032a8f68a6a819c70d9376cfa907b787aec7304f9547e"
+      },
+      {
+        "printed_page": 343,
+        "pdf_page": 392,
+        "text_file": "textbook_evidence/pdf-0392.txt",
+        "sha256": "eca7ee347d6c5c4b42fb502890431d6552de75eff743253e8ec893ae907690ec"
+      },
+      {
+        "printed_page": 344,
+        "pdf_page": 393,
+        "text_file": "textbook_evidence/pdf-0393.txt",
+        "sha256": "63e41535926cd0199d74d3e4b265a5159d1e24176719f6bff164f836e75b00f4"
+      },
+      {
+        "printed_page": 345,
+        "pdf_page": 394,
+        "text_file": "textbook_evidence/pdf-0394.txt",
+        "sha256": "b9467abb3f57b3c2f07a284d0d0d30fca9c8fffe7724d88dcce95cc6d349eac7"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題與官方釋疑的假設、資料及措辭限制另見科學說明。",
+    "second_review_id": "CMU-111-R2-Q42",
+    "issue_resolution_index": 41
+  },
+  {
+    "id": "CMU-111-Q43",
+    "school": "CMU",
+    "year": 111,
+    "q": 43,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 43,
+      "pdf_page": 8,
+      "printed_page": 8,
+      "regions": [
+        [
+          40,
+          296.48199999999997,
+          565.32,
+          435.08199999999994
+        ]
+      ],
+      "image": "questions/Q43.png",
+      "sha256": "d443c562c9e04090759703946625772b5313ca05372088b10ca0273c290ec5c4",
+      "width": 1051,
+      "height": 277,
+      "question_text": "43. 一般而言，真核生物的細胞中，大多數基因的表現皆受到嚴格調控，但在細胞中仍有一些\n基因的表現速度大致維持恆定狀態，有關此類維持恆定表現狀態的基因推測其功能，下列\n何者最正確?\n(A) 參與甲硫胺酸(methionine)生合成反應的相關基因\n(B) 參與干擾素(interferon)生合成反應的相關基因\n(C) 參與阿拉伯糖(arabinose)降解反應的相關基因\n(D) 屬於編碼表達調節蛋白(regulation protein)的相關基因",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [
+        13
+      ],
+      "clarification_disposition": "維持原答案D"
+    },
+    "primary": {
+      "id": "L1120",
+      "toc_line": 1120,
+      "chapter": 18,
+      "concept": "18.2",
+      "title": "Differential Gene Expression",
+      "printed_page": 370,
+      "body_pdf_page": 419,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        39
+      ],
+      "chapter_label": "Ch18 Regulation of Gene Expression"
+    },
+    "secondary": [
+      {
+        "id": "L1126",
+        "toc_line": 1126,
+        "chapter": 18,
+        "concept": "18.2",
+        "title": "Regulation of Transcription Initiation",
+        "printed_page": 373,
+        "body_pdf_page": 422,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          39
+        ],
+        "chapter_label": "Ch18 Regulation of Gene Expression"
+      }
+    ],
+    "primary_reason": "18.2 Differential Gene Expression 直接比較恆定基本功能與依條件調節的基因表達。",
+    "secondary_reason": "18.2 Regulation of Transcription Initiation 處理一般與特定轉錄因子，不把所有regulation protein基因都混為同樣的表達模式。",
+    "answer_analysis": "官方D，釋疑PDF13維持。題目預期某些基本調節蛋白可有較穩定表現；「編碼調節蛋白」本身不足以保證恆定，真核調節基因也可依組織與訊號改變。釋疑引植物甲硫胺酸／SAM研究支持A可受條件影響，不能外推所有生物、所有代謝酵素或所有D類基因。保留官方選D與普遍性不足的界線；沒有重新定義為所有調節蛋白皆housekeeping。",
+    "textbook_evidence": [
+      {
+        "printed_page": 370,
+        "pdf_page": 419,
+        "text_file": "textbook_evidence/pdf-0419.txt",
+        "sha256": "ff4dea1b9cec2f59b7b93ac0132fef4c0c5bf6d8936068fc80a654f9afdbb25e"
+      },
+      {
+        "printed_page": 371,
+        "pdf_page": 420,
+        "text_file": "textbook_evidence/pdf-0420.txt",
+        "sha256": "0b3d4d568b964f9e87c911943b2ff9ab65ab486d2f3f793577245dacaa866803"
+      },
+      {
+        "printed_page": 373,
+        "pdf_page": 422,
+        "text_file": "textbook_evidence/pdf-0422.txt",
+        "sha256": "5b9493db3a9e7d3cfa1297c87bfea7c30191f36a1b390dc9c56c1cdda81382e2"
+      },
+      {
+        "printed_page": 374,
+        "pdf_page": 423,
+        "text_file": "textbook_evidence/pdf-0423.txt",
+        "sha256": "0a81772823424cb869830a72b3c53d5be42e8a213b3ea1a4a7772367530d9d0d"
+      },
+      {
+        "printed_page": 375,
+        "pdf_page": 424,
+        "text_file": "textbook_evidence/pdf-0424.txt",
+        "sha256": "0264a6212ae333f3432d21b4b1ef954aefd97379f3ec925be9f3bb8cda2cb5fa"
+      },
+      {
+        "printed_page": 376,
+        "pdf_page": 425,
+        "text_file": "textbook_evidence/pdf-0425.txt",
+        "sha256": "704f1640b58ff5ac3684ef09d0d0a0fe429e547d7eb210de4aba2f2656081020"
+      }
+    ],
+    "supplement_ids": [
+      "S22"
+    ],
+    "coverage_note": "Campbell支援所列分類框架；具名機制或科學界線由列示原始研究/官方來源補足。",
+    "second_review_id": "CMU-111-R2-Q43",
+    "issue_resolution_index": 42
+  },
+  {
+    "id": "CMU-111-Q44",
+    "school": "CMU",
+    "year": 111,
+    "q": 44,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 44,
+      "pdf_page": 8,
+      "printed_page": 8,
+      "regions": [
+        [
+          40,
+          435.08199999999994,
+          565.32,
+          663.732
+        ]
+      ],
+      "image": "questions/Q44.png",
+      "sha256": "80bf0a1661dfb284e4433d4eb7b3e0ee0dee2b2eb662bbe406f48760a498a78e",
+      "width": 1051,
+      "height": 458,
+      "question_text": "44. 在哺乳動物的基因組中，存在基因序列相近但其蛋白質產物不同的各基因而形成基因家族，\n例如人類的血紅蛋白亞單位基因就是此類基因家族，人類血紅蛋白亞單位的基因共計 10\n個基因，分別在不同染色體上形成 α-球蛋白和 β-球蛋白基因座之兩個基因群簇。而在哺乳\n動物的嗅覺相關受體蛋白，由 500 和 1000 個基因組成的基因家族，其基因多編碼氣味受\n體神經元表面的受體蛋白，然而，不同哺乳動物的嗅覺在物種間存在極大的差異性，有關\n此差異性產生原因的敘述，下列何者最具可能性?\n(A) 在哺乳動物物種間，主動進行轉錄受體蛋白的某些基因在其他物種中完全不存在\n(B) 部分受體蛋白基因可能在其中一些哺乳動物物種發生突變導致失去活性，而在其他\n物種中則無此現象\n(C) 部分物種如人類，因較少依賴嗅覺生存，而導致此類基因突變，來編碼有助於其他\n感官如視覺的受體蛋白\n(D) 部分哺乳動物物種受體蛋白基因甲基化導致基因不表現",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1346",
+      "toc_line": 1346,
+      "chapter": 21,
+      "concept": "21.5",
+      "title": "Duplication and Divergence of Gene-Sized Regions of DNA",
+      "printed_page": 455,
+      "body_pdf_page": 504,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        40
+      ],
+      "chapter_label": "Ch21 Genomes and Their Evolution"
+    },
+    "secondary": [
+      {
+        "id": "L1333",
+        "toc_line": 1333,
+        "chapter": 21,
+        "concept": "21.4",
+        "title": "Genes and Multigene Families",
+        "printed_page": 452,
+        "body_pdf_page": 501,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          40
+        ],
+        "chapter_label": "Ch21 Genomes and Their Evolution"
+      }
+    ],
+    "primary_reason": "21.5 Duplication and Divergence of Gene-Sized Regions of DNA 說明重複基因可分化或失去功能成為偽基因，直接對應嗅覺基因失活。",
+    "secondary_reason": "21.4 Genes and Multigene Families 支援球蛋白及受器家族，不把基因家族等同所有成員都具功能。",
+    "answer_analysis": "官方B。受器基因突變失活、各物種偽基因比例差異是原始比較研究支持的機制；並非因少用嗅覺而定向突變為視覺受器。基因增減及調控也可影響嗅覺，B不是所有差異的唯一原因。原題「球蛋白10基因」及「500和1000」數量措辭照存，功能基因／偽基因計數口徑及物種範圍未明，不作全哺乳類固定數字。",
+    "textbook_evidence": [
+      {
+        "printed_page": 452,
+        "pdf_page": 501,
+        "text_file": "textbook_evidence/pdf-0501.txt",
+        "sha256": "493cea0d9691365ddc5f1ab221399b02c60fbbd59d36950aec5110ce09b24623"
+      },
+      {
+        "printed_page": 453,
+        "pdf_page": 502,
+        "text_file": "textbook_evidence/pdf-0502.txt",
+        "sha256": "733fb8807c622aa73f6770b21b8092cdd78ac19d16f1dcef19858e35a4b87862"
+      },
+      {
+        "printed_page": 455,
+        "pdf_page": 504,
+        "text_file": "textbook_evidence/pdf-0504.txt",
+        "sha256": "9f1078d18b37dedca9e5ad71da772fe45fe0c1ac10417bdcb7c48915c6231113"
+      },
+      {
+        "printed_page": 456,
+        "pdf_page": 505,
+        "text_file": "textbook_evidence/pdf-0505.txt",
+        "sha256": "0d7bc0c3a390a235850e078d0f3d46228caac52cdec7f99241735300ee939258"
+      }
+    ],
+    "supplement_ids": [
+      "S23"
+    ],
+    "coverage_note": "Campbell支援所列分類框架；具名機制或科學界線由列示原始研究/官方來源補足。",
+    "second_review_id": "CMU-111-R2-Q44",
+    "issue_resolution_index": 43
+  },
+  {
+    "id": "CMU-111-Q45",
+    "school": "CMU",
+    "year": 111,
+    "q": 45,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 45,
+      "pdf_page": 8,
+      "printed_page": 8,
+      "regions": [
+        [
+          40,
+          663.732,
+          565.32,
+          816.92
+        ]
+      ],
+      "image": "questions/Q45.png",
+      "sha256": "b9bad33d7a26f7764e25609ca9045d7b7decb55008dd734cde20e1fea052a704",
+      "width": 1051,
+      "height": 306,
+      "question_text": "45. 在自然環境下，細菌會發生一種特殊遺傳現象，稱為轉型(transformation)。有關轉型的敘\n述，下列何者最正確?\n(A) 是指從DNA分子來產生 RNA鏈\n(B) 是指噬菌體DNA 分子感染細胞而進入細菌中\n(C) 是指細菌的DNA 半保留複製現象\n(D) 是指細菌將外部DNA 片段同化到細胞基因組\n本試題（含封面）共計9頁之第8頁",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1728",
+      "toc_line": 1728,
+      "chapter": 27,
+      "concept": "27.2",
+      "title": "Genetic Recombination",
+      "printed_page": 579,
+      "body_pdf_page": 628,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        42
+      ],
+      "chapter_label": "Ch27 Bacteria and Archaea"
+    },
+    "secondary": [],
+    "primary_reason": "27.2 Genetic Recombination 正文含Transformation and Transduction，直接處理細菌外來DNA取得。",
+    "secondary_reason": "四選項比較轉型、轉錄、噬菌體媒介與複製，核心已由同一細菌基因重組條目涵蓋。",
+    "answer_analysis": "官方D。轉型是細菌攝取環境中裸露DNA後形成遺傳改變；A為轉錄，B只描述噬菌體DNA進入，不能直接等同轉型，C為DNA複製。題目D指外來片段整合入基因組的典型情境，非宣稱每一次DNA接觸都必然整合。",
+    "textbook_evidence": [
+      {
+        "printed_page": 579,
+        "pdf_page": 628,
+        "text_file": "textbook_evidence/pdf-0628.txt",
+        "sha256": "2a22af2be212f98496ee680570d22a7d71eb6b0d5a8975231a17371b3ffcada4"
+      },
+      {
+        "printed_page": 580,
+        "pdf_page": 629,
+        "text_file": "textbook_evidence/pdf-0629.txt",
+        "sha256": "1b5f361c8d56c6f094631d2621b80fd86e0ffa3900a16a94acd5a03713fd9698"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題與官方釋疑的假設、資料及措辭限制另見科學說明。",
+    "second_review_id": "CMU-111-R2-Q45",
+    "issue_resolution_index": 44
+  },
+  {
+    "id": "CMU-111-Q46",
+    "school": "CMU",
+    "year": 111,
+    "q": 46,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 46,
+      "pdf_page": 9,
+      "printed_page": 9,
+      "regions": [
+        [
+          40,
+          85.85199999999998,
+          565.32,
+          229.64800000000002
+        ]
+      ],
+      "image": "questions/Q46.png",
+      "sha256": "3a1a6e9fe5dc5bebf00304c304761aa6a6127508e6e3eede1d1cc25292dec599",
+      "width": 1051,
+      "height": 287,
+      "question_text": "46. 在英國維多利亞時代，人工選取與繁育各種外部形態具有差異的鴿子和其他純種動物是非\n常狂熱的活動，而達爾文(Charles Darwin)在 1856 年開始研究和育種鴿子時，同樣對於此\n種人工篩選的育種行為非常的狂熱，在此時期產生的各種特殊差異外形的鴿子品種，不同\n品種需要獨立培育來保持各品種的特殊差異性，有關這種作法與下列何種生殖隔離機制最\n為相近?\n(A) 棲地隔離(habitat isolation) (B) 行為隔離(behavioral isolation)\n(C) 機械隔離(mechanical isolation) (D) 時間隔離(temporal isolation)",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1488",
+      "toc_line": 1488,
+      "chapter": 24,
+      "concept": "24.1",
+      "title": "The Biological Species Concept",
+      "printed_page": 507,
+      "body_pdf_page": 556,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        41
+      ],
+      "chapter_label": "Ch24 The Origin of Species"
+    },
+    "secondary": [
+      {
+        "id": "L1399",
+        "toc_line": 1399,
+        "chapter": 22,
+        "concept": "22.2",
+        "title": "Ideas from The Origin of Species",
+        "printed_page": 473,
+        "body_pdf_page": 522,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          41
+        ],
+        "chapter_label": "Ch22 Descent with Modification: A Darwinian View of Life"
+      }
+    ],
+    "primary_reason": "24.1 The Biological Species Concept 下的合子前隔離比較，棲地分開使個體不易相遇，最接近題目獨立飼養。",
+    "secondary_reason": "22.2 Ideas from The Origin of Species 保留人工選擇的鴿種實例，區別育種篩選與自然種化。",
+    "answer_analysis": "官方A。獨立飼養阻止不同品種交配最像棲地隔離；未提供求偶、交配器或季節差異證據。這是人為空間隔開的類比，不表示各鴿子品種已成為具有內在生殖障礙的不同物種。",
+    "textbook_evidence": [
+      {
+        "printed_page": 507,
+        "pdf_page": 556,
+        "text_file": "textbook_evidence/pdf-0556.txt",
+        "sha256": "245c8bcb793f5e920301c7dd144d3596f597e31caebd99eda5c4abbed8b92937"
+      },
+      {
+        "printed_page": 508,
+        "pdf_page": 557,
+        "text_file": "textbook_evidence/pdf-0557.txt",
+        "sha256": "8fba5eda1d43441422cd997e1ac59365803d4b8f1f5743a45ad318773fad57f6"
+      },
+      {
+        "printed_page": 509,
+        "pdf_page": 558,
+        "text_file": "textbook_evidence/pdf-0558.txt",
+        "sha256": "cfdc31ea2b41a37a370a00b4993f8f146e59ea917a8be761caa022799ce2c078"
+      },
+      {
+        "printed_page": 473,
+        "pdf_page": 522,
+        "text_file": "textbook_evidence/pdf-0522.txt",
+        "sha256": "340510869c6bc73da93ea8790fa4b67a7b21cf2d39705d10d15305841eb3abc6"
+      },
+      {
+        "printed_page": 474,
+        "pdf_page": 523,
+        "text_file": "textbook_evidence/pdf-0523.txt",
+        "sha256": "96ee91e7e3fa3a52425835924646cfaa71076cfcd578c7c5ec7d9d0bc33d5db1"
+      },
+      {
+        "printed_page": 475,
+        "pdf_page": 524,
+        "text_file": "textbook_evidence/pdf-0524.txt",
+        "sha256": "c68dee4d11beeff0110c6621d8c6123532b74b7673b9ec659ab52d7e7b476278"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題與官方釋疑的假設、資料及措辭限制另見科學說明。",
+    "second_review_id": "CMU-111-R2-Q46",
+    "issue_resolution_index": 45
+  },
+  {
+    "id": "CMU-111-Q47",
+    "school": "CMU",
+    "year": 111,
+    "q": 47,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 47,
+      "pdf_page": 9,
+      "printed_page": 9,
+      "regions": [
+        [
+          40,
+          229.64800000000002,
+          565.32,
+          501.70199999999994
+        ]
+      ],
+      "image": "questions/Q47.png",
+      "sha256": "c880a15b5daf6dbcaf36ad18710081d05481c1775e785c7289e3625ff8845228",
+      "width": 1051,
+      "height": 544,
+      "question_text": "※47-48題組題\n47. 囊狀纖維化(cystic fibrosis)是一種人體罕見遺傳性疾病，造成此遺傳性疾病的原因為人類\n第 7 號染色體上的囊狀纖維化跨膜電導調節子(cystic fibrosis transmembrane conductance\nregulator, CFTR )基因有缺陷所導致，屬於隱性同型合子之遺傳疾病，多在青少年時期會導\n致死亡，假設在政府健保資料庫中獲得資訊，每 1,000,000 名新生兒中有81 名患有此遺傳\n疾病，依據Hardy-Weinberg模型推估，其顯性(A1)和隱性(A2)對偶基因的預期頻度分別為\n多少?\n(A) f(A1) = 0.99910, f(A2) = 0.00090 (B) f(A1) = 0.99900, f(A2) = 0.00100\n(C) f(A1) = 0.99100, f(A2) = 0.00900 (D) f(A1) = 0.99000, f(A2) = 0.01000\n48. 承上題，因為此遺傳疾病的個體多在青少年時期死亡，此階段通常還未繁殖產生下一世代，\n依據此條件推測此下一世代的基因庫，其顯性(A1)和隱性(A2)對偶基因的頻度分別為多少?\n(A) f(A1) = 0.99991, f(A2) = 0.00009 (B) f(A1) = 0.99910, f(A2) = 0.00090\n(C) f(A1) = 0.99808, f(A2) = 0.00192 (D) f(A1) = 0.99108, f(A2) = 0.00892",
+      "shared_stimulus": true
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1445",
+      "toc_line": 1445,
+      "chapter": 23,
+      "concept": "23.2",
+      "title": "The Hardy-Weinberg Equation",
+      "printed_page": 490,
+      "body_pdf_page": 539,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        41
+      ],
+      "chapter_label": "Ch23 The Evolution of Populations"
+    },
+    "secondary": [
+      {
+        "id": "L0911",
+        "toc_line": 911,
+        "chapter": 14,
+        "concept": "14.4",
+        "title": "Recessively Inherited Disorders",
+        "printed_page": 285,
+        "body_pdf_page": 334,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          38
+        ],
+        "chapter_label": "Ch14 Mendel and the Gene Idea"
+      }
+    ],
+    "primary_reason": "23.2 The Hardy-Weinberg Equation 直接用隱性同型合子發生率q²反推出p、q。",
+    "secondary_reason": "14.4 Recessively Inherited Disorders 保留CFTR隱性疾病與帶因者概念，但計算重點仍為族群遺傳。",
+    "answer_analysis": "官方C。q²=81/1000000=0.000081；q=0.009，p=0.991。把罹病率直接當q會差平方根。Q47、48均保存完整題組；「多在青少年死亡」是本題假設，教材286已討論治療改善存活，不能當作現代CF個別患者的預後判斷。",
+    "textbook_evidence": [
+      {
+        "printed_page": 490,
+        "pdf_page": 539,
+        "text_file": "textbook_evidence/pdf-0539.txt",
+        "sha256": "4e9ee38641a9378424b7cd97369021fe3d056f8bcbd8253040de35724ad9186f"
+      },
+      {
+        "printed_page": 491,
+        "pdf_page": 540,
+        "text_file": "textbook_evidence/pdf-0540.txt",
+        "sha256": "0126bcd251c1b31178e2c9b61c17339265e311b7b3c6c1a7d3bd504eebd02d3d"
+      },
+      {
+        "printed_page": 492,
+        "pdf_page": 541,
+        "text_file": "textbook_evidence/pdf-0541.txt",
+        "sha256": "5b7cd06dd5ea963f08e757db2e5695abca42aab7a7918afc4c99a8ba5ec103f6"
+      },
+      {
+        "printed_page": 285,
+        "pdf_page": 334,
+        "text_file": "textbook_evidence/pdf-0334.txt",
+        "sha256": "86222ba3b5b909132b55a566280c1a66a674f717e36fa83132670dea475f43bd"
+      },
+      {
+        "printed_page": 286,
+        "pdf_page": 335,
+        "text_file": "textbook_evidence/pdf-0335.txt",
+        "sha256": "046527c5d36d75cdb2a84bbc9a44d2ef321c97348377d9a04b8336696fc53df2"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題與官方釋疑的假設、資料及措辭限制另見科學說明。",
+    "second_review_id": "CMU-111-R2-Q47",
+    "issue_resolution_index": 46
+  },
+  {
+    "id": "CMU-111-Q48",
+    "school": "CMU",
+    "year": 111,
+    "q": 48,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 48,
+      "pdf_page": 9,
+      "printed_page": 9,
+      "regions": [
+        [
+          40,
+          229.64800000000002,
+          565.32,
+          501.70199999999994
+        ]
+      ],
+      "image": "questions/Q48.png",
+      "sha256": "c880a15b5daf6dbcaf36ad18710081d05481c1775e785c7289e3625ff8845228",
+      "width": 1051,
+      "height": 544,
+      "question_text": "※47-48題組題\n47. 囊狀纖維化(cystic fibrosis)是一種人體罕見遺傳性疾病，造成此遺傳性疾病的原因為人類\n第 7 號染色體上的囊狀纖維化跨膜電導調節子(cystic fibrosis transmembrane conductance\nregulator, CFTR )基因有缺陷所導致，屬於隱性同型合子之遺傳疾病，多在青少年時期會導\n致死亡，假設在政府健保資料庫中獲得資訊，每 1,000,000 名新生兒中有81 名患有此遺傳\n疾病，依據Hardy-Weinberg模型推估，其顯性(A1)和隱性(A2)對偶基因的預期頻度分別為\n多少?\n(A) f(A1) = 0.99910, f(A2) = 0.00090 (B) f(A1) = 0.99900, f(A2) = 0.00100\n(C) f(A1) = 0.99100, f(A2) = 0.00900 (D) f(A1) = 0.99000, f(A2) = 0.01000\n48. 承上題，因為此遺傳疾病的個體多在青少年時期死亡，此階段通常還未繁殖產生下一世代，\n依據此條件推測此下一世代的基因庫，其顯性(A1)和隱性(A2)對偶基因的頻度分別為多少?\n(A) f(A1) = 0.99991, f(A2) = 0.00009 (B) f(A1) = 0.99910, f(A2) = 0.00090\n(C) f(A1) = 0.99808, f(A2) = 0.00192 (D) f(A1) = 0.99108, f(A2) = 0.00892",
+      "shared_stimulus": true
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [
+        14
+      ],
+      "clarification_disposition": "維持原答案D"
+    },
+    "primary": {
+      "id": "L1452",
+      "toc_line": 1452,
+      "chapter": 23,
+      "concept": "23.3",
+      "title": "Natural Selection",
+      "printed_page": 494,
+      "body_pdf_page": 543,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        41
+      ],
+      "chapter_label": "Ch23 The Evolution of Populations"
+    },
+    "secondary": [
+      {
+        "id": "L1445",
+        "toc_line": 1445,
+        "chapter": 23,
+        "concept": "23.2",
+        "title": "The Hardy-Weinberg Equation",
+        "printed_page": 490,
+        "body_pdf_page": 539,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          41
+        ],
+        "chapter_label": "Ch23 The Evolution of Populations"
+      }
+    ],
+    "primary_reason": "23.3 Natural Selection 處理隱性同型合子被選汰後下一代等位基因頻率改變，優先於靜態平衡。",
+    "secondary_reason": "23.2 The Hardy-Weinberg Equation 提供初始p²、2pq、q²及交配後頻率關係，保留同章最小次條目。",
+    "answer_analysis": "官方D，釋疑PDF14維持。以aa完全不繁殖、AA與Aa適存度均1及隨機交配為考試理想化：q′=q/(1+q)=0.00891972，p′=1/(1+q)=0.99108028。初始2pq=0.017838；釋疑前文0.17838是小數位筆誤，後段算式用0.017838，兩者差異照存。原題「多」不等於全部，若有殘存繁殖須另給適存度才能精算。",
+    "textbook_evidence": [
+      {
+        "printed_page": 493,
+        "pdf_page": 542,
+        "text_file": "textbook_evidence/pdf-0542.txt",
+        "sha256": "3652b1fd2ea97eb6f099b8ea306c9bc2ee6e80630c92c6b53ff1156c7e8e4a3b"
+      },
+      {
+        "printed_page": 494,
+        "pdf_page": 543,
+        "text_file": "textbook_evidence/pdf-0543.txt",
+        "sha256": "083ff25dc821ec4a71d3ccca177ceadd1f156f9e01b2240d816a13558dcb360f"
+      },
+      {
+        "printed_page": 490,
+        "pdf_page": 539,
+        "text_file": "textbook_evidence/pdf-0539.txt",
+        "sha256": "4e9ee38641a9378424b7cd97369021fe3d056f8bcbd8253040de35724ad9186f"
+      },
+      {
+        "printed_page": 491,
+        "pdf_page": 540,
+        "text_file": "textbook_evidence/pdf-0540.txt",
+        "sha256": "0126bcd251c1b31178e2c9b61c17339265e311b7b3c6c1a7d3bd504eebd02d3d"
+      },
+      {
+        "printed_page": 492,
+        "pdf_page": 541,
+        "text_file": "textbook_evidence/pdf-0541.txt",
+        "sha256": "5b7cd06dd5ea963f08e757db2e5695abca42aab7a7918afc4c99a8ba5ec103f6"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題與官方釋疑的假設、資料及措辭限制另見科學說明。",
+    "second_review_id": "CMU-111-R2-Q48",
+    "issue_resolution_index": 47
+  },
+  {
+    "id": "CMU-111-Q49",
+    "school": "CMU",
+    "year": 111,
+    "q": 49,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 49,
+      "pdf_page": 9,
+      "printed_page": 9,
+      "regions": [
+        [
+          40,
+          501.70199999999994,
+          565.32,
+          604.3019999999999
+        ]
+      ],
+      "image": "questions/Q49.png",
+      "sha256": "4d061e3c53effa3fb51ec1ef3114ab5745deb668cd224956985897883b057a63",
+      "width": 1051,
+      "height": 206,
+      "question_text": "49. 化石是研究古生物的重要依據，隨著地層的發展，堆疊著各種不同地質年代的生物發展歷\n史，假設下列的各種物質都可持續存在於化石中，則從古代地層沉積物到最近的地層沉積\n物，推測出由古到今最有可能的發現順序?\nI：幾丁質與蛋白質偶聯 II：葉綠素 III：骨頭 IV：纖維素\n(A) I→II→III→IV (B) II→IV→I→III (C) III→II→IV→I (D) IV→II→I→III",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得111生物釋疑PDF8下半部–14；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1557",
+      "toc_line": 1557,
+      "chapter": 25,
+      "concept": "25.2",
+      "title": "The Fossil Record",
+      "printed_page": 529,
+      "body_pdf_page": 578,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        41
+      ],
+      "chapter_label": "Ch25 The History of Life on Earth"
+    },
+    "secondary": [
+      {
+        "id": "L1570",
+        "toc_line": 1570,
+        "chapter": 25,
+        "concept": "25.3",
+        "title": "The First Single-Celled Organisms",
+        "printed_page": 533,
+        "body_pdf_page": 582,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          41
+        ],
+        "chapter_label": "Ch25 The History of Life on Earth"
+      },
+      {
+        "id": "L0242",
+        "toc_line": 242,
+        "chapter": 5,
+        "concept": "5.2",
+        "title": "Polysaccharides",
+        "printed_page": 70,
+        "body_pdf_page": 119,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          36
+        ],
+        "chapter_label": "Ch05 The Structure and Function of Large Biological Molecules"
+      }
+    ],
+    "primary_reason": "25.2 The Fossil Record 直接處理地層由古到今推斷生命史；題設可保存物質屬化石證據情境。",
+    "secondary_reason": "25.3 The First Single-Celled Organisms 支援早期光合生物；5.2 Polysaccharides 辨認纖維素與幾丁質結構，不能以化學章取代化石年代主軸。",
+    "answer_analysis": "官方B II→IV→I→III。依題目預期，以早期光合生物、含纖維素類群、幾丁質外骨骼類群及具骨脊椎動物作代表推論。這不是四種分子首次起源或最早化石的精確定年：纖維素與幾丁質跨多類群，化石幾丁質亦見於海綿研究，不能把每個分子與單一門類一對一綁定。科學證據支援生命史分類與此推論界線，不冒稱已證明題設四項絕對先後。",
+    "textbook_evidence": [
+      {
+        "printed_page": 529,
+        "pdf_page": 578,
+        "text_file": "textbook_evidence/pdf-0578.txt",
+        "sha256": "dbb236ee1716cedf41d53a5b5b74e23f57290c68ae4bf49ad4ff49122cb4998d"
+      },
+      {
+        "printed_page": 532,
+        "pdf_page": 581,
+        "text_file": "textbook_evidence/pdf-0581.txt",
+        "sha256": "6856abf4f9b88fa6306166f725a966416b3d952478b3bfd4b5e3fd300e42ad6f"
+      },
+      {
+        "printed_page": 533,
+        "pdf_page": 582,
+        "text_file": "textbook_evidence/pdf-0582.txt",
+        "sha256": "d5f06b9843a76fdbc0d8d7ff653aabe99536fca436f1ab17b6db1fc7cf496472"
+      },
+      {
+        "printed_page": 534,
+        "pdf_page": 583,
+        "text_file": "textbook_evidence/pdf-0583.txt",
+        "sha256": "66842bdcd1b9f9dbbd43e666586d1b9781f07394c562406f1efd78f481621d25"
+      },
+      {
+        "printed_page": 535,
+        "pdf_page": 584,
+        "text_file": "textbook_evidence/pdf-0584.txt",
+        "sha256": "a6cc09705d1431bcb1be6084ab79915208d89b4a53a9ba6f4d134072704e9f39"
+      },
+      {
+        "printed_page": 70,
+        "pdf_page": 119,
+        "text_file": "textbook_evidence/pdf-0119.txt",
+        "sha256": "3561adc4a5f1bb351e03fc5895288749b41659ae657ace1ebc6774936b157282"
+      },
+      {
+        "printed_page": 71,
+        "pdf_page": 120,
+        "text_file": "textbook_evidence/pdf-0120.txt",
+        "sha256": "35dab2dd749208c2eb9469750035fdd8a917bd53c60b464b7345eabd61ebcf4e"
+      },
+      {
+        "printed_page": 72,
+        "pdf_page": 121,
+        "text_file": "textbook_evidence/pdf-0121.txt",
+        "sha256": "fc56b363950d5b79b59edf2c4b2313d3df002e161080c4f50f16027d06705de8"
+      }
+    ],
+    "supplement_ids": [
+      "S24"
+    ],
+    "coverage_note": "Campbell支援所列分類框架；具名機制或科學界線由列示原始研究/官方來源補足。",
+    "second_review_id": "CMU-111-R2-Q49",
+    "issue_resolution_index": 48
+  },
+  {
+    "id": "CMU-111-Q50",
+    "school": "CMU",
+    "year": 111,
+    "q": 50,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 50,
+      "pdf_page": 9,
+      "printed_page": 9,
+      "regions": [
+        [
+          40,
+          604.3019999999999,
+          565.32,
+          816.92
+        ]
+      ],
+      "image": "questions/Q50.png",
+      "sha256": "289acff39521c7597befbee7e86727fc2548bc0eef28b6c72e6043e01ca98e99",
+      "width": 1051,
+      "height": 425,
+      "question_text": "50. 石炭紀(Carboniferous)屬於地質歷史的一階段，依據地質歷史資料得知，石炭紀從 3.59 億\n年前開始，延續到2.99 億年前結束，在地層中留下了大量的植物化石，假設人類若回溯到\n石炭紀時期生存，依據現有的化石資料推測，此階段最適合做為建造建築物或器具的材料\n來源，下列何者最正確?\n(A) 輪藻(stoneworts)、苔蘚類(bryophytes)和裸子植物(gymnosperms)\n(B) 蕨類(ferns)、木賊類(horsetails)和石松類(lycophytes)\n(C) 木賊類(horsetails)和苔蘚類(bryophytes)\n(D) 石松類(lycophytes)和松葉蕨類(whisk ferns)\n本試題（含封面）共計9頁之第9頁",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [
+        14
+      ],
+      "clarification_disposition": "維持原答案B"
+    },
+    "primary": {
+      "id": "L1896",
+      "toc_line": 1896,
+      "chapter": 29,
+      "concept": "29.3",
+      "title": "The Significance of Seedless Vascular Plants",
+      "printed_page": 633,
+      "body_pdf_page": 682,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        43
+      ],
+      "chapter_label": "Ch29 Plant Diversity I: How Plants Colonized Land"
+    },
+    "secondary": [
+      {
+        "id": "L1893",
+        "toc_line": 1893,
+        "chapter": 29,
+        "concept": "29.3",
+        "title": "Classification of Seedless Vascular Plants",
+        "printed_page": 631,
+        "body_pdf_page": 680,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          43
+        ],
+        "chapter_label": "Ch29 Plant Diversity I: How Plants Colonized Land"
+      }
+    ],
+    "primary_reason": "29.3 The Significance of Seedless Vascular Plants 直接描述石炭紀大型無種子維管植物森林與煤層，是建材來源的主條目。",
+    "secondary_reason": "29.3 Classification of Seedless Vascular Plants 區分石松與蕨類（含木賊、松葉蕨）及其演化關係。",
+    "answer_analysis": "官方B，釋疑PDF14維持。石炭紀樹形石松、木賊類與蕨類相關大型植物是題目的最佳材料組合。釋疑稱被子植物在石炭紀剛出現，與本地12e印刷647早白堊紀約1.4億年前化石證據不同；松葉蕨也非未改變的Rhynia活化石，教材633指出其無根等性狀是次生衍生。Rhynie chert是化石產地／沉積，不是最近物種。保留釋疑原文，不以其錯誤背景改變官方B。",
+    "textbook_evidence": [
+      {
+        "printed_page": 631,
+        "pdf_page": 680,
+        "text_file": "textbook_evidence/pdf-0680.txt",
+        "sha256": "66da95383eef4ebcfb254bdf9981eae6f319d906a52f01667a562a377d698c4c"
+      },
+      {
+        "printed_page": 632,
+        "pdf_page": 681,
+        "text_file": "textbook_evidence/pdf-0681.txt",
+        "sha256": "54d3acdfdbefa52c7108010be4bd4bf0ce7718937243e4130344561fa9fd51b9"
+      },
+      {
+        "printed_page": 633,
+        "pdf_page": 682,
+        "text_file": "textbook_evidence/pdf-0682.txt",
+        "sha256": "96a0705b88d24395b18f4882a68ce471f686f2873b587407ee07e66a3f1ed2a6"
+      },
+      {
+        "printed_page": 634,
+        "pdf_page": 683,
+        "text_file": "textbook_evidence/pdf-0683.txt",
+        "sha256": "f2b8017c082ea99693cb767356bd3e917475a9dca9300c696893c1bfdebfbcb3"
+      },
+      {
+        "printed_page": 641,
+        "pdf_page": 690,
+        "text_file": "textbook_evidence/pdf-0690.txt",
+        "sha256": "24d3ae25e11cc8a2ba54a7694732866679070597493460f24909d85010d9842a"
+      },
+      {
+        "printed_page": 647,
+        "pdf_page": 696,
+        "text_file": "textbook_evidence/pdf-0696.txt",
+        "sha256": "33b7fb73542e48b820a157b992cc5a4ad1d8d8974d83c1024aa5f381ba2cf7eb"
+      },
+      {
+        "printed_page": 648,
+        "pdf_page": 697,
+        "text_file": "textbook_evidence/pdf-0697.txt",
+        "sha256": "be7cf8553ace7d8ad84bed7013434fbfe0b090076888798d1d3d07e4704ace45"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題與官方釋疑的假設、資料及措辭限制另見科學說明。",
+    "second_review_id": "CMU-111-R2-Q50",
+    "issue_resolution_index": 49
+  }
+]

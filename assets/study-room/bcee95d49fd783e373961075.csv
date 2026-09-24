@@ -1,0 +1,71 @@
+﻿mode,chapter_number,chapter,count
+primary,39,Ch39 Plant Responses to Internal and External Signals,5
+primary,6,Ch06 A Tour of the Cell,4
+primary,27,Ch27 Bacteria and Archaea,4
+primary,9,Ch09 Cellular Respiration and Fermentation,3
+primary,11,Ch11 Cell Communication,2
+primary,17,Ch17 Gene Expression: From Gene to Protein,2
+primary,19,Ch19 Viruses,2
+primary,20,Ch20 DNA Tools and Biotechnology,2
+primary,25,Ch25 The History of Life on Earth,2
+primary,31,Ch31 Fungi,2
+primary,38,Ch38 Angiosperm Reproduction and Biotechnology,2
+primary,44,Ch44 Osmoregulation and Excretion,2
+primary,45,Ch45 Hormones and the Endocrine System,2
+primary,46,Ch46 Animal Reproduction,2
+primary,10,Ch10 Photosynthesis,1
+primary,18,Ch18 Regulation of Gene Expression,1
+primary,21,Ch21 Genomes and Their Evolution,1
+primary,29,Ch29 Plant Diversity I: How Plants Colonized Land,1
+primary,33,Ch33 An Introduction to Invertebrates,1
+primary,37,Ch37 Soil and Plant Nutrition,1
+primary,40,Ch40 Basic Principles of Animal Form and Function,1
+primary,43,Ch43 The Immune System,1
+primary,47,Ch47 Animal Development,1
+primary,48,"Ch48 Neurons, Synapses, and Signaling",1
+primary,50,Ch50 Sensory and Motor Mechanisms,1
+primary,51,Ch51 Animal Behavior,1
+primary,52,Ch52 An Introduction to Ecology and the Biosphere,1
+primary,53,Ch53 Population Ecology,1
+secondary,9,Ch09 Cellular Respiration and Fermentation,2
+secondary,36,Ch36 Resource Acquisition and Transport in Vascular Plants,2
+secondary,6,Ch06 A Tour of the Cell,1
+secondary,7,Ch07 Membrane Structure and Function,1
+secondary,11,Ch11 Cell Communication,1
+secondary,17,Ch17 Gene Expression: From Gene to Protein,1
+secondary,20,Ch20 DNA Tools and Biotechnology,1
+secondary,21,Ch21 Genomes and Their Evolution,1
+secondary,27,Ch27 Bacteria and Archaea,1
+secondary,42,Ch42 Circulation and Gas Exchange,1
+secondary,43,Ch43 The Immune System,1
+both,6,Ch06 A Tour of the Cell,5
+both,9,Ch09 Cellular Respiration and Fermentation,5
+both,27,Ch27 Bacteria and Archaea,5
+both,39,Ch39 Plant Responses to Internal and External Signals,5
+both,11,Ch11 Cell Communication,3
+both,17,Ch17 Gene Expression: From Gene to Protein,3
+both,20,Ch20 DNA Tools and Biotechnology,3
+both,19,Ch19 Viruses,2
+both,21,Ch21 Genomes and Their Evolution,2
+both,25,Ch25 The History of Life on Earth,2
+both,31,Ch31 Fungi,2
+both,36,Ch36 Resource Acquisition and Transport in Vascular Plants,2
+both,38,Ch38 Angiosperm Reproduction and Biotechnology,2
+both,43,Ch43 The Immune System,2
+both,44,Ch44 Osmoregulation and Excretion,2
+both,45,Ch45 Hormones and the Endocrine System,2
+both,46,Ch46 Animal Reproduction,2
+both,7,Ch07 Membrane Structure and Function,1
+both,10,Ch10 Photosynthesis,1
+both,18,Ch18 Regulation of Gene Expression,1
+both,29,Ch29 Plant Diversity I: How Plants Colonized Land,1
+both,33,Ch33 An Introduction to Invertebrates,1
+both,37,Ch37 Soil and Plant Nutrition,1
+both,40,Ch40 Basic Principles of Animal Form and Function,1
+both,42,Ch42 Circulation and Gas Exchange,1
+both,47,Ch47 Animal Development,1
+both,48,"Ch48 Neurons, Synapses, and Signaling",1
+both,50,Ch50 Sensory and Motor Mechanisms,1
+both,51,Ch51 Animal Behavior,1
+both,52,Ch52 An Introduction to Ecology and the Biosphere,1
+both,53,Ch53 Population Ecology,1

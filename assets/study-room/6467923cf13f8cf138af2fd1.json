@@ -1,0 +1,1362 @@
+[
+  {
+    "q": 1,
+    "question_or_alternative": "比較DNA複製與限制酶生物技術；另查錯印序列會否改變B選項。",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        317,
+        318,
+        319,
+        419,
+        420
+      ],
+      "catalog_ids": [
+        "L1238",
+        "L1000"
+      ],
+      "supplement_ids": [
+        "S01"
+      ]
+    },
+    "resolution": "定位20.1限制酶條目，16.1結構為必要次條目；按題示與標準ClaI/BstBI均可確認B，錯印另存。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 2,
+    "question_or_alternative": "比較11.2受體與45章內分泌；檢查雌激素與G蛋白通道是否只是推測。",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [
+        3,
+        4
+      ],
+      "textbook_pages": [
+        217,
+        218,
+        219,
+        223,
+        224,
+        225
+      ],
+      "catalog_ids": [
+        "L0708",
+        "L0724"
+      ],
+      "supplement_ids": [
+        "S02"
+      ]
+    },
+    "resolution": "四敘述用原始實驗及教材抑制型G蛋白段落確認；主歸受體機制，非雌激素器官專章。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 3,
+    "question_or_alternative": "比較46.5妊娠主題與47.2胚外膜圖；不以胎盤單一正解覆蓋整幅圖。",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1034,
+        1035,
+        1053,
+        1054
+      ],
+      "catalog_ids": [
+        "L3147",
+        "L3114"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "47.2四膜為主，46.5胎盤為次，保留圖中甲至戊完整標示。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 4,
+    "question_or_alternative": "比較10.3 Calvin循環與10.5 CAM；核查C3束鞘及A的絕對語句。",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [
+        4
+      ],
+      "textbook_pages": [
+        189,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206
+      ],
+      "catalog_ids": [
+        "L0679",
+        "L0676"
+      ],
+      "supplement_ids": [
+        "S04"
+      ]
+    },
+    "resolution": "決定性錯誤E落在CAM條目，C4保留為次；來源文字爭議不阻礙機制分類。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 5,
+    "question_or_alternative": "比較32章體制總論與33章線蟲；避免把各門「皆」敘述一概接受。",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        679,
+        680,
+        689,
+        705,
+        706,
+        713,
+        714
+      ],
+      "catalog_ids": [
+        "L2130",
+        "L2067",
+        "L2073"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "線蟲具名性狀為主，32.3對稱及體腔分列次條目，不因同章合併掉證據。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 6,
+    "question_or_alternative": "比較單系樹與一般集合包含，檢查木賊是否裸子植物。",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        621,
+        622,
+        629,
+        631,
+        632
+      ],
+      "catalog_ids": [
+        "L1870",
+        "L1893"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "29.1演化分化為主、29.3木賊分類為次，非30章種子植物。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 7,
+    "question_or_alternative": "比較33章珊瑚分類與52章水域生物群系；查證軟珊瑚例外。",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        693,
+        694,
+        1177,
+        1181,
+        1182
+      ],
+      "catalog_ids": [
+        "L2104",
+        "L3503"
+      ],
+      "supplement_ids": [
+        "S07"
+      ]
+    },
+    "resolution": "原始研究及研究機構報告支援軟珊瑚造礁反例，主33.2、次52.3。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 8,
+    "question_or_alternative": "比較25章歷史時間軸與28章胞器內共生；檢查中英文用語不一致。",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        533,
+        534,
+        535,
+        536,
+        537,
+        594,
+        595,
+        596
+      ],
+      "catalog_ids": [
+        "L1570",
+        "L1573",
+        "L1576",
+        "L1794"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "25.3歷史為主；保留三個必要次條目及多重起源界線。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 9,
+    "question_or_alternative": "比較群落交互作用與水域棲地；確認大鵬灣的具名地形成因。",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1177,
+        1180
+      ],
+      "catalog_ids": [
+        "L3503"
+      ],
+      "supplement_ids": [
+        "S09"
+      ]
+    },
+    "resolution": "主52.3河口所在最小目錄項；無需因沙洲額外虛構Campbell地質子條目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 10,
+    "question_or_alternative": "比較氣體擴散與呼吸運動；獨立重算單位及死腔。",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        945,
+        946
+      ],
+      "catalog_ids": [
+        "L2840"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主42.6哺乳類呼吸，計算與選項C一致，無多餘次章。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 11,
+    "question_or_alternative": "比較49.1導言、49.2脊椎腦與33章；確認沒有杜撰「無脊椎神經系統」目錄葉。",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [
+        4
+      ],
+      "textbook_pages": [
+        692,
+        699,
+        702,
+        703,
+        1086,
+        1087
+      ],
+      "catalog_ids": [
+        "L3238",
+        "L2101",
+        "L2120"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "以真實49.1標題定位未另列目的比較導言，兩個具名分類最小次目保留；非無理由停在章級。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 12,
+    "question_or_alternative": "比較炎症先天免疫與單純血球組成；逐一對照原圖及釋疑圖時間軸。",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [
+        5
+      ],
+      "textbook_pages": [
+        954,
+        955,
+        956,
+        957,
+        963,
+        964
+      ],
+      "catalog_ids": [
+        "L2870",
+        "L2896"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主43.1發炎募集、次43.3適應反應；時間與圖例差異保存。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 13,
+    "question_or_alternative": "比較綠藻與紅藻，檢查食材俗名是否可直接作種名。",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        609,
+        610
+      ],
+      "catalog_ids": [
+        "L1827"
+      ],
+      "supplement_ids": [
+        "S13"
+      ]
+    },
+    "resolution": "主28.4紅藻，具名用途由臺灣研究與主管機關補充。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 14,
+    "question_or_alternative": "比較系統樹親緣與階層箱圖；分別從界與域重新計數。",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [
+        5
+      ],
+      "textbook_pages": [
+        554,
+        555,
+        568,
+        569
+      ],
+      "catalog_ids": [
+        "L1630",
+        "L1695"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "26.1為主、26.6為次，完整保存原E及正式D或E。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 15,
+    "question_or_alternative": "比較31章真菌與37章植物營養；區別菌根、根瘤、根毛與根分枝。",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [
+        5
+      ],
+      "textbook_pages": [
+        656,
+        657,
+        817,
+        818
+      ],
+      "catalog_ids": [
+        "L2466",
+        "L1972"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主37.3營養效益、次31.1菌絲特化，排除把固氮套入菌根。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 16,
+    "question_or_alternative": "比較保育策略與臺灣地理常識；核查公園實施與管理機關成立日期。",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1272,
+        1273
+      ],
+      "catalog_ids": [
+        "L3771"
+      ],
+      "supplement_ids": [
+        "S16"
+      ]
+    },
+    "resolution": "主56.3保護區，日期由主管機關原表補足，最晚選項不受兩種日期口徑影響。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 17,
+    "question_or_alternative": "比較9.2、9.3與9.5，查清不直接耗氧是否等於無氧呼吸。",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [
+        5
+      ],
+      "textbook_pages": [
+        165,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        179,
+        180,
+        181,
+        182
+      ],
+      "catalog_ids": [
+        "L0575",
+        "L0564",
+        "L0598"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "核心9.3與兩項次分類已確認；官方E不代表其他選項在所有生物與術語下都嚴格成立。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 18,
+    "question_or_alternative": "比較遺傳病識別與概率運算；核對全家與子女計數差別。",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        277,
+        278,
+        285,
+        286
+      ],
+      "catalog_ids": [
+        "L0882",
+        "L0911"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主14.2概率規則、次14.4隱性疾病，所有選項對應量重算保存。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 19,
+    "question_or_alternative": "比較水域棲地與保育狀態；追查考試前已存在的栽培紀錄。",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [
+        5
+      ],
+      "textbook_pages": [
+        1180,
+        1181,
+        1261,
+        1262
+      ],
+      "catalog_ids": [
+        "L3503",
+        "L3739"
+      ],
+      "supplement_ids": [
+        "S19"
+      ]
+    },
+    "resolution": "主52.3河口紅樹林、次56.1物種多樣性；已明確分開原生野外與人工栽培範圍。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 20,
+    "question_or_alternative": "比較26章分支分類方法與34章各群內容；防止按字詞大小猜順序。",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        559,
+        560,
+        718,
+        719,
+        722,
+        725,
+        734,
+        744,
+        745,
+        746
+      ],
+      "catalog_ids": [
+        "L1659",
+        "L2154",
+        "L2183",
+        "L2212",
+        "L2237"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "26.3巢狀分類為主，34章四個具體節點補證且章級去重。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 21,
+    "question_or_alternative": "比較45.1化學類別和45.3腺體；核查為何不選甲狀腺素。",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [
+        5
+      ],
+      "textbook_pages": [
+        1001,
+        1002,
+        1003,
+        1012,
+        1013,
+        1014
+      ],
+      "catalog_ids": [
+        "L3039",
+        "L3001",
+        "L3004"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主45.3腎上腺，45.1兩條目為次，保留官方對分類依據的說明。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 22,
+    "question_or_alternative": "比較異域隔離與多倍體；分配子、雜交體、倍增體三步計數。",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        307,
+        308,
+        513,
+        514
+      ],
+      "catalog_ids": [
+        "L1501",
+        "L0968"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "24.2同域種化主、15.4數目變化次，28的計算確認。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 23,
+    "question_or_alternative": "比較55章限制養分與56章污染；逐項分開題給實驗與教材近似案例。",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1242,
+        1243,
+        1244,
+        1274,
+        1275
+      ],
+      "catalog_ids": [
+        "L3689",
+        "L3781"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主55.2水域初級生產、次56.4營養富集，N/P及雞/鴨差異明列。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 24,
+    "question_or_alternative": "比較正、負頻率作用方向；不把所有性擇都說成維持多型。",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        499,
+        500,
+        501
+      ],
+      "catalog_ids": [
+        "L1474",
+        "L1471"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主23.4平衡選擇、同性擇次目保留，章級僅一次。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 25,
+    "question_or_alternative": "比較消化吸收與必需營養素；實看p900全部表格欄位避免錯行。",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        899,
+        900,
+        901,
+        902
+      ],
+      "catalog_ids": [
+        "L2685",
+        "L2691"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主41.1必需營養素，缺乏症次目保留，四配對由實際表格確認。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 26,
+    "question_or_alternative": "比較水域分帶與一般非生物因子；查證最低含氧是否固定在海底。",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [
+        6
+      ],
+      "textbook_pages": [
+        1177,
+        1178,
+        1181,
+        1182,
+        1184,
+        1185,
+        1186
+      ],
+      "catalog_ids": [
+        "L3503",
+        "L3516"
+      ],
+      "supplement_ids": [
+        "S26"
+      ]
+    },
+    "resolution": "52.3為主、52.4為次；具體海洋例外有研究機構實測報告支持，官方圖另留。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 27,
+    "question_or_alternative": "比較動態現況與歷史時點；核對官方公告的年月和近似選項。",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [
+        6
+      ],
+      "textbook_pages": [
+        1207,
+        1208
+      ],
+      "catalog_ids": [
+        "L3584"
+      ],
+      "supplement_ids": [
+        "S27"
+      ]
+    },
+    "resolution": "主53.6全球人口，答案與歷史資料相符且日期界線已固定。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 28,
+    "question_or_alternative": "比較I/II/III型理想曲線與分期高死亡風險；核查甲殼類蛻皮例子。",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        706,
+        707,
+        710,
+        1193,
+        1194,
+        1195
+      ],
+      "catalog_ids": [
+        "L3534",
+        "L2133"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主53.1人口統計，33.4節肢動物為次，不硬歸單一平滑存活類型。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 29,
+    "question_or_alternative": "比較全球總量與每平方公尺固碳；檢查官方數值來源是否覆盖所有選項。",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [
+        6
+      ],
+      "textbook_pages": [
+        1241,
+        1242,
+        1243,
+        1244,
+        1245
+      ],
+      "catalog_ids": [
+        "L3686",
+        "L3689",
+        "L3692"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主55.2能量收支，水域與陸域各留最小次目；具名排名依官方採計，來源涵蓋不足不冒稱已證全稱排名。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 30,
+    "question_or_alternative": "比較單一激素訊息途徑與四激素功能表；逐項核對p847–854。",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        847,
+        848,
+        849,
+        850,
+        851,
+        852,
+        853,
+        854
+      ],
+      "catalog_ids": [
+        "L2557"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主39.2植物激素綜覽，無需用通用細胞訊息專章取代此最小目錄項。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 31,
+    "question_or_alternative": "比較光合作用需光與光週期開花；將每段連續黑暗重新列出。",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [
+        6
+      ],
+      "textbook_pages": [
+        859,
+        860,
+        861
+      ],
+      "catalog_ids": [
+        "L2576"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主39.3光週期，重算與同年官方更正C一致，原A保留。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 32,
+    "question_or_alternative": "比較先天與適應性、抗體直接作用與招募效應；核查輔助T細胞分支。",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        954,
+        955,
+        956,
+        963,
+        964,
+        965,
+        966,
+        967
+      ],
+      "catalog_ids": [
+        "L2870",
+        "L2896",
+        "L2899"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主43.1，43.3兩條最小次目保留，不因同一章而刪除。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 33,
+    "question_or_alternative": "比較13.3流程總表與單獨互換；核查絕對否定詞的適用範圍。",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        259,
+        260,
+        261,
+        262,
+        263,
+        264
+      ],
+      "catalog_ids": [
+        "L0843",
+        "L0840"
+      ],
+      "supplement_ids": [
+        "S33"
+      ]
+    },
+    "resolution": "主有絲/減數比較，互換作次，科學說明限定典型細胞週期。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 34,
+    "question_or_alternative": "比較海流生物地理與潮汐物理條件；核查台灣具名資料。",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1177,
+        1180,
+        1181,
+        1184,
+        1185,
+        1186
+      ],
+      "catalog_ids": [
+        "L3516",
+        "L3503"
+      ],
+      "supplement_ids": [
+        "S34"
+      ]
+    },
+    "resolution": "52.4非生物因子為主、52.3潮間帶為次，數值由氣象主管機關補充。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 35,
+    "question_or_alternative": "比較總滲透濃度與非穿透溶質張性；重查原圖三種糖的濃度、體積未給。",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [
+        7
+      ],
+      "textbook_pages": [
+        132,
+        133,
+        134,
+        135
+      ],
+      "catalog_ids": [
+        "L0440",
+        "L0430"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主7.3滲透、次7.2通透性；雙答案及模型前提完整保留。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 36,
+    "question_or_alternative": "比較姐妹與非姐妹、同源與非同源，對照四分體圖。",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        262,
+        263,
+        265,
+        266
+      ],
+      "catalog_ids": [
+        "L0840",
+        "L0850"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主13.3互換，13.4變異來源作次；沒有誤列染色體易位。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 37,
+    "question_or_alternative": "比較基因拷貝數、轉錄量與蛋白量；核查釋疑引文是否等同直接蛋白檢測。",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [
+        7
+      ],
+      "textbook_pages": [
+        377,
+        378,
+        423,
+        424,
+        425,
+        426
+      ],
+      "catalog_ids": [
+        "L1251",
+        "L1129"
+      ],
+      "supplement_ids": [
+        "S37"
+      ]
+    },
+    "resolution": "主20.2基因表現分析，18.2轉錄後調控為次；保留官方D與量測層級差異。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 38,
+    "question_or_alternative": "比較常染色體隱性與X連鎖；逐一列全十一位個體約束。",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        284,
+        285,
+        299,
+        300
+      ],
+      "catalog_ids": [
+        "L0945",
+        "L0908"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主15.2 X連鎖，14.4譜系為次，未知3位與官方D一致。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 39,
+    "question_or_alternative": "比較第二訊使與全部鈣功能；查證CaSR反例是否推翻整個選項的合取敘述。",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        223,
+        224,
+        225,
+        934,
+        935,
+        936,
+        937,
+        1126,
+        1127,
+        1128,
+        1129
+      ],
+      "catalog_ids": [
+        "L0724",
+        "L2802",
+        "L3381"
+      ],
+      "supplement_ids": [
+        "S39"
+      ]
+    },
+    "resolution": "11.3主項及42.4、50.5次項保留，E採計不延伸成錯誤的絕對否定。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 40,
+    "question_or_alternative": "比較生長素一般促長與根、莖差異；確認根冠位置與例外。",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        847,
+        848,
+        861,
+        862
+      ],
+      "catalog_ids": [
+        "L2583",
+        "L2557"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主39.4 Gravity，39.2激素作次；排除目錄另一章同名Gravity錯配。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 41,
+    "question_or_alternative": "比較排尿酸、器官名稱與高滲尿三個不同欄位；核查魚腎英文術語。",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [
+        7
+      ],
+      "textbook_pages": [
+        982,
+        983,
+        984,
+        985,
+        986,
+        987,
+        991,
+        992,
+        993
+      ],
+      "catalog_ids": [
+        "L2967",
+        "L2980",
+        "L2957"
+      ],
+      "supplement_ids": [
+        "S41"
+      ]
+    },
+    "resolution": "主44.3比較排泄，44.4腎適應及44.2含氮廢物為次，官方採計與術語範圍分開。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 42,
+    "question_or_alternative": "比較開放/封閉與單/雙循環，不將兩者當同一分類軸。",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        922,
+        923,
+        924,
+        925
+      ],
+      "catalog_ids": [
+        "L2760",
+        "L2763",
+        "L2757"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主42.1開放封閉，脊椎系統及消化循環腔各為真實次目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 43,
+    "question_or_alternative": "比較優勢種、關鍵種與一般捕食；對照移除實驗的因果。",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1215,
+        1216,
+        1225,
+        1226
+      ],
+      "catalog_ids": [
+        "L3620",
+        "L3598"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主54.2大影響物種，54.1競爭為次，機制與實驗一致。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 44,
+    "question_or_alternative": "比較植物細胞類型與一般細胞壁；確認成熟時是否用絕對全稱。",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        118,
+        119,
+        763,
+        764,
+        765
+      ],
+      "catalog_ids": [
+        "L2289",
+        "L0388"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主35.1細胞類型、次6.7植物細胞壁，依通常特徵判讀並記例外。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 45,
+    "question_or_alternative": "比較30章類群與38章生殖；核查胚囊、雌配子體、胚珠與傳導細胞。",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 4,
+      "clarification_pages": [
+        7,
+        8
+      ],
+      "textbook_pages": [
+        638,
+        639,
+        640,
+        641,
+        642,
+        643,
+        644,
+        645,
+        646,
+        763,
+        764,
+        765,
+        826,
+        827
+      ],
+      "catalog_ids": [
+        "L1932",
+        "L1939",
+        "L2489",
+        "L2289"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主30.2裸子多樣性，三項必要次分類分留；無從照片硬定未給的物種名。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 46,
+    "question_or_alternative": "比較互利與共生兩個定義維度；不只按雙方獲益勾全部。",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        614,
+        615,
+        667,
+        668,
+        669,
+        1220,
+        1221
+      ],
+      "catalog_ids": [
+        "L3604",
+        "L2021",
+        "L1847"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主54.1 Positive Interactions，31.5與28.6具名機制為次。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 47,
+    "question_or_alternative": "比較胚層一般表與複合器官來源；查證角膜神經脊細胞例子。",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1049,
+        1050,
+        1051,
+        1052,
+        1054,
+        1055
+      ],
+      "catalog_ids": [
+        "L3144",
+        "L3150"
+      ],
+      "supplement_ids": [
+        "S47"
+      ]
+    },
+    "resolution": "主47.2 Gastrulation，Organogenesis為次；以題目基礎胚層口徑採C，局部來源另註。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 48,
+    "question_or_alternative": "比較平方根求q與直接把患病率當帶因率；核對常染色體條件。",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        285,
+        286,
+        490,
+        491,
+        492,
+        493
+      ],
+      "catalog_ids": [
+        "L1445",
+        "L0911"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主23.2平衡方程，14.4隱性帶因次項，計算接近1%。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 49,
+    "question_or_alternative": "比較35.2分生總論與35.3頂芽；核查是否把位於成熟組織間誤當自身已完全分化。",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        766,
+        767,
+        768,
+        769,
+        770,
+        771,
+        773,
+        774
+      ],
+      "catalog_ids": [
+        "L2292",
+        "L2303",
+        "L2310"
+      ],
+      "supplement_ids": [
+        "S49"
+      ]
+    },
+    "resolution": "35.2為實際最小條目，兩次項支援頂芽與形成層；已確認此為來源內容衝突，非未解的分類疑義。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 50,
+    "question_or_alternative": "比較端粒複製與DNA損傷修復；查明guanine及adenine脫胺產物。",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        327,
+        328,
+        360
+      ],
+      "catalog_ids": [
+        "L1013",
+        "L1088"
+      ],
+      "supplement_ids": [
+        "S50"
+      ]
+    },
+    "resolution": "主16.2修復、次17.5突變，化學錯置不改變修復機制分類且明確另註。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  }
+]

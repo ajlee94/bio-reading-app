@@ -1,0 +1,959 @@
+[
+  {
+    "id": "S03",
+    "questions": "3",
+    "title": "Graziano et al. 1994 Histone H1 in chromatin 30 nm filament",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/8127372/"
+    ],
+    "read_scope": "PubMed研究摘要及搜尋索引顯示的中子散射結論",
+    "finding": "H1參與傳統30nm纖維模型，補足本地新版正文未列H1的細節。",
+    "limits": "離體染色質結構證據，不宣稱所有細胞內均有規整30nm纖維。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU108官方採計",
+    "captures": [
+      {
+        "id": "S03-1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8127372/",
+        "checked_at": "2026-09-10T17:32:18.397261+08:00",
+        "final_url": "https://pubmed.ncbi.nlm.nih.gov/8127372/",
+        "http_status": 203,
+        "content_type": "text/html; charset=utf-8",
+        "status": "FETCHED_HTML_REQUIRES_CONTENT_CHECK",
+        "path": "審查紀錄/annual_review/TCU-108/downloads/S03-1-1bfcdb457a3f.html",
+        "sha256": "1bfcdb457a3f97947cf3f24b17b4f3b52d7008edc71addbc9cb112e35cb41b9c",
+        "bytes": 5565
+      }
+    ],
+    "capture_content_checks": [
+      {
+        "id": "S03-1",
+        "title": "pubmed.ncbi.nlm.nih.gov",
+        "status": "INTERSTITIAL_NOT_SOURCE_TEXT",
+        "chars": 124,
+        "readback_path": "審查紀錄/annual_review/TCU-108/downloads/S03-1-readback.txt",
+        "readback_sha256": "4a7d280516eec1580e45a864f4f272e4e70e44a12e4245f866c5a882ec0055e1"
+      }
+    ],
+    "authored_evidence_record_sha256": "bfe0f6a2b677a800d07a36add96f7dfa6e26ab1a4253b787f258608b91d60ced"
+  },
+  {
+    "id": "S05",
+    "questions": "5",
+    "title": "Tal and Taylor Endocrinology of Pregnancy, Endotext",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK278962/"
+    ],
+    "read_scope": "PLACENTAL 17β-ESTRADIOL與分娩oxytocin段落",
+    "finding": "妊娠第一期後胎盤是循環雌二醇主要來源；雌激素增加子宮催產素受體表達與敏感性。",
+    "limits": "與同年釋疑及Campbell圖46.18的卵巢來源簡化說法有差異；不以科學補充改寫官方A。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU108官方採計",
+    "captures": [
+      {
+        "id": "S05-1",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK278962/",
+        "checked_at": "2026-09-10T17:32:18.398285+08:00",
+        "final_url": "https://www.ncbi.nlm.nih.gov/books/NBK278962/",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "status": "FETCHED_HTML_REQUIRES_CONTENT_CHECK",
+        "path": "審查紀錄/annual_review/TCU-108/downloads/S05-1-78f5ad99aac5.html",
+        "sha256": "78f5ad99aac599fc88a3800b91152e72be476e2d5f293804f61c6139e3b8586a",
+        "bytes": 350635
+      }
+    ],
+    "capture_content_checks": [
+      {
+        "id": "S05-1",
+        "title": "Endocrinology of Pregnancy - Endotext - NCBI Bookshelf",
+        "status": "TEXT_EXTRACTED_READING_SCOPE_IN_NOTES",
+        "chars": 175665,
+        "readback_path": "審查紀錄/annual_review/TCU-108/downloads/S05-1-readback.txt",
+        "readback_sha256": "4649aaeffd137294f3e9bd0df4b3af073f030bb01e43e9dc1a90e25ddae2227d"
+      }
+    ],
+    "authored_evidence_record_sha256": "c58fc97fa132f331388da096144dd66876df1389297ce5fecbf2ac67c2d5a830"
+  },
+  {
+    "id": "S06",
+    "questions": "6",
+    "title": "Marks, Ling and Cone 2001 Role of the central melanocortin system in cachexia",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/11245447/"
+    ],
+    "read_scope": "完整PubMed摘要，尤其MC4R阻斷與剔除鼠實驗",
+    "finding": "中樞MC4R刺激連結食慾下降與代謝增加；LPS與腫瘤鼠模型的阻斷能緩解惡病質。",
+    "limits": "鼠模型，不把所有癌症或心衰竭病人的惡病質归因於單一激素，也不是療效建議。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU108官方採計",
+    "captures": [
+      {
+        "id": "S06-1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11245447/",
+        "checked_at": "2026-09-10T17:32:18.398285+08:00",
+        "final_url": "https://pubmed.ncbi.nlm.nih.gov/11245447/",
+        "http_status": 203,
+        "content_type": "text/html; charset=utf-8",
+        "status": "FETCHED_HTML_REQUIRES_CONTENT_CHECK",
+        "path": "審查紀錄/annual_review/TCU-108/downloads/S06-1-e1b85ee2245b.html",
+        "sha256": "e1b85ee2245bde5ac5ee06446d434a298d40e616990391054e4206c4f2f04e15",
+        "bytes": 5565
+      }
+    ],
+    "capture_content_checks": [
+      {
+        "id": "S06-1",
+        "title": "pubmed.ncbi.nlm.nih.gov",
+        "status": "INTERSTITIAL_NOT_SOURCE_TEXT",
+        "chars": 124,
+        "readback_path": "審查紀錄/annual_review/TCU-108/downloads/S06-1-readback.txt",
+        "readback_sha256": "4a7d280516eec1580e45a864f4f272e4e70e44a12e4245f866c5a882ec0055e1"
+      }
+    ],
+    "authored_evidence_record_sha256": "9731f2fbc098b0b5c9645b81d73aea0fd812cc4ecdff778d5cbd140871c34fa8"
+  },
+  {
+    "id": "S07",
+    "questions": "7",
+    "title": "Janeway Immunobiology: complement system and innate immunity",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK27100/"
+    ],
+    "read_scope": "DAF、CR1、MCP、factor I的調節段",
+    "finding": "DAF使轉化酶解離；factor I在CR1或MCP協助下蛋白水解C3b。",
+    "limits": "原題將DAF說成使C3b裂解過度簡化；B辨識的是C3b，不背書原句全部機制。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU108官方採計",
+    "captures": [
+      {
+        "id": "S07-1",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK27100/",
+        "checked_at": "2026-09-10T17:32:18.399261+08:00",
+        "final_url": "https://www.ncbi.nlm.nih.gov/books/NBK27100/",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "status": "FETCHED_HTML_REQUIRES_CONTENT_CHECK",
+        "path": "審查紀錄/annual_review/TCU-108/downloads/S07-1-bb2608d29601.html",
+        "sha256": "bb2608d296012f1ae18e38dab7fd6ad45e4734e85750d0833c91d4a208fb7a5a",
+        "bytes": 120514
+      }
+    ],
+    "capture_content_checks": [
+      {
+        "id": "S07-1",
+        "title": "The complement system and innate immunity - Immunobiology - NCBI Bookshelf",
+        "status": "TEXT_EXTRACTED_READING_SCOPE_IN_NOTES",
+        "chars": 51592,
+        "readback_path": "審查紀錄/annual_review/TCU-108/downloads/S07-1-readback.txt",
+        "readback_sha256": "085c65c56c799cc2b552b87d455fb53153d48701614fd4e2d90e1e6728ba6067"
+      }
+    ],
+    "authored_evidence_record_sha256": "bedd18ff9585f51d71894bbfb5babe12073392dff0d66d0111d3fc18bfc0b50e"
+  },
+  {
+    "id": "S13",
+    "questions": "13",
+    "title": "Medical Microbiology: Antimicrobial Chemotherapy",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK7986/"
+    ],
+    "read_scope": "DNA合成、葉酸代謝、細胞壁及蛋白質合成抑制劑段落",
+    "finding": "quinolones靶向DNA gyrase等拓樸異構酶，非破壞細胞膜；其他三類藥物靶點分別與題意相符。",
+    "limits": "本地章節僅提供抗生素與細菌背景，具體藥物靶點由本來源補足。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU108官方採計",
+    "captures": [
+      {
+        "id": "S13-1",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK7986/",
+        "checked_at": "2026-09-10T17:32:18.821590+08:00",
+        "final_url": "https://www.ncbi.nlm.nih.gov/books/NBK7986/",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "status": "FETCHED_HTML_REQUIRES_CONTENT_CHECK",
+        "path": "審查紀錄/annual_review/TCU-108/downloads/S13-1-1319ceea081a.html",
+        "sha256": "1319ceea081a3b26c1498d3ec57189593019fcdc2217edd6767fbfb2feb2e6fe",
+        "bytes": 125655
+      }
+    ],
+    "capture_content_checks": [
+      {
+        "id": "S13-1",
+        "title": "Antimicrobial Chemotherapy - Medical Microbiology - NCBI Bookshelf",
+        "status": "TEXT_EXTRACTED_READING_SCOPE_IN_NOTES",
+        "chars": 55549,
+        "readback_path": "審查紀錄/annual_review/TCU-108/downloads/S13-1-readback.txt",
+        "readback_sha256": "550c60b9448437cc9863f3e83b71a699f728853dfdf28d25a8b3d1ff287815f7"
+      }
+    ],
+    "authored_evidence_record_sha256": "6cc7233305d3b8a0e5d525f1965b90d70c4565308be282b0d75249c2338d9639"
+  },
+  {
+    "id": "S14",
+    "questions": "14",
+    "title": "Janeway Immunobiology: generation of T-cell receptor ligands",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK27137/"
+    ],
+    "read_scope": "TAP及病毒阻斷MHC I段落、invariant chain與MHC II段落",
+    "finding": "TAP將細胞質肽運入ER裝載MHC I；invariant chain屬MHC II途徑。",
+    "limits": "不把MHC II invariant chain當作CTL辨識的MHC I機制。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU108官方採計",
+    "captures": [
+      {
+        "id": "S14-1",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK27137/",
+        "checked_at": "2026-09-10T17:32:18.839965+08:00",
+        "final_url": "https://www.ncbi.nlm.nih.gov/books/NBK27137/",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "status": "FETCHED_HTML_REQUIRES_CONTENT_CHECK",
+        "path": "審查紀錄/annual_review/TCU-108/downloads/S14-1-6c6aaedaaf63.html",
+        "sha256": "6c6aaedaaf6309bd2271c452b37b0c6e0f671bfe913fa7fb08d2affbbc55620f",
+        "bytes": 94681
+      }
+    ],
+    "capture_content_checks": [
+      {
+        "id": "S14-1",
+        "title": "The generation of T-cell receptor ligands - Immunobiology - NCBI Bookshelf",
+        "status": "TEXT_EXTRACTED_READING_SCOPE_IN_NOTES",
+        "chars": 40682,
+        "readback_path": "審查紀錄/annual_review/TCU-108/downloads/S14-1-readback.txt",
+        "readback_sha256": "743e1d8adac6a9dd1a901bff049faf94a295bec53c5ff8925df52e649b16c143"
+      }
+    ],
+    "authored_evidence_record_sha256": "46634067749aa603125d8426f35e2f1c68d2403692c4d21130f633259c7b9621"
+  },
+  {
+    "id": "S17",
+    "questions": "17",
+    "title": "Jin et al. 2003 MDM2 promotes p21 proteasomal turnover independently of ubiquitylation",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/14633995/",
+      "https://pubmed.ncbi.nlm.nih.gov/17588519/"
+    ],
+    "read_scope": "兩篇PubMed研究摘要；MDM2及REGgamma的p21降解結果",
+    "finding": "p21可經不依賴泛素化的蛋白酶體路徑周轉。",
+    "limits": "原題用主要而非唯一；非泛素途徑只證明多層控制，不能以反例數量認定任何條件下何者為主。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU108官方採計",
+    "captures": [
+      {
+        "id": "S17-1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14633995/",
+        "checked_at": "2026-09-10T17:32:20.376418+08:00",
+        "final_url": "https://pubmed.ncbi.nlm.nih.gov/14633995/",
+        "http_status": 203,
+        "content_type": "text/html; charset=utf-8",
+        "status": "FETCHED_HTML_REQUIRES_CONTENT_CHECK",
+        "path": "審查紀錄/annual_review/TCU-108/downloads/S17-1-3b8b1fa72d9c.html",
+        "sha256": "3b8b1fa72d9cc241fee40ed7fa2d086d258939d89e054a87ecf779b9f0faaf95",
+        "bytes": 5565
+      },
+      {
+        "id": "S17-2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17588519/",
+        "checked_at": "2026-09-10T17:32:20.878524+08:00",
+        "final_url": "https://pubmed.ncbi.nlm.nih.gov/17588519/",
+        "http_status": 203,
+        "content_type": "text/html; charset=utf-8",
+        "status": "FETCHED_HTML_REQUIRES_CONTENT_CHECK",
+        "path": "審查紀錄/annual_review/TCU-108/downloads/S17-2-03487b97a966.html",
+        "sha256": "03487b97a966f24f0f89d26b52d0f63520bb1ccccdfc7c6446f2aac5c2253200",
+        "bytes": 5565
+      }
+    ],
+    "capture_content_checks": [
+      {
+        "id": "S17-1",
+        "title": "pubmed.ncbi.nlm.nih.gov",
+        "status": "INTERSTITIAL_NOT_SOURCE_TEXT",
+        "chars": 124,
+        "readback_path": "審查紀錄/annual_review/TCU-108/downloads/S17-1-readback.txt",
+        "readback_sha256": "4a7d280516eec1580e45a864f4f272e4e70e44a12e4245f866c5a882ec0055e1"
+      },
+      {
+        "id": "S17-2",
+        "title": "pubmed.ncbi.nlm.nih.gov",
+        "status": "INTERSTITIAL_NOT_SOURCE_TEXT",
+        "chars": 124,
+        "readback_path": "審查紀錄/annual_review/TCU-108/downloads/S17-2-readback.txt",
+        "readback_sha256": "4a7d280516eec1580e45a864f4f272e4e70e44a12e4245f866c5a882ec0055e1"
+      }
+    ],
+    "authored_evidence_record_sha256": "c2b370d0a215245a5890c4c7cb794a4d04fb4dc6cc5bb3526297d6868c09d603"
+  },
+  {
+    "id": "S18",
+    "questions": "18",
+    "title": "Cooper The Cell: The Mechanism of Vesicular Transport",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK9886/"
+    ],
+    "read_scope": "COPII正向與COPI回收、包被組裝段落",
+    "finding": "COPII運送ER至Golgi；COPI主要回收，clathrin另有轉高基網／內吞路線。",
+    "limits": "教材的內膜系統段落支援分類，本來源補足包被名稱。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU108官方採計",
+    "captures": [
+      {
+        "id": "S18-1",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK9886/",
+        "checked_at": "2026-09-10T17:32:21.151830+08:00",
+        "final_url": "https://www.ncbi.nlm.nih.gov/books/NBK9886/",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "status": "FETCHED_HTML_REQUIRES_CONTENT_CHECK",
+        "path": "審查紀錄/annual_review/TCU-108/downloads/S18-1-2386848a7db0.html",
+        "sha256": "2386848a7db08a6ac648f3c207eedb13d6c774f151996c8816c9fe03fadd22f6",
+        "bytes": 58823
+      }
+    ],
+    "capture_content_checks": [
+      {
+        "id": "S18-1",
+        "title": "The Mechanism of Vesicular Transport - The Cell - NCBI Bookshelf",
+        "status": "TEXT_EXTRACTED_READING_SCOPE_IN_NOTES",
+        "chars": 16181,
+        "readback_path": "審查紀錄/annual_review/TCU-108/downloads/S18-1-readback.txt",
+        "readback_sha256": "ed6ce79e5c4b554abe9faf5b1b32954fec6fdf01b1b8bc9d9c484d4208483b6b"
+      }
+    ],
+    "authored_evidence_record_sha256": "7e990825abc132f9cd8f3255e83bcb074f724d8362880fe5420c7938db6a700e"
+  },
+  {
+    "id": "S19",
+    "questions": "19",
+    "title": "SIB ExPASy PeptideCutter cleavage specificities",
+    "urls": [
+      "https://web.expasy.org/peptide_cutter/peptidecutter_enzymes.html"
+    ],
+    "read_scope": "Trypsin、Chymotrypsin高低專一性及CNBr切位表",
+    "finding": "理想高專一性切位為K/R、F/Y/W、M；肽段數等於有效內部切位數加1。",
+    "limits": "原題沒交代反應條件；低專一性chymotrypsin另切L/M等，不能當唯一實驗產物預測。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU108官方採計",
+    "captures": [
+      {
+        "id": "S19-1",
+        "url": "https://web.expasy.org/peptide_cutter/peptidecutter_enzymes.html",
+        "checked_at": "2026-09-10T17:32:21.200569+08:00",
+        "final_url": "https://web.expasy.org/peptide_cutter/peptidecutter_enzymes.html",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "status": "FETCHED_HTML_REQUIRES_CONTENT_CHECK",
+        "path": "審查紀錄/annual_review/TCU-108/downloads/S19-1-b18272147567.html",
+        "sha256": "b182721475678d06abe2c4047bcc83aa144fe1d4a424e1fecedb4c5bffb11420",
+        "bytes": 51147
+      }
+    ],
+    "capture_content_checks": [
+      {
+        "id": "S19-1",
+        "title": "Expasy PeptideCutter tool: available enzymes",
+        "status": "TEXT_EXTRACTED_READING_SCOPE_IN_NOTES",
+        "chars": 19759,
+        "readback_path": "審查紀錄/annual_review/TCU-108/downloads/S19-1-readback.txt",
+        "readback_sha256": "9dc1f863c89467fa4552a00aaefd620d63699b7d2bcc76cd59da2b6dfe3f5b8a"
+      }
+    ],
+    "authored_evidence_record_sha256": "8d17e7138c45258f2e1c2f17458899d40fa03f48710eea6c829104f0c31d5f17"
+  },
+  {
+    "id": "S21",
+    "questions": "21",
+    "title": "McGhee The C. elegans intestine, WormBook",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK19717/"
+    ],
+    "read_scope": "EMS分裂成MS與E的譜系段落",
+    "finding": "EMS→E→腸道；P2訊號對EMS有誘導作用但不是腸道譜系祖細胞。",
+    "limits": "四細胞時期尚無E，不能把較晚出現的E作本題選项。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU108官方採計",
+    "captures": [
+      {
+        "id": "S21-1",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK19717/",
+        "checked_at": "2026-09-10T17:32:21.364614+08:00",
+        "final_url": "https://www.ncbi.nlm.nih.gov/books/NBK19717/",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "status": "FETCHED_HTML_REQUIRES_CONTENT_CHECK",
+        "path": "審查紀錄/annual_review/TCU-108/downloads/S21-1-ebe3a04aab16.html",
+        "sha256": "ebe3a04aab1660bef4de253d1bdd9b3c0ca68caf6a3593b4cb1126d60af704f9",
+        "bytes": 382917
+      }
+    ],
+    "capture_content_checks": [
+      {
+        "id": "S21-1",
+        "title": "The C. elegans intestine - WormBook - NCBI Bookshelf",
+        "status": "TEXT_EXTRACTED_READING_SCOPE_IN_NOTES",
+        "chars": 154418,
+        "readback_path": "審查紀錄/annual_review/TCU-108/downloads/S21-1-readback.txt",
+        "readback_sha256": "6972d61d73b27f3bc78a5a3d63f33babe66810f0838547e169afa26c51fa5535"
+      }
+    ],
+    "authored_evidence_record_sha256": "aa2afac65cb35725b6ad65ff4028d56b959a996d968410ec313e2298ea858002"
+  },
+  {
+    "id": "S35",
+    "questions": "35",
+    "title": "Weeks 1999 Oxpeckers and domestic cattle in Zimbabwe",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/10600147/"
+    ],
+    "read_scope": "完整研究摘要，含最後對原生宿主外推的限制",
+    "finding": "紅嘴牛椋鳥在家牛常啄傷口血液，提示非必然互利。",
+    "limits": "研究家牛Bos taurus；原題僅寫水牛buffalo，物種未定，作者明示不宜外推原生非洲宿主。官方B保留，不宣稱已證成所有水牛互動皆非互利。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU108官方採計",
+    "captures": [
+      {
+        "id": "S35-1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10600147/",
+        "checked_at": "2026-09-10T17:32:21.430140+08:00",
+        "final_url": "https://pubmed.ncbi.nlm.nih.gov/10600147/",
+        "http_status": 203,
+        "content_type": "text/html; charset=utf-8",
+        "status": "FETCHED_HTML_REQUIRES_CONTENT_CHECK",
+        "path": "審查紀錄/annual_review/TCU-108/downloads/S35-1-00f4fe9e54d1.html",
+        "sha256": "00f4fe9e54d161a06802b4f98212a83eef4d3b2f7c1163140a948e151bba3778",
+        "bytes": 5565
+      }
+    ],
+    "capture_content_checks": [
+      {
+        "id": "S35-1",
+        "title": "pubmed.ncbi.nlm.nih.gov",
+        "status": "INTERSTITIAL_NOT_SOURCE_TEXT",
+        "chars": 124,
+        "readback_path": "審查紀錄/annual_review/TCU-108/downloads/S35-1-readback.txt",
+        "readback_sha256": "4a7d280516eec1580e45a864f4f272e4e70e44a12e4245f866c5a882ec0055e1"
+      }
+    ],
+    "authored_evidence_record_sha256": "437ec4f18d72f0e5c1351db568ca9c45784b0008638de5cfc1be3c287103979f"
+  },
+  {
+    "id": "S36",
+    "questions": "36",
+    "title": "Kaplan et al. 1986 Azolla-Anabaena XII; contemporary endobiont study",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/16664736/",
+      "https://pubmed.ncbi.nlm.nih.gov/40823834/"
+    ],
+    "read_scope": "兩篇摘要，1986原位異形細胞與固氮活性、2025共生與細胞交換結果",
+    "finding": "滿江紅與具異形細胞的固氮藍綠菌共生。",
+    "limits": "歷史Anabaena azollae與文獻Nostoc azollae名稱並存；本題判別cyanobacteria而不強制改分類名稱。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU108官方採計",
+    "captures": [
+      {
+        "id": "S36-1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16664736/",
+        "checked_at": "2026-09-10T17:32:21.762264+08:00",
+        "final_url": "https://pubmed.ncbi.nlm.nih.gov/16664736/",
+        "http_status": 203,
+        "content_type": "text/html; charset=utf-8",
+        "status": "FETCHED_HTML_REQUIRES_CONTENT_CHECK",
+        "path": "審查紀錄/annual_review/TCU-108/downloads/S36-1-5578b19ec7da.html",
+        "sha256": "5578b19ec7da35cdd7b3775b62d1dd2394b9add93943c2f4ec818a2e29d86317",
+        "bytes": 5565
+      },
+      {
+        "id": "S36-2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40823834/",
+        "checked_at": "2026-09-10T17:32:22.043988+08:00",
+        "final_url": "https://pubmed.ncbi.nlm.nih.gov/40823834/",
+        "http_status": 203,
+        "content_type": "text/html; charset=utf-8",
+        "status": "FETCHED_HTML_REQUIRES_CONTENT_CHECK",
+        "path": "審查紀錄/annual_review/TCU-108/downloads/S36-2-959d51262abf.html",
+        "sha256": "959d51262abf9d5a420e54df0cec80c99412d5c24356f23add22978ce91f89a9",
+        "bytes": 5565
+      }
+    ],
+    "capture_content_checks": [
+      {
+        "id": "S36-1",
+        "title": "pubmed.ncbi.nlm.nih.gov",
+        "status": "INTERSTITIAL_NOT_SOURCE_TEXT",
+        "chars": 124,
+        "readback_path": "審查紀錄/annual_review/TCU-108/downloads/S36-1-readback.txt",
+        "readback_sha256": "4a7d280516eec1580e45a864f4f272e4e70e44a12e4245f866c5a882ec0055e1"
+      },
+      {
+        "id": "S36-2",
+        "title": "pubmed.ncbi.nlm.nih.gov",
+        "status": "INTERSTITIAL_NOT_SOURCE_TEXT",
+        "chars": 124,
+        "readback_path": "審查紀錄/annual_review/TCU-108/downloads/S36-2-readback.txt",
+        "readback_sha256": "4a7d280516eec1580e45a864f4f272e4e70e44a12e4245f866c5a882ec0055e1"
+      }
+    ],
+    "authored_evidence_record_sha256": "35b5fbccee75b4e36b5a2b9f7e20ca1e9e7bd5e04b4823b866341994dcb6fc6b"
+  },
+  {
+    "id": "S37",
+    "questions": "37",
+    "title": "中央研究院臺灣魚類資料庫 Scartelaos gigas",
+    "urls": [
+      "https://fishdb.sinica.edu.tw/taxon/381846-fishdb"
+    ],
+    "read_scope": "物種名、棲息水域、分布與棲地全文",
+    "finding": "大青彈塗魚生活於河口紅樹林半淡鹹水與海水環境，支持本題鹽度適應的選項A。",
+    "limits": "此頁為棲地資料不是生理耐鹽實驗，不能據此給出鹽度極限；不把一般洄游鮭的例子直接套用臺灣陸封鮭。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU108官方採計",
+    "captures": [
+      {
+        "id": "S37-1",
+        "url": "https://fishdb.sinica.edu.tw/taxon/381846-fishdb",
+        "checked_at": "2026-09-10T17:32:22.291283+08:00",
+        "final_url": "https://fishdb.sinica.edu.tw/taxon/381846-fishdb",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "status": "FETCHED_HTML_REQUIRES_CONTENT_CHECK",
+        "path": "審查紀錄/annual_review/TCU-108/downloads/S37-1-948f3daf2854.html",
+        "sha256": "948f3daf28546701ccaa068243128f96381fd0faf7766eaab9bdcaa60acc6c52",
+        "bytes": 60859
+      }
+    ],
+    "capture_content_checks": [
+      {
+        "id": "S37-1",
+        "title": "Scartelaos gigas Chu & Wu, 1963 | 臺灣魚類資料庫",
+        "status": "TEXT_EXTRACTED_READING_SCOPE_IN_NOTES",
+        "chars": 1321,
+        "readback_path": "審查紀錄/annual_review/TCU-108/downloads/S37-1-readback.txt",
+        "readback_sha256": "7987db9b7e5f33eb529b952b67375637c24de9de9986bf92323d57d65f3a448a"
+      }
+    ],
+    "authored_evidence_record_sha256": "ac20deb3bcb07119a2c99b6c53e61cc17980dd3dc1e34c120ee952003070b9e1"
+  },
+  {
+    "id": "S38",
+    "questions": "38",
+    "title": "Liu et al. 2022 The Cycas genome and early evolution of seed plants",
+    "urls": [
+      "https://www.nature.com/articles/s41477-022-01129-7"
+    ],
+    "read_scope": "研究摘要及主要結果的核／葉綠體與粒線體拓樸差異",
+    "finding": "核與葉綠體分析支持蘇鐵與銀杏成姊妹群；粒線體結果不同。",
+    "limits": "本地12e圖30.4保留關係未定，不能隱去資料集差異；不是所有資料一致確證。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU108官方採計",
+    "captures": [
+      {
+        "id": "S38-1",
+        "url": "https://www.nature.com/articles/s41477-022-01129-7",
+        "checked_at": "2026-09-10T17:32:22.361113+08:00",
+        "final_url": "https://www.nature.com/articles/s41477-022-01129-7?error=cookies_not_supported&code=810215f0-43d4-470e-be6a-469320bbebab",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "status": "FETCHED_HTML_REQUIRES_CONTENT_CHECK",
+        "path": "審查紀錄/annual_review/TCU-108/downloads/S38-1-70b5ac4ff2a9.html",
+        "sha256": "70b5ac4ff2a900691191450e6861479bf016ece8edbe58a3d394af21ff7d0602",
+        "bytes": 794255
+      }
+    ],
+    "capture_content_checks": [
+      {
+        "id": "S38-1",
+        "title": "The Cycas genome and the early evolution of seed plants | Nature Plants",
+        "status": "TEXT_EXTRACTED_READING_SCOPE_IN_NOTES",
+        "chars": 99182,
+        "readback_path": "審查紀錄/annual_review/TCU-108/downloads/S38-1-readback.txt",
+        "readback_sha256": "a8d1d05004eeb5ef58f88a110fc12dcce97f13e72a293891dd99e9e702f2f013"
+      }
+    ],
+    "authored_evidence_record_sha256": "b93acc9b0f6000d07bc56be220c19369c92447b4aff8c26c0707a965198d035c"
+  },
+  {
+    "id": "S42",
+    "questions": "42",
+    "title": "FAO seaweed hydrocolloids, Norman Stanley carrageenan chapter",
+    "urls": [
+      "https://www.fao.org/4/x5822e/x5822e05.htm",
+      "https://www.fao.org/4/ac860e/AC860E02.htm"
+    ],
+    "read_scope": "Carrageenans introduction及carrageenan原料介紹",
+    "finding": "紅藻藻膠為結構性基質多醣，功能類比陸生植物纖維素。",
+    "limits": "化學結構不是纖維素，不將基質成分等同纖維素微纖維；本地紅藻段不直接列全部藻膠。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU108官方採計",
+    "captures": [
+      {
+        "id": "S42-1",
+        "url": "https://www.fao.org/4/x5822e/x5822e05.htm",
+        "checked_at": "2026-09-10T17:32:22.587208+08:00",
+        "final_url": "https://www.fao.org/4/x5822e/x5822e05.htm",
+        "http_status": 200,
+        "content_type": "text/html",
+        "status": "FETCHED_HTML_REQUIRES_CONTENT_CHECK",
+        "path": "審查紀錄/annual_review/TCU-108/downloads/S42-1-db2eba49b7f3.html",
+        "sha256": "db2eba49b7f38e2b03d2736d90c015ace779751489ffb4959c37469f3fe52ad7",
+        "bytes": 81557
+      },
+      {
+        "id": "S42-2",
+        "url": "https://www.fao.org/4/ac860e/AC860E02.htm",
+        "checked_at": "2026-09-10T17:32:22.648561+08:00",
+        "final_url": "https://www.fao.org/4/ac860e/AC860E02.htm",
+        "http_status": 200,
+        "content_type": "text/html",
+        "status": "FETCHED_HTML_REQUIRES_CONTENT_CHECK",
+        "path": "審查紀錄/annual_review/TCU-108/downloads/S42-2-66fa68fd08d6.html",
+        "sha256": "66fa68fd08d6b6aaa245e9d1ef054d4dbcf3a93d8b79955fb20884a66a9739f7",
+        "bytes": 77445
+      }
+    ],
+    "capture_content_checks": [
+      {
+        "id": "S42-1",
+        "title": "CHAPTER 3 - PRODUCTION, PROPERTIES AND USES OF CARRAGEENAN",
+        "status": "TEXT_EXTRACTED_READING_SCOPE_IN_NOTES",
+        "chars": 58117,
+        "readback_path": "審查紀錄/annual_review/TCU-108/downloads/S42-1-readback.txt",
+        "readback_sha256": "907edc6826ff92ef04da5f7beb466f0c353d1d9089a7cecf186276c66dd2247c"
+      },
+      {
+        "id": "S42-2",
+        "title": "PRODUCTION, TRADE AND UTILIZATION OF SEAWEEDS AND SEAWEED PRODUCTS",
+        "status": "TEXT_EXTRACTED_READING_SCOPE_IN_NOTES",
+        "chars": 47778,
+        "readback_path": "審查紀錄/annual_review/TCU-108/downloads/S42-2-readback.txt",
+        "readback_sha256": "56c4e109c2acdf4ae5ec7a49a089b71016a51e8710309f3d2037a688734a6a22"
+      }
+    ],
+    "authored_evidence_record_sha256": "3bf01211dbcb41aa18f9ca0d331e6cf8a618d5d6e9ce60bde67a72c78a3e9242"
+  },
+  {
+    "id": "S44",
+    "questions": "44",
+    "title": "衛福部臺灣中藥典基原表與第四版通則",
+    "urls": [
+      "https://www.mohw.gov.tw/dl-50738-fae7e2c2-3fb0-4ca6-98eb-5d1a9cec805f.html",
+      "https://www.mohw.gov.tw/dl-71936-0a89f40d-7558-4ab2-8f4b-55e58de6552b.html"
+    ],
+    "read_scope": "搜尋索引可讀的冬蟲夏草品項54及茯苓基原修正項28，非整部藥典逐頁閱讀",
+    "finding": "冬蟲夏草基原真菌與蟲體複合體；茯苓為真菌菌核，名稱Poria cocos／Wolfiporia extensa留存。",
+    "limits": "僅作物種來源查核，不對藥效或使用量作說明。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU108官方採計",
+    "captures": [
+      {
+        "id": "S44-1",
+        "url": "https://www.mohw.gov.tw/dl-50738-fae7e2c2-3fb0-4ca6-98eb-5d1a9cec805f.html",
+        "checked_at": "2026-09-10T17:32:23.113815+08:00",
+        "final_url": "https://www.mohw.gov.tw/dl-50738-fae7e2c2-3fb0-4ca6-98eb-5d1a9cec805f.html",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "status": "FETCHED_PDF",
+        "path": "審查紀錄/annual_review/TCU-108/downloads/S44-1-e9bf4b66069e.pdf",
+        "sha256": "e9bf4b66069ef58eca761550480a54569a48198844159b3bd1b1093a26bbdf54",
+        "bytes": 5594229
+      },
+      {
+        "id": "S44-2",
+        "url": "https://www.mohw.gov.tw/dl-71936-0a89f40d-7558-4ab2-8f4b-55e58de6552b.html",
+        "checked_at": "2026-09-10T17:32:23.128964+08:00",
+        "final_url": "https://www.mohw.gov.tw/dl-71936-0a89f40d-7558-4ab2-8f4b-55e58de6552b.html",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "status": "FETCHED_PDF",
+        "path": "審查紀錄/annual_review/TCU-108/downloads/S44-2-ca8892699826.pdf",
+        "sha256": "ca88926998263873522da0098e9046ba30af6c4699e98bf60658668c92a0f964",
+        "bytes": 14939542
+      }
+    ],
+    "capture_content_checks": [
+      {
+        "id": "S44-1",
+        "status": "PDF_DECODED",
+        "pdf_pages": 486,
+        "matching_excerpts": [
+          {
+            "pdf_page": 95,
+            "term": "冬蟲夏草",
+            "text": "84\r\n編號 品項 修正前\r\n(臺灣中藥典第二版)\r\n修正後\r\n(臺灣中藥典第三版)\r\n用途分類：利水滲濕藥。\r\n用 量：3~10 g。\r\n用途分 類：祛濕藥（利水滲濕）。\r\n性味與歸經：甘、澀，涼。\r\n用法與用量：3~10 g。\r\n54 冬蟲夏草 本品為麥角菌科 Clavicipitaceae 真菌冬蟲夏草菌 Cordyceps sinensis\r\n(Berk.) Sacc.寄生在蝙蝠蛾科昆蟲幼蟲上的子座及蟲體之複合體。\r\n本品為麥角菌科 Clavicipitaceae 真菌冬蟲夏草菌 Ophiocordyceps sinensis\r\n(Berk.) G.H.Sung, J.M.Sung, Hywel-Jones et Spatafora 寄生在蝙蝠蛾科昆\r\n蟲幼蟲上的子座及蟲體之複合體。\r\n鑑 別：\r\n1. 取本品粗粉，乙醚脫脂後，以乙醇萃取，萃取液濃縮，做為檢品溶\r\n液。另取冬蟲夏草對照藥材，同法製成對照藥材溶液。取檢品溶液及\r\n對照藥材溶液，按薄層層析法（通則 1010.3），分別適量點注於含有\r\n螢光劑之矽膠薄層板上，以正丁醇：醋酸：水(4：1：6)混液為展開\r\n溶媒，層析之。俟溶媒頂端上升至距原點約 5~10 cm 時，取出風乾，\r\n以 0.5%過碘酸"
+          },
+          {
+            "pdf_page": 337,
+            "term": "真菌茯苓",
+            "text": "\r\n濾液，供做檢品溶液。\r\n貯 藏 法：本品應置於通風乾燥處，並應防黴。 貯 藏 法：本品應置於通風乾燥處，並防黴。\r\n用 量：6~9 g。 性味與歸經：苦，寒。歸肝經。\r\n用法與用量：6~12 g。\r\n204 茯苓 本品為多孔菌科 Polyporaceae 真菌茯苓 Poria cocos (Schw.) Wolf 之乾燥\r\n菌核。\r\n本品為多孔菌科 Polyporaceae 真菌茯苓 Poria cocos (Schwein.) F.A.Wolf\r\n之乾燥菌核。\r\n(無) 本品所含茯苓酸(Pachymic acid)不得少於 0.04%。\r\n鑑 別：\r\n1. 取本品粉末 1.0 g，加甲醇 10 mL，振搖五分鐘，靜置，過濾，取濾\r\n液作為檢品溶液。另取茯苓對照藥材 1.0 g，同法製成對照藥材溶液。\r\n取檢品溶液及對照藥材溶液各 5 μL，按薄層層析法（通則 1010.3），\r\n分別點注於含有螢光劑之矽膠薄層板上，以甲苯：乙酸乙酯(1：1)為\r\n展開溶媒，層析之。俟溶媒頂端上升至距原點約 5~10 cm 時，取出層\r\n析板風乾後，以茴香醛/硫酸試液(p-Anisaldehyde/H2SO4 TS)噴霧，在\r\n105℃加熱至斑點顯色清晰。檢品溶液及對照藥材溶液所呈現斑點之\r\nRf"
+          }
+        ]
+      },
+      {
+        "id": "S44-2",
+        "status": "PDF_DECODED",
+        "pdf_pages": 687,
+        "matching_excerpts": [
+          {
+            "pdf_page": 152,
+            "term": "真菌茯苓",
+            "text": "nce) A.E.Murray\r\n(Fraxinus rhynchophylla Hance)\r\n27 射干 Iris domestica (L.) Goldblatt & Mabb.\r\n(Belamcanda chinensis (L.) DC.)\r\n28 真菌茯苓 Wolfiporia extensa (Peck) Ginns \r\n(Poria cocos (Schwein.) F.A.Wolf)\r\n29 真菌豬苓 Polyporus umbellatus (Pers.) Fr.\r\n(Polyporu umbellatus (Pers.) Fries)\r\n30 粉背薯蕷 Dioscorea collettii Hook.f. var. hypoglauca (Palib.) S.J.Pei & C.T.Ting \r\n(Dioscorea hypoglauca Palib.)\r\n31 草豆蔻 Alpinia hainanensis K.Schum.\r\n(Alpinia katsumadai Hayata)\r\n32 甜橙 Citrus sinensis (L.) Osbeck\r\n(Citrus sinensis Osbeck)\r\n33 通脫木 Tetrapanax papyrifer"
+          },
+          {
+            "pdf_page": 152,
+            "term": "Wolfiporia",
+            "text": "A.E.Murray\r\n(Fraxinus rhynchophylla Hance)\r\n27 射干 Iris domestica (L.) Goldblatt & Mabb.\r\n(Belamcanda chinensis (L.) DC.)\r\n28 真菌茯苓 Wolfiporia extensa (Peck) Ginns \r\n(Poria cocos (Schwein.) F.A.Wolf)\r\n29 真菌豬苓 Polyporus umbellatus (Pers.) Fr.\r\n(Polyporu umbellatus (Pers.) Fries)\r\n30 粉背薯蕷 Dioscorea collettii Hook.f. var. hypoglauca (Palib.) S.J.Pei & C.T.Ting \r\n(Dioscorea hypoglauca Palib.)\r\n31 草豆蔻 Alpinia hainanensis K.Schum.\r\n(Alpinia katsumadai Hayata)\r\n32 甜橙 Citrus sinensis (L.) Osbeck\r\n(Citrus sinensis Osbeck)\r\n33 通脫木 Tetrapanax papyrifer (Hoo"
+          },
+          {
+            "pdf_page": 156,
+            "term": "冬蟲夏草",
+            "text": "臺灣中藥典 第四版\r\nii\r\n代赭石 .............................................77\r\n冬瓜子 .............................................78\r\n冬蟲夏草 .........................................78\r\n北沙參 .............................................80\r\n北板藍根 .........................................80\r\n北劉寄奴 .........................................81\r\n半枝蓮 .............................................83\r\n半夏 .................................................84\r\n玄參 .................................................85\r\n玉竹 ................................................."
+          },
+          {
+            "pdf_page": 238,
+            "term": "冬蟲夏草",
+            "text": "生藥稀乙醇抽\r\n提物測定法（通則 6011）測定之。\r\n貯藏法：本品應冷藏或置於陰涼乾燥處，並應防\r\n黴，防蟲蛀。\r\n用途分類：祛痰藥（清化熱痰）。\r\n性味與歸經：甘，涼。歸肺、胃、大腸、小腸經。\r\n功能：清化熱痰，化痰排膿。\r\n用法與用量：9~30 g。\r\n冬蟲夏草\r\nCORDYCEPS\r\nCordyceps\r\n本品為麥角菌科 Clavicipitaceae 真菌冬蟲\r\n夏草菌 Ophiocordyceps sinensis (Berk.) "
+          },
+          {
+            "pdf_page": 239,
+            "term": "冬蟲夏草",
+            "text": " μm，直徑\r\n12~16 μm，頂部壁厚，中央有一狹線狀孔口，\r\n子囊內有子囊孢子 2~4 枚，孢子線形，長\r\n160~470 μm，直徑 5~6.5 μm，有多數橫隔。\r\n鑑別：\r\n1. 取本品粉末，乙醚脫脂後，以乙醇萃取，萃\r\n取液濃縮，做為檢品溶液。取冬蟲夏草對照\r\n藥材，同法製成對照藥材溶液。取檢品溶液\r\n及對照藥材溶液，按薄層層析法（通則\r\n1621.3），分別適量點注於含有螢光劑之矽膠\r\n薄層板上，以正丁醇：乙酸：水(4：1：6)為\r\n展開溶劑，層析之。俟溶劑頂端上升至距原\r\n點約 5~10 cm 時，取出層析板風乾後，以 0.5%\r\n過 碘 酸 鉀 試 液 (Potassium Periodate TS) 和\r\n0.5%聯苯胺乙醇試液(Benzidine/EtOH TS)噴\r\n霧，置於主波長 365 nm 之紫外燈照射下檢視\r\n之。檢品溶液及對照藥材溶液所呈現之 Rf 值\r\n及色調均一致。（檢查甘露糖）\r\n雜質檢查及其它規定：\r\n1. 二氧化硫――本品之二氧化硫殘留量不得超\r\n過 150 ppm。（通則 2525、6303）\r\n2. 鎘(Cd)――本品之鎘限量 1.0 ppm。（通則\r\n6301）\r\n3. 汞(Hg)――本品之汞限量 0.2 ppm。（通則\r\n6301"
+          },
+          {
+            "pdf_page": 429,
+            "term": "真菌茯苓",
+            "text": "藏法：本品應置於通風乾燥處，並防黴。\r\n用途分類：理血藥（止血）。\r\n性味與歸經：苦，寒。歸肝經。\r\n功能：涼血止血，活血祛瘀，通經。\r\n用法與用量：6~12 g。\r\n茯苓\r\nPORIA\r\nIndian Bread\r\n本品為多孔菌科 Polyporaceae 真菌茯苓\r\nWolfiporia extensa (Peck) Ginns (Poria cocos\r\n(Schwein.) F.A.Wolf)之乾燥菌核。\r\n本品所含茯苓酸(Pachymic acid)不得少於\r\n0.04%。\r\n性狀：\r\n1. 一般性狀――本品（個苓）呈類球形、橢圓形、\r\n扁圓形或不規則團塊，大小不一，小者如拳，\r\n大者直徑至 30 cm 或更大，可達數 10 斤。外\r\n皮薄，棕褐色或黑棕色，粗糙，具皺紋及縊縮，\r\n有時部分剝落。質堅實，破碎面顆粒性，近邊\r\n緣淡紅色，有細小蜂窩樣孔洞，內部白色，少\r\n數淡紅色，有的中間抱有樹根。氣微，味淡，\r\n嚼之黏牙。茯苓皮呈不規則片狀，外面棕褐色\r\n至黑棕色，內面白色或淡棕色，質較軟，略具\r\n彈性。茯苓塊、茯苓片多呈方形或長方形塊\r\n片，長 3~4 cm，厚約 7 mm，白色、淡紅色或\r\n淡棕色，平滑細膩，較易破碎。\r\n2. 粉末――本品粉末灰白色。未經透化處理的\r\n切"
+          },
+          {
+            "pdf_page": 429,
+            "term": "Wolfiporia",
+            "text": "置於通風乾燥處，並防黴。\r\n用途分類：理血藥（止血）。\r\n性味與歸經：苦，寒。歸肝經。\r\n功能：涼血止血，活血祛瘀，通經。\r\n用法與用量：6~12 g。\r\n茯苓\r\nPORIA\r\nIndian Bread\r\n本品為多孔菌科 Polyporaceae 真菌茯苓\r\nWolfiporia extensa (Peck) Ginns (Poria cocos\r\n(Schwein.) F.A.Wolf)之乾燥菌核。\r\n本品所含茯苓酸(Pachymic acid)不得少於\r\n0.04%。\r\n性狀：\r\n1. 一般性狀――本品（個苓）呈類球形、橢圓形、\r\n扁圓形或不規則團塊，大小不一，小者如拳，\r\n大者直徑至 30 cm 或更大，可達數 10 斤。外\r\n皮薄，棕褐色或黑棕色，粗糙，具皺紋及縊縮，\r\n有時部分剝落。質堅實，破碎面顆粒性，近邊\r\n緣淡紅色，有細小蜂窩樣孔洞，內部白色，少\r\n數淡紅色，有的中間抱有樹根。氣微，味淡，\r\n嚼之黏牙。茯苓皮呈不規則片狀，外面棕褐色\r\n至黑棕色，內面白色或淡棕色，質較軟，略具\r\n彈性。茯苓塊、茯苓片多呈方形或長方形塊\r\n片，長 3~4 cm，厚約 7 mm，白色、淡紅色或\r\n淡棕色，平滑細膩，較易破碎。\r\n2. 粉末――本品粉末灰白色。未經透化處理的\r\n切片，可見無色"
+          },
+          {
+            "pdf_page": 431,
+            "term": "真菌茯苓",
+            "text": "臺灣中藥典 第四版\r\n271\r\n赤茯苓\r\nRUBRA PORIA\r\nRed Poria\r\n本品為多孔菌科 Polyporaceae 真菌茯苓\r\nWolfiporia extensa (Peck) Ginns (Poria cocos\r\n(Schwein.) F.A.Wolf)之乾燥菌核。\r\n本品所含茯苓酸(Pachymic acid)不得少於\r\n0.05%。\r\n性狀：\r\n1. 一般性狀――本品呈類球形、橢圓形或不規\r\n則形之乾燥厚片，厚度寬 0.5~0.3 cm，外皮薄\r\n而粗糙，棕褐色至黑褐色，有明顯皺縮紋理，\r\n體重，質堅實。斷面有顆粒性，有的具裂隙，\r\n內部淡紅色或淡棕色。\r\n2. 組織――本品組織切片中外皮部分為無數菌\r\n絲組成，在內部與看到多數類卵形或不規則\r\n的顆粒狀物。\r\n3. 粉末――本品粉末灰白色，不規則顆粒狀團\r\n塊和分枝團塊，無色，菌絲無色或淡棕色，細\r\n長稍彎曲，部分有分支，直徑 3~4 μm。\r\n鑑別：\r\n1. 取本品粉末 1.0 g，加甲醇 5 mL，超音波振盪\r\n30 分鐘，過濾，取濾液作為檢品溶液。取赤\r\n茯苓對照藥材 1.0"
+          },
+          {
+            "pdf_page": 431,
+            "term": "Wolfiporia",
+            "text": "臺灣中藥典 第四版\r\n271\r\n赤茯苓\r\nRUBRA PORIA\r\nRed Poria\r\n本品為多孔菌科 Polyporaceae 真菌茯苓\r\nWolfiporia extensa (Peck) Ginns (Poria cocos\r\n(Schwein.) F.A.Wolf)之乾燥菌核。\r\n本品所含茯苓酸(Pachymic acid)不得少於\r\n0.05%。\r\n性狀：\r\n1. 一般性狀――本品呈類球形、橢圓形或不規\r\n則形之乾燥厚片，厚度寬 0.5~0.3 cm，外皮薄\r\n而粗糙，棕褐色至黑褐色，有明顯皺縮紋理，\r\n體重，質堅實。斷面有顆粒性，有的具裂隙，\r\n內部淡紅色或淡棕色。\r\n2. 組織――本品組織切片中外皮部分為無數菌\r\n絲組成，在內部與看到多數類卵形或不規則\r\n的顆粒狀物。\r\n3. 粉末――本品粉末灰白色，不規則顆粒狀團\r\n塊和分枝團塊，無色，菌絲無色或淡棕色，細\r\n長稍彎曲，部分有分支，直徑 3~4 μm。\r\n鑑別：\r\n1. 取本品粉末 1.0 g，加甲醇 5 mL，超音波振盪\r\n30 分鐘，過濾，取濾液作為檢品溶液。取赤\r\n茯苓對照藥材 1.0 g，同法製"
+          },
+          {
+            "pdf_page": 432,
+            "term": "真菌茯苓",
+            "text": "乾燥處，並防潮、防蟲蛀。\r\n用途分類：祛濕藥（利水滲濕）。\r\n性味與歸經：甘，平。\r\n功能：行水，利濕熱，益心潤肺。\r\n用法與用量：6~15 g。\r\n茯苓皮\r\nPORIAE CUTIS\r\nTuckahoe Peel\r\n本品為多孔菌科 Polyporaceae 真菌茯苓\r\nWolfiporia extensa (Peck) Ginns (Poria cocos\r\n(Schwein.) F.A.Wolf)菌核之乾燥外皮。\r\n本品之稀乙醇抽提物不得少於 5.0%，水抽\r\n提物不得少於 3.0%，所含豬苓酸 C (Polyporenic \r\nacid C)不得少於 0.1%。\r\n性狀：\r\n1. 一般性狀――本品呈長條形或不規則塊片，\r\n大小不一。外表面棕褐色至黑褐色，有疣狀突\r\n起；內面淡棕色或灰棕色，並常帶有白色或淡\r\n紅色的皮下部分。質較鬆軟，略具彈性。氣微，\r\n味淡，嚼之黏牙。\r\n2. 組織――本品粉末為灰白色。菌絲眾多，無\r\n色、淡棕色或棕色，細長，稍彎曲，有時具有\r\n分枝，直徑 3~8 μm，部分達 16 μm。顆粒狀\r\n團塊形狀不規則，無色。分枝狀團塊無色，直\r\n徑 10~24 μm。\r\n鑑別：\r\n1. 取本品粉末 1.0 g，加甲醇 10 mL，超音波振\r\n盪 30 分鐘，過濾"
+          },
+          {
+            "pdf_page": 432,
+            "term": "Wolfiporia",
+            "text": "潮、防蟲蛀。\r\n用途分類：祛濕藥（利水滲濕）。\r\n性味與歸經：甘，平。\r\n功能：行水，利濕熱，益心潤肺。\r\n用法與用量：6~15 g。\r\n茯苓皮\r\nPORIAE CUTIS\r\nTuckahoe Peel\r\n本品為多孔菌科 Polyporaceae 真菌茯苓\r\nWolfiporia extensa (Peck) Ginns (Poria cocos\r\n(Schwein.) F.A.Wolf)菌核之乾燥外皮。\r\n本品之稀乙醇抽提物不得少於 5.0%，水抽\r\n提物不得少於 3.0%，所含豬苓酸 C (Polyporenic \r\nacid C)不得少於 0.1%。\r\n性狀：\r\n1. 一般性狀――本品呈長條形或不規則塊片，\r\n大小不一。外表面棕褐色至黑褐色，有疣狀突\r\n起；內面淡棕色或灰棕色，並常帶有白色或淡\r\n紅色的皮下部分。質較鬆軟，略具彈性。氣微，\r\n味淡，嚼之黏牙。\r\n2. 組織――本品粉末為灰白色。菌絲眾多，無\r\n色、淡棕色或棕色，細長，稍彎曲，有時具有\r\n分枝，直徑 3~8 μm，部分達 16 μm。顆粒狀\r\n團塊形狀不規則，無色。分枝狀團塊無色，直\r\n徑 10~24 μm。\r\n鑑別：\r\n1. 取本品粉末 1.0 g，加甲醇 10 mL，超音波振\r\n盪 30 分鐘，過濾，取濾液作為"
+          },
+          {
+            "pdf_page": 433,
+            "term": "真菌茯苓",
+            "text": "防蟲蛀。\r\n用途分類：祛濕藥（利水滲濕）。\r\n性味與歸經：甘、淡，平。歸肺、脾、腎經。\r\n功能：利水消腫。\r\n用法與用量：15~30 g。\r\n茯神\r\nPORIA CUM PINI RADIX\r\nRoot Poria\r\n本品為多孔菌科 Polyporaceae 真菌茯苓\r\nWolfiporia extensa (Peck) Ginns (Poria cocos\r\n(Schwein.) F.A.Wolf)之乾燥菌核，中間抱有松根\r\n的部分。\r\n本品所含茯苓酸(Pachymic acid)不得少於\r\n0.05%。\r\n性狀：\r\n1. 一般性狀――本品呈類球形、橢圓形或不規\r\n則形之乾燥厚片，厚度寬 0.5~0.3 cm，外皮薄\r\n而粗糙，棕褐色至黑褐色，有明顯皺縮紋理，\r\n體重，質堅實。斷面有顆粒性，有的具裂隙，\r\n內部白色或灰白色，中間抱有松根，質鬆體\r\n輕，無皮，略似朽木。氣微，味淡。\r\n2. 粉末――本品粉末呈灰白色外皮部分為無數\r\n菌絲組成，再內部與看到多數類卵形或不規\r\n則的顆粒狀物，中間抱有木質部，粉末灰白\r\n色，不規則顆粒狀團塊和分枝團塊，無色，菌\r\n絲無色或淡棕色，細長稍彎曲，部分有分支，\r\n直徑 3~4 μm。\r\n鑑別：\r\n1. 取本品粉末 1.0 g，加甲醇 5 mL，超"
+          },
+          {
+            "pdf_page": 433,
+            "term": "Wolfiporia",
+            "text": "用途分類：祛濕藥（利水滲濕）。\r\n性味與歸經：甘、淡，平。歸肺、脾、腎經。\r\n功能：利水消腫。\r\n用法與用量：15~30 g。\r\n茯神\r\nPORIA CUM PINI RADIX\r\nRoot Poria\r\n本品為多孔菌科 Polyporaceae 真菌茯苓\r\nWolfiporia extensa (Peck) Ginns (Poria cocos\r\n(Schwein.) F.A.Wolf)之乾燥菌核，中間抱有松根\r\n的部分。\r\n本品所含茯苓酸(Pachymic acid)不得少於\r\n0.05%。\r\n性狀：\r\n1. 一般性狀――本品呈類球形、橢圓形或不規\r\n則形之乾燥厚片，厚度寬 0.5~0.3 cm，外皮薄\r\n而粗糙，棕褐色至黑褐色，有明顯皺縮紋理，\r\n體重，質堅實。斷面有顆粒性，有的具裂隙，\r\n內部白色或灰白色，中間抱有松根，質鬆體\r\n輕，無皮，略似朽木。氣微，味淡。\r\n2. 粉末――本品粉末呈灰白色外皮部分為無數\r\n菌絲組成，再內部與看到多數類卵形或不規\r\n則的顆粒狀物，中間抱有木質部，粉末灰白\r\n色，不規則顆粒狀團塊和分枝團塊，無色，菌\r\n絲無色或淡棕色，細長稍彎曲，部分有分支，\r\n直徑 3~4 μm。\r\n鑑別：\r\n1. 取本品粉末 1.0 g，加甲醇 5 mL，超音波振盪\r\n"
+          },
+          {
+            "pdf_page": 637,
+            "term": "冬蟲夏草",
+            "text": "臺灣中藥典 第四版 索引\r\n477\r\n代赭石 Hematite 77\r\n冬瓜子 Waxgourd Seed 78\r\n冬蟲夏草 Cordyceps 78\r\n加味逍遙散濃縮製劑\r\n（顆粒、散）\r\nJaiwei Xiaoyao San Concentrated Preparation \r\n(Granules, Powder)\r\n450\r\nJiawei Siaoyao San Concentrated Preparation \r\n(Granules, Powder)\r\n北沙參 Coastal Glehnia Root 80\r\n北板藍根 Indigowoad Root 80\r\n北劉寄奴 Chinese Siphonostegia Herb 81\r\n半枝蓮 Skullcap Herb 83\r\n半夏 Pinellia Tuber 84\r\n半夏瀉心湯濃縮製劑\r\n（顆粒、散）\r\nBanxia Xiesin Tang Concentrated Preparation (Granules, Powder)\r\nBansia Siexin Tang Concentra"
+          },
+          {
+            "pdf_page": 649,
+            "term": "冬蟲夏草",
+            "text": "DIX ET RHIZOMA 威靈仙 202\r\nCNIDII FRUCTUS 蛇床子 307\r\nCODONOPSIS RADIX 黨參 437\r\nCOICIS SEMEN 薏苡仁 412\r\nCOPTIDIS RHIZOMA 黃連 348\r\nCORDYCEPS 冬蟲夏草 78\r\nCORNI SARCOCARPIUM 山茱萸 24\r\nCORYDALIS RHIZOMA 延胡索 172\r\nCRASSOSTREAE CONCHA 牡蠣 154\r\nCRATAEGI FRUCTUS 山楂 25\r\nCROCI STIGMA 番紅花 324\r\nCROTONIS SEMEN 巴豆 55\r\nCULLENIAE FRUCTUS 補骨脂 361\r\nCURCULIGINIS RHIZOMA 仙茅 75\r\nCURCUMAE LONGAE RHIZOMA 薑黃 415\r\nCURCUMAE RADIX 鬱金 443\r\nCURCUMAE RHIZOMA 莪朮 306"
+          },
+          {
+            "pdf_page": 660,
+            "term": "冬蟲夏草",
+            "text": "mon Lophatherum Herb 淡竹葉 298\r\nCommon Monkshood Mother Root 川烏 36\r\nCommon Vladimiria Root 川木香 30\r\nCoptis Rhizome 黃連 348\r\nCordyceps 冬蟲夏草 78\r\nCorn Stylus 玉米鬚 87\r\nCornus Sarcocarp 山茱萸 24\r\nCorydalis Tuber 延胡索 172\r\nCorydalis Tuber Concentrated Preparation \r\n(Granules, Powder)\r\n延胡索濃縮製劑\r\n（顆粒、散）\r\n456\r\nCostus Root 木香 58\r\nCowherb Seed 王不留行 74\r\nCroton Seed 巴豆 55\r\nCurcuma Root 鬱金 443\r\nCuttlebone 海螵蛸 255"
+          },
+          {
+            "pdf_page": 678,
+            "term": "冬蟲夏草",
+            "text": "9\r\nO\r\nOldenlandia diffusa (Willd.) Roxb. 白花蛇舌草 99\r\nOphiocordyceps sinensis (Berk.) G.H.Sung, J.M.Sung, Hywel-Jones & \r\nSpatafora\r\n冬蟲夏草菌 78\r\nOphiopogon japonicus (Thunb.) Ker Gawl 麥冬 319\r\nOriganum vulgare L. 野薄荷 68\r\nOroxylum indicum (L.) Benth. ex Kurz 木蝴蝶 63\r\nOrthosiphon aristatus (Blume) Miq. 貓鬚草 407\r\nOryza sativa L. 稻 388"
+          },
+          {
+            "pdf_page": 683,
+            "term": "真菌茯苓",
+            "text": "lis Steenis 單葉蔓荊 394\r\nW\r\nWhitmania acranulata (Whitman) 柳葉螞蟥 66\r\nWhitmania pigra (Whitman) 螞蟥 66\r\nWolfiporia extensa (Peck) Ginns 真菌茯苓 269, 271, 272,\r\n273\r\nX\r\nXanthium sibiricum Patrin ex Widder 蒼耳 375\r\nZ\r\nZanthoxylum bungeanum Maxim. 花椒 182\r\nZanthoxylum schinifolium Siebold & Zucc. 青椒 182\r\nZea mays L. 玉蜀黍 87\r\nZingiber officinale Roscoe 薑 413, 414\r\nZiziphus jujuba Mill. var. spinosa (Bunge) Hu ex H.F.Chow 酸棗 378\r\nZiziphus jujuba Mill. 棗 12"
+          },
+          {
+            "pdf_page": 683,
+            "term": "Wolfiporia",
+            "text": "\nVitex trifolia L. subsp. litoralis Steenis 單葉蔓荊 394\r\nW\r\nWhitmania acranulata (Whitman) 柳葉螞蟥 66\r\nWhitmania pigra (Whitman) 螞蟥 66\r\nWolfiporia extensa (Peck) Ginns 真菌茯苓 269, 271, 272,\r\n273\r\nX\r\nXanthium sibiricum Patrin ex Widder 蒼耳 375\r\nZ\r\nZanthoxylum bungeanum Maxim. 花椒 182\r\nZanthoxylum schinifolium Siebold & Zucc. 青椒 182\r\nZea mays L. 玉蜀黍 87\r\nZingiber officinale Roscoe 薑 413, 414\r\nZiziphus jujuba Mill. var. spinosa (Bunge) Hu ex H.F.Chow 酸棗 378\r\nZiziphus jujuba Mill. 棗 12"
+          }
+        ]
+      }
+    ],
+    "authored_evidence_record_sha256": "bb2a567286a361a9211206d067fbdcacb7b6d953a57540bb819f943d0f9420ce"
+  },
+  {
+    "id": "S47",
+    "questions": "47",
+    "title": "Hocher et al. 2023 Histones in Bdellovibrio bacteriovorus",
+    "urls": [
+      "https://www.nature.com/articles/s41564-023-01492-x"
+    ],
+    "read_scope": "研究摘要及開頭的菌種與結構結果",
+    "finding": "Bdellovibrio與Leptospira含真正histone蛋白，是細菌一概沒有組蛋白的反例。",
+    "limits": "2019試題採傳統概括D；細菌histone的DNA結合不等同真核核小體，後來研究不追溯改官方答案。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU108官方採計",
+    "captures": [
+      {
+        "id": "S47-1",
+        "url": "https://www.nature.com/articles/s41564-023-01492-x",
+        "checked_at": "2026-09-10T17:32:24.452875+08:00",
+        "final_url": "https://www.nature.com/articles/s41564-023-01492-x?error=cookies_not_supported&code=087c2154-a11f-4886-bf21-6a76d2996733",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "status": "FETCHED_HTML_REQUIRES_CONTENT_CHECK",
+        "path": "審查紀錄/annual_review/TCU-108/downloads/S47-1-98dd0f34808f.html",
+        "sha256": "98dd0f34808fd5212dc3b92577bb030f6881b0225a516be9d55a9e09da898fc8",
+        "bytes": 545310
+      }
+    ],
+    "capture_content_checks": [
+      {
+        "id": "S47-1",
+        "title": "Histones with an unconventional DNA-binding mode in vitro are major chromatin constituents in the bacterium Bdellovibrio bacteriovorus | Nature Microbiology",
+        "status": "TEXT_EXTRACTED_READING_SCOPE_IN_NOTES",
+        "chars": 80773,
+        "readback_path": "審查紀錄/annual_review/TCU-108/downloads/S47-1-readback.txt",
+        "readback_sha256": "63b116480cbab5b49f9307b9612fd73b07117c29e6d6ad164f731a4cf4fd9071"
+      }
+    ],
+    "authored_evidence_record_sha256": "88da9969d420bcdc027d35c81d60cccdf74c22fbb8fc77ca6dda27e50c19a0ed"
+  },
+  {
+    "id": "S48",
+    "questions": "48",
+    "title": "Longcore, Pessier and Nichols 1999; Maine Chytrid Laboratory; Moss et al. 2008 chemotaxis",
+    "urls": [
+      "https://www.tandfonline.com/doi/abs/10.1080/00275514.1999.12061011",
+      "https://umaine.edu/chytrids/chytrid-bibliography/chytrid-taxonomy-since-1960-a-b/",
+      "https://pubmed.ncbi.nlm.nih.gov/18488347/"
+    ],
+    "read_scope": "搜尋索引完整摘要的純培養、營養瓊脂與接種結果；研究者實驗室分類條目；Moss研究摘要顯示糖、蛋白與胺基酸正趨化",
+    "finding": "蛙壺菌已成功離體純培養並由培養物接種蛙，因此D錯。；Bd的趨化由具名研究補足。",
+    "limits": "期刊直接開啟受限，摘要索引與原研究者頁交叉支持；未宣稱讀完論文9頁或任何治療試驗。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU108官方採計",
+    "captures": [
+      {
+        "id": "S48-1",
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/00275514.1999.12061011",
+        "checked_at": "2026-09-10T17:32:24.463386+08:00",
+        "status": "FETCH_FAILED",
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "id": "S48-2",
+        "url": "https://umaine.edu/chytrids/chytrid-bibliography/chytrid-taxonomy-since-1960-a-b/",
+        "checked_at": "2026-09-10T17:32:24.498384+08:00",
+        "status": "FETCH_FAILED",
+        "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+      }
+    ],
+    "capture_content_checks": [
+      {
+        "id": "S48-1",
+        "status": "FETCH_FAILED",
+        "scope": "以本輪web可讀摘要／索引片段留證，未取得下載位元"
+      },
+      {
+        "id": "S48-2",
+        "status": "FETCH_FAILED",
+        "scope": "以本輪web可讀摘要／索引片段留證，未取得下載位元"
+      }
+    ],
+    "authored_evidence_record_sha256": "84c7917c071efd6d4a7d23b7a09fd7152dedcd5abfa734cab68617764a99e7f3"
+  },
+  {
+    "id": "S50",
+    "questions": "50",
+    "title": "SGD yeast biology, original genome project and Peter et al. 2018",
+    "urls": [
+      "https://wiki.yeastgenome.org/index.php/What_are_yeast%3F",
+      "https://www.genome.gov/10000510/1996-release-yeast-genome-sequenced",
+      "https://www.nature.com/articles/s41586-018-0030-5"
+    ],
+    "read_scope": "SGD倍數與生活史段、1996原公布、2018研究摘要與样本方法",
+    "finding": "釀酒酵母可單倍體與二倍體；1996首個真核基因組；2018研究含1011株，其中918新定序加93既有。",
+    "limits": "本地p460另支援部分人類基因可互補；不是所有基因皆可取代。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU108官方採計",
+    "captures": [
+      {
+        "id": "S50-1",
+        "url": "https://wiki.yeastgenome.org/index.php/What_are_yeast%3F",
+        "checked_at": "2026-09-10T17:32:24.937656+08:00",
+        "final_url": "https://wiki.yeastgenome.org/index.php/What_are_yeast%3F",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "status": "FETCHED_HTML_REQUIRES_CONTENT_CHECK",
+        "path": "審查紀錄/annual_review/TCU-108/downloads/S50-1-35e3311dc3c3.html",
+        "sha256": "35e3311dc3c3ae4f8338d4419235587ef4147f98af4e0d24e78491239c629635",
+        "bytes": 56242
+      },
+      {
+        "id": "S50-2",
+        "url": "https://www.genome.gov/10000510/1996-release-yeast-genome-sequenced",
+        "checked_at": "2026-09-10T17:32:25.613315+08:00",
+        "final_url": "https://www.genome.gov/10000510/1996-release-yeast-genome-sequenced",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "status": "FETCHED_HTML_REQUIRES_CONTENT_CHECK",
+        "path": "審查紀錄/annual_review/TCU-108/downloads/S50-2-f2c9d111d6b7.html",
+        "sha256": "f2c9d111d6b7c8df979f51607859f6405cfb7c8eaa5b1a7079ea88407a0c9e96",
+        "bytes": 194351
+      },
+      {
+        "id": "S50-3",
+        "url": "https://www.nature.com/articles/s41586-018-0030-5",
+        "checked_at": "2026-09-10T17:32:27.100354+08:00",
+        "final_url": "https://www.nature.com/articles/s41586-018-0030-5?error=cookies_not_supported&code=d311a769-f1e9-46b7-9794-bf424a4de4a5",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "status": "FETCHED_HTML_REQUIRES_CONTENT_CHECK",
+        "path": "審查紀錄/annual_review/TCU-108/downloads/S50-3-5c025ad6e7a6.html",
+        "sha256": "5c025ad6e7a68cd83332663fd1eef52eceabf98aaef2a1dc1bdce9a3de40695b",
+        "bytes": 540749
+      }
+    ],
+    "capture_content_checks": [
+      {
+        "id": "S50-1",
+        "title": "What are yeast? - SGD-Wiki",
+        "status": "TEXT_EXTRACTED_READING_SCOPE_IN_NOTES",
+        "chars": 28073,
+        "readback_path": "審查紀錄/annual_review/TCU-108/downloads/S50-1-readback.txt",
+        "readback_sha256": "c58f623fcab366b6d349347166bcc406110265a88fc95eac707072b05f1be114"
+      },
+      {
+        "id": "S50-2",
+        "title": "International Team Completes DNA Sequence of Yeast",
+        "status": "TEXT_EXTRACTED_READING_SCOPE_IN_NOTES",
+        "chars": 5985,
+        "readback_path": "審查紀錄/annual_review/TCU-108/downloads/S50-2-readback.txt",
+        "readback_sha256": "423d54a4cb648f6ac5bdfcfcf5760f14b888eea1676c055b104138eb1a40fbd2"
+      },
+      {
+        "id": "S50-3",
+        "title": "Genome evolution across 1,011 Saccharomyces cerevisiae isolates | Nature",
+        "status": "TEXT_EXTRACTED_READING_SCOPE_IN_NOTES",
+        "chars": 77749,
+        "readback_path": "審查紀錄/annual_review/TCU-108/downloads/S50-3-readback.txt",
+        "readback_sha256": "970f2fbeadeb97fe31e16c9209d250d096451009857921c74d3586e569980c30"
+      }
+    ],
+    "authored_evidence_record_sha256": "dd125116fe2d26df1e9fba131ff083f2dfad25adffb3a92131eef1d35bee7776"
+  }
+]

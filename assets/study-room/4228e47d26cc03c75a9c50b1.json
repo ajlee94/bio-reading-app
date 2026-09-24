@@ -1,0 +1,123 @@
+[
+  {
+    "id": "S01",
+    "title": "Cooper 2000 The Cell：Eukaryotic RNA Polymerases；原始Pol III研究",
+    "finding": "真核核內Pol III轉錄5S rRNA與tRNA，Pol I製作28S/18S/5.8S前驅物；補足Campbell只概述聚合酶的範圍。",
+    "read_scope": "NCBI Bookshelf章節開頁閱讀RNA聚合酶段落與I/III段；1974研究只實讀搜尋提供的結論，PubMed開頁遭驗證頁，不宣稱讀全文。",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK9935/",
+      "https://pubmed.ncbi.nlm.nih.gov/4525293/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU108官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "5b8e9d23269965772595e3c0cd23ca71d9f25e85a1831376bcf873024c23cd3c"
+  },
+  {
+    "id": "S02",
+    "title": "University of Leeds 2019：Oxygen linked with the boom and bust of early animal evolution",
+    "finding": "研究團隊以同位素及模型分析寒武紀氧氣與動物演化的連結；不能由此證明現代哺乳類可以在寒武紀存活。",
+    "read_scope": "大學研究團隊新聞開頁閱讀方法、氧氣推估與限制；未取得其研究原始數據。",
+    "urls": [
+      "https://www.leeds.ac.uk/news-environment/news/article/4411/oxygen-linked-with-the-boom-and-bust-of-early-animal-evolution"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU108官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "0845099329ccda8804a84eff5db9175af555d1d0948dd9550dc49ed3537e50eb"
+  },
+  {
+    "id": "S03",
+    "title": "Cooper 2000 Mitochondria；Brown 2002 Genomes",
+    "finding": "哺乳類粒線體DNA含13蛋白、22tRNA、2rRNA，總37；人類約16569bp。rRNA與核糖體蛋白基因須區分。",
+    "read_scope": "Cooper章節開頁閱讀粒線體遺傳系統段落；Brown具體數字由搜尋回傳的教材段落核對，未下載整書。",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK9896/",
+      "https://www.ncbi.nlm.nih.gov/books/NBK21134/?report=printable"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU108官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "f4b1abbc8a2f692202d3bf010043787cfe0b15c587369b297644f339e494da21"
+  },
+  {
+    "id": "S04",
+    "title": "Knowles 2009 Statistical Phylogeography",
+    "finding": "親緣地理研究遺傳變異的空間、時間與歷史過程；補充本地目錄未單列的專名，分類仍使用真實親緣樹應用與生物地理條目。",
+    "read_scope": "出版社搜尋回傳摘要及作者資訊；出版社開頁失敗，不宣稱取得全文。",
+    "urls": [
+      "https://www.annualreviews.org/content/journals/10.1146/annurev.ecolsys.38.091206.095702"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU108官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "97d0c14b895e4af5580b0a45a5671bad4e908418c031897069ddd373b41657b7"
+  },
+  {
+    "id": "S05",
+    "title": "Levin et al. 1981：caffeine、sperm motility與cAMP phosphodiesterase",
+    "finding": "原始體外動力學顯示咖啡因可抑制PDE，但抑制與運動反應所需濃度不同；不能直接把一般飲用效果歸因於PDE抑制。",
+    "read_scope": "PubMed開頁完整摘要，特別比較濃度與Ki；未讀出版商全文或將此精子實驗直接當成所有人體細胞。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/6273241/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU108官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "33d8d359ebe6270324f25cec4b7dea2c52c8e1ea3d8e1c8cc0a549e7a8e2b528"
+  },
+  {
+    "id": "S06",
+    "title": "A Novel Function for the Cathepsin D Inhibitor in Tomato",
+    "finding": "番茄傷害誘導的蛋白酶抑制劑可干擾昆蟲消化；該研究重新界定JIP21/TCI21為chymotrypsin抑制劑，並驗證幼蟲生長/死亡影響。",
+    "read_scope": "PMC開頁閱讀摘要、引言的消化酵素機制、酵素測試段與討論；未逐圖重算原始實驗數據。",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC1630738/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU108官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "f63962571212e859a6f7c0eda3b11e6c2d8554e36b808db91c31d781e3f4e878"
+  },
+  {
+    "id": "S07",
+    "title": "Farmer et al. 1992：Regulation of expression of proteinase inhibitor genes by methyl jasmonate and jasmonic acid",
+    "finding": "空氣中methyl jasmonate可誘導番茄葉片蛋白酶抑制劑I/II；支持揮發性訊號機制，不證明原考題一定使用此單一化合物。",
+    "read_scope": "搜尋回傳原始研究摘要；PubMed開頁無有效內容，PMC開頁驗證頁，未讀全文。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/16668777/",
+      "https://doi.org/10.1104/pp.98.3.995"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU108官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "abbadf687c710703776747029d478d7eae99035a830b3fe13e005e354cbbf375"
+  },
+  {
+    "id": "S08",
+    "title": "Haj Ahmad et al. 2019：The Systemin Signaling Cascade As Derived from Time Course Analyses of the Systemin-responsive Phosphoproteome",
+    "finding": "早期PLL5使LHA1去磷酸化，導致培養液鹼化；研究另見MPK2較晚再磷酸化並恢復H+-ATPase活性，不能將原題MAPK抑制的假設當作這項實驗的同一因果。",
+    "read_scope": "PMC搜尋回傳完整摘要、Highlights、結論與相關試驗/討論節錄；PubMed開頁驗證頁。未聲稱全部正文及原始質譜已重算。此2019-05-28研究晚於108.5.15釋疑，僅作本輪科學補查。",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6683004/",
+      "https://pubmed.ncbi.nlm.nih.gov/31138643/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU108官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "c769561ac86c00f184932f586ab0ce49a9feff810ddda88836140ea4891bcb86"
+  },
+  {
+    "id": "S09",
+    "title": "Bellot & Renner：The Plastomes of Two Species in the Endoparasite Genus Pilostyles",
+    "finding": "研究的兩種Pilostyles生活在豆科宿主內；同篇比較植物內寄生和外寄生類型，支援植物亦有兩類寄生的判斷。",
+    "read_scope": "PMC搜尋實讀摘要相關內容與內/外寄生比較段落；開頁為驗證頁，未宣稱整篇全文已檢查。",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4758247/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU108官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "b4237e9114916c3e3f1b0e9b41b0949e8e5eaa8ae343bdc64bb8691a83abd501"
+  }
+]

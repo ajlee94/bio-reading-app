@@ -1,0 +1,114 @@
+[
+  {
+    "id": "S01",
+    "title": "Bongkrekic acid and ANT inhibition: original cultured-cell experiments (2019)",
+    "urls": [
+      "https://www.sciencedirect.com/science/article/pii/S2405580819300913"
+    ],
+    "finding": "米酵菌酸抑制ANT之ADP/ATP交換；細胞的氧消耗與ATP影響依實驗條件而異。",
+    "source_type": "primary_research",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀官方頁內容或原始研究摘要；未宣稱閱讀全部出版商全文。"
+  },
+  {
+    "id": "S02",
+    "title": "CDC clinician guidance for E. coli / STEC",
+    "urls": [
+      "https://www.cdc.gov/ecoli/hcp/guidance/index.html"
+    ],
+    "finding": "STEC抗菌藥可能增加HUS風險，適用範圍不能泛化成所有E. coli。",
+    "source_type": "official_guidance",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀官方頁內容或原始研究摘要；未宣稱閱讀全部出版商全文。"
+  },
+  {
+    "id": "S03",
+    "title": "CDC laboratory testing for MRSA",
+    "urls": [
+      "https://www.cdc.gov/mrsa/php/laboratories/index.html"
+    ],
+    "finding": "mecA編碼PBP2a，其對β-lactam親和力較低，支持作用靶點改變。",
+    "source_type": "official_reference",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀官方頁內容或原始研究摘要；未宣稱閱讀全部出版商全文。"
+  },
+  {
+    "id": "S04",
+    "title": "American Phytopathological Society: Brown Rot laboratory background",
+    "urls": [
+      "https://www.apsnet.org/edcenter/sites/BrownRot/Pages/Background.aspx"
+    ],
+    "finding": "以植物褐腐病接種、再分離示範Koch原則，直接反駁植物病一般不適用的斷言。",
+    "source_type": "official_scientific_society",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀官方頁內容或原始研究摘要；未宣稱閱讀全部出版商全文。"
+  },
+  {
+    "id": "S05",
+    "title": "H. pylori urease (1995) and infection-induced DNA breaks (2014)",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/7729871/",
+      "https://pubmed.ncbi.nlm.nih.gov/25069978/"
+    ],
+    "finding": "尿素酶利用尿素產氨；感染細胞的DNA損傷研究不等同證明某毒素直接以DNA為唯一靶點。",
+    "source_type": "primary_research",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀官方頁內容或原始研究摘要；未宣稱閱讀全部出版商全文。"
+  },
+  {
+    "id": "S06",
+    "title": "Arabidopsis GCP2/GCP3 gamma-tubulin-complex localization (2007)",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/17714428/"
+    ],
+    "finding": "核膜及細胞膜免疫定位支持植物有分散的微管組裝機制，不能聲稱僅核膜能組裝。",
+    "source_type": "primary_research",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀官方頁內容或原始研究摘要；未宣稱閱讀全部出版商全文。"
+  },
+  {
+    "id": "S07",
+    "title": "Melatonin and SCN neuronal inhibition: original experiments (2015, 1995)",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/26558769/",
+      "https://pubmed.ncbi.nlm.nih.gov/7583297/"
+    ],
+    "finding": "特定SCN神經元實驗中褪黑激素引發抑制及相關離子通道作用；不泛化所有物種與所有條件。",
+    "source_type": "primary_research",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀官方頁內容或原始研究摘要；未宣稱閱讀全部出版商全文。"
+  },
+  {
+    "id": "S08",
+    "title": "Searchinger et al. Biofuel land-use greenhouse-gas model (2008)",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/18258860/"
+    ],
+    "finding": "土地利用改變可增加生質燃料生命週期排放，反駁一律淨零的外推；證據為模型研究。",
+    "source_type": "primary_research",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀官方頁內容或原始研究摘要；未宣稱閱讀全部出版商全文。"
+  },
+  {
+    "id": "S09",
+    "title": "Fraley et al. Expression of bacterial genes in plant cells (1983)",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC384133/"
+    ],
+    "finding": "實驗把嵌合基因置入Ti相關載體，再以農桿菌與植物細胞共培養獲得轉殖組織。",
+    "source_type": "primary_research",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀官方頁內容或原始研究摘要；未宣稱閱讀全部出版商全文。"
+  },
+  {
+    "id": "S10",
+    "title": "Vazquez et al. Male Drosophila chromosome pairing (2002), FlyBase abstract",
+    "urls": [
+      "https://flybase.org/reports/FBrf0151840"
+    ],
+    "finding": "雄D. melanogaster減數分裂通常不發生重組，故圖距題須明示一般雌蠅重組假設。",
+    "source_type": "primary_research_via_official_database",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀官方頁內容或原始研究摘要；未宣稱閱讀全部出版商全文。"
+  }
+]

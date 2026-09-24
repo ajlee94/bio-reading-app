@@ -1,0 +1,221 @@
+[
+  {
+    "id": "S01",
+    "title": "Falk等1998，Metabolic Bypass of the Tricarboxylic Acid Cycle during Lipid Mobilization in Germinating Oilseeds",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/9625700/",
+      "https://academic.oup.com/plphys/article/117/2/473/6085766",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC34967/"
+    ],
+    "finding": "油菜儲油轉糖須繞過TCA放出CO2步驟，粒線體參與該代謝转換；配合Campbell112頁乙醛酸循環體，支援葉綠體非此題直接動員胞器。",
+    "read_scope": "實讀網頁搜尋之摘要與相關段落片段；油菜研究不是蓖麻實驗。PMC原始下載是瀏覽器挑戰HTML，出版商只取得摘要頁，不聲稱完整論文逐頁讀過。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU111官方採計",
+    "captures": [
+      {
+        "kind": "S01-oil",
+        "id": "S01",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC34967/",
+        "retrieved_at": "2026-09-10T14:33:12.242647+08:00",
+        "http_status": 200,
+        "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC34967/",
+        "content_type": "text/html; charset=utf-8",
+        "path": "審查紀錄/annual_review/TCU-111/official-fetch/S01-oil.html",
+        "sha256": "6d3772628187a5b04c6698ce035e5e34660b4e4794d4ec067a829b39ca610686",
+        "bytes": 21305,
+        "status": "FETCHED_HTML",
+        "content_warning": "Possible browser challenge; downloaded HTML is not assumed article content."
+      }
+    ],
+    "authored_evidence_record_sha256": "c8a290d605511195795b86d31456348f3f446874d5e7f31cb6edcef301741134"
+  },
+  {
+    "id": "S02",
+    "title": "ICTV Report：Viroids",
+    "urls": [
+      "https://ictv.global/report/chapter/viroids/viroids"
+    ],
+    "finding": "類病毒為環狀單股RNA、沒有蛋白殼、不編碼蛋白質；補本地教材未詳細說明的capsid差異。",
+    "read_scope": "本輪下載並讀Characteristics與Genome相關正文，原HTML雜湊在下載紀錄。引用的是類病毒，不把需輔助病毒的衛星RNA概念混同。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU111官方採計",
+    "captures": [
+      {
+        "kind": "S02-viroids",
+        "id": "S02",
+        "url": "https://ictv.global/report/chapter/viroids/viroids",
+        "retrieved_at": "2026-09-10T14:33:12.243649+08:00",
+        "http_status": 200,
+        "final_url": "https://ictv.global/report/chapter/viroids/viroids",
+        "content_type": "text/html; charset=utf-8",
+        "path": "審查紀錄/annual_review/TCU-111/official-fetch/S02-viroids.html",
+        "sha256": "edbfdef1f95bc70885e194f093c59e0184e35c94f0545aefae64b675783d3e37",
+        "bytes": 88035,
+        "status": "FETCHED_HTML"
+      }
+    ],
+    "authored_evidence_record_sha256": "5a5a154322fbe6041102d19f73bf7ce84e31d67916e37416ca3e67bdae802d88"
+  },
+  {
+    "id": "S03",
+    "title": "NIH MedlinePlus Genetics：Duchenne and Becker muscular dystrophy",
+    "urls": [
+      "https://medlineplus.gov/genetics/condition/duchenne-and-becker-muscular-dystrophy/"
+    ],
+    "finding": "典型遺傳為X聯隱性；女性帶因者偶有肌肉症狀及心肌病風險，故女性不發病不是絕對法則。",
+    "read_scope": "本輪下載並實讀Inheritance及女性帶因者段落。只處理考題遺傳敘述，不提供個人壽命估計或臨床診斷；299頁教材壽命敘述與題文另比對。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU111官方採計",
+    "captures": [
+      {
+        "kind": "S03-DMD",
+        "id": "S03",
+        "url": "https://medlineplus.gov/genetics/condition/duchenne-and-becker-muscular-dystrophy/",
+        "retrieved_at": "2026-09-10T14:33:12.243649+08:00",
+        "http_status": 200,
+        "final_url": "https://medlineplus.gov/genetics/condition/duchenne-and-becker-muscular-dystrophy/",
+        "content_type": "text/html",
+        "path": "審查紀錄/annual_review/TCU-111/official-fetch/S03-DMD.html",
+        "sha256": "6ff911d138e0fbc10ca24020895246f98d012290c99ee66ea90571e6ead51a7d",
+        "bytes": 41014,
+        "status": "FETCHED_HTML"
+      }
+    ],
+    "authored_evidence_record_sha256": "9fb8f1ee5fbd21bffd7edeb4bb886ee027227677a953040bb5b71e2587a9131f"
+  },
+  {
+    "id": "S04",
+    "title": "NHGRI Genetics Glossary：Western Blot",
+    "urls": [
+      "https://www.genome.gov/genetics-glossary/Western-Blot"
+    ],
+    "finding": "蛋白電泳分離後轉膜、用抗體辨認特定蛋白，可了解相對豐度及大小；支援選項D。",
+    "read_scope": "本輪下載並實讀Definition與Narration，沒有宣稱未校正的條帶強度就是絕對蛋白量。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU111官方採計",
+    "captures": [
+      {
+        "kind": "S04-western",
+        "id": "S04",
+        "url": "https://www.genome.gov/genetics-glossary/Western-Blot",
+        "retrieved_at": "2026-09-10T14:33:12.662644+08:00",
+        "http_status": 200,
+        "final_url": "https://www.genome.gov/genetics-glossary/Western-Blot",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "審查紀錄/annual_review/TCU-111/official-fetch/S04-western.html",
+        "sha256": "ff29baabed1d764b0e0880761f31e8aa305b83824eb2acb54a766e82a336caa7",
+        "bytes": 196297,
+        "status": "FETCHED_HTML"
+      }
+    ],
+    "authored_evidence_record_sha256": "397a71abc9ccd2c2c2e3644b41dbc722d3c95bf5bab900095828e510a462f483"
+  },
+  {
+    "id": "S05",
+    "title": "NCBI Taxonomy 2966及2007 Noctiluca系統研究",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2966",
+      "https://pubmed.ncbi.nlm.nih.gov/17900881/",
+      "https://www.marinespecies.org/aphia.php?id=109921&p=taxdetails"
+    ],
+    "finding": "Noctiluca scintillans歸渦鞭毛蟲，屬Alveolata；再用Campbell604–606頁比較與Plasmodium及矽藻的支系。",
+    "read_scope": "實讀NCBI分類頁Lineage與PubMed原研究題名及摘要開頭，未讀完整原研究；NCBI自述不取代正式命名文獻。WoRMS403失敗保留，不冒稱該網頁成功讀取。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU111官方採計",
+    "captures": [
+      {
+        "kind": "S05-noctiluca",
+        "id": "S05",
+        "url": "https://www.marinespecies.org/aphia.php?id=109921&p=taxdetails",
+        "retrieved_at": "2026-09-10T14:33:13.108306+08:00",
+        "status": "FAILED",
+        "error": "HTTP Error 403: Forbidden"
+      }
+    ],
+    "authored_evidence_record_sha256": "09dceb8f73cb40ab4243b050c4ae7b37de05cc15c0e60ce73b12891195992247"
+  },
+  {
+    "id": "S06",
+    "title": "Tang與Boyer2008，Xylem tension affects growth-induced water potential and daily elongation of maize leaves，J Exp Bot 59:753–764",
+    "urls": [
+      "https://academic.oup.com/jxb/article/59/4/753/642774"
+    ],
+    "finding": "玉米第5葉伸長受水分張力及溫度影響；25°C日／20°C夜的實驗可日快夜慢，不能單由向光性推論全株夜間必快。",
+    "read_scope": "透過web讀出版商轉向內容的摘要、方法及日夜伸長相關結果；研究B73×Mo17第5葉，不是屏東莖長田間實測。直接下載遇憑證過期，未關閉TLS驗證，未虛構原PDF雜湊。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU111官方採計",
+    "captures": [
+      {
+        "kind": "S06-maize",
+        "id": "S06",
+        "url": "https://academic.oup.com/jxb/article/59/4/753/642774",
+        "retrieved_at": "2026-09-10T14:33:13.887200+08:00",
+        "status": "FAILED",
+        "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+      }
+    ],
+    "authored_evidence_record_sha256": "1b72da9e9d5e5fef1cc4b894fa36983da770bf0b1af8debeebae3690b02c35a2"
+  },
+  {
+    "id": "S07",
+    "title": "Hocine、Singer、Grünwald2010，RNA Processing and Export，doi:10.1101/cshperspect.a000752",
+    "urls": [
+      "https://www.einsteinmed.edu/labs/robert-singer/publications/SL1011.pdf"
+    ],
+    "finding": "5′加帽促進成熟mRNA功能；作者PDF第5頁說保護5′→3′外切降解，不能解釋成阻止所有內切酶。核輸出作用另由本地345頁及同年釋疑支持。",
+    "read_scope": "官方111釋疑PDF4列此引用；本輪web解析讀作者PDF第4–5頁Capping及Consequences相關段落，不稱20頁全文視讀。直接原檔下載403，沒有本地PDF原始位元雜湊。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU111官方採計",
+    "captures": [
+      {
+        "kind": "S07-export",
+        "id": "S07",
+        "url": "https://www.einsteinmed.edu/labs/robert-singer/publications/SL1011.pdf",
+        "retrieved_at": "2026-09-10T14:33:13.940292+08:00",
+        "status": "FAILED",
+        "error": "HTTP Error 403: Forbidden"
+      }
+    ],
+    "authored_evidence_record_sha256": "d6067274cc62571b90e3b431a7ed08314bcb65669dca7ec1bd513293b8330aaa"
+  },
+  {
+    "id": "S08",
+    "title": "Brown，Genomes 2nd ed.：Synthesis and Processing of the Proteome",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK21111/?report=printable"
+    ],
+    "finding": "Shine–Dalgarno提供細菌核糖體定位，Kozak是典型真核起始密碼鄰近的辨識背景，兩者屬轉譯起始。",
+    "read_scope": "本輪下載並實讀Initiation相關段與Kozak段；不把教科書列舉規則當全部物種／所有mRNA均無例外。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU111官方採計",
+    "captures": [
+      {
+        "kind": "S08-translation",
+        "id": "S08",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK21111/?report=printable",
+        "retrieved_at": "2026-09-10T14:33:14.103607+08:00",
+        "http_status": 200,
+        "final_url": "https://www.ncbi.nlm.nih.gov/books/NBK21111/?report=printable",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "審查紀錄/annual_review/TCU-111/official-fetch/S08-translation.html",
+        "sha256": "9b609905a304facc4524d257e4378e46e87745c20c567aca92e927970c8c9b6d",
+        "bytes": 195596,
+        "status": "FETCHED_HTML"
+      }
+    ],
+    "authored_evidence_record_sha256": "e9cb150cce881f9aa757932bf4a48f5339c29b9d76687dbb09f946bc1b600d0f"
+  },
+  {
+    "id": "S09",
+    "title": "Cooper，The Cell 2nd ed.：DNA Replication",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK9940/"
+    ],
+    "finding": "典型DNA pol I的5′→3′外切活性移除RNA引子，3′→5′外切活性則校對新股末端。",
+    "read_scope": "本輪web實讀The Fidelity of Replication段落；補Campbell校對正文未明列的外切方向，不擴張為引子處理對複製完全無用。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU111官方採計",
+    "captures": [],
+    "authored_evidence_record_sha256": "2f4686e974f8215a173c6324233c2338ba5fc5fe627f8bfb706c2329ab0818c5"
+  }
+]

@@ -1,0 +1,1094 @@
+[
+  {
+    "q": 1,
+    "question_or_alternative": "一般酵素8.5或激素45",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        183,
+        184,
+        916
+      ],
+      "catalog_ids": [
+        "L0614",
+        "L2743"
+      ],
+      "supplement_ids": [
+        "S01"
+      ]
+    },
+    "resolution": "題問糖解及糖質新生相反調控，9.6是更具體代謝條目；S01補足F2,6BP，D相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 2,
+    "question_or_alternative": "糖解9.2或糖質新生9.6",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        915,
+        916,
+        104,
+        105
+      ],
+      "catalog_ids": [
+        "L2743",
+        "L0343"
+      ],
+      "supplement_ids": [
+        "S02"
+      ]
+    },
+    "resolution": "肝ER與釋糖到血液兩條件需同時保留；41.5主、6.4次涵蓋功能與位置，S02支持B。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 3,
+    "question_or_alternative": "循環電子流或呼吸鏈",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        197,
+        198
+      ],
+      "catalog_ids": [
+        "L0656"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "光反應線性電子流以NADP+為末端受體，10.3該條目及D相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 4,
+    "question_or_alternative": "檸檬酸循環",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        183
+      ],
+      "catalog_ids": [
+        "L0611"
+      ],
+      "supplement_ids": [
+        "S03"
+      ]
+    },
+    "resolution": "題文先限定糖質新生，OAA只是中間物；9.6 Biosynthesis加S03支持指定malate路線，B相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 5,
+    "question_or_alternative": "高基氏體",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        104,
+        105,
+        106
+      ],
+      "catalog_ids": [
+        "L0343"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "初步醣基化在ER，後續加工可到Golgi；6.4真實葉節點支持D，無自造N-linked目錄。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 6,
+    "question_or_alternative": "生活史作主或因A有誤而待審",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 1,
+      "clarification_pages": [
+        8
+      ],
+      "textbook_pages": [
+        1229,
+        1230,
+        1201,
+        1202
+      ],
+      "catalog_ids": [
+        "L3633",
+        "L3564"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "原圖A含親代照顧周全；官方第8頁仍採A或D。評分依釋疑、科學差異留註；54.3演替主、53.4生活史次已明確。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": true
+  },
+  {
+    "q": 7,
+    "question_or_alternative": "內分泌45",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        934,
+        935,
+        936
+      ],
+      "catalog_ids": [
+        "L2802"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "42.4 p936直接包括低氧→腎EPO→紅血球，D相符，不需重複列泛用激素章。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 8,
+    "question_or_alternative": "骨骼肌收縮50.5",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1080,
+        1081
+      ],
+      "catalog_ids": [
+        "L3231"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "問被阻斷的神經傳遞物，48.4 Neurotransmitters最貼題，C相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 9,
+    "question_or_alternative": "免疫發炎43",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1000,
+        1001
+      ],
+      "catalog_ids": [
+        "L2998"
+      ],
+      "supplement_ids": [
+        "S04"
+      ]
+    },
+    "resolution": "p1001直接用aspirin說明前列腺素局部訊號；45.1主、S04補COX酵素名稱，A相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 10,
+    "question_or_alternative": "直接放54或自造共同演化節點",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        825,
+        1217,
+        1219
+      ],
+      "catalog_ids": [
+        "L2483",
+        "L3601"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "實看p825相互選汰定義位於38.1 Methods of Pollination；54.1寄生互動保留次分類。A相符，未把題目改稱植物題。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 11,
+    "question_or_alternative": "基因流",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        494,
+        495
+      ],
+      "catalog_ids": [
+        "L1455"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "奠基族群的偶然抽樣屬23.3 Genetic Drift，C相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 12,
+    "question_or_alternative": "M期過程12.2",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        244,
+        245,
+        246
+      ],
+      "catalog_ids": [
+        "L0789"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "問MPF控制而非核膜解體本身，12.3 Cell Cycle Control System及G2進M的D相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 13,
+    "question_or_alternative": "熱休克轉錄18",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        78,
+        81,
+        82,
+        83
+      ],
+      "catalog_ids": [
+        "L0268"
+      ],
+      "supplement_ids": [
+        "S05"
+      ]
+    },
+    "resolution": "問蛋白功能，5.4折疊變性提供框架；S05是伴侶促復性的實驗，A相符，不偽稱課本有Hsp專項。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 14,
+    "question_or_alternative": "只列胞吐7.5",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        215,
+        216,
+        139
+      ],
+      "catalog_ids": [
+        "L0698",
+        "L0463"
+      ],
+      "supplement_ids": [
+        "S06"
+      ]
+    },
+    "resolution": "選項核心是傳訊用途，11.1主、胞吐次；S06驗證功能性RNA轉移，B相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 15,
+    "question_or_alternative": "聽覺50.2及Piezo1或2名稱",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1110,
+        1111
+      ],
+      "catalog_ids": [
+        "L3341"
+      ],
+      "supplement_ids": [
+        "S07"
+      ]
+    },
+    "resolution": "50.1一般機械轉導最合題；S07區分共通機制與Piezo2典型觸覺證據，保留題文差異但B與分類明確。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": true
+  },
+  {
+    "q": 16,
+    "question_or_alternative": "營養維生素41",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1011,
+        1012
+      ],
+      "catalog_ids": [
+        "L3036"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "45.3最小條目同時命名PTH、Vitamin D與血鈣控制，C相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 17,
+    "question_or_alternative": "一般鈣第二傳訊者11",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1126,
+        1127,
+        1128,
+        1129
+      ],
+      "catalog_ids": [
+        "L3381"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "Ca直接結合troponin控制肌絲，50.5骨骼肌及A相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 18,
+    "question_or_alternative": "簡單擴散或NCX同向運輸",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 1,
+      "clarification_pages": [
+        8
+      ],
+      "textbook_pages": [
+        137,
+        138
+      ],
+      "catalog_ids": [
+        "L0456",
+        "L0453"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "官方第8頁明列Na梯度降低使排Ca下降；7.4耦合運輸主、離子泵次。NCX為反向交換，非蔗糖同向圖，D維持。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": true
+  },
+  {
+    "q": 19,
+    "question_or_alternative": "一般酸鹼3",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        947,
+        948,
+        949
+      ],
+      "catalog_ids": [
+        "L2853"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "42.7 Respiratory Pigments直接說明Bohr效應，A相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 20,
+    "question_or_alternative": "糖質新生作唯一去向",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        180,
+        181
+      ],
+      "catalog_ids": [
+        "L0595"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "9.5含乳酸發酵及回到丙酮酸；C為可行去向，並未被寫成唯一清除路徑。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 21,
+    "question_or_alternative": "7.3促進性擴散子條目",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        132,
+        133,
+        939
+      ],
+      "catalog_ids": [
+        "L0436",
+        "L2812"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "題文明示不用膜蛋白，該子條目不適合；7.3概念正文是最小實際容納位置，42.5補分壓，C相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": true
+  },
+  {
+    "q": 22,
+    "question_or_alternative": "循環疾病42",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        128,
+        129
+      ],
+      "catalog_ids": [
+        "L0411"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "判別點為cis雙鍵及膜流動性，7.1流動性支持B，保留cis條件。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": true
+  },
+  {
+    "q": 23,
+    "question_or_alternative": "端粒癌症應用",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        328,
+        329,
+        330
+      ],
+      "catalog_ids": [
+        "L1019"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "問末端複製機制，16.2末端複製條目完整；B是錯誤敘述，已核對否定問法。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 24,
+    "question_or_alternative": "只列11.2一般受體",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1002,
+        1003,
+        220
+      ],
+      "catalog_ids": [
+        "L3004",
+        "L0711"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "45.1有激素反應路徑比較，11.2胞內受體為分子次分類，C相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 25,
+    "question_or_alternative": "只列RNA化學5",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        968,
+        954,
+        955
+      ],
+      "catalog_ids": [
+        "L2908",
+        "L2870"
+      ],
+      "supplement_ids": [
+        "S08"
+      ]
+    },
+    "resolution": "用途是免疫接種且限制來自先天辨識；43.3主與43.1次，S08提供修飾改善表現及穩定的實驗，C相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 26,
+    "question_or_alternative": "單基因顯隱性",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        281,
+        282
+      ],
+      "catalog_ids": [
+        "L0895"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "雙基因隱性上位作用，aa即白色且機率1/4；14.3多基因延伸比一般分離律精確，C相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 27,
+    "question_or_alternative": "49.2中央時鐘",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        857,
+        858,
+        373,
+        374
+      ],
+      "catalog_ids": [
+        "L2570",
+        "L1126"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "實看p858有clock基因自身轉錄負回饋與延遲；39.3直接支持，不強加題目沒有的SCN；18.2次，B相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 28,
+    "question_or_alternative": "寄生蟲動物分類33",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1078,
+        1079
+      ],
+      "catalog_ids": [
+        "L3219"
+      ],
+      "supplement_ids": [
+        "S09"
+      ]
+    },
+    "resolution": "D的判別在Cl通道與抑制性電位，48.4為主；S09無脊椎GluCl避免誤套哺乳類glutamate例子。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 29,
+    "question_or_alternative": "把還原水當完整總反應",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        112
+      ],
+      "catalog_ids": [
+        "L0371"
+      ],
+      "supplement_ids": [
+        "S10"
+      ]
+    },
+    "resolution": "6.5過氧化體有H2O2解毒；S10確證2H2O2變2H2O和O2，D相符並保留題文簡化註記。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": true
+  },
+  {
+    "q": 30,
+    "question_or_alternative": "只計乳糖解除抑制",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        368,
+        369,
+        370
+      ],
+      "catalog_ids": [
+        "L1113",
+        "L1110"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "裁圖含共用背景；高量lac需要CRP正調控及解除抑制，18.1正調控主、可誘導操縱子次，D相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 31,
+    "question_or_alternative": "CRP壞了等於全部操縱子關閉",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        368,
+        369,
+        370
+      ],
+      "catalog_ids": [
+        "L1113",
+        "L1110"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "裁圖含共用背景；失去CRP使lac低表現，缺trp使trp解除抑制，C相符，正負調控兩條目均保留。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": true
+  },
+  {
+    "q": 32,
+    "question_or_alternative": "只列一般轉錄因子",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        248,
+        249,
+        373,
+        374
+      ],
+      "catalog_ids": [
+        "L0792",
+        "L1126"
+      ],
+      "supplement_ids": [
+        "S11"
+      ]
+    },
+    "resolution": "問腫瘤縮小的直接生理原因，p249正文血管供養支持12.3；18.2加S11補HIF→VEGF鏈，D相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 33,
+    "question_or_alternative": "高合成代謝或自噬等於凋亡",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        107,
+        108,
+        144
+      ],
+      "catalog_ids": [
+        "L0349",
+        "L0478"
+      ],
+      "supplement_ids": [
+        "S12"
+      ]
+    },
+    "resolution": "p107–108自噬回收支持溶體，8.1分解代謝次；S12驗證AMPK/mTOR方向，抑制自噬致死亡符合D。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 34,
+    "question_or_alternative": "泛列免疫缺陷43.4",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        960,
+        961,
+        962,
+        963,
+        964
+      ],
+      "catalog_ids": [
+        "L2896",
+        "L2889"
+      ],
+      "supplement_ids": [
+        "S13"
+      ]
+    },
+    "resolution": "先天正常但類別轉換及生發中心失敗指T/B協同，43.3 helper T主、43.2發育記憶次，S13支持C。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 35,
+    "question_or_alternative": "PD-1細節誤稱課本直接涵蓋",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        974,
+        975
+      ],
+      "catalog_ids": [
+        "L2930"
+      ],
+      "supplement_ids": [
+        "S15"
+      ]
+    },
+    "resolution": "p974為病毒相關癌症免疫，p975為章摘要，沒有PD-1治療細節；修正首輪理由補S15，43.4 Cancer and Immunity框架與B維持。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": true
+  },
+  {
+    "q": 36,
+    "question_or_alternative": "乳癌12.3",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        217,
+        218,
+        219
+      ],
+      "catalog_ids": [
+        "L0708"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "已給RTK家族且問直接分子反應，11.2膜受體中的二聚及磷酸化比癌症分類精確，A相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 37,
+    "question_or_alternative": "RNA病毒複製19",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        954,
+        955,
+        956
+      ],
+      "catalog_ids": [
+        "L2870"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "問宿主干擾素防禦，43.1脊椎先天免疫及A相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 38,
+    "question_or_alternative": "胃消化41或一律放射性診斷",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        31,
+        32
+      ],
+      "catalog_ids": [
+        "L0110"
+      ],
+      "supplement_ids": [
+        "S14"
+      ]
+    },
+    "resolution": "標記碳的代謝去向為判別機制，2.2同位素主；S14有13C與14C原始試驗，標記不等於放射性，B相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": true
+  },
+  {
+    "q": 39,
+    "question_or_alternative": "所有SNP必為非同義",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        357,
+        358,
+        433,
+        434
+      ],
+      "catalog_ids": [
+        "L1085",
+        "L1274"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "17.5小規模突變支持此題A，結論限於選項；20.4醫學應用保留藥物反應背景，未泛化所有SNP。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": true
+  },
+  {
+    "q": 40,
+    "question_or_alternative": "DNA轉錄抑制或剪接",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        379,
+        380
+      ],
+      "catalog_ids": [
+        "L1136"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "miRNA配3′UTR，蛋白下降大於mRNA，18.3 miRNA/siRNA對mRNA效應最直接，C相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 41,
+    "question_or_alternative": "均勻度或生物量",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1222,
+        1223
+      ],
+      "catalog_ids": [
+        "L3611"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "兩群落均10種，豐富度相同；54.2 Species Diversity涵蓋豐富度與相對豐度，A相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 42,
+    "question_or_alternative": "藻毒素或單純遮光",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1242,
+        1243
+      ],
+      "catalog_ids": [
+        "L3689"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "p1243直接討論優養化後分解耗氧，55.2水域初級生產為實際最小條目，D相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 43,
+    "question_or_alternative": "自造Imprinting目錄或胚胎發育",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1144,
+        1145
+      ],
+      "catalog_ids": [
+        "L3424"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "目錄51.2最小項為Learning，正文含印痕及敏感期，C可正式定位而不用自造節點。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 44,
+    "question_or_alternative": "43.2刪除自體反應淋巴球",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        970,
+        971
+      ],
+      "catalog_ids": [
+        "L2924"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "實看p971 Treg抑制自身抗原反應；43.4真實條目較中樞刪除機制貼題，B相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 45,
+    "question_or_alternative": "10.4或用初級固定否定官方答案",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 1,
+      "clarification_pages": [
+        8,
+        9
+      ],
+      "textbook_pages": [
+        203,
+        204,
+        205,
+        206
+      ],
+      "catalog_ids": [
+        "L0676",
+        "L0679"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "實看目錄為10.5 C4與CAM兩條目；官方第8–9頁維持C。初級固定與整體同化分開說明，章去重但兩條目保留。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": true
+  },
+  {
+    "q": 46,
+    "question_or_alternative": "根壓或活細胞滲透調節",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        792,
+        793,
+        794,
+        795,
+        796
+      ],
+      "catalog_ids": [
+        "L2381"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "蒸散彎液面產生負壓、內聚力拉水柱，36.3木質部整體流直接支持B，負張力解釋為負壓。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": true
+  },
+  {
+    "q": 47,
+    "question_or_alternative": "一般膜泵7.4",
+    "evidence_used": {
+      "question_page": 10,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        847,
+        848,
+        849
+      ],
+      "catalog_ids": [
+        "L2557"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "問生長素促伸長完整路徑，39.2植物激素總覽含酸生長，H+泵為其中一步，D相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 48,
+    "question_or_alternative": "氧化磷酸化",
+    "evidence_used": {
+      "question_page": 10,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        180,
+        181
+      ],
+      "catalog_ids": [
+        "L0595"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "無氧以pyruvate還原為lactate再生NAD+，9.5發酵類型及A相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 49,
+    "question_or_alternative": "只列全球保育56",
+    "evidence_used": {
+      "question_page": 10,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        53,
+        54
+      ],
+      "catalog_ids": [
+        "L0184"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "H+與碳酸根平衡在3.3海洋酸化條目直接敘述，A相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  },
+  {
+    "q": 50,
+    "question_or_alternative": "一般氮循環55",
+    "evidence_used": {
+      "question_page": 10,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        582,
+        583
+      ],
+      "catalog_ids": [
+        "L1741",
+        "L1738"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "異形細胞保護固氮酶的分工，以27.3 Metabolic Cooperation較精確；Nitrogen Metabolism為同章次項，B相符。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "answer_wording_note_retained": false
+  }
+]

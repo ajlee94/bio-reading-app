@@ -1,0 +1,213 @@
+[
+  {
+    "id": "S01",
+    "title": "Martinez et al. Single-stranded antisense siRNAs guide target RNA cleavage in RNAi (2002)",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/12230974/",
+      "https://www.sciencedirect.com/science/article/pii/S009286740200908X"
+    ],
+    "finding": "RISC的單股反義guide及單股siRNA實驗，支持區分輸入雙股/前體與作用鏈。",
+    "source_type": "primary_research",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀搜尋回傳原始論文摘要；PubMed直接開啟未回傳正文，不宣稱出版商全文精讀。"
+  },
+  {
+    "id": "S02",
+    "title": "OpenStax: urine formation and renal blood flow",
+    "urls": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-5-physiology-of-urine-formation",
+      "https://openstax.org/books/pharmacology/pages/33-1-introduction-to-the-renal-system"
+    ],
+    "finding": "腎絲球靜水壓促進濾出，鮑氏囊壓及血漿膠體滲透壓抵抗；其他條件適當時入球擴張提高血流與GFR。",
+    "source_type": "publisher_textbook",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀出版社頁面搜尋回傳的公式與自我調節段落；未宣稱全書閱讀。"
+  },
+  {
+    "id": "S03",
+    "title": "OpenStax Anatomy and Physiology 2e: Disorders of Acid-Base Balance",
+    "urls": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/26-5-disorders-of-acid-base-balance"
+    ],
+    "finding": "呼吸性酸中毒的腎性代償增加HCO3−保留及H+分泌；恢復通氣與典型代償層次分開。",
+    "source_type": "publisher_textbook",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀出版社回傳的完整相關補償段落。"
+  },
+  {
+    "id": "S04",
+    "title": "OpenStax: Organs and Structures of the Respiratory System",
+    "urls": [
+      "https://openstax.org/books/anatomy-and-physiology/pages/22-1-organs-and-structures-of-the-respiratory-system"
+    ],
+    "finding": "第二型肺泡細胞分泌surfactant，第一型形成薄氣體交換面。",
+    "source_type": "publisher_textbook",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀出版社搜尋回傳的肺泡細胞段落。"
+  },
+  {
+    "id": "S05",
+    "title": "ATSDR Toxicological Profile for Nitrate and Nitrite (2017)",
+    "urls": [
+      "https://www.atsdr.cdc.gov/toxprofiles/tp204.pdf",
+      "https://stacks.cdc.gov/view/cdc/47649/cdc_47649_DS1.pdf"
+    ],
+    "finding": "亞硝酸鹽氧化Hb鐵形成MetHb，影響正常攜氧。",
+    "source_type": "official_report",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀搜尋回傳的官方毒理報告機制段落，未宣稱全份報告精讀。"
+  },
+  {
+    "id": "S06",
+    "title": "Hascall and Esko: Hyaluronan, Essentials of Glycobiology 2e",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK1953/"
+    ],
+    "finding": "玻尿酸由GlcA與GlcNAc交替組成重複雙糖，補足Campbell未具名的異質多醣例。",
+    "source_type": "authored_textbook",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已開啟並閱讀Hyaluronan章節組成段落。"
+  },
+  {
+    "id": "S07",
+    "title": "Sun, Beilke and Lanier: Adaptive immune features of natural killer cells (2009)",
+    "urls": [
+      "https://www.nature.com/articles/nature07665"
+    ],
+    "finding": "小鼠CMV特定Ly49H+ NK細胞有長期存留及再次挑戰保護反應，反駁NK絕無特異性記憶的普遍斷言。",
+    "source_type": "primary_research",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀原始論文摘要及頁面內容；結論限定實驗物種與細胞群。"
+  },
+  {
+    "id": "S08",
+    "title": "Salmonella acid tolerance and macrophage survival: Lee et al. (1994), Buchmeier and Heffron (1991)",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/8113183/",
+      "https://pubmed.ncbi.nlm.nih.gov/2050395/",
+      "https://pubmed.ncbi.nlm.nih.gov/10406797/"
+    ],
+    "finding": "耐酸反應及干擾巨噬細胞內運輸的原始實驗；抵抗清除不等於不被吞噬，也不泛化所有條件完全無胞器融合。",
+    "source_type": "primary_research",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀PubMed搜尋回傳摘要，未宣稱三篇完整全文閱讀。"
+  },
+  {
+    "id": "S09",
+    "title": "Alwine, Kemp and Stark: RNA detection by transfer and hybridization (1977)",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/414220/"
+    ],
+    "finding": "分離RNA、轉膜及探針雜交是Northern的原始方法依據，與直接PCR測DNA分開。",
+    "source_type": "primary_research",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀PubMed搜尋回傳原始研究摘要。"
+  },
+  {
+    "id": "S10",
+    "title": "Hengartner and Horvitz: C. elegans ced-9 is a functional homolog of mammalian bcl-2 (1994)",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/7907274/",
+      "https://www.nature.com/articles/335440a0"
+    ],
+    "finding": "Ced-9/Bcl-2同源及Bcl-2促細胞存活實驗支持凋亡調節家族；不把TNF受體說成完全不參與。",
+    "source_type": "primary_research",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀原始論文摘要；未宣稱完整家族所有成員功能由此證明。"
+  },
+  {
+    "id": "S11",
+    "title": "Fields and Song: yeast two-hybrid (1989); HuR and p37AUF1 FRET study (2007)",
+    "urls": [
+      "https://www.nature.com/articles/340245a0",
+      "https://pubmed.ncbi.nlm.nih.gov/17626845/"
+    ],
+    "finding": "酵母雙雜交、共免疫沉澱相關方法與活/固定細胞FRET研究提供互作或近距離證據，與NGS核酸定序的直接測量對象不同。",
+    "source_type": "primary_research",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀Fields摘要及FRET研究搜尋回傳摘要；不把Campbell遺傳互作雙突變圖當直接物理結合試驗。"
+  },
+  {
+    "id": "S12",
+    "title": "Discrete regulation of beta-catenin-mediated transcription governs identity of intestinal epithelial stem cells (2021)",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/33649334/",
+      "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE148943"
+    ],
+    "finding": "小鼠腸上皮幹細胞beta-catenin轉錄及相關cofactor實驗支援Wnt路徑框架，補足本地課本未查得的具名內容。",
+    "source_type": "primary_research_and_deposited_data",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀原始摘要及研究者提交的GEO資料描述；不宣稱全部全文或原始資料重分析。"
+  },
+  {
+    "id": "S13",
+    "title": "CDC Cold Versus Flu; rhinovirus STING and replication organelles (2022)",
+    "urls": [
+      "https://www.cdc.gov/flu/about/coldflu.html",
+      "https://www.nature.com/articles/s41467-022-28745-3"
+    ],
+    "finding": "感冒不等同流感；鼻病毒利用細胞質膜相關複製胞器，不能把所有感冒病毒都視為必需核內複製。",
+    "source_type": "official_reference_and_primary_research",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀CDC相關段落及鼻病毒原始論文摘要/頁面搜尋回傳，不宣稱全篇精讀。"
+  },
+  {
+    "id": "S14",
+    "title": "UniProt official protein search documentation and developer publication (2025)",
+    "urls": [
+      "https://www.uniprot.org/help/find_your_protein",
+      "https://academic.oup.com/nar/article/53/W1/W547/8126256"
+    ],
+    "finding": "UniProt的核心為蛋白序列與功能資訊；本題不使用會變動的資料庫即時筆數。",
+    "source_type": "official_documentation_and_developer_paper",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀官方文件與開發者論文搜尋回傳內容；直接頁面回傳不完整，不宣稱全文已取得。"
+  },
+  {
+    "id": "S15",
+    "title": "Nurse Nobel lecture; p16 in senescent human fibroblasts (1996); cyclin D1 breast cancer study (2017)",
+    "urls": [
+      "https://www.nobelprize.org/uploads/2018/06/nurse-lecture.pdf",
+      "https://pubmed.ncbi.nlm.nih.gov/8943005/",
+      "https://pubmed.ncbi.nlm.nih.gov/29140993/"
+    ],
+    "finding": "Cdc2/CDK與cyclin形成調控複合體；p16及cyclinD1選項以具體細胞衰老和乳癌研究補足，不泛化所有老化細胞或所有癌症。",
+    "source_type": "researcher_lecture_and_primary_research",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀研究者講座搜尋回傳段落及兩篇原始摘要。"
+  },
+  {
+    "id": "S16",
+    "title": "Daghlas and Rahimi: Biochemistry, Glycogen",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK539802/"
+    ],
+    "finding": "肝醣多個非還原端促快速動員；肌肉缺乏G6Pase，肝醣主要供自身使用。",
+    "source_type": "authored_textbook",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已開啟並閱讀2026-03-21更新章節的組成、功能與分解段落；未以更新日期反推113命題當時的版本。"
+  },
+  {
+    "id": "S17",
+    "title": "NIDDK LiverTox: Bile Acids",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK548626/?report=classic"
+    ],
+    "finding": "膽酸由肝臟膽固醇合成，補足Campbell膽鹽消化功能框架。",
+    "source_type": "official_reference",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀官方章節搜尋回傳的Introduction段落。"
+  },
+  {
+    "id": "S18",
+    "title": "OpenStax Biology 2e: Antibodies and Disruptions in the Immune System",
+    "urls": [
+      "https://openstax.org/books/biology-2e/pages/42-3-antibodies",
+      "https://openstax.org/books/biology-2e/pages/42-4-disruptions-in-the-immune-system"
+    ],
+    "finding": "IgE參與過敏與抗寄生蠕蟲反應；不等於所有寄生蟲感染都必有IgE升高。",
+    "source_type": "publisher_textbook",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀出版社搜尋回傳的IgE抗體表格及過敏段落，補足本地Campbell分類框架。"
+  }
+]

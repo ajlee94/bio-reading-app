@@ -1,0 +1,69 @@
+{
+  "question": {
+    "path": "9b1c7cec62799798fb849201.pdf",
+    "sha256": "06a29557a77dd365b0e0d277e93a2a44d218fb5a684f9ba1f1578eb88ccb986b",
+    "pdf_pages": 9
+  },
+  "answer": {
+    "path": "742a7fa56d29e85a16fe18e4.pdf",
+    "sha256": "81466187e001129d8b8936a34cff680b5893b8fc1da2ba9a7a94f41ed720e2e0",
+    "pdf_pages": 4,
+    "canonical_archive_path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/schools/CMU/files/答案_釋疑/CMU_112_biology_answer.pdf",
+    "biology_pdf_pages": [
+      4
+    ],
+    "scope_note": "原檔4頁含其他考科；本年度生物答案只使用PDF4，原檔不改。"
+  },
+  "clarification": {
+    "path": "914e9b4f9099b61b7c38ed7e.pdf",
+    "sha256": "082734f21f6b292203de92109b7e5a16c637724a9cb9026652f6301a3ecdd046",
+    "pdf_pages": 6,
+    "canonical_archive_path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/schools/CMU/files/答案_釋疑/CMU_112_biology_clarification.pdf",
+    "biology_pdf_pages": [
+      5,
+      6
+    ],
+    "scope_note": "原檔6頁含其他考科；生物只使用PDF5下半部至PDF6，PDF5上半部仍為英文釋疑，原檔不改。"
+  },
+  "textbook": {
+    "path": "Campbell Biology 12e.pdf（教材參考，全文未公開）",
+    "sha256": "de7c28b93a1c853c0c58d53cd658848d08cf033cde7c2071c062bfdd25b5dc73",
+    "pdf_pages": 1493
+  },
+  "toc": {
+    "path": "Campbell toc.txt（教材參考，全文未公開）",
+    "sha256": "472c94c03d3e7f107284b4e59ba744b406faee99580f5d940e0c2dab3d0c3dc7"
+  },
+  "edition_verified": {
+    "edition": "Campbell Biology 12e",
+    "printed_to_body_pdf_offset": 49,
+    "toc_pdf_pages": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "method": "本地TOC及PDF目錄文字對照，正文頁尾印刷碼與PDF索引相差49；非沿用官方釋疑的不同版本頁碼。"
+  },
+  "source_differences": {
+    "Q03": "原題NEE名稱與正負號未交代；官方C按淨碳累積求150，與標準向外正的NEE符號分開。",
+    "Q06": "官方72為淨水消耗；實際光解水144，不抹除措辭差異。",
+    "Q25": "官方D原文稱包含後代有種子植物；不合paraphyletic排除部分後代的定義，照存。",
+    "Q28": "原題1960年280ppm與教材圖年代不同，280約為工業化前。",
+    "Q43": "官方C照存；沒有直接證據證明指定山椒魚及櫻花鉤吻鮭皆無印痕，科學命題標未確認，學習行為分類已解決。",
+    "local_toc_L1152": "本地文字目錄Cell Differentiation，PDF39目錄真實標題Cellular Differentiation；原檔保留，正式條目採PDF文字。",
+    "official_textbook_citations": "釋疑本身引用的教材版本頁碼原樣保留；本輪分類另用本地12e實際目錄及正文。"
+  }
+}

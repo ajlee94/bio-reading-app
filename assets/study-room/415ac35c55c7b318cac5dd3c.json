@@ -1,0 +1,1153 @@
+[
+  {
+    "review_id": "TCU-111-R2-Q01",
+    "q": 1,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 2,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L1085",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      357,
+      358,
+      359
+    ],
+    "alternative_checked": "一般基因變異或染色體缺失，是否足夠精確？",
+    "finding": "重看4、17、7、18及stop codon完整題文；核心是非3倍數造成移框，定位17.5小尺度突變。18保持框而非保證功能，Q1右緣修復後問號完整。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q02",
+    "q": 2,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 2,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L0724",
+    "secondary_confirmed": [
+      "L0734"
+    ],
+    "textbook_pages_checked": [
+      223,
+      224,
+      225,
+      226,
+      227
+    ],
+    "alternative_checked": "是否只歸訊號放大而忽略第二訊使種類？",
+    "finding": "重新比較四級選項及223–227頁，主小分子訊使、次放大調控；Ca²⁺下游級數不另改名，L0724按PDF補回and Ions。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q03",
+    "q": 3,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 2,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L2557",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      852,
+      853,
+      854
+    ],
+    "alternative_checked": "是否歸一般脫落或把年代自動修正？",
+    "finding": "乙烯段同時支援煤氣與落葉，最小目錄是激素綜覽而非正文Ethylene小標；十八世紀與1800年代差異分存。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q04",
+    "q": 4,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 2,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L2093",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      690,
+      691
+    ],
+    "alternative_checked": "是否須再下分海綿組織子目？",
+    "finding": "重新比對四選項與33.1，實際目錄沒有子目，概念本身已最小；有細胞分工與無真正組織可以並存。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q05",
+    "q": 5,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 2,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L0789",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      244,
+      245,
+      246,
+      247
+    ],
+    "alternative_checked": "週期素依賴激酶與週期素是否混淆？",
+    "finding": "逐項比較合成降解的是cyclin；控制系統最小項已足，不另列肌動蛋白或細胞質分裂。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q06",
+    "q": 6,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 2,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L0365",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      109,
+      110
+    ],
+    "alternative_checked": "雙層膜與脂質雙層是否混同？",
+    "finding": "對照內外膜圖與四胞器，粒線體項可直接決定B，不需為無關內膜系統另加章。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q07",
+    "q": 7,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 2,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L3231",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      1077,
+      1078,
+      1080,
+      1081,
+      1082
+    ],
+    "alternative_checked": "小泡合成、胞體合成及末梢合成是否區分？",
+    "finding": "以神經傳遞物質類型及突觸圖回查，A涵蓋不同合成處；小泡是儲釋位置，未把所有類型簡化為同一小胞器。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q08",
+    "q": 8,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 2,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L2957",
+    "secondary_confirmed": [
+      "L2960"
+    ],
+    "textbook_pages_checked": [
+      982,
+      983
+    ],
+    "alternative_checked": "是否以排泄能耗低取代節水？",
+    "finding": "回查尿酸低溶解及高能耗，C明確；環境次項補充有殼卵與水分取捨，原圖A–D完整。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q09",
+    "q": 9,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 2,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L3144",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      1049,
+      1050,
+      1051,
+      1052
+    ],
+    "alternative_checked": "胚孔與囊胚腔是否混淆？",
+    "finding": "重看blastopore與各階段，原腸形成最小項直接支援B；不把神經胚、體腔當同義。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q10",
+    "q": 10,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 2,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L0371",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      112,
+      830,
+      831
+    ],
+    "alternative_checked": "葉綠體最無關是否誤寫成所有質體不參與？",
+    "finding": "教材glyoxysome正文配合儲油萌發與油菜研究，只支援選項比較與相關胞器；保留物種與全文取得限制。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q11",
+    "q": 11,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 2,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L0673",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      202,
+      203
+    ],
+    "alternative_checked": "是否把3-PGA受抑解釋為完全不生成？",
+    "finding": "氧化與羧化路徑分開核對；C採計保留但氧化仍產生一個3-PGA，主光呼吸而非僅Calvin概述。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q12",
+    "q": 12,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 3,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L1000",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      317,
+      318,
+      319
+    ],
+    "alternative_checked": "A=T、G=C是否錯套A=G？",
+    "finding": "四選項重新驗算A+G=T+C；以DNA結構模型最小項，明列雙股限定，不另加核酸化學章。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q13",
+    "q": 13,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 3,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L1022",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      330,
+      331,
+      332
+    ],
+    "alternative_checked": "是否用表達調節取代染色質結構？",
+    "finding": "A是包裝緊密度比較，16.3無子目可用；甲基化與轉錄是反例背景，不把18章加成主要。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q14",
+    "q": 14,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 3,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L1189",
+    "secondary_confirmed": [
+      "L1218"
+    ],
+    "textbook_pages_checked": [
+      399,
+      400,
+      408,
+      412,
+      1234
+    ],
+    "alternative_checked": "類病毒是否有本版獨立目錄項？",
+    "finding": "原目錄無此項，主病毒結構、次植物病，ICTV補capsid及RNA內容；沒有杜撰小目或把病原概稱當病毒病原全同。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q15",
+    "q": 15,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 3,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L0582",
+    "secondary_confirmed": [
+      "L0585"
+    ],
+    "textbook_pages_checked": [
+      174,
+      175,
+      176
+    ],
+    "alternative_checked": "氧在電子末端接收與ATP生成是否直接等同？",
+    "finding": "C與D分別對應電子傳遞及化學滲透，最小主次目照存；氧的直接受電子角色決定C。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q16",
+    "q": 16,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 3,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L2514",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      834,
+      835
+    ],
+    "alternative_checked": "自交不親合是否直到精卵融合才排斥？",
+    "finding": "重看柱頭／花柱選項C及834頁，屬防止自體受精的機制，沒有把花藥或自家花粉排斥時機混合。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q17",
+    "q": 17,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 3,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L0776",
+    "secondary_confirmed": [
+      "L0773"
+    ],
+    "textbook_pages_checked": [
+      238,
+      239,
+      240,
+      241,
+      242
+    ],
+    "alternative_checked": "有絲分裂與減數分裂、微絲與微管是否混用？",
+    "finding": "C為細胞板與分裂溝，次紡錘體專處理其他選項，維持同章兩最小目而章級不重計。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q18",
+    "q": 18,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 3,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L0662",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      199,
+      200,
+      201
+    ],
+    "alternative_checked": "膜破孔是否等於葉綠素不能激發？",
+    "finding": "區隔受損最直接破壞質子動力及ATP合成；化學滲透比較正確，不以光吸收小目泛代。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q19",
+    "q": 19,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 3,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L2557",
+    "secondary_confirmed": [
+      "L2397"
+    ],
+    "textbook_pages_checked": [
+      797,
+      798,
+      852
+    ],
+    "alternative_checked": "ABA與乙烯名稱或慢性落葉是否混淆？",
+    "finding": "題文強調快速降低散水，852與798頁共同確認B；激素綜覽主、氣孔刺激次。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q20",
+    "q": 20,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 4,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L2466",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      817,
+      818
+    ],
+    "alternative_checked": "是否將菌根與根瘤菌都視為真菌？",
+    "finding": "回看fungicide與rhizobium，菌根礦物供應直接對應A；保留根表面簡化，不另分類到固氮。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q21",
+    "q": 21,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 4,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L0984",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      311,
+      312
+    ],
+    "alternative_checked": "母系胞器與性聯遺傳是否混淆？",
+    "finding": "斑葉與卵細胞質來源為主軸，15.5胞器遺傳直接支持B，不用X聯章目。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q22",
+    "q": 22,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 4,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L0394",
+    "secondary_confirmed": [
+      "L1969"
+    ],
+    "textbook_pages_checked": [
+      119,
+      120,
+      655,
+      656
+    ],
+    "alternative_checked": "隔膜孔是否與兩種連接完全相同？",
+    "finding": "D只是連通功能最相似；真菌Body Structure次目保存孔與菌絲情境，不宣稱結構同源。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q23",
+    "q": 23,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 4,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L2362",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      788,
+      789
+    ],
+    "alternative_checked": "質子泵是否產生ATP而非消耗ATP？",
+    "finding": "根部H+ATPase消耗ATP建電化學梯度，B礦物吸收成立；使用植物溶質運輸專目而非泛膜章。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q24",
+    "q": 24,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 4,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L2413",
+    "secondary_confirmed": [
+      "L2410"
+    ],
+    "textbook_pages_checked": [
+      799,
+      800,
+      801
+    ],
+    "alternative_checked": "正壓大量流是否與木質部負壓混淆？",
+    "finding": "原圖A B D C順序再次核對，主正壓運輸、次糖源糖庫；明確保留原選項次序與B。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q25",
+    "q": 25,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 4,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L1870",
+    "secondary_confirmed": [
+      "L1890",
+      "L1919",
+      "L1939"
+    ],
+    "textbook_pages_checked": [
+      621,
+      622,
+      623,
+      629,
+      630,
+      639,
+      643,
+      644
+    ],
+    "alternative_checked": "四種衍徵是否只留章級順序？",
+    "finding": "逐一對起源分化、維管束、種子、花的實際最小目；兩章可多條目，主次理由逐項对應。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q26",
+    "q": 26,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 4,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L2381",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      792,
+      793,
+      794,
+      795
+    ],
+    "alternative_checked": "水柱附著力能否當最初拉力來源？",
+    "finding": "葉內界面負壓是D，內聚／附著傳遞支持水柱；木質部大量流最小項足以處理所有選項。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q27",
+    "q": 27,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 4,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L1589",
+    "secondary_confirmed": [
+      "L3649"
+    ],
+    "textbook_pages_checked": [
+      542,
+      543,
+      1232,
+      1233
+    ],
+    "alternative_checked": "適應輻射與島嶼平衡是同一機制嗎？",
+    "finding": "A由隔離及生態位分化支持，D由動態平衡反證；25與54章分主次，未把物種數與特有種混同。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q28",
+    "q": 28,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 4,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L2547",
+    "secondary_confirmed": [
+      "L2498"
+    ],
+    "textbook_pages_checked": [
+      830,
+      831,
+      843,
+      844,
+      845
+    ],
+    "alternative_checked": "黃化是否可直接以病毒病或根生長分類？",
+    "finding": "暗中莖優先延長及去黃化反應支持B，種子萌發作次目；正文黃化小標不是獨立目錄。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q29",
+    "q": 29,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 5,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L0362",
+    "secondary_confirmed": [
+      "L1794"
+    ],
+    "textbook_pages_checked": [
+      109,
+      110,
+      533,
+      534,
+      594,
+      595
+    ],
+    "alternative_checked": "先好氧內共生是否意味所有真核都取得葉綠體？",
+    "finding": "109與595頁確認粒線體先於質體的譜系順序，限定光合真核來源，保留兩章最小定位。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q30",
+    "q": 30,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 5,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L3598",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      1215,
+      1216
+    ],
+    "alternative_checked": "資源分配是否應選競爭排除？",
+    "finding": "同域共存的生態位差異才是B，1215頁Competition下正文已有resource partitioning，無需自創目錄子目。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q31",
+    "q": 31,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 5,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L1412",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      479,
+      480,
+      481,
+      1172,
+      1173,
+      1174
+    ],
+    "alternative_checked": "相似適應是否一定來自最近共同祖先？",
+    "finding": "481頁趨同對比與灌叢情境吻合A；Homology為真實最小目，正文convergence不冒列獨立目。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q32",
+    "q": 32,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 5,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L3598",
+    "secondary_confirmed": [
+      "L2024"
+    ],
+    "textbook_pages_checked": [
+      670,
+      1215,
+      1216
+    ],
+    "alternative_checked": "抗生素是否為捕食細菌？",
+    "finding": "資源競爭是所問演化優勢，54.1主；31.5青黴素事例為次，沒有由藥用名稱改歸人體醫療。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q33",
+    "q": 33,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 5,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L2573",
+    "secondary_confirmed": [
+      "L2570"
+    ],
+    "textbook_pages_checked": [
+      857,
+      858,
+      859
+    ],
+    "alternative_checked": "時鐘是否恰好24h、完全不受溫度影響？",
+    "finding": "自由運行與光校準分開，主Effect of Light、次Biological Clocks；C可支持而不強化A的絕對程度。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q34",
+    "q": 34,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 5,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L3689",
+    "secondary_confirmed": [
+      "L3686",
+      "L3692"
+    ],
+    "textbook_pages_checked": [
+      1241,
+      1242,
+      1243,
+      1244,
+      1245
+    ],
+    "alternative_checked": "GPP／NPP與陸水限制是否混淆？",
+    "finding": "C光與營養直接成立；三個55.2最小項分開保存，GPP固定量與入射量、NPP與NEP區別明列。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q35",
+    "q": 35,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 5,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L3364",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      1119,
+      1120,
+      1121,
+      1122,
+      1123
+    ],
+    "alternative_checked": "桿錐感光是否產生去極化？",
+    "finding": "讀回感光訊號圖，光引起超極化和少釋放決定D；三類錐與桿低光敏感作反例，同一視覺最小目已足。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q36",
+    "q": 36,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 6,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      4
+    ],
+    "primary_confirmed": "L0945",
+    "secondary_confirmed": [
+      "L0948"
+    ],
+    "textbook_pages_checked": [
+      299,
+      300
+    ],
+    "alternative_checked": "是否用科學疑慮改官方答案或隱藏問題？",
+    "finding": "同年答案與釋疑都維持D；299頁X聯DMD、300頁X失活與女性帶因表現補充解決分類，原題10歲及官方解釋限制照存。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q37",
+    "q": 37,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 6,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L2987",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      994,
+      995,
+      996
+    ],
+    "alternative_checked": "renin、angiotensinII、ADH的刺激及效果是否顛倒？",
+    "finding": "JGA因壓低釋放renin是B；其餘選項下降方向不符RAAS／滲透壓機制，腎臟恆定最小目涵蓋。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q38",
+    "q": 38,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 6,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L2170",
+    "secondary_confirmed": [
+      "L2183",
+      "L2192",
+      "L2199",
+      "L2212"
+    ],
+    "textbook_pages_checked": [
+      719,
+      720,
+      722,
+      723,
+      725,
+      729,
+      730,
+      734,
+      735
+    ],
+    "alternative_checked": "跨五個衍徵是否只寫一般演化樹？",
+    "finding": "原卷v→ii→i→iii→iv與719圖及各小目一致；主首特徵、四同章次項，未因統計去重刪次目。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q39",
+    "q": 39,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 6,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L1251",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      423,
+      424,
+      425,
+      426
+    ],
+    "alternative_checked": "RNA表達是否足以宣稱蛋白質表達量？",
+    "finding": "NHGRI實讀確認Western抗體辨認蛋白及相對豐度；本地目錄只Analyzing Gene Expression，兩來源責任分清。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q40",
+    "q": 40,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 6,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L1010",
+    "secondary_confirmed": [
+      "L1013"
+    ],
+    "textbook_pages_checked": [
+      322,
+      323,
+      324,
+      325,
+      326,
+      327
+    ],
+    "alternative_checked": "DNA polI與III合成及校對角色是否顛倒？",
+    "finding": "聚合酶III延伸加校對支持B；複製詳論與校對修復同章主次照存，不把RNA引子叫DNA。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q41",
+    "q": 41,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 6,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L1817",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      594,
+      595,
+      601,
+      602,
+      604,
+      605,
+      606
+    ],
+    "alternative_checked": "同屬SAR是否使矽藻與瘧原蟲同樣近？",
+    "finding": "Noctiluca與Plasmodium同Alveolata，較SAR內Stramenopiles近；NCBI與原研究題名支持渦鞭毛身份，不依發光或藻名猜測。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q42",
+    "q": 42,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 6,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L2557",
+    "secondary_confirmed": [
+      "L0676",
+      "L0679",
+      "L2570"
+    ],
+    "textbook_pages_checked": [
+      203,
+      204,
+      205,
+      847,
+      848,
+      849,
+      857,
+      858
+    ],
+    "alternative_checked": "向光性的不對稱生長能否證明全株夜間必快？",
+    "finding": "不能；D官方採計與不足推論分存。C4/CAM及時鐘次項均保留，特定第5葉研究僅作普遍化反例而非屏東田間證明。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q43",
+    "q": 43,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 7,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L2557",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      852,
+      853,
+      854
+    ],
+    "alternative_checked": "mechanical stress是否必須歸Mechanical Stimuli？",
+    "finding": "三重反應是乙烯專例，852–854頁最小目仍是激素綜覽；非一般觸形態變化小目，A維持。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q44",
+    "q": 44,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 7,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      4
+    ],
+    "primary_confirmed": "L1251",
+    "secondary_confirmed": [
+      "L1241"
+    ],
+    "textbook_pages_checked": [
+      420,
+      421,
+      423,
+      424
+    ],
+    "alternative_checked": "反轉錄酶本身也是DNA聚合酶是否造成歧義？",
+    "finding": "保留模板依賴能力的用語限制；同年C維持，RT-PCR主、PCR次，負批次不能跳過程序控制而說全為真陰性。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q45",
+    "q": 45,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 7,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L0914",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      285,
+      286,
+      287,
+      288
+    ],
+    "alternative_checked": "鐮狀細胞病的共顯性會改變顯性疾病選項嗎？",
+    "finding": "臨床與分子層級分開；287頁亨丁頓是直接顯性病例，其他臨床典型隱性表型未因此改答案。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q46",
+    "q": 46,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 7,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L2218",
+    "secondary_confirmed": [
+      "L2228"
+    ],
+    "textbook_pages_checked": [
+      735,
+      736,
+      737,
+      738,
+      741
+    ],
+    "alternative_checked": "兩孔是否都叫infratemporal、龜失孔是否排除？",
+    "finding": "736頁確認蜥蜴雙孔與龜支系，741頁合弓類排除鼠；原英文命名不精確照存，不將兩孔當同一位置。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q47",
+    "q": 47,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 7,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      4
+    ],
+    "primary_confirmed": "L1059",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      345,
+      346
+    ],
+    "alternative_checked": "保護mRNA降解是否足夠使內切酶選項也正確？",
+    "finding": "345頁概述與官方引用作者文第5頁外切方向比對，D核輸出成立；不把5′帽保護外切擴充為阻止所有內切。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q48",
+    "q": 48,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 7,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L1072",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      350,
+      351,
+      352
+    ],
+    "alternative_checked": "SD／Kozak是否可能是轉錄啟動子？",
+    "finding": "重看兩專名與Brown起始段，均協助轉譯起始，C；本地Building a Polypeptide最小項配補充，不捏造專名子項。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q49",
+    "q": 49,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 7,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L1013",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      327,
+      328
+    ],
+    "alternative_checked": "所有切除修復是否都需glycosylase？",
+    "finding": "327頁切除填補封口支持ligase；糖基酶只特定起始路徑，與共同末端封口不同。原圖50分界完整。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "TCU-111-R2-Q50",
+    "q": 50,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪實看全部題本原頁1–7；第二輪重新開啟50題全寬完整裁圖與A–D、同年答案釋疑、教材聚焦段及備選分類。另檔保存，不是第二位外部審查者；Q1右緣問號裁切修復後，全部50題重新視讀。",
+    "original_image_page": 7,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [],
+    "primary_confirmed": "L1013",
+    "secondary_confirmed": [
+      "L1010"
+    ],
+    "textbook_pages_checked": [
+      323,
+      324,
+      325,
+      327,
+      328
+    ],
+    "alternative_checked": "5′→3′核酸外切是否和3′→5′校對混同？",
+    "finding": "重新讀方向箭頭，C原答案與Cooper外切功能區分吻合；校對主、引子移除次，沒有聲稱合成5′→3′方向沒有貢獻。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  }
+]

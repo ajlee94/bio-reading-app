@@ -1,0 +1,385 @@
+[
+  {
+    "id": "S03",
+    "title": "Clinical Methods: Aminotransferases (1990)",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK425/"
+    ],
+    "finding": "AST催化Asp/OAA與Glu/α-ketoglutarate間胺基轉移，支援Q3碳骨架。",
+    "read_scope": "讀Definition酵素及胺基供受體段；HTML與文字下載存檔。未涉及臨床建議。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU110官方採計",
+    "captures": [
+      {
+        "id": "S03",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK425/",
+        "checked_at": "2026-09-10T15:16:00.694695+08:00",
+        "final_url": "https://www.ncbi.nlm.nih.gov/books/NBK425/",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "status": "FETCHED_HTML",
+        "path": "審查紀錄/annual_review/TCU-110/downloads/S03.html",
+        "sha256": "caa730a560f65c74f0d754a21ac28b42981b0f19dd5c1a8fba380a1de108c5c7",
+        "bytes": 52158
+      }
+    ],
+    "authored_evidence_record_sha256": "89e4e74e76948e41aef4c1681115118eb95b39d60c215d7aa903f9abbe880bbb"
+  },
+  {
+    "id": "S11",
+    "title": "Cooper: The Cell — RNA Processing and Turnover",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK9864/"
+    ],
+    "finding": "pre-tRNA加工包含3′-CCA、鹼基修飾；專用蛋白內切與連接機制不同於pre-mRNA spliceosome。",
+    "read_scope": "讀Processing of Ribosomal and Transfer RNAs及pre-tRNA splicing段，未聲稱整章通讀。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU110官方採計",
+    "captures": [
+      {
+        "id": "S11",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK9864/",
+        "checked_at": "2026-09-10T15:16:00.694695+08:00",
+        "final_url": "https://www.ncbi.nlm.nih.gov/books/NBK9864/",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "status": "FETCHED_HTML",
+        "path": "審查紀錄/annual_review/TCU-110/downloads/S11.html",
+        "sha256": "f0f0eb20657bf681acd7b7cce736955ae22c15fae6c7818dedb5fad97f5de4c6",
+        "bytes": 83862
+      }
+    ],
+    "authored_evidence_record_sha256": "cad390ae06ca230f500cd64cf8b09a5d173840f25ba101c842c271131657b7db"
+  },
+  {
+    "id": "S17",
+    "title": "Mu and Kappa Opioid Receptor Expression ... During Lactation (2010)",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC2824054/"
+    ],
+    "finding": "吸吮降低TIDA多巴胺抑制輸出，支持PIH減少與泌乳素上升；是哺乳鼠生理研究。",
+    "read_scope": "讀Introduction中dopamine控制與吸吮段；另一候選PubMed10773747抓取為機器驗證頁，未當全文。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU110官方採計",
+    "captures": [
+      {
+        "id": "S17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10773747/",
+        "checked_at": "2026-09-10T15:16:00.696202+08:00",
+        "final_url": "https://pubmed.ncbi.nlm.nih.gov/10773747/",
+        "http_status": 203,
+        "content_type": "text/html; charset=utf-8",
+        "status": "FETCHED_HTML",
+        "path": "審查紀錄/annual_review/TCU-110/downloads/S17.html",
+        "sha256": "f7466663d5ee6739d1c9d5baa5fe16e9320f5231c640ac7d8a190fc9e956a560",
+        "bytes": 5565
+      },
+      {
+        "id": "S17-paper",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2824054/",
+        "checked_at": "2026-09-10T15:25:30.415357+08:00",
+        "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2824054/",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "status": "FETCHED_HTML",
+        "path": "審查紀錄/annual_review/TCU-110/downloads/S17-paper.html",
+        "sha256": "6b713ae33c47952e52b02d74df6941ff87cfd931686bed61b900b807e8a5b2b0",
+        "bytes": 191617
+      }
+    ],
+    "authored_evidence_record_sha256": "b45e9495ec54fe25acd654a0fa49caa725259babd6dd49a1e42b9643b51e85ab"
+  },
+  {
+    "id": "S18",
+    "title": "Sympathetic Neuro-adipose Connections Mediate Leptin-Driven Lipolysis (Cell 2015)",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7617198/",
+      "https://www.sciencedirect.com/science/article/pii/S0092867415011071"
+    ],
+    "finding": "小鼠交感脂肪連結的成像、刺激及消融支持leptin脂解效應支路。",
+    "read_scope": "讀Summary、Introduction起段、結論及Mice範圍，不宣稱人類試驗。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU110官方採計",
+    "captures": [
+      {
+        "id": "S18",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7617198/",
+        "checked_at": "2026-09-10T15:16:00.696202+08:00",
+        "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7617198/",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "status": "FETCHED_HTML",
+        "path": "審查紀錄/annual_review/TCU-110/downloads/S18.html",
+        "sha256": "f94ef46e481d72bf63b4ced6495c5dea1f68d83dfb99e4d5fae5a50a7fdfae68",
+        "bytes": 204726
+      }
+    ],
+    "authored_evidence_record_sha256": "770b7e4bbb9c0ddb785ef35dfbc8cf7e4adfd2114434141bb726277bbaad5114"
+  },
+  {
+    "id": "S27",
+    "title": "Auxin and Root Gravitropism: Addressing Basic Cellular Processes ... (2021)",
+    "urls": [
+      "https://www.mdpi.com/1422-0067/22/5/2749",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7963156/"
+    ],
+    "finding": "官方引用綜述支持PIN2不對稱；下側暫增可能源自內吞周轉降低，不是快速合成的直接證明。",
+    "read_scope": "讀Figure1圖說、PIN2與auxin運輸相關段；圖說文字已讀，未宣稱另看論文圖像。MDPI原站抓取失敗，PMC全文HTML成功。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU110官方採計",
+    "captures": [
+      {
+        "id": "S27",
+        "url": "https://www.mdpi.com/1422-0067/22/5/2749",
+        "checked_at": "2026-09-10T15:06:19.437268+08:00",
+        "status": "FETCH_FAILED",
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "id": "S27-pmc",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7963156/",
+        "checked_at": "2026-09-10T15:07:07.062120+08:00",
+        "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7963156/",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "status": "FETCHED_HTML",
+        "path": "審查紀錄/annual_review/TCU-110/downloads/S27-pmc.html",
+        "sha256": "a563c8bd74e9538783886212488403e007764bcfa090c4ac33ac52012457e866",
+        "bytes": 362516
+      }
+    ],
+    "authored_evidence_record_sha256": "98291206b5bb7e5b72a70d332601f457b2640b36a9f9be802471da19f64c34b6"
+  },
+  {
+    "id": "S28",
+    "title": "Cardenas et al. Rhizobium nod factors induce increases ... calcium ... bean root hairs (1999)",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/10476081/",
+      "https://www.bio.umass.edu/biology/kunkel/pub/reprints/Cardenas_root-hair_PJ1999.pdf"
+    ],
+    "finding": "菜豆根毛Ca²⁺增加與流入，支持分泌和細胞壁重塑在變形捲曲前發生；非聲稱所有Ca訊號完全等同。",
+    "read_scope": "web search實讀完整摘要及作者PDF第1頁擷取；本地PubMed回機器驗證頁，作者版下載SSL過期失敗，未保存有效全文PDF。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU110官方採計",
+    "captures": [
+      {
+        "id": "S28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10476081/",
+        "checked_at": "2026-09-10T15:16:01.344982+08:00",
+        "final_url": "https://pubmed.ncbi.nlm.nih.gov/10476081/",
+        "http_status": 203,
+        "content_type": "text/html; charset=utf-8",
+        "status": "FETCHED_HTML",
+        "path": "審查紀錄/annual_review/TCU-110/downloads/S28.html",
+        "sha256": "5ac5e102e383c93d452471f98321493157d66cb423350bfff48338f796d4ea64",
+        "bytes": 5565
+      },
+      {
+        "id": "S28-author",
+        "url": "https://www.bio.umass.edu/biology/kunkel/pub/reprints/Cardenas_root-hair_PJ1999.pdf",
+        "checked_at": "2026-09-10T15:25:30.416356+08:00",
+        "status": "FETCH_FAILED",
+        "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+      }
+    ],
+    "authored_evidence_record_sha256": "3c086c64fa4fa240da3ed34906c12da9232b33f06c240c850a6912f534a1aa07"
+  },
+  {
+    "id": "S29",
+    "title": "Jiang and Hartung: Long-distance signalling of abscisic acid (2008)",
+    "urls": [
+      "https://academic.oup.com/jxb/article/59/1/37/428498",
+      "https://oup.silverchair-cdn.com/article-minimal/428498"
+    ],
+    "finding": "水分、pH及葉肉ABA再分配，並有韌皮部向根及木質部再循環；不足以證明題目葉到葉全程只經木質部。",
+    "read_scope": "讀摘要、導言、ABA recirculation及葉片pH相關段與Figures6–7圖說文字；未宣稱開啟這兩張論文圖像。出版社CDN全文HTML成功，原域名證書錯誤。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU110官方採計",
+    "captures": [
+      {
+        "id": "S29",
+        "url": "https://academic.oup.com/jxb/article/59/1/37/428498",
+        "checked_at": "2026-09-10T15:06:19.437268+08:00",
+        "status": "FETCH_FAILED",
+        "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+      },
+      {
+        "id": "S29-cdn",
+        "url": "https://oup.silverchair-cdn.com/article-minimal/428498",
+        "checked_at": "2026-09-10T15:07:07.222083+08:00",
+        "final_url": "https://oup.silverchair-cdn.com/article-minimal/428498",
+        "http_status": 200,
+        "content_type": "text/html",
+        "status": "FETCHED_HTML",
+        "path": "審查紀錄/annual_review/TCU-110/downloads/S29-cdn.html",
+        "sha256": "ac0d941e88a6615b1a57453ffeb265e6e02a7a50a2d5f600f722e9601bf9531e",
+        "bytes": 170622
+      }
+    ],
+    "authored_evidence_record_sha256": "59b49cebf61a701d3bea811849945b6adf87415ec8cb3c5fe33e45e46fe904a5"
+  },
+  {
+    "id": "S30",
+    "title": "Passmore and Barford: Getting into position: the catalytic mechanisms of protein ubiquitylation (2004)",
+    "urls": [
+      "https://doi.org/10.1042/BJ20040198",
+      "https://www2.mrc-lmb.cam.ac.uk/groups/passmore/Publications_files/BJreview.pdf"
+    ],
+    "finding": "單泛素可改活性、定位及互作，且可招募內吞蛋白；不支持由不降解直接推論抑制囊泡。科學B不決定官方採計衝突。",
+    "read_scope": "作者單位PDF共13頁已存hash；實讀PDF1–2（印刷513–514）正文及Figure1圖說文字，未聲稱全13頁通讀。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU110官方採計",
+    "captures": [
+      {
+        "id": "S30",
+        "url": "https://doi.org/10.1042/BJ20040198",
+        "checked_at": "2026-09-10T15:06:19.438774+08:00",
+        "status": "FETCH_FAILED",
+        "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+      },
+      {
+        "id": "S30-author",
+        "url": "https://www2.mrc-lmb.cam.ac.uk/groups/passmore/Publications_files/BJreview.pdf",
+        "checked_at": "2026-09-10T15:07:07.063086+08:00",
+        "final_url": "https://www2.mrc-lmb.cam.ac.uk/groups/passmore/Publications_files/BJreview.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "status": "FETCHED_PDF",
+        "path": "審查紀錄/annual_review/TCU-110/downloads/S30-author.pdf",
+        "sha256": "ca4c7f6e1da87b7b7fe89e8a433a4d4402a2c4cc942efc965bfb2c4c3719c936",
+        "bytes": 355988
+      }
+    ],
+    "authored_evidence_record_sha256": "8ff59082614ed37c7af5cba8cb87f53a58e5c87334367613cdb0d2bb554f486c"
+  },
+  {
+    "id": "S31",
+    "title": "Plant G-Proteins Come of Age: Breaking the Bond with Animal Models (2016)",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4877378/"
+    ],
+    "finding": "植物G蛋白與典型動物GPCR受體的定義及功能認定需區分，GCR1等曾有爭議。",
+    "read_scope": "讀受體與GCR1/RGS1討論段；作者綜述，非將候選受體列成已確證通則。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU110官方採計",
+    "captures": [
+      {
+        "id": "S31",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4877378/",
+        "checked_at": "2026-09-10T15:16:01.787997+08:00",
+        "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4877378/",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "status": "FETCHED_HTML",
+        "path": "審查紀錄/annual_review/TCU-110/downloads/S31.html",
+        "sha256": "ae3850b6888da33d2ce1a4c98c1f56016edd7de3814d6ada8ee9375c0ffdaff9",
+        "bytes": 226655
+      }
+    ],
+    "authored_evidence_record_sha256": "0dc3f9a698ff48e5b5b8db2105077a7d5e938af3fc83db596d385b51201231bf"
+  },
+  {
+    "id": "S44",
+    "title": "NCBI The Genetic Codes",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/Taxonomy/Utils/wprintgc.cgi"
+    ],
+    "finding": "表11質體內部密碼同標準配置；表2脊椎動物粒線體AUA/UGA不同。表32亦示特殊質體例外。",
+    "read_scope": "web實讀頁首、表1、2、11與目錄中的表32；作者機構資料，未宣稱本輪下載全部資料庫。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU110官方採計",
+    "captures": [],
+    "authored_evidence_record_sha256": "b33fe216bbaa8108806ef894bd8dc61c2b49d15e458d2daa950bf48a6411ed66"
+  },
+  {
+    "id": "S45",
+    "title": "Jiao and Chollet: Posttranslational Regulation of PEPC in C4 and CAM Plants (1991)",
+    "urls": [
+      "https://academic.oup.com/plphys/article/95/4/981/6087020",
+      "https://oup.silverchair-cdn.com/article-minimal/6087020"
+    ],
+    "finding": "malate回饋抑制PEPC；磷酸化改變光期C4與夜期CAM的抑制敏感度。",
+    "read_scope": "實讀期刊完整摘要，CDN HTML存hash；PMC候選回機器驗證頁，未冒充全文。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU110官方採計",
+    "captures": [
+      {
+        "id": "S45",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1077640/",
+        "checked_at": "2026-09-10T15:16:02.071288+08:00",
+        "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1077640/",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "status": "FETCHED_HTML",
+        "path": "審查紀錄/annual_review/TCU-110/downloads/S45.html",
+        "sha256": "b28ff0ef602b9ae1ae95c3a0f1ada7ef5b75113376ceeac6e1723623d1ea0c45",
+        "bytes": 21308
+      },
+      {
+        "id": "S45-publisher",
+        "url": "https://oup.silverchair-cdn.com/article-minimal/6087020",
+        "checked_at": "2026-09-10T15:25:30.417356+08:00",
+        "final_url": "https://oup.silverchair-cdn.com/article-minimal/6087020",
+        "http_status": 200,
+        "content_type": "text/html",
+        "status": "FETCHED_HTML",
+        "path": "審查紀錄/annual_review/TCU-110/downloads/S45-publisher.html",
+        "sha256": "9d1f5df943e147f01800c56db2b7fe55d0723bf098cc559a7d077f24a739c690",
+        "bytes": 12656
+      }
+    ],
+    "authored_evidence_record_sha256": "67235378498a5a552c315c741f7e32358f1b52b61456742db4ac82fc491541cf"
+  },
+  {
+    "id": "S46",
+    "title": "Taoka et al. 14-3-3 proteins act as intracellular receptors for rice Hd3a florigen (Nature 2011)",
+    "urls": [
+      "https://www.nature.com/articles/nature10272"
+    ],
+    "finding": "稻Hd3a與14-3-3、FD形成花成活化複合體，支援FT不是單獨DNA結合TF的區別。",
+    "read_scope": "實讀期刊摘要，HTML存檔；訂閱全文未取得。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU110官方採計",
+    "captures": [
+      {
+        "id": "S46",
+        "url": "https://www.nature.com/articles/nature10272",
+        "checked_at": "2026-09-10T15:16:02.183840+08:00",
+        "final_url": "https://www.nature.com/articles/nature10272?error=cookies_not_supported&code=0f67dba9-b235-4cb0-aebc-642ad9f9a4a1",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "status": "FETCHED_HTML",
+        "path": "審查紀錄/annual_review/TCU-110/downloads/S46.html",
+        "sha256": "297072562d76a803322742d9a2bc677922663f1a98d6150e727299d99aad1374",
+        "bytes": 383246
+      }
+    ],
+    "authored_evidence_record_sha256": "ce549ea62d8c578ed16abc24c5c325f81cea40b72c3550a7a031f3c1d4631312"
+  },
+  {
+    "id": "S50",
+    "title": "Brennan et al. Sporophytic self-incompatibility in Senecio squalidus ... (2011)",
+    "urls": [
+      "https://www.nature.com/articles/hdy201029"
+    ],
+    "finding": "實驗交配顯示SSI可有多層S等位基因顯隱性、組織特異共顯性與修飾基因，界定教材簡化模型。",
+    "read_scope": "讀摘要及導言的GSI/SSI定義；全文頁HTML保存，不宣稱所有全文段落均已讀。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU110官方採計",
+    "captures": [
+      {
+        "id": "S50",
+        "url": "https://www.nature.com/articles/hdy201029",
+        "checked_at": "2026-09-10T15:16:02.240498+08:00",
+        "final_url": "https://www.nature.com/articles/hdy201029?error=cookies_not_supported&code=3ceb8b86-e8e9-4e60-b295-ed442bbecf38",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "status": "FETCHED_HTML",
+        "path": "審查紀錄/annual_review/TCU-110/downloads/S50.html",
+        "sha256": "6fd105e1a8d1856e95445581f640e5c199492415f90b94207dc4ef11850b5d9b",
+        "bytes": 408870
+      }
+    ],
+    "authored_evidence_record_sha256": "8a64f9e304b600e95d662c58983a8b5c1e3d75615d352eef62a6953ef61bab47"
+  }
+]

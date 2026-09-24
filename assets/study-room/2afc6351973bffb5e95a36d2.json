@@ -1,0 +1,324 @@
+{
+  "question": {
+    "path": "bd240ead11a5394f8334e233.pdf",
+    "sha256": "1b15dc6e216d0d9548736508ea52c58d5a158aa389a248a1563df601d551485b",
+    "pdf_pages": 6,
+    "inventory_category": "biology_question",
+    "scope_status": "ALL_SIX_FULL_PAGES_VISUALLY_READ",
+    "subject": "生物學（含生理學）",
+    "biology_pdf_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "printed_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "official_pdf_pages": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "question_count": 50,
+    "exam_date": "2019-06-23"
+  },
+  "answer": {
+    "path": "29aa7b9cb5cbaaa9856e3db2.pdf",
+    "sha256": "c43b67178e336de0a229e22dc79c290ecf53fa9aa1fb66a55050103c2bb6e88a",
+    "pdf_pages": 1,
+    "inventory_category": "combined_answer",
+    "scope_status": "ALL_50_VISUALLY_READ",
+    "biology_pdf_pages": [
+      1
+    ],
+    "official_pdf_page": 24,
+    "biology_region": "最下方第四張生物表；前三科答案排除"
+  },
+  "combined_question": {
+    "path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/schools/ISU/files/其他試題_非生物或待查/ISU_108_combined_question__108義守大學__大學部]108學士後中醫學系入學考試[試題公告].pdf",
+    "sha256": "cdb206f1cce236758c083674b222774c56c33be49312320981108ea68fc3f7b5",
+    "pdf_pages": 23,
+    "inventory_category": "combined_question",
+    "scope_status": "CONFIRMED_SUBJECT_BOUNDARIES_AND_SAME_YEAR_COMPARISON"
+  },
+  "combined_candidate": {
+    "path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/schools/ISU/files/其他試題_非生物或待查/ISU_108_combined_exam_archive__108學年度學士後中醫學系招生考試考古題公告.pdf",
+    "sha256": "85712bfe854316b30231bf039222e29c2da6422f1bbefa51f78643a8c6bef450",
+    "pdf_pages": 27,
+    "inventory_category": "combined_exam_archive",
+    "scope_status": "CONFIRMED_SUBJECT_BOUNDARIES_AND_SAME_YEAR_COMPARISON",
+    "official_sha256_match": true
+  },
+  "textbook": {
+    "path": "Campbell Biology 12e.pdf（教材參考，全文未公開）",
+    "sha256": "de7c28b93a1c853c0c58d53cd658848d08cf033cde7c2071c062bfdd25b5dc73"
+  },
+  "toc": {
+    "path": "Campbell toc.txt（教材參考，全文未公開）",
+    "sha256": "472c94c03d3e7f107284b4e59ba744b406faee99580f5d940e0c2dab3d0c3dc7"
+  },
+  "official_archive": {
+    "path": "source/supplemental/ISU108/official-historical-exams.zip",
+    "url": "https://www.isu.edu.tw/storage/files/9crd3xNNj7FiMlpyB92xu98jBE5cQrUWvqPB0ZfK.zip",
+    "final_url": "https://www.isu.edu.tw/storage/files/9crd3xNNj7FiMlpyB92xu98jBE5cQrUWvqPB0ZfK.zip",
+    "sha256": "3245682ef6e3375ef8696b35feb1b3ea0b45fe8343f5a42b4c12d81611c32953",
+    "bytes": 26604484,
+    "retrieved_at": "2026-09-10T00:15:07.678529+08:00",
+    "source_type": "OFFICIAL_DIRECT"
+  },
+  "archive_notice": {
+    "path": "source/supplemental/ISU108/archive-notice.html",
+    "url": "https://www.isu.edu.tw/admissions/30?category=7&year=115",
+    "final_url": "https://www.isu.edu.tw/admissions/30?category=7&year=115",
+    "sha256": "0db645170a9567a68340c4bbcdede60e2d9fbfaddd84fd95b956956e25db9442",
+    "bytes": 439450,
+    "retrieved_at": "2026-09-10T00:15:08.942809+08:00",
+    "source_type": "OFFICIAL_DIRECT"
+  },
+  "official_combined": {
+    "path": "39560a233fff57f4cf33e54f.pdf",
+    "sha256": "85712bfe854316b30231bf039222e29c2da6422f1bbefa51f78643a8c6bef450",
+    "bytes": 1198750,
+    "pdf_pages": 27,
+    "member": "108學年度學士後中醫學系招生考試考古題公告.pdf",
+    "archive_sha256": "3245682ef6e3375ef8696b35feb1b3ea0b45fe8343f5a42b4c12d81611c32953",
+    "url": "https://www.isu.edu.tw/storage/files/9crd3xNNj7FiMlpyB92xu98jBE5cQrUWvqPB0ZfK.zip",
+    "scope_status": "CONFIRMED_SUBJECT_BOUNDARIES_AND_SAME_YEAR_COMPARISON",
+    "scope": {
+      "國文": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "化學": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "英文": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "生物題本": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "混科答案": [
+        24
+      ],
+      "混科釋疑": [
+        25,
+        26,
+        27
+      ]
+    }
+  },
+  "official_question": {
+    "path": "39560a233fff57f4cf33e54f.pdf",
+    "sha256": "85712bfe854316b30231bf039222e29c2da6422f1bbefa51f78643a8c6bef450",
+    "bytes": 1198750,
+    "pdf_pages": 27,
+    "member": "108學年度學士後中醫學系招生考試考古題公告.pdf",
+    "archive_sha256": "3245682ef6e3375ef8696b35feb1b3ea0b45fe8343f5a42b4c12d81611c32953",
+    "url": "https://www.isu.edu.tw/storage/files/9crd3xNNj7FiMlpyB92xu98jBE5cQrUWvqPB0ZfK.zip",
+    "scope_status": "CONFIRMED_SUBJECT_BOUNDARIES_AND_SAME_YEAR_COMPARISON",
+    "scope": {
+      "國文": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "化學": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "英文": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "生物題本": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "混科答案": [
+        24
+      ],
+      "混科釋疑": [
+        25,
+        26,
+        27
+      ]
+    }
+  },
+  "clarification": {
+    "path": "39560a233fff57f4cf33e54f.pdf",
+    "sha256": "85712bfe854316b30231bf039222e29c2da6422f1bbefa51f78643a8c6bef450",
+    "bytes": 1198750,
+    "pdf_pages": 27,
+    "member": "108學年度學士後中醫學系招生考試考古題公告.pdf",
+    "archive_sha256": "3245682ef6e3375ef8696b35feb1b3ea0b45fe8343f5a42b4c12d81611c32953",
+    "url": "https://www.isu.edu.tw/storage/files/9crd3xNNj7FiMlpyB92xu98jBE5cQrUWvqPB0ZfK.zip",
+    "scope_status": "BIOLOGY_ROWS_26_27_VISUALLY_READ_AND_OUTCOMES_VERIFIED",
+    "scope": {
+      "國文": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "化學": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "英文": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "生物題本": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "混科答案": [
+        24
+      ],
+      "混科釋疑": [
+        25,
+        26,
+        27
+      ]
+    },
+    "biology_pdf_pages": [
+      26,
+      27
+    ],
+    "biology_questions": {
+      "10": [
+        26
+      ],
+      "27": [
+        26
+      ],
+      "28": [
+        27
+      ],
+      "36": [
+        27
+      ],
+      "48": [
+        27
+      ]
+    },
+    "official_corrections": {},
+    "meeting_date": "2019-07-01",
+    "publication_date": "NOT_INDEPENDENTLY_VERIFIED",
+    "excluded": "PDF25全頁與26上方國文及化學排除；生物從26下方Q10、27開始，27頁考科欄空白為生物續表。其餘45題未列本輪取得公告，不宣稱無其他公告。"
+  },
+  "source_differences": {
+    "archive_inventory": "原清單釋疑missing；本輪在同年官方組合檔PDF26下方至27取得生物5題釋疑。原清單不覆寫，補充下載清單另存。",
+    "archive_page": "現行115招生頁的歷屆ZIP；108年度依ZIP成員及PDF內容確認。2025-12-12不是108釋疑日期。",
+    "non_biology_correction": "PDF26化學Q23更正為C或D，與生物Q23無關，不套用生物。"
+  },
+  "question_scientific_differences": {
+    "ISU-108-Q01": "採A。急性呼吸性酸中毒的原發變化為PCO2上升、pH下降；不能把代謝性酸中毒的碳酸氫根下降當作定義。腎臟增加排酸及保留HCO3的代償需時間，與原發變化分開。",
+    "ISU-108-Q02": "採B。P波代表心房去極化，電活動先於機械收縮；QRS與T波分別主要反映心室去極化與再極化。正文及PDF46目錄真實標題為Maintaining the Heart’s Rhythmic Beat，本地文字目錄的Rhythms異文原檔保留。",
+    "ISU-108-Q03": "採C。副交感通常促進消化活動並減慢心率，阻斷會抑制其促進胃腸蠕動的作用。腸神經系統有自身調節，不能解讀成所有蠕動完全停止；A、B、D不是題設典型反應。",
+    "ISU-108-Q04": "採B。三Na向外是Na+/K+-ATPase的運輸計量；電壓門控鈉通道是選擇性的被動通路，典型生理梯度下Na順電化學梯度流入。D的向內方向依賴題目隱含正常梯度，並非任何條件都向內。",
+    "ISU-108-Q05": "採B。壁細胞向胃腔分泌H+，降低胃內pH；胃腔的黏液與碳酸氫根保護不是本題所問的壁細胞主要功能。",
+    "ISU-108-Q06": "採C。主動脈由左心室接出，彈性伸展與回縮可緩衝脈動；主要可變阻力來自小動脈而非主動脈。Windkessel是題文用語，Campbell以彈性回縮描述同一功能；原題老化敘述保留，不以它取代阻力判別。",
+    "ISU-108-Q07": "採B。興奮性細胞通常能在適當刺激下產生動作電位；非興奮性細胞仍可具有靜止膜電位、離子通道與鈉鉀幫浦，故A、C、D不成立。",
+    "ISU-108-Q08": "採D。腎臟為成人EPO的主要來源，EPO促進紅血球生成；不是以抑制紅血球、刺激白血球或抑制凝血為其主要作用。題目說主要，未排除其他發育階段或組織來源。",
+    "ISU-108-Q09": "採C。保衛細胞膨脹、膨壓上升使氣孔張開，而失水鬆弛使之關閉；797頁圖支持。保衛細胞具有葉綠體。D釋氧吸CO2僅在光合作用的脈絡理解，不能泛化成任何時間的淨氣體通量。",
+    "ISU-108-Q10": "採A；同年釋疑PDF26維持A。耳蝸毛細胞經傳入感覺神經元傳遞，不能直接把訊息送到大腦。原題把聽覺毛細胞與廣義前庭毛細胞合述；釋疑又說半規管和耳蝸共同影響平衡，應保留其措辭但區分耳蝸的聽覺與前庭的平衡功能。Vander13e頁碼只讀到釋疑所引內容。",
+    "ISU-108-Q11": "採D。正常HPA軸中皮質醇升高會抑制CRH與ACTH，屬負回饋；抗發炎、升血糖及過量可能伴高血壓均不支持D。Campbell的腎上腺分工不表示只有醛固酮影響血壓，NIDDK的Cushing資料補足皮質醇過量的高血壓範圍。",
+    "ISU-108-Q12": "採C。典型動物細胞內K較高、Na較低；游離胞質Ca低於細胞外及內質網腔。題文「細胞內鈣」應依游離胞質濃度理解，不等於把所有胞器儲鈣與結合鈣加總。",
+    "ISU-108-Q13": "採A。104–105頁直接列出平滑ER的脂質與類固醇合成、解毒及Ca儲存；ATP製造不是其列示功能。Functions of Smooth ER是正文子標題而非本地真實目錄條目，保留在ER條目內。",
+    "ISU-108-Q14": "採B。圖41.22顯示CCK促進膽囊排膽及胰消化酶分泌；肝臟製造膽鹽、膽囊儲存排出，兩者分開。原題用「膽泌素」與英文CCK，依英文與機轉判讀。",
+    "ISU-108-Q15": "採C。正常生理下竇房結為主要起搏點，房室結造成傳導延遲並向心室傳遞；不能因其他位置有潛在自動性而更改正常情境。採PDF真實Rhythmic Beat標題，保留文字目錄異文。",
+    "ISU-108-Q16": "採B。葉綠素的金屬成分為Mg，Fe參與葉綠素合成與其他代謝但不是葉綠素分子中央成分；811頁表同時支持K滲透調節、Ca細胞壁、P核酸。",
+    "ISU-108-Q17": "採D。由壓差＝流量×阻力，MAP−CVP＝CO×TPR；忽略中心靜脈壓且單位一致時，題目採MAP≈CO×TPR。原選項等號保留，科學說明標示近似及CVP條件，不能當作所有情境的精確式。",
+    "ISU-108-Q18": "採C。重新計算2pq＝2×0.8×0.2＝0.32；p²＝0.64和q²＝0.04分別是兩種同型合子比例。不能把顯性表型比例當成Aa頻率。",
+    "ISU-108-Q19": "採A。轉譯以mRNA為模板、tRNA帶胺基酸、核糖體催化；DNA先提供轉錄資訊但不直接加入題設轉譯過程。「未直接」不表示DNA與蛋白質合成毫無關係。",
+    "ISU-108-Q20": "採A。NO促進血管平滑肌放鬆；經guanylyl cyclase使cGMP增加，並非題目C的cAMP增加或D的cGMP下降。Campbell1001頁提供局部NO訊號與舒張，cGMP細節由Klabunde原作者教材補足。",
+    "ISU-108-Q21": "採D。馬氏小管與昆蟲腸道合作排氮、維持水鹽；扁蟲典型為原腎管系統，水母與脊椎動物不符合題設。部分其他陸生節肢動物也有馬氏小管，題目不是主張只有昆蟲。",
+    "ISU-108-Q22": "採A。調節進光量的是虹膜改變瞳孔大小，玻璃體並非此調節器。1118頁人眼圖提前跨入該條目的圖示，1119正文指回圖50.17；1122頁補足睫狀肌調適與中央凹的視錐。原題C的「僅含錐細胞」指其光受器組成，並非中央凹沒有任何其他細胞。",
+    "ISU-108-Q23": "採C；同年化學Q23的C或D更正不適用本題。題文中文「逆流交換」較寬泛，英語僅countercurrent mechanism：亨利氏環主要為逆流倍增，直小血管為逆流交換，兩者不可完全等同。選項所問位置依官方與濃縮機轉歸亨利氏環。",
+    "ISU-108-Q24": "採B。單一球形氣液介面的Laplace壓差ΔP＝2T/r；由半球受力平衡ΔPπr²＝2πrT獨立重算得到。原題以P寫肺泡壓力，應限理想化跨界面壓差，不能誤用肥皂泡雙界面的4T/r；Duke教材PDF8直接支持。",
+    "ISU-108-Q25": "採D。PD-1為抑制性免疫檢查點，可結合PD-L1、抑制T細胞反應並成為免疫治療標的；名稱含programmed cell death不能推成與壞死直接相關。Campbell974頁的Cancer and Immunity重點較窄，沒有PD-1機制；NCI及原始研究補足，不假稱課本載有此蛋白。",
+    "ISU-108-Q26": "採D。獨立加總：醣解2NADH；兩個丙酮酸氧化2NADH；兩輪TCA共6NADH＋2FADH2，合計10NADH＋2FADH2＝12。不是只數NADH的10，也不是ATP數。兩個同章最小次條目照存，Ch09章級只計一次。",
+    "ISU-108-Q27": "採C；同年釋疑PDF26維持C並引11e印刷1054。本輪12e印刷1056明載CAM為跨膜醣蛋白；integrins是其中成員，不能以D取代上位物質分類。器官發生是題幹情境，主分類採實際CAM解釋所在的The Cytoskeleton in Morphogenesis。",
+    "ISU-108-Q28": "採A；同年釋疑PDF27引11e圖9.10維持A。12e印刷171正文也明寫active transport，圖9.9說明運輸蛋白；版次圖號不同但本題採計一致。MPC位於粒線體內膜；原始研究的ΔpH耦合機制支持次級主動運輸，不能把外膜通道或載體存在本身當成促進擴散的充分理由。",
+    "ISU-108-Q29": "採C。Calvin循環固定CO2、氧化NADPH並消耗ATP；O2來自光反應的水分解。正文階段未單列於目錄，不擅造更小的目錄ID。",
+    "ISU-108-Q30": "採B。Golgi衍生小泡沿微管運送並融合成細胞板；肌動蛋白與肌凝蛋白的收縮環是動物胞質分裂的典型方式，不能套到植物。",
+    "ISU-108-Q31": "採C。G1為X，經一次S期成為2X，減數I中期還沒有完成第一次分裂，仍是2X。DNA量加倍不等於倍體數由2n變4n；也沒有在減數I前連續複製兩次。",
+    "ISU-108-Q32": "採A。題設的大多數物種雄性由未受精卵發育為單倍體、雌性由受精卵發育為二倍體。保留「大部分」限定，不推成所有膜翅目均無例外。",
+    "ISU-108-Q33": "採B。繞射圖樣提供螺旋尺寸等結構線索，可推知直徑；不能由該照片直接讀出複製速率或核苷酸序列。原題「結晶DNA」保留；課本歷史例為DNA纖維繞射，照片不是普通放大影像，也不是單靠照片直接指定所有次單位鍵角。",
+    "ISU-108-Q34": "採A。組蛋白富含帶正電的胺基酸區域，與DNA帶負電的磷酸骨架相吸；不能顛倒電荷或以強疏水性解釋此結合。330頁正文直接支持。",
+    "ISU-108-Q35": "採A。母源bicoid mRNA定位前端，產物梯度決定前後軸的位置資訊；其後會影響分節基因，但題目所問最基本資訊不是以D取代前後軸。",
+    "ISU-108-Q36": "採D；同年釋疑PDF27維持D，引11e印刷505；12e對應507–509。依生物物種概念，生殖隔離較地理隔離符合題意。題文「保證」「一直」為簡化用語，不宣稱隔離機制在演化中永遠不能改變。",
+    "ISU-108-Q37": "採C。原有蛋白結構被徵用、修飾而具新用途為exaptation；不是退化失去功能的痕跡器官。原選項D「同質的器官(homogeneous organ)」原樣保留，不能默改成homologous；現代分泌系統不必被簡化成已證明的唯一直接祖先。",
+    "ISU-108-Q38": "採D。藍綠菌以光為能量來源並由CO2取得碳，為光自營生物。能量來源與碳來源分別判斷，不能因「細菌」一詞就當化學異營。",
+    "ISU-108-Q39": "採B。enterokinase又稱enteropeptidase，先把trypsinogen切成trypsin，再啟動其他蛋白酶原；名稱帶kinase不表示它是磷酸轉移激酶。Campbell909頁支援蛋白酶活化鏈，NLM MeSH補足具名酵素與切割功能。",
+    "ISU-108-Q40": "採A。根壓將木質部液體推至葉緣排出造成guttation；大氣水凝結為露水，並非植物內部排液；韌皮部壓流與蒸散拉力也不是本題主要原因。",
+    "ISU-108-Q41": "採C。莖的背光側auxin較多而伸長較快，造成向光彎曲。生長素極性運輸不由重力方向決定，原題暗面更快破壞與吉貝素主導也不符合。Auxin是正文子題，實際目錄最小為A Survey of Plant Hormones，不虛構目錄節點。",
+    "ISU-108-Q42": "採B。878頁說膠原纖維提供strength與flexibility，肌腱為富含膠原的纖維性結締組織。flexibility是可彎曲且有抗張強度，不等於elastin的彈性回彈。Connective Tissue是圖內標題，不是另立目錄最小條目。",
+    "ISU-108-Q43": "採D。題目細胞壁採含外膜的廣義菌體包被用法；內毒素為外膜LPS的毒性部分，不能誤認位於鞭毛、性線毛、內孢子或直接把它當肽聚糖。",
+    "ISU-108-Q44": "採C。Campbell1081頁直接說血清素由色胺酸合成；酪胺酸對應其他生物胺路徑，不能混用。出版商原教材樣章的Serotonin Biosynthesis段另支持，實讀範圍不含整本書。",
+    "ISU-108-Q45": "採A。胃酸協助游離食物中B12，壁細胞內在因子與B12複合後在末端迴腸吸收；切胃減少此支持，並非B12主要在胃被吸收。Campbell提供胃與小腸一般架構，內在因子細節由NIH ODS補足；不表示其他營養素完全不受手術影響。",
+    "ISU-108-Q46": "採A。以題設典型約28天週期且月經首日為第1天，10–14天為濾泡晚期至排卵前，濾泡成熟並分泌動情素；大量黃體素與內膜分泌相屬排卵後黃體期。實際週期會變動，日期並非所有人的固定生理時間。",
+    "ISU-108-Q47": "採C。典型XX且無Y/SRY時不啟動睪丸分化訊號，與題設女性發育相符；睪固酮與AMH屬睪丸路徑，黃體素不是此處起始因素。原題第7–8週及「兩性特徵」保留；較精確應稱尚未分化的共同原基。缺Y不是所有性別發育差異的充分解釋，卵巢發育也有主動基因路徑。",
+    "ISU-108-Q48": "採D；同年釋疑PDF27以Vander15e17章634頁說明近足月子宮分泌PGE2、PGF2α。Campbell1036頁圖46.18標示胎盤製造前列腺素、催產素來自胎兒及母體後葉，來源層次不完全相同，均如實保留；不能將C催產素當作子宮本身分泌的正確答案。",
+    "ISU-108-Q49": "官方採B。REM常見鮮明夢境且骨骼肌張力受到抑制；但題文「最難被叫醒」通常對應NREM深睡N3，與其餘線索混合。NIH來源分別支持N3深睡難喚醒及REM肌張力下降，保留原題疑義，不宣稱整句科學上無誤，也不擅改官方採計。分類仍明確屬Arousal and Sleep。",
+    "ISU-108-Q50": "採C。影像與不愉快刺激反覆配對後引起心跳、流汗等恐懼性自主反應，與杏仁核的情緒記憶關係最直接。不能因記憶一詞就改選一般記憶或運動相關核團；主條目保留情緒，學習記憶列同章最小次目。"
+  }
+}

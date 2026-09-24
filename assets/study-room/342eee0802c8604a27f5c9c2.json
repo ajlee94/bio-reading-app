@@ -1,0 +1,4801 @@
+[
+  {
+    "id": "ISU-109-Q01",
+    "school": "ISU",
+    "year": 109,
+    "q": 1,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 1,
+      "pdf_page": 1,
+      "printed_page": 1,
+      "official_pdf_page": 19,
+      "regions": [
+        [
+          24,
+          246.1517,
+          572.22,
+          281.9117
+        ]
+      ],
+      "pixel_box": [
+        68,
+        702,
+        1631,
+        804
+      ],
+      "image": "questions/Q01.png",
+      "sha256": "0b73d35eb9942f9b8a28ede0ecd7f950f8b9235836170b737865efb382d98edb",
+      "width": 1563,
+      "height": 102,
+      "question_text": "1. 請問下列何種生物的細胞內沒有粒線體存在？\n(A) 青黴菌 (B) 枯草桿菌 (C) 酵母菌 (D) 海葵",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L0323",
+      "toc_line": 323,
+      "chapter": 6,
+      "concept": "6.2",
+      "title": "Comparing Prokaryotic and Eukaryotic Cells",
+      "printed_page": 97,
+      "body_pdf_page": 146,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        36
+      ],
+      "chapter_label": "Ch06 A Tour of the Cell"
+    },
+    "secondary": [],
+    "primary_reason": "6.2 / Comparing Prokaryotic and Eukaryotic Cells：以原核與真核細胞的胞器差異辨認枯草桿菌，直接屬細胞比較。",
+    "secondary_reason": "無另列最小次條目；逐一核對四物種的細胞類型，決定答案的共同判準是有無粒線體，6.2細胞比較最直接；不另列背景物種章。",
+    "answer_analysis": "B。枯草桿菌為細菌，無粒線體；青黴菌、酵母菌及海葵均為真核生物。題目只需細胞構造判準，未另列真菌或動物分類條目。",
+    "textbook_evidence": [
+      {
+        "printed_page": 97,
+        "pdf_page": 146,
+        "text_file": "textbook_evidence/pdf-0146.txt",
+        "sha256": "0b3db2cc6568f8adec8720e00ee4d36161fbd005f1d3427648d0fd9f6debb270"
+      },
+      {
+        "printed_page": 98,
+        "pdf_page": 147,
+        "text_file": "textbook_evidence/pdf-0147.txt",
+        "sha256": "3c731dc1d9c33b34cd63123194d8c3c17db9749d9a7b0c9ce68bfe6901e6fdb1"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q01",
+    "issue_resolution_index": 0
+  },
+  {
+    "id": "ISU-109-Q02",
+    "school": "ISU",
+    "year": 109,
+    "q": 2,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 2,
+      "pdf_page": 1,
+      "printed_page": 1,
+      "official_pdf_page": 19,
+      "regions": [
+        [
+          24,
+          281.0117,
+          572.22,
+          316.71170000000006
+        ]
+      ],
+      "pixel_box": [
+        68,
+        801,
+        1631,
+        903
+      ],
+      "image": "questions/Q02.png",
+      "sha256": "8fc5a97bef9cbe0fc322803faa194eb99430123cb15a22b562b9a022cd8bc447",
+      "width": 1563,
+      "height": 102,
+      "question_text": "2. 請問胚胎發育過程中之原腸(archenteron)會發育成為下列何種構造？\n(A) 囊胚腔 (B) 胎盤 (C) 內胚層 (D) 消化道管腔",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L3144",
+      "toc_line": 3144,
+      "chapter": 47,
+      "concept": "47.2",
+      "title": "Gastrulation",
+      "printed_page": 1049,
+      "body_pdf_page": 1098,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        48
+      ],
+      "chapter_label": "Ch47 Animal Development"
+    },
+    "secondary": [],
+    "primary_reason": "47.2 / Gastrulation：原腸是在原腸形成時建立的腔，辨認其後續命運須對照原腸形成。",
+    "secondary_reason": "無另列最小次條目；以教材原腸形成图文區分腔與胚層，D為腔的命運；Gastrulation比整章動物發育精確。",
+    "answer_analysis": "D。原腸腔成為消化道管腔，內胚層構成相關上皮；不能把腔與包圍腔的胚層混為一物，亦非原有囊胚腔。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1049,
+        "pdf_page": 1098,
+        "text_file": "textbook_evidence/pdf-1098.txt",
+        "sha256": "d3461f39847b560465e28a4a26aedbe1292cb58d8cfb273cc0e68383d4841130"
+      },
+      {
+        "printed_page": 1050,
+        "pdf_page": 1099,
+        "text_file": "textbook_evidence/pdf-1099.txt",
+        "sha256": "9ba0d7028d0509fcdb5552c79977d2c3ce2e6317895e1704381d21e9e44b254c"
+      },
+      {
+        "printed_page": 1051,
+        "pdf_page": 1100,
+        "text_file": "textbook_evidence/pdf-1100.txt",
+        "sha256": "882c8d0b4d03ea64a22080783ecb956c9eb4ae43a8343241a22c5129b31aedd2"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q02",
+    "issue_resolution_index": 1
+  },
+  {
+    "id": "ISU-109-Q03",
+    "school": "ISU",
+    "year": 109,
+    "q": 3,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 3,
+      "pdf_page": 1,
+      "printed_page": 1,
+      "official_pdf_page": 19,
+      "regions": [
+        [
+          24,
+          315.8117000000001,
+          572.22,
+          351.5117000000001
+        ]
+      ],
+      "pixel_box": [
+        68,
+        900,
+        1631,
+        1002
+      ],
+      "image": "questions/Q03.png",
+      "sha256": "a730600a3f3c8005a650039deae71295feb711c850f4925863591ceb05e892f8",
+      "width": 1563,
+      "height": 102,
+      "question_text": "3. 請問下列何種胺基酸可直接進行去胺作用？\n(A) 甘胺酸(glycine) (B) 丙胺酸(alanine) (C) 脯胺酸(proline) (D) 絲胺酸(serine)",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [
+        28
+      ],
+      "clarification_disposition": "109年度7/1審議會議釋疑維持原答案D"
+    },
+    "primary": {
+      "id": "L0608",
+      "toc_line": 608,
+      "chapter": 9,
+      "concept": "9.6",
+      "title": "The Versatility of Catabolism",
+      "printed_page": 182,
+      "body_pdf_page": 231,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        37
+      ],
+      "chapter_label": "Ch09 Cellular Respiration and Fermentation"
+    },
+    "secondary": [],
+    "primary_reason": "9.6 / The Versatility of Catabolism：直接去胺屬胺基酸分解，教材提供去除胺基再利用碳骨架的分類框架。",
+    "secondary_reason": "無另列最小次條目；官方109釋疑PDF28反應圖確認serine去胺生成pyruvate，維持D；Campbell僅提供分解代謝框架，公告外Stryer全文未讀。",
+    "answer_analysis": "D。絲胺酸經PLP相關脫水去胺形成丙酮酸與銨；官方PDF28的Stryer圖正面支持此反應並維持D。甘胺酸裂解、脯胺酸氧化及丙胺酸轉胺不可等同本題直接去胺。Campbell未細列該酵素，官方所引Stryer7e印刷708僅實讀公告內圖文，未冒稱取得該書；公告的lanine拼字照存。",
+    "textbook_evidence": [
+      {
+        "printed_page": 182,
+        "pdf_page": 231,
+        "text_file": "textbook_evidence/pdf-0231.txt",
+        "sha256": "18aca69ed2de96de07cf93e15dee2ea96ac38a68b9abfbf7690c70658ce47e7a"
+      },
+      {
+        "printed_page": 183,
+        "pdf_page": 232,
+        "text_file": "textbook_evidence/pdf-0232.txt",
+        "sha256": "e0e164e1bd6e9f4f1a8604dfa0b89bbb60492486e6a5a6597ba430818884aaf7"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q03",
+    "issue_resolution_index": 2
+  },
+  {
+    "id": "ISU-109-Q04",
+    "school": "ISU",
+    "year": 109,
+    "q": 4,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 4,
+      "pdf_page": 1,
+      "printed_page": 1,
+      "official_pdf_page": 19,
+      "regions": [
+        [
+          24,
+          350.6117000000001,
+          572.22,
+          386.3717000000001
+        ]
+      ],
+      "pixel_box": [
+        68,
+        999,
+        1631,
+        1101
+      ],
+      "image": "questions/Q04.png",
+      "sha256": "8bd28d0880806ce7f820690b1596b5b377859230c573ae6a66064ded671915c3",
+      "width": 1563,
+      "height": 102,
+      "question_text": "4. 請問典型被子植物的生命週期中，下列何種構造具有3倍數的染色體？\n(A) 胚乳 (B) 子房 (C) 花藥 (D) 種皮",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L2495",
+      "toc_line": 2495,
+      "chapter": 38,
+      "concept": "38.1",
+      "title": "Seed Development and Structure",
+      "printed_page": 828,
+      "body_pdf_page": 877,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        45
+      ],
+      "chapter_label": "Ch38 Angiosperm Reproduction and Biotechnology"
+    },
+    "secondary": [
+      {
+        "id": "L2486",
+        "toc_line": 2486,
+        "chapter": 38,
+        "concept": "38.1",
+        "title": "The Angiosperm Life Cycle: An Overview",
+        "printed_page": 826,
+        "body_pdf_page": 875,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          45
+        ],
+        "chapter_label": "Ch38 Angiosperm Reproduction and Biotechnology"
+      }
+    ],
+    "primary_reason": "38.1 / Seed Development and Structure：三倍體胚乳是種子發育與構造的直接考點。",
+    "secondary_reason": "38.1 / The Angiosperm Life Cycle: An Overview：雙重受精的生命週期圖提供兩極核加一精核的來源。",
+    "answer_analysis": "A。典型被子植物的胚乳為3n；子房、花藥母體組織及種皮通常為2n。花藥含有單倍體花粉不代表花藥本身是3n。保留題設「典型」，不泛化到所有胚囊型。",
+    "textbook_evidence": [
+      {
+        "printed_page": 826,
+        "pdf_page": 875,
+        "text_file": "textbook_evidence/pdf-0875.txt",
+        "sha256": "476cf50739c9725798af38934ab9d64b318b8e474c2e3636c9d1f2ce61bd86e4"
+      },
+      {
+        "printed_page": 827,
+        "pdf_page": 876,
+        "text_file": "textbook_evidence/pdf-0876.txt",
+        "sha256": "b2aafa8d0f29783b8f09e63a05690dab9470c5c2dff85b6f331da1b82baa1a6a"
+      },
+      {
+        "printed_page": 828,
+        "pdf_page": 877,
+        "text_file": "textbook_evidence/pdf-0877.txt",
+        "sha256": "c6d1399135f4783349f9731b819a4998de5da033914d775f466a265551cf11a6"
+      },
+      {
+        "printed_page": 829,
+        "pdf_page": 878,
+        "text_file": "textbook_evidence/pdf-0878.txt",
+        "sha256": "a5412c89aff01b829e7ed1bf0e80017282a31cf5da3f1d193ad7aa45f42e8d2f"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q04",
+    "issue_resolution_index": 3
+  },
+  {
+    "id": "ISU-109-Q05",
+    "school": "ISU",
+    "year": 109,
+    "q": 5,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 5,
+      "pdf_page": 1,
+      "printed_page": 1,
+      "official_pdf_page": 19,
+      "regions": [
+        [
+          24,
+          385.4717000000001,
+          572.22,
+          436.7717000000001
+        ]
+      ],
+      "pixel_box": [
+        68,
+        1099,
+        1631,
+        1245
+      ],
+      "image": "questions/Q05.png",
+      "sha256": "fbf25a400d8153b5f056c3e9e3e524a05a88461fae33ca7e575f33f16e730a36",
+      "width": 1563,
+      "height": 146,
+      "question_text": "5. 植物激素可誘發許多植物生理作用，請問下列何種激素在防禦病蟲害上扮演最重要的角色？\n(A) 茉莉酸(jasmonates) (B) 吉貝素(gibberellins)\n(C) 細胞分裂素(cytokinins) (D) 生長素(auxin)",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L2599",
+      "toc_line": 2599,
+      "chapter": 39,
+      "concept": "39.5",
+      "title": "Defenses Against Herbivores",
+      "printed_page": 867,
+      "body_pdf_page": 916,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        45
+      ],
+      "chapter_label": "Ch39 Plant Responses to Internal and External Signals"
+    },
+    "secondary": [
+      {
+        "id": "L2596",
+        "toc_line": 2596,
+        "chapter": 39,
+        "concept": "39.5",
+        "title": "Defenses Against Pathogens",
+        "printed_page": 866,
+        "body_pdf_page": 915,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          45
+        ],
+        "chapter_label": "Ch39 Plant Responses to Internal and External Signals"
+      },
+      {
+        "id": "L2557",
+        "toc_line": 2557,
+        "chapter": 39,
+        "concept": "39.2",
+        "title": "A Survey of Plant Hormones",
+        "printed_page": 847,
+        "body_pdf_page": 896,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          45
+        ],
+        "chapter_label": "Ch39 Plant Responses to Internal and External Signals"
+      }
+    ],
+    "primary_reason": "39.5 / Defenses Against Herbivores：以茉莉酸誘導抗食草動物防禦為主要辨認機制。",
+    "secondary_reason": "39.5 / Defenses Against Pathogens：題幹亦明列病害，保留抗病原體條目；39.2 / A Survey of Plant Hormones：39.2荷爾蒙總覽印刷855直接說明jasmonates防禦作用。",
+    "answer_analysis": "A。印刷855明述茉莉酸調控對食草動物及病原體的防禦。水楊酸亦參與抗病，但不在選项中；「最重要」限此題選項，非所有病原及情境皆以茉莉酸為唯一核心。",
+    "textbook_evidence": [
+      {
+        "printed_page": 847,
+        "pdf_page": 896,
+        "text_file": "textbook_evidence/pdf-0896.txt",
+        "sha256": "58d27d0a2cdc2e3cc9ae58cefbf4481392a39693449172e51fd6bb2ece951f7c"
+      },
+      {
+        "printed_page": 855,
+        "pdf_page": 904,
+        "text_file": "textbook_evidence/pdf-0904.txt",
+        "sha256": "f7f9aeca14b4fe5fe12216db4a0578b3bbbce6a9991f6b100ab103e23bbba353"
+      },
+      {
+        "printed_page": 866,
+        "pdf_page": 915,
+        "text_file": "textbook_evidence/pdf-0915.txt",
+        "sha256": "5168b341b9b1b58fa641e4e71196fcac74601e62bb6c66f83f1f5fb8bd0a99a8"
+      },
+      {
+        "printed_page": 867,
+        "pdf_page": 916,
+        "text_file": "textbook_evidence/pdf-0916.txt",
+        "sha256": "15f45bf7924d3dee3b6a8950a1fd577316585954934d5cf1e31a83f7035ebc16"
+      },
+      {
+        "printed_page": 868,
+        "pdf_page": 917,
+        "text_file": "textbook_evidence/pdf-0917.txt",
+        "sha256": "2d649aec008fc6a45af43625ede07546ee9b0efa7a73ee564fbf328303349b2e"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q05",
+    "issue_resolution_index": 4
+  },
+  {
+    "id": "ISU-109-Q06",
+    "school": "ISU",
+    "year": 109,
+    "q": 6,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 6,
+      "pdf_page": 1,
+      "printed_page": 1,
+      "official_pdf_page": 19,
+      "regions": [
+        [
+          24,
+          435.87170000000015,
+          572.22,
+          487.23170000000016
+        ]
+      ],
+      "pixel_box": [
+        68,
+        1242,
+        1631,
+        1389
+      ],
+      "image": "questions/Q06.png",
+      "sha256": "6badd408336525bc47509e75a1d0464e86e14d3eda6088f72947938474bf0b01",
+      "width": 1563,
+      "height": 147,
+      "question_text": "6. 請問下列何種地質歷史時期，地球上僅有稱為盤古大陸(Pangaea)的大陸塊？\n(A) 寒武紀(Cambrian) (B) 奧陶紀(Ordovician)\n(C) 二疊紀(Permian) (D) 志留紀(Silurian)",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L1583",
+      "toc_line": 1583,
+      "chapter": 25,
+      "concept": "25.4",
+      "title": "Plate Tectonics",
+      "printed_page": 538,
+      "body_pdf_page": 587,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        41
+      ],
+      "chapter_label": "Ch25 The History of Life on Earth"
+    },
+    "secondary": [],
+    "primary_reason": "25.4 / Plate Tectonics：盤古大陸的形成及分裂屬板塊構造對生物史的影響。",
+    "secondary_reason": "無另列最小次條目；盤古會合機制位於Plate Tectonics印刷538–539，二疊紀符合時間；不把「僅有」當全年代無例外地理敘述。",
+    "answer_analysis": "C。教材印刷539描述晚古生代約2.5億年前大陸會合，四選項以二疊紀符合。題文「僅有」是地史簡化，不把全年代每個陸塊皆完全合一當精確古地理命題。",
+    "textbook_evidence": [
+      {
+        "printed_page": 530,
+        "pdf_page": 579,
+        "text_file": "textbook_evidence/pdf-0579.txt",
+        "sha256": "af304d05468712a15509b2180444909ccedd9f86fbeb55a1a10064bc02132d70"
+      },
+      {
+        "printed_page": 538,
+        "pdf_page": 587,
+        "text_file": "textbook_evidence/pdf-0587.txt",
+        "sha256": "024170870fb370d821591c25bbc78a61a7221b2e854c3838621d2ab2ea591840"
+      },
+      {
+        "printed_page": 539,
+        "pdf_page": 588,
+        "text_file": "textbook_evidence/pdf-0588.txt",
+        "sha256": "838d4e1dea16a4cf0dfebed1cd40f1d318542d3849fa3de45b2fc4f30bff7b13"
+      },
+      {
+        "printed_page": 540,
+        "pdf_page": 589,
+        "text_file": "textbook_evidence/pdf-0589.txt",
+        "sha256": "0b8d1cb982727b310b73cf43151a8b8a6d2773f572f7c0a49d8a7708580c1614"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q06",
+    "issue_resolution_index": 5
+  },
+  {
+    "id": "ISU-109-Q07",
+    "school": "ISU",
+    "year": 109,
+    "q": 7,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 7,
+      "pdf_page": 1,
+      "printed_page": 1,
+      "official_pdf_page": 19,
+      "regions": [
+        [
+          24,
+          486.3317000000002,
+          572.22,
+          537.6315999999999
+        ]
+      ],
+      "pixel_box": [
+        68,
+        1386,
+        1631,
+        1532
+      ],
+      "image": "questions/Q07.png",
+      "sha256": "38a3c301bd07f8ab6be76e0cd7eeeea00a6f5bf3714a04e8bc000f8e3ed76297",
+      "width": 1563,
+      "height": 146,
+      "question_text": "7. 請問下列何種方法可以知道兩個突變株，其突變是發生在相同或不同基因上？\n(A) Ames 試驗 (B) 測交(test cross)\n(C) 互補試驗(complementation analysis) (D) Fishers試驗",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L1254",
+      "toc_line": 1254,
+      "chapter": 20,
+      "concept": "20.2",
+      "title": "Determining Gene Function",
+      "printed_page": 426,
+      "body_pdf_page": 475,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        40
+      ],
+      "chapter_label": "Ch20 DNA Tools and Biotechnology"
+    },
+    "secondary": [],
+    "primary_reason": "20.2 / Determining Gene Function：由突變表型推論基因是否相同是基因功能鑑定，目錄未單列互補試驗。",
+    "secondary_reason": "無另列最小次條目；Alberts互補段明確區分同／不同基因功能缺失；20.2基因功能鑑定最接近真實目錄，沒有假造Complementation子目。",
+    "answer_analysis": "C。通常將兩個隱性功能缺失突變置於可檢驗互補的系統：不同基因可彼此提供功能，同基因通常不能。Campbell提供功能鑑定框架，Alberts互補專節支持實驗判讀；此規則有適用條件，不能套用所有顯性突變。",
+    "textbook_evidence": [
+      {
+        "printed_page": 426,
+        "pdf_page": 475,
+        "text_file": "textbook_evidence/pdf-0475.txt",
+        "sha256": "86a0a8b6340e7bb5c01cca0691bfcc75715c91c77a3203fe25aaa7748786fd3b"
+      },
+      {
+        "printed_page": 427,
+        "pdf_page": 476,
+        "text_file": "textbook_evidence/pdf-0476.txt",
+        "sha256": "f276200fda4f5ae079793825ca95c723687a41257dcdfb0e140151e328544698"
+      }
+    ],
+    "supplement_ids": [
+      "S07"
+    ],
+    "coverage_note": "Campbell提供列示分類原理；未直接涵蓋的細節由具名補充來源與同年釋疑支援，取得及實讀界線見來源紀錄。",
+    "second_review_id": "ISU-109-R2-Q07",
+    "issue_resolution_index": 6
+  },
+  {
+    "id": "ISU-109-Q08",
+    "school": "ISU",
+    "year": 109,
+    "q": 8,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 8,
+      "pdf_page": 1,
+      "printed_page": 1,
+      "official_pdf_page": 19,
+      "regions": [
+        [
+          24,
+          536.7316,
+          572.22,
+          603.6916
+        ]
+      ],
+      "pixel_box": [
+        68,
+        1530,
+        1631,
+        1721
+      ],
+      "image": "questions/Q08.png",
+      "sha256": "674abe188ed424709593340a038e400b7243e3aad33d962f15e091de7b07e00a",
+      "width": 1563,
+      "height": 191,
+      "question_text": "8. 請問下列何種情況最可能會讓大腸桿菌的色胺酸抑制子(trp repressor)阻斷色胺酸操縱子(trp operon)的\n轉錄作用？\n(A) 色胺酸與色胺酸抑制子不結合 (B) 色胺酸與色胺酸抑制子結合\n(C) 色胺酸抑制子與乳糖操作子結合後 (D) 色胺酸抑制子與誘導子結合時",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L1107",
+      "toc_line": 1107,
+      "chapter": 18,
+      "concept": "18.1",
+      "title": "Operons: The Basic Concept",
+      "printed_page": 366,
+      "body_pdf_page": 415,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        39
+      ],
+      "chapter_label": "Ch18 Regulation of Gene Expression"
+    },
+    "secondary": [
+      {
+        "id": "L1110",
+        "toc_line": 1110,
+        "chapter": 18,
+        "concept": "18.1",
+        "title": "Repressible and Inducible Operons: Two Types of Negative Gene Regulation",
+        "printed_page": 368,
+        "body_pdf_page": 417,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          39
+        ],
+        "chapter_label": "Ch18 Regulation of Gene Expression"
+      }
+    ],
+    "primary_reason": "18.1 / Operons: The Basic Concept：色胺酸作共同抑制物活化抑制子的直接機制位於操縱子基本概念印刷367。",
+    "secondary_reason": "18.1 / Repressible and Inducible Operons: Two Types of Negative Gene Regulation：可抑制操縱子屬負調控類型，另保留其最小條目。",
+    "answer_analysis": "B。色胺酸結合trp repressor後，使其可結合operator阻斷轉錄。不是色胺酸不結合，也不是與乳糖操作子結合；不混淆operator與promoter。",
+    "textbook_evidence": [
+      {
+        "printed_page": 366,
+        "pdf_page": 415,
+        "text_file": "textbook_evidence/pdf-0415.txt",
+        "sha256": "e59c8902d6ff70631c7beedbd661415115231bb5bb37a429f636abf8506b7577"
+      },
+      {
+        "printed_page": 367,
+        "pdf_page": 416,
+        "text_file": "textbook_evidence/pdf-0416.txt",
+        "sha256": "785c301476758f33430645e64dec8c628df0d7241f434c9d0477babcefd1001e"
+      },
+      {
+        "printed_page": 368,
+        "pdf_page": 417,
+        "text_file": "textbook_evidence/pdf-0417.txt",
+        "sha256": "f6c900dad4d6040b64dde984b9f63dd320217734f42ce93d45ae9acf5a4bfdeb"
+      },
+      {
+        "printed_page": 369,
+        "pdf_page": 418,
+        "text_file": "textbook_evidence/pdf-0418.txt",
+        "sha256": "19a2158e07c607e7c937382edc266212ce9846854f26c7507ac98db2fa257546"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q08",
+    "issue_resolution_index": 7
+  },
+  {
+    "id": "ISU-109-Q09",
+    "school": "ISU",
+    "year": 109,
+    "q": 9,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 9,
+      "pdf_page": 1,
+      "printed_page": 1,
+      "official_pdf_page": 19,
+      "regions": [
+        [
+          24,
+          602.7916,
+          572.22,
+          654.0916
+        ]
+      ],
+      "pixel_box": [
+        68,
+        1718,
+        1631,
+        1864
+      ],
+      "image": "questions/Q09.png",
+      "sha256": "bcff6c9e2ead9a779beab760557f53b1ad42e57675d5b467986980c5e26289dc",
+      "width": 1563,
+      "height": 146,
+      "question_text": "9. 請問下列何種個體其休止期細胞中含有一個巴爾小體(Barr body)？\n(A) 核型正常的男生 (B) 科林菲特氏症(Klinefelter)男生\n(C) 唐氏症男生 (D) 透納氏症(Turner syndrome)女生",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L0948",
+      "toc_line": 948,
+      "chapter": 15,
+      "concept": "15.2",
+      "title": "X Inactivation in Female Mammals",
+      "printed_page": 300,
+      "body_pdf_page": 349,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        39
+      ],
+      "chapter_label": "Ch15 The Chromosomal Basis of Inheritance"
+    },
+    "secondary": [
+      {
+        "id": "L0974",
+        "toc_line": 974,
+        "chapter": 15,
+        "concept": "15.4",
+        "title": "Human Conditions Due to Chromosomal Alterations",
+        "printed_page": 308,
+        "body_pdf_page": 357,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          39
+        ],
+        "chapter_label": "Ch15 The Chromosomal Basis of Inheritance"
+      }
+    ],
+    "primary_reason": "15.2 / X Inactivation in Female Mammals：巴爾小體數量的關鍵是X染色體不活化。",
+    "secondary_reason": "15.4 / Human Conditions Due to Chromosomal Alterations：XXY核型與Klinefelter表徵屬染色體改變疾病。",
+    "answer_analysis": "B。典型XXY個體有一條不活化X；正常XY及唐氏症XY男性、典型XO透納氏症不具有一個Barr body。此為通常的核型判讀，不保證每個細胞切片都可見清楚小體；「休止期」按間期語境。",
+    "textbook_evidence": [
+      {
+        "printed_page": 300,
+        "pdf_page": 349,
+        "text_file": "textbook_evidence/pdf-0349.txt",
+        "sha256": "6ae9d990a2fdc6b2f21613e6212f04dfe766b46b224c08e3ed21a1ccfc5c3e71"
+      },
+      {
+        "printed_page": 308,
+        "pdf_page": 357,
+        "text_file": "textbook_evidence/pdf-0357.txt",
+        "sha256": "985752ae91132e502a4385656c987fa7defe5a31468aa40df42e13f792d59ad0"
+      },
+      {
+        "printed_page": 309,
+        "pdf_page": 358,
+        "text_file": "textbook_evidence/pdf-0358.txt",
+        "sha256": "5db36d74d75f9071ac7ae7deeecb9685faa8a67f91ca140fd392f9a2504290ff"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q09",
+    "issue_resolution_index": 8
+  },
+  {
+    "id": "ISU-109-Q10",
+    "school": "ISU",
+    "year": 109,
+    "q": 10,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 10,
+      "pdf_page": 1,
+      "printed_page": 1,
+      "official_pdf_page": 19,
+      "regions": [
+        [
+          24,
+          653.1916,
+          572.22,
+          718.3516999999999
+        ]
+      ],
+      "pixel_box": [
+        68,
+        1862,
+        1631,
+        2048
+      ],
+      "image": "questions/Q10.png",
+      "sha256": "b60d505955d396cb27f6dead5bff651e1391e7c287099701b9d816c9c305dca9",
+      "width": 1563,
+      "height": 186,
+      "question_text": "10. 請問a、b、c、d四個基因位於同一條染色體上，若a 和b間之互換率為10%；a和c 間之互換率為\n8%；a 和d間之互換率為30%；b和c 間之互換率為18%；b和d間之互換率為20%，則此四個基\n因相對順序為何？\n(A) a-b-c-d (B) b-a-c-d (C) c-a-b-d (D) d-a-b-c",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L0961",
+      "toc_line": 961,
+      "chapter": 15,
+      "concept": "15.3",
+      "title": "Mapping the Distance Between Genes Using Recombination Data: Scientific Inquiry",
+      "printed_page": 305,
+      "body_pdf_page": 354,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        39
+      ],
+      "chapter_label": "Ch15 The Chromosomal Basis of Inheritance"
+    },
+    "secondary": [],
+    "primary_reason": "15.3 / Mapping the Distance Between Genes Using Recombination Data: Scientific Inquiry：由重組頻率求相對位置，直接屬連鎖圖譜距離推算。",
+    "secondary_reason": "無另列最小次條目；依ab10、ac8、bc18推c-a-b，再依ad30、bd20置d於b外側；五組距離全部吻合c-a-b-d及其鏡像，排除其餘三選項。",
+    "answer_analysis": "C。取a=0、b=10，因ac=8且bc=18得c=-8；ad=30且bd=20得d=30，順序c-a-b-d，反向等價。依題設以頻率近似圖距；長距離雙交換會低估距離，不能把任意實際重組率視作嚴格可加。",
+    "textbook_evidence": [
+      {
+        "printed_page": 305,
+        "pdf_page": 354,
+        "text_file": "textbook_evidence/pdf-0354.txt",
+        "sha256": "d7a3836f5b9c6380908a9a72462c9e92e5d47f69a63d94fa2dd6414040aa5242"
+      },
+      {
+        "printed_page": 306,
+        "pdf_page": 355,
+        "text_file": "textbook_evidence/pdf-0355.txt",
+        "sha256": "babca5e1d6540bcaf259626eb2b90168d69dab9b3ec3fe353ab06dcc2e75042c"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q10",
+    "issue_resolution_index": 9
+  },
+  {
+    "id": "ISU-109-Q11",
+    "school": "ISU",
+    "year": 109,
+    "q": 11,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 11,
+      "pdf_page": 1,
+      "printed_page": 1,
+      "official_pdf_page": 19,
+      "regions": [
+        [
+          24,
+          717.4517,
+          572.22,
+          784
+        ]
+      ],
+      "pixel_box": [
+        68,
+        2045,
+        1631,
+        2235
+      ],
+      "image": "questions/Q11.png",
+      "sha256": "e0eb0804691da85bbf148bd11015404168e1d43753919e85d19fc14941ec0133",
+      "width": 1563,
+      "height": 190,
+      "question_text": "11. 在老鼠的族群調查，其中32隻為黑色，基因型為BB；50隻為灰色，基因型為Bb；18隻為白色，\n基因型為bb。請問B的基因頻率為多少，而出現灰老鼠的頻率為多少？\n(A) 0.57; 82% (B) 0.57; 50% (C) 0.43; 18% (D) 0.43; 68%",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L1442",
+      "toc_line": 1442,
+      "chapter": 23,
+      "concept": "23.2",
+      "title": "Gene Pools and Allele Frequencies",
+      "printed_page": 490,
+      "body_pdf_page": 539,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        41
+      ],
+      "chapter_label": "Ch23 The Evolution of Populations"
+    },
+    "secondary": [],
+    "primary_reason": "23.2 / Gene Pools and Allele Frequencies：題目要求由觀察到的基因型數求等位基因與表型頻率。",
+    "secondary_reason": "無另列最小次條目；獨立以等位基因總数200計114個B，得0.57；灰色50/100，直接觀察即可，主目確為Gene Pools and Allele Frequencies。",
+    "answer_analysis": "B。總數100；B頻率=(2×32+50)/(2×100)=0.57，灰鼠頻率=50/100=50%。直接計數，不須假設Hardy–Weinberg平衡，也不以0.57平方推估已觀察基因型。",
+    "textbook_evidence": [
+      {
+        "printed_page": 490,
+        "pdf_page": 539,
+        "text_file": "textbook_evidence/pdf-0539.txt",
+        "sha256": "4e9ee38641a9378424b7cd97369021fe3d056f8bcbd8253040de35724ad9186f"
+      },
+      {
+        "printed_page": 491,
+        "pdf_page": 540,
+        "text_file": "textbook_evidence/pdf-0540.txt",
+        "sha256": "0126bcd251c1b31178e2c9b61c17339265e311b7b3c6c1a7d3bd504eebd02d3d"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q11",
+    "issue_resolution_index": 10
+  },
+  {
+    "id": "ISU-109-Q12",
+    "school": "ISU",
+    "year": 109,
+    "q": 12,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 12,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "official_pdf_page": 20,
+      "regions": [
+        [
+          24,
+          166.35169999999994,
+          572.22,
+          200.25169999999994
+        ]
+      ],
+      "pixel_box": [
+        68,
+        474,
+        1631,
+        571
+      ],
+      "image": "questions/Q12.png",
+      "sha256": "d7f7c3888b7d0e5ce3e46680efd7e35a3349e25f9da8cc9b45e3b3f4719e8fe0",
+      "width": 1563,
+      "height": 97,
+      "question_text": "12. 請問人類細胞在前期I (prophase I)有幾個四分體(tetrads)？\n(A) 12 (B) 23 (C) 46 (D) 92",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L0837",
+      "toc_line": 837,
+      "chapter": 13,
+      "concept": "13.3",
+      "title": "The Stages of Meiosis",
+      "printed_page": 259,
+      "body_pdf_page": 308,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        38
+      ],
+      "chapter_label": "Ch13 Meiosis and Sexual Life Cycles"
+    },
+    "secondary": [
+      {
+        "id": "L0824",
+        "toc_line": 824,
+        "chapter": 13,
+        "concept": "13.2",
+        "title": "Sets of Chromosomes in Human Cells",
+        "printed_page": 256,
+        "body_pdf_page": 305,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          38
+        ],
+        "chapter_label": "Ch13 Meiosis and Sexual Life Cycles"
+      }
+    ],
+    "primary_reason": "13.3 / The Stages of Meiosis：前期I同源染色體聯會形成四分體，直接對應減數分裂階段。",
+    "secondary_reason": "13.2 / Sets of Chromosomes in Human Cells：人類正常二倍體23對染色體提供四分體數目的計數前提。",
+    "answer_analysis": "B。正常二倍體減數分裂前期I有23個二價體，每個含四條染色分體；46條染色體及92條染色分體不是四分體數。男性性染色體在可配對區聯會，不代表X與Y全長同源。",
+    "textbook_evidence": [
+      {
+        "printed_page": 256,
+        "pdf_page": 305,
+        "text_file": "textbook_evidence/pdf-0305.txt",
+        "sha256": "f25a1af167a39db2c5600c047d005c76763f99545587194e2b800c9a45982b45"
+      },
+      {
+        "printed_page": 257,
+        "pdf_page": 306,
+        "text_file": "textbook_evidence/pdf-0306.txt",
+        "sha256": "60b9eff0c2fe6dc274aba327e68f3a63f87a86c3ed7ee4df27ccb0ce13cd3e78"
+      },
+      {
+        "printed_page": 259,
+        "pdf_page": 308,
+        "text_file": "textbook_evidence/pdf-0308.txt",
+        "sha256": "c22bea47ebb00e5fa913d935310d73221c9117e771ee2e371bd60b70b148a5e2"
+      },
+      {
+        "printed_page": 260,
+        "pdf_page": 309,
+        "text_file": "textbook_evidence/pdf-0309.txt",
+        "sha256": "733de1f55a4287334d2aac0c90de46c89d2fa3d9b6ab9e7b83ad574f0ac294d7"
+      },
+      {
+        "printed_page": 261,
+        "pdf_page": 310,
+        "text_file": "textbook_evidence/pdf-0310.txt",
+        "sha256": "4574fe40bde525c1b66a11b177f133f40241fe3d760c1ee79735516c09ce3c08"
+      },
+      {
+        "printed_page": 262,
+        "pdf_page": 311,
+        "text_file": "textbook_evidence/pdf-0311.txt",
+        "sha256": "035d6b94c860535025199c48e2157a624858d1cebce7ccbf717d25fa5564a8ce"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q12",
+    "issue_resolution_index": 11
+  },
+  {
+    "id": "ISU-109-Q13",
+    "school": "ISU",
+    "year": 109,
+    "q": 13,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 13,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "official_pdf_page": 20,
+      "regions": [
+        [
+          24,
+          199.35169999999994,
+          572.22,
+          250.71169999999998
+        ]
+      ],
+      "pixel_box": [
+        68,
+        568,
+        1631,
+        715
+      ],
+      "image": "questions/Q13.png",
+      "sha256": "c4e4d7675040482303ef498b81af8bff04a10a4ca424bc4f4729e22ecf1835de",
+      "width": 1563,
+      "height": 147,
+      "question_text": "13. 請問下列何種情況下會讓大腸桿菌有較高表達量的乳糖操縱子(lac operon)？\n(A) 葡萄糖比乳糖多時 (B) cyclic AMP及乳糖濃度高時\n(C) cyclic AMP濃度低時 (D) 乳糖濃度低時",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L1113",
+      "toc_line": 1113,
+      "chapter": 18,
+      "concept": "18.1",
+      "title": "Positive Gene Regulation",
+      "printed_page": 369,
+      "body_pdf_page": 418,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        39
+      ],
+      "chapter_label": "Ch18 Regulation of Gene Expression"
+    },
+    "secondary": [
+      {
+        "id": "L1110",
+        "toc_line": 1110,
+        "chapter": 18,
+        "concept": "18.1",
+        "title": "Repressible and Inducible Operons: Two Types of Negative Gene Regulation",
+        "printed_page": 368,
+        "body_pdf_page": 417,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          39
+        ],
+        "chapter_label": "Ch18 Regulation of Gene Expression"
+      }
+    ],
+    "primary_reason": "18.1 / Positive Gene Regulation：高cAMP透過CAP促進lac轉錄，辨別較高表達量的關鍵為正調控。",
+    "secondary_reason": "18.1 / Repressible and Inducible Operons: Two Types of Negative Gene Regulation：乳糖衍生的異乳糖解除lac repressor抑制，須同時保留可誘導負調控。",
+    "answer_analysis": "B。高cAMP且有乳糖可同時具CAP活化與解除抑制。直接結合抑制子的誘導物為異乳糖，原題以乳糖作培養條件；不能僅有cAMP而忽略抑制子。",
+    "textbook_evidence": [
+      {
+        "printed_page": 368,
+        "pdf_page": 417,
+        "text_file": "textbook_evidence/pdf-0417.txt",
+        "sha256": "f6c900dad4d6040b64dde984b9f63dd320217734f42ce93d45ae9acf5a4bfdeb"
+      },
+      {
+        "printed_page": 369,
+        "pdf_page": 418,
+        "text_file": "textbook_evidence/pdf-0418.txt",
+        "sha256": "19a2158e07c607e7c937382edc266212ce9846854f26c7507ac98db2fa257546"
+      },
+      {
+        "printed_page": 370,
+        "pdf_page": 419,
+        "text_file": "textbook_evidence/pdf-0419.txt",
+        "sha256": "ff4dea1b9cec2f59b7b93ac0132fef4c0c5bf6d8936068fc80a654f9afdbb25e"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q13",
+    "issue_resolution_index": 12
+  },
+  {
+    "id": "ISU-109-Q14",
+    "school": "ISU",
+    "year": 109,
+    "q": 14,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 14,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "official_pdf_page": 20,
+      "regions": [
+        [
+          24,
+          249.81169999999997,
+          572.22,
+          301.11170000000004
+        ]
+      ],
+      "pixel_box": [
+        68,
+        712,
+        1631,
+        858
+      ],
+      "image": "questions/Q14.png",
+      "sha256": "5b0e3864b64c6e0560b0d329a7120d704a86165ea829dca07817b1cf454043d0",
+      "width": 1563,
+      "height": 146,
+      "question_text": "14. 請問下列何者為植物進行卡爾文循環(Calvin cycle)的場所？\n(A) 類囊體內部(interior of the thylakoid) (B) 類囊體膜(thylakoid membrane)\n(C) 葉綠體基質(stroma of the chloroplast) (D) 葉綠體外膜(outer membrane)",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L0665",
+      "toc_line": 665,
+      "chapter": 10,
+      "concept": "10.4",
+      "title": "The Calvin cycle uses the chemical energy of ATP and NADPH to reduce CO2 to sugar",
+      "printed_page": 201,
+      "body_pdf_page": 250,
+      "kind": "concept",
+      "toc_pdf_pages": [
+        37
+      ],
+      "chapter_label": "Ch10 Photosynthesis"
+    },
+    "secondary": [],
+    "primary_reason": "10.4 / The Calvin cycle uses the chemical energy of ATP and NADPH to reduce CO2 to sugar：Calvin循環本身的Concept 10.4沒有更小目錄子項，為適當最小條目。",
+    "secondary_reason": "無另列最小次條目；PDF目錄37的10.4無更細子目；正文191–192的stroma與201–202一致，採Concept本身即最小真實條目。",
+    "answer_analysis": "C。Calvin循環位於葉綠體基質；印刷191–192概覽圖文與201–202循環一致。類囊體膜進行光反應，不是碳固定循環的位置。",
+    "textbook_evidence": [
+      {
+        "printed_page": 191,
+        "pdf_page": 240,
+        "text_file": "textbook_evidence/pdf-0240.txt",
+        "sha256": "a8a5b9cc35d3b37f459d83d813b11e574ce1bfac16c28cb463a08711c8fa52b3"
+      },
+      {
+        "printed_page": 192,
+        "pdf_page": 241,
+        "text_file": "textbook_evidence/pdf-0241.txt",
+        "sha256": "e924f48b786a899e9ff0b86f2b0a5092da155d8a2ad49048174273cdd2593626"
+      },
+      {
+        "printed_page": 201,
+        "pdf_page": 250,
+        "text_file": "textbook_evidence/pdf-0250.txt",
+        "sha256": "fea698a84ca660a6cdb4d86bfb9f6d5dea0c370bc2431f3fd9d3a07571885fca"
+      },
+      {
+        "printed_page": 202,
+        "pdf_page": 251,
+        "text_file": "textbook_evidence/pdf-0251.txt",
+        "sha256": "91166f522d8831502828f285c4669f3a652c4078c62746f673e08646a83d7bd6"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q14",
+    "issue_resolution_index": 13
+  },
+  {
+    "id": "ISU-109-Q15",
+    "school": "ISU",
+    "year": 109,
+    "q": 15,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 15,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "official_pdf_page": 20,
+      "regions": [
+        [
+          24,
+          300.21170000000006,
+          572.22,
+          335.91170000000005
+        ]
+      ],
+      "pixel_box": [
+        68,
+        856,
+        1631,
+        957
+      ],
+      "image": "questions/Q15.png",
+      "sha256": "1d73c8e607c133fd9c16f7f02d5a2fa41c12747c2c99819cfabc50bfcad4e877",
+      "width": 1563,
+      "height": 101,
+      "question_text": "15. 請問下列何者是含羞草的葉能及時反應膨壓改變而產生運動的特殊膨大多細胞構造？\n(A) 葉枕(pulvini) (B) 葉柄(petioles) (C) 氣孔(stomata) (D) 托葉(stipules)",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L2586",
+      "toc_line": 2586,
+      "chapter": 39,
+      "concept": "39.4",
+      "title": "Mechanical Stimuli",
+      "printed_page": 861,
+      "body_pdf_page": 910,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        45
+      ],
+      "chapter_label": "Ch39 Plant Responses to Internal and External Signals"
+    },
+    "secondary": [],
+    "primary_reason": "39.4 / Mechanical Stimuli：含羞草受機械刺激的快速膨壓運動直接屬Mechanical Stimuli。",
+    "secondary_reason": "無另列最小次條目；印刷861–862的pulvini為快速膨壓運動，選A，Mechanical Stimuli直接對應；無需另加生長向性。",
+    "answer_analysis": "A。葉枕由運動細胞構成，離子與水移動改變膨壓使葉片迅速運動；不是生長素造成的緩慢生長向性，也不把整個葉柄視為特化膨大部位。",
+    "textbook_evidence": [
+      {
+        "printed_page": 861,
+        "pdf_page": 910,
+        "text_file": "textbook_evidence/pdf-0910.txt",
+        "sha256": "8e1d5d7fd6f716194fca4307b9da5d260c7bb4d3397db3aada8692c458d22ee4"
+      },
+      {
+        "printed_page": 862,
+        "pdf_page": 911,
+        "text_file": "textbook_evidence/pdf-0911.txt",
+        "sha256": "db12646d93d5f4e7fbd9b1f523fe992e63fdfb1907e7f5ddae3a68bb8bb35e60"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q15",
+    "issue_resolution_index": 14
+  },
+  {
+    "id": "ISU-109-Q16",
+    "school": "ISU",
+    "year": 109,
+    "q": 16,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 16,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "official_pdf_page": 20,
+      "regions": [
+        [
+          24,
+          335.0117000000001,
+          572.22,
+          386.3717000000001
+        ]
+      ],
+      "pixel_box": [
+        68,
+        955,
+        1631,
+        1101
+      ],
+      "image": "questions/Q16.png",
+      "sha256": "15f483540dd1fefcea7d87e41f28ffd189434e13fe3becf55837cebd203e63a5",
+      "width": 1563,
+      "height": 146,
+      "question_text": "16. 請問下列何者是當棲地破碎化後隨之而來的面積縮小等作用所將造成的生態保育最大問題？\n(A) 邊緣效應(edge effect) (B) 缺乏生態廊道(ecological corridor)\n(C) 過度開發(overexploitation) (D) 入侵生物(invasive species)",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L3768",
+      "toc_line": 3768,
+      "chapter": 56,
+      "concept": "56.3",
+      "title": "Landscape Structure and Biodiversity",
+      "printed_page": 1270,
+      "body_pdf_page": 1319,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        50
+      ],
+      "chapter_label": "Ch56 Conservation Biology and Global Change"
+    },
+    "secondary": [
+      {
+        "id": "L3745",
+        "toc_line": 3745,
+        "chapter": 56,
+        "concept": "56.1",
+        "title": "Threats to Biodiversity",
+        "printed_page": 1263,
+        "body_pdf_page": 1312,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          50
+        ],
+        "chapter_label": "Ch56 Conservation Biology and Global Change"
+      }
+    ],
+    "primary_reason": "56.3 / Landscape Structure and Biodiversity：破碎棲地邊緣與核心比例改變屬景觀結構與多樣性。",
+    "secondary_reason": "56.1 / Threats to Biodiversity：棲地破壞是造成破碎化的生物多樣性威脅，保留其背景條目。",
+    "answer_analysis": "A。面積縮小及破碎化增加邊緣相對核心比例，改變微氣候與物種互動。廊道可緩和隔離，但題幹問面積縮小伴隨的問題；「最大」為考題選項判讀，不主張所有保育場域排序相同。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1263,
+        "pdf_page": 1312,
+        "text_file": "textbook_evidence/pdf-1312.txt",
+        "sha256": "d3784ceefbfe8838034cf38603982896538ba3f8dcd2041791b4ece10fe097c8"
+      },
+      {
+        "printed_page": 1264,
+        "pdf_page": 1313,
+        "text_file": "textbook_evidence/pdf-1313.txt",
+        "sha256": "ca8fbf18f61e2585c541327e6ce0e0af0b5549d9537779df0097f2890aaeabad"
+      },
+      {
+        "printed_page": 1270,
+        "pdf_page": 1319,
+        "text_file": "textbook_evidence/pdf-1319.txt",
+        "sha256": "ee747468f95a027eb042c34eaae5c965f5c3715decef23310d6ac2be08109773"
+      },
+      {
+        "printed_page": 1271,
+        "pdf_page": 1320,
+        "text_file": "textbook_evidence/pdf-1320.txt",
+        "sha256": "b850e73323fd26f4d3852ba1b2cfc433c24f518abd32ca340201b6deb9ef5a2f"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q16",
+    "issue_resolution_index": 15
+  },
+  {
+    "id": "ISU-109-Q17",
+    "school": "ISU",
+    "year": 109,
+    "q": 17,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 17,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "official_pdf_page": 20,
+      "regions": [
+        [
+          24,
+          385.4717000000001,
+          572.22,
+          468.03170000000017
+        ]
+      ],
+      "pixel_box": [
+        68,
+        1099,
+        1631,
+        1334
+      ],
+      "image": "questions/Q17.png",
+      "sha256": "82ddd4da9b86b03af19f40a53ad3de62f95f559f20cf7b2eca183436d52a5555",
+      "width": 1563,
+      "height": 235,
+      "question_text": "17. 請問下列對「楓糖尿症(maple syrup urine disease)」的描述何者錯誤？\n(A) 病人體內苯丙胺酸(phenylalanine)無法被代謝\n(B) 為體染色體隱性遺傳疾病\n(C) 病人缺乏支鏈α-酮酸脫氫酶(branched-chain alpha-keto acid dehydrogenase)\n(D) 病人尿液會呈現楓葉糖漿之氣味",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L0608",
+      "toc_line": 608,
+      "chapter": 9,
+      "concept": "9.6",
+      "title": "The Versatility of Catabolism",
+      "printed_page": 182,
+      "body_pdf_page": 231,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        37
+      ],
+      "chapter_label": "Ch09 Cellular Respiration and Fermentation"
+    },
+    "secondary": [
+      {
+        "id": "L0911",
+        "toc_line": 911,
+        "chapter": 14,
+        "concept": "14.4",
+        "title": "Recessively Inherited Disorders",
+        "printed_page": 285,
+        "body_pdf_page": 334,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          38
+        ],
+        "chapter_label": "Ch14 Mendel and the Gene Idea"
+      }
+    ],
+    "primary_reason": "9.6 / The Versatility of Catabolism：錯誤選項涉及胺基酸代謝底物，主分類以分解代謝而非單看遺傳病名稱。",
+    "secondary_reason": "14.4 / Recessively Inherited Disorders：B選項的體染色體隱性模式亦須查核，另保留隱性遺傳疾病。",
+    "answer_analysis": "A為錯誤敘述。楓糖尿症涉及支鏈α-酮酸脫氫酶複合體，使亮胺酸、異亮胺酸、纈胺酸及其酮酸代謝受阻；苯丙胺酸代謝障礙是典型PKU線索。GeneReviews補足Campbell未列的具體疾病；完整原題英文確為maple syrup urine disease。",
+    "textbook_evidence": [
+      {
+        "printed_page": 182,
+        "pdf_page": 231,
+        "text_file": "textbook_evidence/pdf-0231.txt",
+        "sha256": "18aca69ed2de96de07cf93e15dee2ea96ac38a68b9abfbf7690c70658ce47e7a"
+      },
+      {
+        "printed_page": 183,
+        "pdf_page": 232,
+        "text_file": "textbook_evidence/pdf-0232.txt",
+        "sha256": "e0e164e1bd6e9f4f1a8604dfa0b89bbb60492486e6a5a6597ba430818884aaf7"
+      },
+      {
+        "printed_page": 285,
+        "pdf_page": 334,
+        "text_file": "textbook_evidence/pdf-0334.txt",
+        "sha256": "86222ba3b5b909132b55a566280c1a66a674f717e36fa83132670dea475f43bd"
+      },
+      {
+        "printed_page": 286,
+        "pdf_page": 335,
+        "text_file": "textbook_evidence/pdf-0335.txt",
+        "sha256": "046527c5d36d75cdb2a84bbc9a44d2ef321c97348377d9a04b8336696fc53df2"
+      },
+      {
+        "printed_page": 287,
+        "pdf_page": 336,
+        "text_file": "textbook_evidence/pdf-0336.txt",
+        "sha256": "e558fc24e327acf3f418f41a20c0aa3fa2919abb5dddd43097c5c2dc15cfc627"
+      }
+    ],
+    "supplement_ids": [
+      "S17"
+    ],
+    "coverage_note": "Campbell提供列示分類原理；未直接涵蓋的細節由具名補充來源與同年釋疑支援，取得及實讀界線見來源紀錄。",
+    "second_review_id": "ISU-109-R2-Q17",
+    "issue_resolution_index": 16
+  },
+  {
+    "id": "ISU-109-Q18",
+    "school": "ISU",
+    "year": 109,
+    "q": 18,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 18,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "official_pdf_page": 20,
+      "regions": [
+        [
+          24,
+          467.1317000000002,
+          572.22,
+          549.6317000000003
+        ]
+      ],
+      "pixel_box": [
+        68,
+        1331,
+        1631,
+        1567
+      ],
+      "image": "questions/Q18.png",
+      "sha256": "508c48ce65bef7b2a706fd7189ff3ca9562fbdebbf5aa81f677164518aa7c438",
+      "width": 1563,
+      "height": 236,
+      "question_text": "18. 請問當一個基因之啟動子序列發生突變時，可能會造成下列何種後果？\n(A) 基因之 mRNA 無法被正確轉譯\n(B) 該基因之 mRNA 序列會改變\n(C) 該基因之轉錄速率會改變\n(D) 該基因之pre-mRNA無法正確被剪接成 mRNA",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L1126",
+      "toc_line": 1126,
+      "chapter": 18,
+      "concept": "18.2",
+      "title": "Regulation of Transcription Initiation",
+      "printed_page": 373,
+      "body_pdf_page": 422,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        39
+      ],
+      "chapter_label": "Ch18 Regulation of Gene Expression"
+    },
+    "secondary": [
+      {
+        "id": "L1052",
+        "toc_line": 1052,
+        "chapter": 17,
+        "concept": "17.2",
+        "title": "Synthesis of an RNA Transcript",
+        "printed_page": 342,
+        "body_pdf_page": 391,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          39
+        ],
+        "chapter_label": "Ch17 Gene Expression: From Gene to Protein"
+      }
+    ],
+    "primary_reason": "18.2 / Regulation of Transcription Initiation：啟動子序列改變影響起始複合體募集及轉錄速率，主屬轉錄起始調控。",
+    "secondary_reason": "17.2 / Synthesis of an RNA Transcript：轉錄合成條目補足RNA聚合酶辨認啟動子的機制。",
+    "answer_analysis": "C為最直接後果。突變可提高、降低或不明顯改變轉錄率，非必然完全停止。啟動子定義有時涵蓋起始點附近，故不把B寫成在任何情況絕不可能；題設未提供變異位置，不能直接推論轉譯或剪接缺陷。",
+    "textbook_evidence": [
+      {
+        "printed_page": 342,
+        "pdf_page": 391,
+        "text_file": "textbook_evidence/pdf-0391.txt",
+        "sha256": "4b99eada22ebd57a42b032a8f68a6a819c70d9376cfa907b787aec7304f9547e"
+      },
+      {
+        "printed_page": 343,
+        "pdf_page": 392,
+        "text_file": "textbook_evidence/pdf-0392.txt",
+        "sha256": "eca7ee347d6c5c4b42fb502890431d6552de75eff743253e8ec893ae907690ec"
+      },
+      {
+        "printed_page": 344,
+        "pdf_page": 393,
+        "text_file": "textbook_evidence/pdf-0393.txt",
+        "sha256": "63e41535926cd0199d74d3e4b265a5159d1e24176719f6bff164f836e75b00f4"
+      },
+      {
+        "printed_page": 373,
+        "pdf_page": 422,
+        "text_file": "textbook_evidence/pdf-0422.txt",
+        "sha256": "5b9493db3a9e7d3cfa1297c87bfea7c30191f36a1b390dc9c56c1cdda81382e2"
+      },
+      {
+        "printed_page": 374,
+        "pdf_page": 423,
+        "text_file": "textbook_evidence/pdf-0423.txt",
+        "sha256": "0a81772823424cb869830a72b3c53d5be42e8a213b3ea1a4a7772367530d9d0d"
+      },
+      {
+        "printed_page": 375,
+        "pdf_page": 424,
+        "text_file": "textbook_evidence/pdf-0424.txt",
+        "sha256": "0264a6212ae333f3432d21b4b1ef954aefd97379f3ec925be9f3bb8cda2cb5fa"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q18",
+    "issue_resolution_index": 17
+  },
+  {
+    "id": "ISU-109-Q19",
+    "school": "ISU",
+    "year": 109,
+    "q": 19,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 19,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "official_pdf_page": 20,
+      "regions": [
+        [
+          24,
+          548.7317000000003,
+          572.22,
+          600.0917
+        ]
+      ],
+      "pixel_box": [
+        68,
+        1564,
+        1631,
+        1710
+      ],
+      "image": "questions/Q19.png",
+      "sha256": "838e3dfdf0da920352fdcb0b988637a1d7de2308ba74d2caaa657a3660907c35",
+      "width": 1563,
+      "height": 146,
+      "question_text": "19. 請問下列何種酵素為膽固醇合成之限速酶(rate-limiting enzyme)？\n(A) HMG-CoA合成酶 (B) HMG-CoA還原酶\n(C) Pamitoly-CoA還原酶 (D) Malonyl-CoA還原酶",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L0611",
+      "toc_line": 611,
+      "chapter": 9,
+      "concept": "9.6",
+      "title": "Biosynthesis (Anabolic Pathways)",
+      "printed_page": 183,
+      "body_pdf_page": 232,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        37
+      ],
+      "chapter_label": "Ch09 Cellular Respiration and Fermentation"
+    },
+    "secondary": [
+      {
+        "id": "L0255",
+        "toc_line": 255,
+        "chapter": 5,
+        "concept": "5.3",
+        "title": "Steroids",
+        "printed_page": 75,
+        "body_pdf_page": 124,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          36
+        ],
+        "chapter_label": "Ch05 The Structure and Function of Large Biological Molecules"
+      }
+    ],
+    "primary_reason": "9.6 / Biosynthesis (Anabolic Pathways)：膽固醇合成為合成代謝，目錄未獨立列膽固醇限速酵素。",
+    "secondary_reason": "5.3 / Steroids：Steroids提供膽固醇的化學類型與生物功能。",
+    "answer_analysis": "B。HMG-CoA reductase將HMG-CoA還原為mevalonate，是經典限速步驟；不等同HMG-CoA synthase。Campbell只有上位生合成框架，具體反應由公開生化教材支持；C選項Pamitoly-CoA拼字原樣保留。",
+    "textbook_evidence": [
+      {
+        "printed_page": 75,
+        "pdf_page": 124,
+        "text_file": "textbook_evidence/pdf-0124.txt",
+        "sha256": "d184f43e772cd66cb1f31bb04beb85e674796a1f23cd80adb246e3346c4ba068"
+      },
+      {
+        "printed_page": 183,
+        "pdf_page": 232,
+        "text_file": "textbook_evidence/pdf-0232.txt",
+        "sha256": "e0e164e1bd6e9f4f1a8604dfa0b89bbb60492486e6a5a6597ba430818884aaf7"
+      }
+    ],
+    "supplement_ids": [
+      "S19"
+    ],
+    "coverage_note": "Campbell提供列示分類原理；未直接涵蓋的細節由具名補充來源與同年釋疑支援，取得及實讀界線見來源紀錄。",
+    "second_review_id": "ISU-109-R2-Q19",
+    "issue_resolution_index": 18
+  },
+  {
+    "id": "ISU-109-Q20",
+    "school": "ISU",
+    "year": 109,
+    "q": 20,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 20,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "official_pdf_page": 20,
+      "regions": [
+        [
+          24,
+          599.1917,
+          572.22,
+          650.4916999999999
+        ]
+      ],
+      "pixel_box": [
+        68,
+        1708,
+        1631,
+        1854
+      ],
+      "image": "questions/Q20.png",
+      "sha256": "143fe553cb373316a3a034485ecd7351cd6a60e8cded9601204ed10c9d0e71e3",
+      "width": 1563,
+      "height": 146,
+      "question_text": "20. 請問氧合酶(oxygenase)為下列何種胺基酸代謝所需？\n(A) 組胺酸(histidine) (B) 絲胺酸(serine)\n(C) 酪胺酸(tyrosine) (D) 丙胺酸(alanine)",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L0608",
+      "toc_line": 608,
+      "chapter": 9,
+      "concept": "9.6",
+      "title": "The Versatility of Catabolism",
+      "printed_page": 182,
+      "body_pdf_page": 231,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        37
+      ],
+      "chapter_label": "Ch09 Cellular Respiration and Fermentation"
+    },
+    "secondary": [],
+    "primary_reason": "9.6 / The Versatility of Catabolism：題目要求胺基酸分解途徑中的氧合酵素，屬分解代謝多樣性。",
+    "secondary_reason": "無另列最小次條目；IUBMB EC1.13.11.5反應式直接用O2開環，對應tyrosine；分類維持胺基酸分解，不移至電子傳遞。",
+    "answer_analysis": "C。酪胺酸分解中的homogentisate 1,2-dioxygenase以O2參與芳環開環，IUBMB EC1.13.11.5反應式可核查。Campbell不逐列此路徑；不將oxygenase等同氧化磷酸化的末端氧受體。原題「酪胺酸」與通常「酪胺酸」用字差異保留。",
+    "textbook_evidence": [
+      {
+        "printed_page": 182,
+        "pdf_page": 231,
+        "text_file": "textbook_evidence/pdf-0231.txt",
+        "sha256": "18aca69ed2de96de07cf93e15dee2ea96ac38a68b9abfbf7690c70658ce47e7a"
+      },
+      {
+        "printed_page": 183,
+        "pdf_page": 232,
+        "text_file": "textbook_evidence/pdf-0232.txt",
+        "sha256": "e0e164e1bd6e9f4f1a8604dfa0b89bbb60492486e6a5a6597ba430818884aaf7"
+      }
+    ],
+    "supplement_ids": [
+      "S20"
+    ],
+    "coverage_note": "Campbell提供列示分類原理；未直接涵蓋的細節由具名補充來源與同年釋疑支援，取得及實讀界線見來源紀錄。",
+    "second_review_id": "ISU-109-R2-Q20",
+    "issue_resolution_index": 19
+  },
+  {
+    "id": "ISU-109-Q21",
+    "school": "ISU",
+    "year": 109,
+    "q": 21,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 21,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "official_pdf_page": 20,
+      "regions": [
+        [
+          24,
+          649.5917,
+          572.22,
+          702.7516999999999
+        ]
+      ],
+      "pixel_box": [
+        68,
+        1852,
+        1631,
+        2003
+      ],
+      "image": "questions/Q21.png",
+      "sha256": "3cd374baf406801459f05bce291c96b6c045cce3065dfa0f6aadfdb73dfe6e86",
+      "width": 1563,
+      "height": 151,
+      "question_text": "21. 請問下列何種現象可說明一個基因對會遮蔽非等位基因對的表現？\n(A) 顯性 (B) 上位(epistasis)\n(C) 共顯性(codominance) (D) 隱性",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L0895",
+      "toc_line": 895,
+      "chapter": 14,
+      "concept": "14.3",
+      "title": "Extending Mendelian Genetics for Two or More Genes",
+      "printed_page": 281,
+      "body_pdf_page": 330,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        38
+      ],
+      "chapter_label": "Ch14 Mendel and the Gene Idea"
+    },
+    "secondary": [],
+    "primary_reason": "14.3 / Extending Mendelian Genetics for Two or More Genes：非等位基因間遮蔽屬多基因遺傳延伸中的上位作用。",
+    "secondary_reason": "無另列最小次條目；核對印刷281–282區分不同座位上位作用與同座位顯隱性，選B；多基因孟德爾延伸是實際最小目。",
+    "answer_analysis": "B。Epistasis是不同基因座互動造成表型遮蔽；顯性與隱性通常描述同基因座等位基因關係，共顯性亦非本題機制。",
+    "textbook_evidence": [
+      {
+        "printed_page": 281,
+        "pdf_page": 330,
+        "text_file": "textbook_evidence/pdf-0330.txt",
+        "sha256": "4ab76504c8b946848b988e4e55d97315b962fcc9d8d979e446df0818a74283c1"
+      },
+      {
+        "printed_page": 282,
+        "pdf_page": 331,
+        "text_file": "textbook_evidence/pdf-0331.txt",
+        "sha256": "bd4418e48e71b013f6b1cd6f0acc0afd130acdcc1885c48c5ffda74d34c9b3cd"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q21",
+    "issue_resolution_index": 20
+  },
+  {
+    "id": "ISU-109-Q22",
+    "school": "ISU",
+    "year": 109,
+    "q": 22,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 22,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "official_pdf_page": 20,
+      "regions": [
+        [
+          24,
+          701.8516999999999,
+          572.22,
+          784
+        ]
+      ],
+      "pixel_box": [
+        68,
+        2001,
+        1631,
+        2235
+      ],
+      "image": "questions/Q22.png",
+      "sha256": "269356f0018542d9a1a13aa45971ce3763ade93ed939e43ff2ca8faa8dcb55e1",
+      "width": 1563,
+      "height": 234,
+      "question_text": "22. 太平洋鮭魚(Oncorhynchus spp.)成熟後生活於海中，到繁殖期溯河而上，回到出生地產卵。由此可知，\n其為下列何種生物？\n(A) 狹鹽性(stenohaline) (B) 廣鹽性(euryhaline)\n(C) 外鹽性(exohaline) (D) 非鹽性(nonhaline)",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L2944",
+      "toc_line": 2944,
+      "chapter": 44,
+      "concept": "44.1",
+      "title": "Osmoregulatory Challenges and Mechanisms",
+      "printed_page": 978,
+      "body_pdf_page": 1027,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        47
+      ],
+      "chapter_label": "Ch44 Osmoregulation and Excretion"
+    },
+    "secondary": [],
+    "primary_reason": "44.1 / Osmoregulatory Challenges and Mechanisms：鮭魚跨海水與淡水時的調滲能力直接屬滲透調節挑戰。",
+    "secondary_reason": "無另列最小次條目；可跨越海淡水鹽度並完成生活史，依教材例為廣鹽性，B；分類為調滲機制而非僅動物遷徙。",
+    "answer_analysis": "B。可適應寬廣鹽度稱euryhaline；海淡水遷移時調整鰓與腎臟離子水分處理，不表示體液直接隨外界任意改變。",
+    "textbook_evidence": [
+      {
+        "printed_page": 978,
+        "pdf_page": 1027,
+        "text_file": "textbook_evidence/pdf-1027.txt",
+        "sha256": "365e730165db3ff0ff83537e6ac86f4da00c712002e8125e585653c4a2b73486"
+      },
+      {
+        "printed_page": 979,
+        "pdf_page": 1028,
+        "text_file": "textbook_evidence/pdf-1028.txt",
+        "sha256": "b5b35f029cba360035c65bd8a00b757e8abbb3f942bcc7ee07b49d0e359540aa"
+      },
+      {
+        "printed_page": 980,
+        "pdf_page": 1029,
+        "text_file": "textbook_evidence/pdf-1029.txt",
+        "sha256": "2e46e702749c6379a13ec26b073b3771c3b6fae9647ff2f4c040333c8e6f8088"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q22",
+    "issue_resolution_index": 21
+  },
+  {
+    "id": "ISU-109-Q23",
+    "school": "ISU",
+    "year": 109,
+    "q": 23,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 23,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "official_pdf_page": 21,
+      "regions": [
+        [
+          24,
+          166.35169999999994,
+          572.22,
+          217.71169999999998
+        ]
+      ],
+      "pixel_box": [
+        68,
+        474,
+        1631,
+        621
+      ],
+      "image": "questions/Q23.png",
+      "sha256": "2c8f73862069653f27747b7fdcbfef514e9517762494279db764b291fa7d4d11",
+      "width": 1563,
+      "height": 147,
+      "question_text": "23. 請問下列何者在下視丘分泌減少時會引起泌乳激素(prolactin)分泌增加？\n(A) 乙醯膽鹼(acetylcholine) (B) 腎上腺素(epinephrine)\n(C) 血清素(serotonin) (D) 多巴胺(dopamine)",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [
+        28,
+        29
+      ],
+      "clarification_disposition": "109年度7/1審議會議釋疑維持原答案D"
+    },
+    "primary": {
+      "id": "L3023",
+      "toc_line": 3023,
+      "chapter": 45,
+      "concept": "45.2",
+      "title": "Coordination of the Endocrine and Nervous Systems",
+      "printed_page": 1006,
+      "body_pdf_page": 1055,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        47
+      ],
+      "chapter_label": "Ch45 Hormones and the Endocrine System"
+    },
+    "secondary": [],
+    "primary_reason": "45.2 / Coordination of the Endocrine and Nervous Systems：下視丘經垂體門脈控制腺垂體，屬內分泌與神經系統協調。",
+    "secondary_reason": "無另列最小次條目；完整核對官方PDF28末段及29續圖，D為解除抑制；Campbell的刺激訊號未否定多巴胺抑制，補充Prolactin段說明雙向調節。",
+    "answer_analysis": "D。下視丘多巴胺抑制泌乳激素；減少即解除抑制。官方PDF28–29跨頁Vander圖文與回覆均維持D。Campbell提及PRH的刺激不能排除主要的多巴胺抑制調控；另由公開內分泌教材補足。不冒稱讀取Vander全書。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1006,
+        "pdf_page": 1055,
+        "text_file": "textbook_evidence/pdf-1055.txt",
+        "sha256": "d4e598adf4b70ef2afbc5468ed3dd888010a7493b96a4570703f452dfbd3a55d"
+      },
+      {
+        "printed_page": 1007,
+        "pdf_page": 1056,
+        "text_file": "textbook_evidence/pdf-1056.txt",
+        "sha256": "86127a7e9026e816416b4cd82e27c35be1480978d9bfaf15faa39c3ec672b9e6"
+      },
+      {
+        "printed_page": 1008,
+        "pdf_page": 1057,
+        "text_file": "textbook_evidence/pdf-1057.txt",
+        "sha256": "97da586364290b72ef33c75ab288b060722e526015080d0f816823d4e61a8642"
+      }
+    ],
+    "supplement_ids": [
+      "S23"
+    ],
+    "coverage_note": "Campbell提供列示分類原理；未直接涵蓋的細節由具名補充來源與同年釋疑支援，取得及實讀界線見來源紀錄。",
+    "second_review_id": "ISU-109-R2-Q23",
+    "issue_resolution_index": 22
+  },
+  {
+    "id": "ISU-109-Q24",
+    "school": "ISU",
+    "year": 109,
+    "q": 24,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 24,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "official_pdf_page": 21,
+      "regions": [
+        [
+          24,
+          216.81169999999997,
+          572.22,
+          299.3117000000001
+        ]
+      ],
+      "pixel_box": [
+        68,
+        618,
+        1631,
+        853
+      ],
+      "image": "questions/Q24.png",
+      "sha256": "b97386b47ff8a2cf35110d1bfc3f783f9b93c75b07809ccd9b18143454352079",
+      "width": 1563,
+      "height": 235,
+      "question_text": "24. 請問丑角染色體(Harlequin chromosome)是下列何種現象之證明？\n(A) 雙重染色體互換(double crossover)\n(B) 基因轉換(gene conversion)\n(C) 減數分裂式重組(meiotic recombinant)\n(D) 姐妹染色分體交換(sister chromatid exchange)",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L0958",
+      "toc_line": 958,
+      "chapter": 15,
+      "concept": "15.3",
+      "title": "Genetic Recombination and Linkage",
+      "printed_page": 302,
+      "body_pdf_page": 351,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        39
+      ],
+      "chapter_label": "Ch15 The Chromosomal Basis of Inheritance"
+    },
+    "secondary": [
+      {
+        "id": "L0763",
+        "toc_line": 763,
+        "chapter": 12,
+        "concept": "12.1",
+        "title": "Distribution of Chromosomes During Eukaryotic Cell Division",
+        "printed_page": 236,
+        "body_pdf_page": 285,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          38
+        ],
+        "chapter_label": "Ch12 The Cell Cycle"
+      }
+    ],
+    "primary_reason": "15.3 / Genetic Recombination and Linkage：染色分體DNA交換的最接近真實目錄家族是Genetic Recombination and Linkage，目錄並未獨列SCE。",
+    "secondary_reason": "12.1 / Distribution of Chromosomes During Eukaryotic Cell Division：保留姐妹染色分體形成及分離的細胞分裂基礎，防止與同源染色體混同。",
+    "answer_analysis": "D。BrdU差別染色使姐妹染色分體交換呈深淺交替。Campbell該主條目主要講減數分裂非姐妹交換，不能充作SCE直接證明；直接判讀依Wolff作者回顧及Perry/Wolff原論文摘要。SCE通常不產生不同等位基因的新組合，故C的meiotic recombinant不是同義詞。",
+    "textbook_evidence": [
+      {
+        "printed_page": 236,
+        "pdf_page": 285,
+        "text_file": "textbook_evidence/pdf-0285.txt",
+        "sha256": "82a18be417aab5797075fbfa43d01a41315e72423a7c02507fcea16da3bc1be3"
+      },
+      {
+        "printed_page": 237,
+        "pdf_page": 286,
+        "text_file": "textbook_evidence/pdf-0286.txt",
+        "sha256": "98714bd3251e04e656d19c6001367d1e293c0f40fd1da5998812b593bf55e638"
+      },
+      {
+        "printed_page": 302,
+        "pdf_page": 351,
+        "text_file": "textbook_evidence/pdf-0351.txt",
+        "sha256": "15cf52b8d97952d828a00cae03dcf14cfb2de36a6c606ac397b1d6e3b5a6323f"
+      },
+      {
+        "printed_page": 303,
+        "pdf_page": 352,
+        "text_file": "textbook_evidence/pdf-0352.txt",
+        "sha256": "f3aad5d9a1f5883cdcf350c657201e6ab85596ccd27bccd57e5bfa7956f9ccf8"
+      },
+      {
+        "printed_page": 304,
+        "pdf_page": 353,
+        "text_file": "textbook_evidence/pdf-0353.txt",
+        "sha256": "ad3b514dee0983bfab3b517b38bc49a13857d9891280c1ea3800873459cd6edf"
+      }
+    ],
+    "supplement_ids": [
+      "S24"
+    ],
+    "coverage_note": "Campbell提供列示分類原理；未直接涵蓋的細節由具名補充來源與同年釋疑支援，取得及實讀界線見來源紀錄。",
+    "second_review_id": "ISU-109-R2-Q24",
+    "issue_resolution_index": 23
+  },
+  {
+    "id": "ISU-109-Q25",
+    "school": "ISU",
+    "year": 109,
+    "q": 25,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 25,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "official_pdf_page": 21,
+      "regions": [
+        [
+          24,
+          298.4117000000001,
+          572.22,
+          380.97169999999994
+        ]
+      ],
+      "pixel_box": [
+        68,
+        851,
+        1631,
+        1086
+      ],
+      "image": "questions/Q25.png",
+      "sha256": "379304cc883828b3bb4e110ced85a827435135af9592e8ba69ad68eb1d2f079b",
+      "width": 1563,
+      "height": 235,
+      "question_text": "25. 請問下列何者是RNA病毒比 DNA病毒更易突變最可能的原因？\n(A) 兩者核苷酸序列組成不同\n(B) RNA 病毒基因組(genome)較DNA病毒小\n(C) RNA 病毒基因組比DNA病毒較容易被核酸水解酶(nuclease)分解\n(D) RNA 病毒缺乏複製錯誤校閱(proofreading)的機制",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L1215",
+      "toc_line": 1215,
+      "chapter": 19,
+      "concept": "19.3",
+      "title": "Emerging Viral Diseases",
+      "printed_page": 409,
+      "body_pdf_page": 458,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        40
+      ],
+      "chapter_label": "Ch19 Viruses"
+    },
+    "secondary": [
+      {
+        "id": "L1013",
+        "toc_line": 1013,
+        "chapter": 16,
+        "concept": "16.2",
+        "title": "Proofreading and Repairing DNA",
+        "printed_page": 327,
+        "body_pdf_page": 376,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          39
+        ],
+        "chapter_label": "Ch16 The Molecular Basis of Inheritance"
+      }
+    ],
+    "primary_reason": "19.3 / Emerging Viral Diseases：RNA病毒的高突變率及疾病出現直接載於病毒新興疾病條目。",
+    "secondary_reason": "16.2 / Proofreading and Repairing DNA：DNA聚合酶校對條目作錯誤率差異的機制比較。",
+    "answer_analysis": "D為教材一般規則。多數RNA病毒複製缺少有效校對，但冠狀病毒nsp10–nsp14具有校對外切酶功能，原作者生化實驗支持此例外。因此保留原選項，不把「RNA病毒缺乏」改寫成毫無例外的普遍定律。",
+    "textbook_evidence": [
+      {
+        "printed_page": 327,
+        "pdf_page": 376,
+        "text_file": "textbook_evidence/pdf-0376.txt",
+        "sha256": "6e319edc235b1067b5e5c705d6dcd4088cda50db53cfeb636985e0e82df919ca"
+      },
+      {
+        "printed_page": 409,
+        "pdf_page": 458,
+        "text_file": "textbook_evidence/pdf-0458.txt",
+        "sha256": "a2d0b1f1761255575d5a49a42f65eec36f50161fc5fbe068683f883e3d9ae196"
+      },
+      {
+        "printed_page": 410,
+        "pdf_page": 459,
+        "text_file": "textbook_evidence/pdf-0459.txt",
+        "sha256": "115d018721083cc9582b77e8234bbe959a6ff2529708bce6210d7105761bfca4"
+      }
+    ],
+    "supplement_ids": [
+      "S25"
+    ],
+    "coverage_note": "Campbell提供列示分類原理；未直接涵蓋的細節由具名補充來源與同年釋疑支援，取得及實讀界線見來源紀錄。",
+    "second_review_id": "ISU-109-R2-Q25",
+    "issue_resolution_index": 24
+  },
+  {
+    "id": "ISU-109-Q26",
+    "school": "ISU",
+    "year": 109,
+    "q": 26,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 26,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "official_pdf_page": 21,
+      "regions": [
+        [
+          24,
+          380.07169999999996,
+          572.22,
+          462.6317
+        ]
+      ],
+      "pixel_box": [
+        68,
+        1083,
+        1631,
+        1319
+      ],
+      "image": "questions/Q26.png",
+      "sha256": "7a9a522ade40e757fb6befa0abb722ebbdc2b1c7f4a95ad81bda08f5ef409e69",
+      "width": 1563,
+      "height": 236,
+      "question_text": "26. 細胞藉由胞飲作用(endocytosis)攝取細胞外大分子，再予以分解利用的過程依序為\n甲－大分子附著於細胞膜外側 乙－形成溶酶體(lysosome)\n丙－酸性水解酶(acid hydrolase)開始分解大分子 丁－形成胞飲小泡(endocytic vesicle)\n戊－形成內小體(endosome)\n(A) 甲乙丙丁戊 (B) 甲丁戊乙丙 (C) 甲丁丙戊乙 (D) 甲戊丁乙丙",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L0466",
+      "toc_line": 466,
+      "chapter": 7,
+      "concept": "7.5",
+      "title": "Endocytosis",
+      "printed_page": 139,
+      "body_pdf_page": 188,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        36
+      ],
+      "chapter_label": "Ch07 Membrane Structure and Function"
+    },
+    "secondary": [
+      {
+        "id": "L0349",
+        "toc_line": 349,
+        "chapter": 6,
+        "concept": "6.4",
+        "title": "Lysosomes: Digestive Compartments",
+        "printed_page": 107,
+        "body_pdf_page": 156,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          36
+        ],
+        "chapter_label": "Ch06 A Tour of the Cell"
+      }
+    ],
+    "primary_reason": "7.5 / Endocytosis：膜內陷形成囊泡並送入內體，主題是胞吞攝取與胞內運輸順序。",
+    "secondary_reason": "6.4 / Lysosomes: Digestive Compartments：溶酶體水解酶與消化功能構成後續處理步驟。",
+    "answer_analysis": "官方B：甲丁戊乙丙，是四選項中合理的簡化順序。晚期內體已可開始水解，成熟內體／溶酶體為連續路徑，不強稱降解只能等成熟溶酶體才開始。C將水解置於形成內體之前，也不能因上述差異改採C。原題胞飲(endocytosis)中英範圍不等同，endocytosis為較廣義胞吞。",
+    "textbook_evidence": [
+      {
+        "printed_page": 107,
+        "pdf_page": 156,
+        "text_file": "textbook_evidence/pdf-0156.txt",
+        "sha256": "28d4b35a36abc90a9ca007da1ce17e4310b4b63c586652df16e7f49afc21a5a2"
+      },
+      {
+        "printed_page": 108,
+        "pdf_page": 157,
+        "text_file": "textbook_evidence/pdf-0157.txt",
+        "sha256": "fb99e477f89ecb9cbecdd8568318611f4a90af67c31a3c223920ef36742901c9"
+      },
+      {
+        "printed_page": 139,
+        "pdf_page": 188,
+        "text_file": "textbook_evidence/pdf-0188.txt",
+        "sha256": "60105772857968ad0283131ed0623f84754ff28032567d8820f13365a5688934"
+      },
+      {
+        "printed_page": 140,
+        "pdf_page": 189,
+        "text_file": "textbook_evidence/pdf-0189.txt",
+        "sha256": "ffaa75b092897dde92081a4243a4736c7708fb575a5cb141538adfc2ff2b933f"
+      }
+    ],
+    "supplement_ids": [
+      "S26"
+    ],
+    "coverage_note": "Campbell提供列示分類原理；未直接涵蓋的細節由具名補充來源與同年釋疑支援，取得及實讀界線見來源紀錄。",
+    "second_review_id": "ISU-109-R2-Q26",
+    "issue_resolution_index": 25
+  },
+  {
+    "id": "ISU-109-Q27",
+    "school": "ISU",
+    "year": 109,
+    "q": 27,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 27,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "official_pdf_page": 21,
+      "regions": [
+        [
+          24,
+          461.73170000000005,
+          572.22,
+          544.2915999999999
+        ]
+      ],
+      "pixel_box": [
+        68,
+        1316,
+        1631,
+        1551
+      ],
+      "image": "questions/Q27.png",
+      "sha256": "fdf177e3eb2329dc1bdf76115e30cf3785fe4f1d6e0c3ab514d26fb25d14c3c4",
+      "width": 1563,
+      "height": 235,
+      "question_text": "27. 關於鈉－葡萄糖共同轉運器(Na-glucose cotransporter)，下列敘述何者正確？\n(A) 屬於簡單擴散(simple diffusion)機制\n(B) 在小腸幫助排出葡萄糖至腸道中\n(C) 常與鈉－鉀幫浦(Na+-K+ pump)一起出現在同一個細胞的不同側細胞膜\n(D) 無法將葡萄糖由低濃度區運輸至高濃度區",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L0456",
+      "toc_line": 456,
+      "chapter": 7,
+      "concept": "7.4",
+      "title": "Cotransport: Coupled Transport by a Membrane Protein",
+      "printed_page": 138,
+      "body_pdf_page": 187,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        36
+      ],
+      "chapter_label": "Ch07 Membrane Structure and Function"
+    },
+    "secondary": [
+      {
+        "id": "L2717",
+        "toc_line": 2717,
+        "chapter": 41,
+        "concept": "41.3",
+        "title": "Absorption in the Small Intestine",
+        "printed_page": 909,
+        "body_pdf_page": 958,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          46
+        ],
+        "chapter_label": "Ch41 Animal Nutrition"
+      }
+    ],
+    "primary_reason": "7.4 / Cotransport: Coupled Transport by a Membrane Protein：Na+梯度驅動葡萄糖共同運輸，直接屬耦合運輸機制。",
+    "secondary_reason": "41.3 / Absorption in the Small Intestine：小腸吸收說明頂端共同轉運器與基底外側鈉鉀幫浦的極性配置。",
+    "answer_analysis": "C。小腸頂端SGLT與基底外側Na+/K+幫浦位於同細胞不同側；葡萄糖可逆濃度梯度進入。Campbell印刷139寫glucose moving down its concentration gradient，與印刷910的against concentration gradients及耦合原理有措辭差異；原教材不改寫，依910及梯度供能判讀，不因139否認逆梯度能力。",
+    "textbook_evidence": [
+      {
+        "printed_page": 138,
+        "pdf_page": 187,
+        "text_file": "textbook_evidence/pdf-0187.txt",
+        "sha256": "26c3029e5ec80ff16962be585fc5307a65ace6bc184ca2941e37ed1d411397bf"
+      },
+      {
+        "printed_page": 139,
+        "pdf_page": 188,
+        "text_file": "textbook_evidence/pdf-0188.txt",
+        "sha256": "60105772857968ad0283131ed0623f84754ff28032567d8820f13365a5688934"
+      },
+      {
+        "printed_page": 909,
+        "pdf_page": 958,
+        "text_file": "textbook_evidence/pdf-0958.txt",
+        "sha256": "8f5c51355341db5cd4b2717e0419e3331bc04ca90e8dc97f20f1dcc4034e9b6e"
+      },
+      {
+        "printed_page": 910,
+        "pdf_page": 959,
+        "text_file": "textbook_evidence/pdf-0959.txt",
+        "sha256": "03b373ca5c2f5d83c680d1f7eeb39ece6d739d8fc313ddb7693e28188c9a5a38"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q27",
+    "issue_resolution_index": 26
+  },
+  {
+    "id": "ISU-109-Q28",
+    "school": "ISU",
+    "year": 109,
+    "q": 28,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 28,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "official_pdf_page": 21,
+      "regions": [
+        [
+          24,
+          543.3915999999999,
+          572.22,
+          640.6517
+        ]
+      ],
+      "pixel_box": [
+        68,
+        1549,
+        1631,
+        1826
+      ],
+      "image": "questions/Q28.png",
+      "sha256": "61f720f4b7320d7820c96edc57a05c45473f66f11550d8899f0e7cc9fe3d1292",
+      "width": 1563,
+      "height": 277,
+      "question_text": "28. 神經元的動作電位(action potential)過程中，有相對不反應期(relative refractory period)，這主要是下列\n何者所造成？\n(A) 細胞內ATP消耗過度\n(B) 鈉離子通道(Na+ channel)去活化(inactivation)\n(C) 更多鉀離子通道(K+ channel)開啓\n(D) 細胞耗能過多，暫時缺氧",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L3209",
+      "toc_line": 3209,
+      "chapter": 48,
+      "concept": "48.3",
+      "title": "Generation of Action Potentials: A Closer Look",
+      "printed_page": 1073,
+      "body_pdf_page": 1122,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        48
+      ],
+      "chapter_label": "Ch48 Neurons, Synapses, and Signaling"
+    },
+    "secondary": [],
+    "primary_reason": "48.3 / Generation of Action Potentials: A Closer Look：相對不反應期與復極／過極化的電壓閘控通道狀態直接屬動作電位生成。",
+    "secondary_reason": "無另列最小次條目；教材過極化及出版社樣章PDF5支持延遲K導度主要解釋相對期，C；同時保留Na通道部分恢復的貢獻，未寫成絕對互斥。",
+    "answer_analysis": "C。鉀通道延遲關閉、鉀導度仍高，使膜較難達閾值，需較強刺激；鈉通道失活主要解釋絕對不反應期，恢復尚未完全亦可參與相對期。原選項「更多」按相對靜息狀態理解，不意指整段相對期開啟數持續增加。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1073,
+        "pdf_page": 1122,
+        "text_file": "textbook_evidence/pdf-1122.txt",
+        "sha256": "75edf25b57d7a755d0bca305c1f9800ba8b85bd7e018c2ee62bd3f62da970a04"
+      },
+      {
+        "printed_page": 1074,
+        "pdf_page": 1123,
+        "text_file": "textbook_evidence/pdf-1123.txt",
+        "sha256": "b13e6609393294635e3dcedd8af28e7da79bcfe26980c2a0ffdb548da4c5356a"
+      },
+      {
+        "printed_page": 1075,
+        "pdf_page": 1124,
+        "text_file": "textbook_evidence/pdf-1124.txt",
+        "sha256": "db0fe940f0b4ea62c2eabfd95ef84241d708003e338a022c2e6f63d7c3580c96"
+      }
+    ],
+    "supplement_ids": [
+      "S28"
+    ],
+    "coverage_note": "Campbell提供列示分類原理；未直接涵蓋的細節由具名補充來源與同年釋疑支援，取得及實讀界線見來源紀錄。",
+    "second_review_id": "ISU-109-R2-Q28",
+    "issue_resolution_index": 27
+  },
+  {
+    "id": "ISU-109-Q29",
+    "school": "ISU",
+    "year": 109,
+    "q": 29,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 29,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "official_pdf_page": 21,
+      "regions": [
+        [
+          24,
+          639.7517,
+          572.22,
+          690.1517
+        ]
+      ],
+      "pixel_box": [
+        68,
+        1824,
+        1631,
+        1967
+      ],
+      "image": "questions/Q29.png",
+      "sha256": "511d4830e8c5eb79e4ac8172bdf38ac2f5d5efe72cfe17d2477239df4eecb09c",
+      "width": 1563,
+      "height": 143,
+      "question_text": "29. 有髓鞘包裹的神經元軸突(myelinated axon)上，其離子通道的分佈為下列何種型式？\n(A) 集中於無髓鞘的蘭氏結(Ranvier node)部份 (B) 完全沒有離子通道\n(C) 集中於髓鞘部份 (D) 平均分佈",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L3212",
+      "toc_line": 3212,
+      "chapter": 48,
+      "concept": "48.3",
+      "title": "Conduction of Action Potentials",
+      "printed_page": 1075,
+      "body_pdf_page": 1124,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        48
+      ],
+      "chapter_label": "Ch48 Neurons, Synapses, and Signaling"
+    },
+    "secondary": [],
+    "primary_reason": "48.3 / Conduction of Action Potentials：髓鞘和郎氏結的通道分布使動作電位跳躍式傳導。",
+    "secondary_reason": "無另列最小次條目；圖文直接支持郎氏結集中電壓閘控Na通道、跳躍傳導；採A但限制通道種類，不主張其他部位全無離子通道。",
+    "answer_analysis": "A。再生動作電位所需的電壓閘控Na+通道集中於郎氏結；題目泛稱「離子通道」較粗略，並非所有種類通道都只存在結上，亦非髓鞘下完全沒有通道。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1075,
+        "pdf_page": 1124,
+        "text_file": "textbook_evidence/pdf-1124.txt",
+        "sha256": "db0fe940f0b4ea62c2eabfd95ef84241d708003e338a022c2e6f63d7c3580c96"
+      },
+      {
+        "printed_page": 1076,
+        "pdf_page": 1125,
+        "text_file": "textbook_evidence/pdf-1125.txt",
+        "sha256": "aa7d313cb8686ad941d624c0b44f5ac92654541704da95569d3e1bbff34d7a14"
+      },
+      {
+        "printed_page": 1077,
+        "pdf_page": 1126,
+        "text_file": "textbook_evidence/pdf-1126.txt",
+        "sha256": "58b6bfbbc479761f356daa2fa7645b2541e32ea7f9f01c4370b9bd4a3422861f"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q29",
+    "issue_resolution_index": 28
+  },
+  {
+    "id": "ISU-109-Q30",
+    "school": "ISU",
+    "year": 109,
+    "q": 30,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 30,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "official_pdf_page": 21,
+      "regions": [
+        [
+          24,
+          689.2517,
+          572.22,
+          739.7117
+        ]
+      ],
+      "pixel_box": [
+        68,
+        1965,
+        1631,
+        2108
+      ],
+      "image": "questions/Q30.png",
+      "sha256": "cf6313ca85fb6f57131e9809aa4dbeaba12f283c42c7fc4980ab60421c5bcf2e",
+      "width": 1563,
+      "height": 143,
+      "question_text": "30. 下列何者為平滑肌(smooth muscle)收縮時所必需之分子，而其它肌細胞不需要的？\n(A) 旋轉素(troponin) (B) 攜鈣素(calmodulin)\n(C) 鈣離子 (D) 肌動蛋白(actin)",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L3384",
+      "toc_line": 3384,
+      "chapter": 50,
+      "concept": "50.5",
+      "title": "Other Types of Muscle",
+      "printed_page": 1131,
+      "body_pdf_page": 1180,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        49
+      ],
+      "chapter_label": "Ch50 Sensory and Motor Mechanisms"
+    },
+    "secondary": [
+      {
+        "id": "L3381",
+        "toc_line": 3381,
+        "chapter": 50,
+        "concept": "50.5",
+        "title": "Vertebrate Skeletal Muscle",
+        "printed_page": 1126,
+        "body_pdf_page": 1175,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          49
+        ],
+        "chapter_label": "Ch50 Sensory and Motor Mechanisms"
+      }
+    ],
+    "primary_reason": "50.5 / Other Types of Muscle：平滑肌的鈣調控機制載於其他肌肉類型。",
+    "secondary_reason": "50.5 / Vertebrate Skeletal Muscle：骨骼肌的troponin調控提供題目要求的跨肌種比較。",
+    "answer_analysis": "B。平滑肌Ca2+結合calmodulin後活化MLCK，調控肌球蛋白；骨骼肌／心肌收縮的主要直接開關為troponin。其他肌細胞仍有calmodulin參與其他過程，原題「不需要」限收縮直接調控路徑；旋轉素／攜鈣素為原題用語。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1128,
+        "pdf_page": 1177,
+        "text_file": "textbook_evidence/pdf-1177.txt",
+        "sha256": "004ea105f3aacc98369dd6b38802264042f7107392022a8c66bf072a5fec031d"
+      },
+      {
+        "printed_page": 1129,
+        "pdf_page": 1178,
+        "text_file": "textbook_evidence/pdf-1178.txt",
+        "sha256": "e418e4403e47a268a6715e0c949d181abbc62fd06c1c5e593d70cc60dde696f9"
+      },
+      {
+        "printed_page": 1131,
+        "pdf_page": 1180,
+        "text_file": "textbook_evidence/pdf-1180.txt",
+        "sha256": "131bc65d94260173a5e7aaa370429ffbcd66f60398c374f43e7c9fb301cc828e"
+      },
+      {
+        "printed_page": 1132,
+        "pdf_page": 1181,
+        "text_file": "textbook_evidence/pdf-1181.txt",
+        "sha256": "25abfe734b146b67b2865a73606bbc92492de3c794a22f7288444b51408ba150"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q30",
+    "issue_resolution_index": 29
+  },
+  {
+    "id": "ISU-109-Q31",
+    "school": "ISU",
+    "year": 109,
+    "q": 31,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 31,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "official_pdf_page": 21,
+      "regions": [
+        [
+          24,
+          738.8117,
+          572.22,
+          784
+        ]
+      ],
+      "pixel_box": [
+        68,
+        2106,
+        1631,
+        2235
+      ],
+      "image": "questions/Q31.png",
+      "sha256": "2f6bb019d7ca9ae0524d6153efe15116352e907e49198fcbdc031d63cfdc1026",
+      "width": 1563,
+      "height": 129,
+      "question_text": "31. 於正常人體之循環系統中，平時哪個部份內含血量最多？\n(A) 心臟 (B) 體動脈 (C) 微血管 (D) 體靜脈",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L2783",
+      "toc_line": 2783,
+      "chapter": 42,
+      "concept": "42.3",
+      "title": "Blood Vessel Structure and Function",
+      "printed_page": 929,
+      "body_pdf_page": 978,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch42 Circulation and Gas Exchange"
+    },
+    "secondary": [],
+    "primary_reason": "42.3 / Blood Vessel Structure and Function：靜脈高順應性和容量血管功能決定靜態血量分布。",
+    "secondary_reason": "無另列最小次條目；Klabunde容量血管段確認靜脈血量最多，D；不以微血管截面積答題，42.3血管結構功能直接對應。",
+    "answer_analysis": "D。體靜脈系統容納最多循環血量；作者生理教材給典型靜脈容量約60–80%的範圍，不視為每人固定值。血量存量不同於總截面積、流速或心輸出量。",
+    "textbook_evidence": [
+      {
+        "printed_page": 929,
+        "pdf_page": 978,
+        "text_file": "textbook_evidence/pdf-0978.txt",
+        "sha256": "b769a1bed6560008201685b7fb189223fd99eb8adea8581550854d892e1e0c13"
+      },
+      {
+        "printed_page": 930,
+        "pdf_page": 979,
+        "text_file": "textbook_evidence/pdf-0979.txt",
+        "sha256": "51ca711bdfd2dc87af426968d653c7371f6eec19d5ed5dd6e02dfd9afa7a3176"
+      },
+      {
+        "printed_page": 931,
+        "pdf_page": 980,
+        "text_file": "textbook_evidence/pdf-0980.txt",
+        "sha256": "5b7f3e6a7cc1b70bbd4d5248cb4d478f3141a8d454ba9db7dc31041ad4cfcfba"
+      }
+    ],
+    "supplement_ids": [
+      "S31"
+    ],
+    "coverage_note": "Campbell提供列示分類原理；未直接涵蓋的細節由具名補充來源與同年釋疑支援，取得及實讀界線見來源紀錄。",
+    "second_review_id": "ISU-109-R2-Q31",
+    "issue_resolution_index": 30
+  },
+  {
+    "id": "ISU-109-Q32",
+    "school": "ISU",
+    "year": 109,
+    "q": 32,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 32,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "official_pdf_page": 22,
+      "regions": [
+        [
+          24,
+          166.35169999999994,
+          572.22,
+          217.71169999999998
+        ]
+      ],
+      "pixel_box": [
+        68,
+        474,
+        1631,
+        621
+      ],
+      "image": "questions/Q32.png",
+      "sha256": "d7765964ed5a6507702a2082016a9f3eb4e3eba9dbef817ccc7723d5b837bc12",
+      "width": 1563,
+      "height": 147,
+      "question_text": "32. 正常人的血液中，數目最多的白血球是：\n(A) 淋巴球(lymphocyte) (B) 嗜酸性球(eosinophil)\n(C) 嗜鹼性球(basophil) (D) 嗜中性球(neutrophil)",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L2802",
+      "toc_line": 2802,
+      "chapter": 42,
+      "concept": "42.4",
+      "title": "Blood Composition and Function",
+      "printed_page": 934,
+      "body_pdf_page": 983,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch42 Circulation and Gas Exchange"
+    },
+    "secondary": [],
+    "primary_reason": "42.4 / Blood Composition and Function：白血球類別與血液成分功能為直接題目範圍。",
+    "secondary_reason": "無另列最小次條目；題問周邊血分類計數而非抗原反應，42.4血液成分直接；S32補足成人嗜中性球比例，保留年齡差異。",
+    "answer_analysis": "D。一般成人周邊血嗜中性球比例最高，公開組織學教材約50–70%。Campbell列白血球類型，細分類比例由補充教材支持；兒童年齡差異及疾病變動不可混入題設「正常人」的通常成人判讀。",
+    "textbook_evidence": [
+      {
+        "printed_page": 934,
+        "pdf_page": 983,
+        "text_file": "textbook_evidence/pdf-0983.txt",
+        "sha256": "d64a005275c0e212caf03d4ee10e5b54e9daf869dc5c92ce2a953fce1c3c4875"
+      },
+      {
+        "printed_page": 935,
+        "pdf_page": 984,
+        "text_file": "textbook_evidence/pdf-0984.txt",
+        "sha256": "1fb9a57cfc806207ad7be22fde4f698dfab9bd9d81e1bff560db8e352164de77"
+      },
+      {
+        "printed_page": 936,
+        "pdf_page": 985,
+        "text_file": "textbook_evidence/pdf-0985.txt",
+        "sha256": "350dfe2872d7515300c2e07af75d6a154e9c8f0aa816d8a89595b038a1a1f039"
+      }
+    ],
+    "supplement_ids": [
+      "S32"
+    ],
+    "coverage_note": "Campbell提供列示分類原理；未直接涵蓋的細節由具名補充來源與同年釋疑支援，取得及實讀界線見來源紀錄。",
+    "second_review_id": "ISU-109-R2-Q32",
+    "issue_resolution_index": 31
+  },
+  {
+    "id": "ISU-109-Q33",
+    "school": "ISU",
+    "year": 109,
+    "q": 33,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 33,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "official_pdf_page": 22,
+      "regions": [
+        [
+          24,
+          216.81169999999997,
+          572.22,
+          266.3117
+        ]
+      ],
+      "pixel_box": [
+        68,
+        618,
+        1631,
+        759
+      ],
+      "image": "questions/Q33.png",
+      "sha256": "0ff38fd96c86b3734ae8eae1b0e0fc14b011cb45132d6e475de227678475c15e",
+      "width": 1563,
+      "height": 141,
+      "question_text": "33. 假設一正常女子之心輸出量為4.2 L，心室舒張末期容積(end-diastolic volume)為125 mL，收縮末期\n容積(end-systolic volume)為65 mL，其每一分鐘心跳多少次？\n(A) 70 (B) 75 (C) 80 (D) 60",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L2773",
+      "toc_line": 2773,
+      "chapter": 42,
+      "concept": "42.2",
+      "title": "The Mammalian Heart: A Closer Look",
+      "printed_page": 926,
+      "body_pdf_page": 975,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch42 Circulation and Gas Exchange"
+    },
+    "secondary": [],
+    "primary_reason": "42.2 / The Mammalian Heart: A Closer Look：以每搏量和心輸出量求心率，直接屬哺乳類心臟功能。",
+    "secondary_reason": "無另列最小次條目；另行重算SV60 mL，4200/60=70/min；採A並註明原文4.2 L缺/min，完整題文與原圖不增字。",
+    "answer_analysis": "A。每搏量=125−65=60 mL；若心輸出量4.2 L/min，心率=4200/60=70次/min。原題只印4.2 L，缺每分鐘單位；依心輸出量的流量定義及問每分鐘心跳理解，原圖與原題文字不補字。",
+    "textbook_evidence": [
+      {
+        "printed_page": 926,
+        "pdf_page": 975,
+        "text_file": "textbook_evidence/pdf-0975.txt",
+        "sha256": "8773131b852180adeb6a32863d5fbcba8f313c6689a1dea9e7c22e64d631592b"
+      },
+      {
+        "printed_page": 927,
+        "pdf_page": 976,
+        "text_file": "textbook_evidence/pdf-0976.txt",
+        "sha256": "615c0f6a753746a6c425ee533f3c8e354c525bb5ec26368f1399f6d9a9915733"
+      },
+      {
+        "printed_page": 928,
+        "pdf_page": 977,
+        "text_file": "textbook_evidence/pdf-0977.txt",
+        "sha256": "2cc06761dbce464e23d3174d076e35eb35284d349e7ae950d922c105318890e6"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q33",
+    "issue_resolution_index": 32
+  },
+  {
+    "id": "ISU-109-Q34",
+    "school": "ISU",
+    "year": 109,
+    "q": 34,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 34,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "official_pdf_page": 22,
+      "regions": [
+        [
+          24,
+          265.4117,
+          572.22,
+          347.97170000000006
+        ]
+      ],
+      "pixel_box": [
+        68,
+        757,
+        1631,
+        992
+      ],
+      "image": "questions/Q34.png",
+      "sha256": "b36ed3c85c9a2b8d676dfbef1f8a3136767d84686766d9ae40a551a95629de4f",
+      "width": 1563,
+      "height": 235,
+      "question_text": "34. 以下心動週期(cardiac cycle)之哪一時期中，左心室內壓(left ventricular pressure)上升最快？\n(A) 心房收縮期(atrial contraction)\n(B) 心室等容積收縮期(isovolumetric ventricular contraction)\n(C) 心室射血期(ventricular ejection)\n(D) 心室填血期(ventricular filling)",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L2773",
+      "toc_line": 2773,
+      "chapter": 42,
+      "concept": "42.2",
+      "title": "The Mammalian Heart: A Closer Look",
+      "printed_page": 926,
+      "body_pdf_page": 975,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch42 Circulation and Gas Exchange"
+    },
+    "secondary": [],
+    "primary_reason": "42.2 / The Mammalian Heart: A Closer Look：心室週期各階段的壓力變化是心臟運作條目的直接考點。",
+    "secondary_reason": "無另列最小次條目；比較dP/dt與壓力峰值，作者教材指等容收縮達最大上升率；B，無需將射血較高壓力錯當變化率。",
+    "answer_analysis": "B。等容收縮期間四瓣關閉、心室壓快速上升；最大dP/dt是壓力上升速率，不是射血期較高的壓力峰值。Campbell支援週期框架，作者生理教材直接支持最大上升率所在階段。",
+    "textbook_evidence": [
+      {
+        "printed_page": 926,
+        "pdf_page": 975,
+        "text_file": "textbook_evidence/pdf-0975.txt",
+        "sha256": "8773131b852180adeb6a32863d5fbcba8f313c6689a1dea9e7c22e64d631592b"
+      },
+      {
+        "printed_page": 927,
+        "pdf_page": 976,
+        "text_file": "textbook_evidence/pdf-0976.txt",
+        "sha256": "615c0f6a753746a6c425ee533f3c8e354c525bb5ec26368f1399f6d9a9915733"
+      },
+      {
+        "printed_page": 928,
+        "pdf_page": 977,
+        "text_file": "textbook_evidence/pdf-0977.txt",
+        "sha256": "2cc06761dbce464e23d3174d076e35eb35284d349e7ae950d922c105318890e6"
+      }
+    ],
+    "supplement_ids": [
+      "S34"
+    ],
+    "coverage_note": "Campbell提供列示分類原理；未直接涵蓋的細節由具名補充來源與同年釋疑支援，取得及實讀界線見來源紀錄。",
+    "second_review_id": "ISU-109-R2-Q34",
+    "issue_resolution_index": 33
+  },
+  {
+    "id": "ISU-109-Q35",
+    "school": "ISU",
+    "year": 109,
+    "q": 35,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 35,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "official_pdf_page": 22,
+      "regions": [
+        [
+          24,
+          347.0717000000001,
+          572.22,
+          398.3717000000001
+        ]
+      ],
+      "pixel_box": [
+        68,
+        989,
+        1631,
+        1136
+      ],
+      "image": "questions/Q35.png",
+      "sha256": "4eee642f3d89beb346e4e988f712444373610cd3344649c2f016e070f78767b3",
+      "width": 1563,
+      "height": 147,
+      "question_text": "35. 下列何種酵素可將纖維蛋白原(fibrinogen)轉化成纖維蛋白(fibrin)？\n(A) 凝血蛋白酶(thrombin) (B) 凝血蛋白酶原(prothrombin)\n(C) 蛋白激酶C(protein kinase C) (D) 肝素(heparin)",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L2802",
+      "toc_line": 2802,
+      "chapter": 42,
+      "concept": "42.4",
+      "title": "Blood Composition and Function",
+      "printed_page": 934,
+      "body_pdf_page": 983,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch42 Circulation and Gas Exchange"
+    },
+    "secondary": [],
+    "primary_reason": "42.4 / Blood Composition and Function：凝血蛋白由血液成分功能下的凝血過程說明。",
+    "secondary_reason": "無另列最小次條目；印刷936–937凝血箭頭顯示thrombin作用於fibrinogen，A；不把前驅物或抗凝物當催化酵素。",
+    "answer_analysis": "A。Thrombin催化fibrinogen轉為fibrin；prothrombin是前驅物，肝素為抗凝而非此轉換酵素。",
+    "textbook_evidence": [
+      {
+        "printed_page": 935,
+        "pdf_page": 984,
+        "text_file": "textbook_evidence/pdf-0984.txt",
+        "sha256": "1fb9a57cfc806207ad7be22fde4f698dfab9bd9d81e1bff560db8e352164de77"
+      },
+      {
+        "printed_page": 936,
+        "pdf_page": 985,
+        "text_file": "textbook_evidence/pdf-0985.txt",
+        "sha256": "350dfe2872d7515300c2e07af75d6a154e9c8f0aa816d8a89595b038a1a1f039"
+      },
+      {
+        "printed_page": 937,
+        "pdf_page": 986,
+        "text_file": "textbook_evidence/pdf-0986.txt",
+        "sha256": "86e85c7cddf4a18bcc8551fc269382887a4f7106f65c1ba32e97a3ff7871680f"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q35",
+    "issue_resolution_index": 34
+  },
+  {
+    "id": "ISU-109-Q36",
+    "school": "ISU",
+    "year": 109,
+    "q": 36,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 36,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "official_pdf_page": 22,
+      "regions": [
+        [
+          24,
+          397.4717000000001,
+          572.22,
+          480.0317
+        ]
+      ],
+      "pixel_box": [
+        68,
+        1133,
+        1631,
+        1368
+      ],
+      "image": "questions/Q36.png",
+      "sha256": "34e9457a4ad8509ec091928e7c178843af3a8f704d2cb8474e357e17e2dc5acd",
+      "width": 1563,
+      "height": 235,
+      "question_text": "36. 下列何者會降低血紅素(haemoglobin)對氧氣親和力？\n(A) 紅血球(erythrocyte)內2,3-二磷甘油酯(2,3-diphosphoglycerate)增加\n(B) 溫度下降\n(C) 二氧化碳(CO )減少\n2\n(D) 缺氧",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [
+        29
+      ],
+      "clarification_disposition": "109年度7/1審議會議釋疑維持原答案A"
+    },
+    "primary": {
+      "id": "L2853",
+      "toc_line": 2853,
+      "chapter": 42,
+      "concept": "42.7",
+      "title": "Respiratory Pigments",
+      "printed_page": 947,
+      "body_pdf_page": 996,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch42 Circulation and Gas Exchange"
+    },
+    "secondary": [],
+    "primary_reason": "42.7 / Respiratory Pigments：影響血紅素氧解離與親和力的因素屬呼吸色素。",
+    "secondary_reason": "無另列最小次條目；官方109釋疑PDF29維持A；固定PO2比較解離曲線，區分DPG改親和力與低PO2改飽和度，也保留慢性缺氧可間接改DPG。",
+    "answer_analysis": "A。2,3-DPG增加使血紅素較不易結氧，官方PDF29引用Vander15e印刷468維持A。單純低PO2降低飽和度不等於在相同PO2下親和力下降；慢性缺氧可間接提高DPG，須區分即時自變項及適應。原題二磷甘油酯用詞照存，現亦稱2,3-BPG。",
+    "textbook_evidence": [
+      {
+        "printed_page": 947,
+        "pdf_page": 996,
+        "text_file": "textbook_evidence/pdf-0996.txt",
+        "sha256": "08dec585200e44eed11e828d5148ae41da41d0c35a38dbdb96a8d6609acbbea0"
+      },
+      {
+        "printed_page": 948,
+        "pdf_page": 997,
+        "text_file": "textbook_evidence/pdf-0997.txt",
+        "sha256": "27405d76171118d9a6b8d1f017d16135808f921decb42c62390bfb1dbcb21b9f"
+      },
+      {
+        "printed_page": 949,
+        "pdf_page": 998,
+        "text_file": "textbook_evidence/pdf-0998.txt",
+        "sha256": "b9359d34747a36a67b2f48706db8210104018264697019e47ce601134d770eaa"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q36",
+    "issue_resolution_index": 35
+  },
+  {
+    "id": "ISU-109-Q37",
+    "school": "ISU",
+    "year": 109,
+    "q": 37,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 37,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "official_pdf_page": 22,
+      "regions": [
+        [
+          24,
+          479.1317,
+          572.22,
+          577.2916999999999
+        ]
+      ],
+      "pixel_box": [
+        68,
+        1366,
+        1631,
+        1645
+      ],
+      "image": "questions/Q37.png",
+      "sha256": "2c22e701561b7d56e77f92d45aedb51cd0d03a68cd9b613f0f42d1064384d012",
+      "width": 1563,
+      "height": 279,
+      "question_text": "37. 下列有關頸動脈體(carotid body)之敘述，何者正確？\n(A) 屬於中樞化學感受器(central chemoreceptor)\n(B) 受到刺激時，會產生神經衝動，經由迷走神經(vagus nerve)送到延髓(medulla oblongata)的呼吸\n節律中樞(respiratory rhythmicity center)\n(C) 體動脈血(systemic arterial blood)中氧分壓(PaO )下降時會被刺激\n2\n(D) 對於體動脈血中二氧化碳分壓(PaCO )上升沒有反應\n2",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L2843",
+      "toc_line": 2843,
+      "chapter": 42,
+      "concept": "42.6",
+      "title": "Control of Breathing in Humans",
+      "printed_page": 946,
+      "body_pdf_page": 995,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch42 Circulation and Gas Exchange"
+    },
+    "secondary": [],
+    "primary_reason": "42.6 / Control of Breathing in Humans：頸動脈體偵測動脈氣體以調整通氣，是呼吸控制的周邊化學回饋。",
+    "secondary_reason": "無另列最小次條目；Campbell周邊呼吸回饋加S37舌咽神經分支確認C；B的迷走屬主要主動脈體路徑，不能套到頸動脈體。",
+    "answer_analysis": "C。低PaO2刺激頸動脈體，亦可反應CO2與H+。頸動脈體傳入主要經舌咽神經而非B的迷走神經；主動脈體才主要走迷走。頸動脈竇壓力受器與頸動脈體化學受器不混同。",
+    "textbook_evidence": [
+      {
+        "printed_page": 945,
+        "pdf_page": 994,
+        "text_file": "textbook_evidence/pdf-0994.txt",
+        "sha256": "106d0803a079dd474782bd834810bf1a05013b00f74dce7be4ec8972690cc92c"
+      },
+      {
+        "printed_page": 946,
+        "pdf_page": 995,
+        "text_file": "textbook_evidence/pdf-0995.txt",
+        "sha256": "fb6a1e03ce7fd0a3f1ad12b557e965ded3ca9503e48742c8b65c177996400640"
+      },
+      {
+        "printed_page": 947,
+        "pdf_page": 996,
+        "text_file": "textbook_evidence/pdf-0996.txt",
+        "sha256": "08dec585200e44eed11e828d5148ae41da41d0c35a38dbdb96a8d6609acbbea0"
+      }
+    ],
+    "supplement_ids": [
+      "S37"
+    ],
+    "coverage_note": "Campbell提供列示分類原理；未直接涵蓋的細節由具名補充來源與同年釋疑支援，取得及實讀界線見來源紀錄。",
+    "second_review_id": "ISU-109-R2-Q37",
+    "issue_resolution_index": 36
+  },
+  {
+    "id": "ISU-109-Q38",
+    "school": "ISU",
+    "year": 109,
+    "q": 38,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 38,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "official_pdf_page": 22,
+      "regions": [
+        [
+          24,
+          576.3916999999999,
+          572.22,
+          627.6917
+        ]
+      ],
+      "pixel_box": [
+        68,
+        1643,
+        1631,
+        1789
+      ],
+      "image": "questions/Q38.png",
+      "sha256": "18f255bddcee72b3a703710b40c59994cf825b6dd8649db8987b23c4d29da72e",
+      "width": 1563,
+      "height": 146,
+      "question_text": "38. 下列消化酵素中，何者是直接以活化的狀態被分泌進入消化道？\n(A) 胃蛋白酶(pepsin) (B) 胰凝乳蛋白酶(chymotrypsin)\n(C) 澱粉酶(amylase) (D) 胰蛋白酶(trypsin)",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L2714",
+      "toc_line": 2714,
+      "chapter": 41,
+      "concept": "41.3",
+      "title": "Digestion in the Small Intestine",
+      "printed_page": 908,
+      "body_pdf_page": 957,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch41 Animal Nutrition"
+    },
+    "secondary": [
+      {
+        "id": "L2711",
+        "toc_line": 2711,
+        "chapter": 41,
+        "concept": "41.3",
+        "title": "Digestion in the Stomach",
+        "printed_page": 907,
+        "body_pdf_page": 956,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          46
+        ],
+        "chapter_label": "Ch41 Animal Nutrition"
+      }
+    ],
+    "primary_reason": "41.3 / Digestion in the Small Intestine：胰臟酵素分泌至小腸時的活化狀態是主要比较。",
+    "secondary_reason": "41.3 / Digestion in the Stomach：胃以pepsinogen分泌再活化，補足A選項的跨部位比較。",
+    "answer_analysis": "C。澱粉酶可直接以活性形式分泌；pepsin、trypsin及chymotrypsin通常先以相應酵素原分泌以避免自我消化。選項列活化酵素名稱，不代表它們的分泌型也是活化型。",
+    "textbook_evidence": [
+      {
+        "printed_page": 907,
+        "pdf_page": 956,
+        "text_file": "textbook_evidence/pdf-0956.txt",
+        "sha256": "9e7d907b0495e71248ef3ea035810257fe8ac9eaabc59ba1cb7fe9cf9555142c"
+      },
+      {
+        "printed_page": 908,
+        "pdf_page": 957,
+        "text_file": "textbook_evidence/pdf-0957.txt",
+        "sha256": "e094089c55a5911a502cf12729d05de9a4ebdae913cfbf8761b6b4a2191d9343"
+      },
+      {
+        "printed_page": 909,
+        "pdf_page": 958,
+        "text_file": "textbook_evidence/pdf-0958.txt",
+        "sha256": "8f5c51355341db5cd4b2717e0419e3331bc04ca90e8dc97f20f1dcc4034e9b6e"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q38",
+    "issue_resolution_index": 37
+  },
+  {
+    "id": "ISU-109-Q39",
+    "school": "ISU",
+    "year": 109,
+    "q": 39,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 39,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "official_pdf_page": 22,
+      "regions": [
+        [
+          24,
+          626.7917,
+          572.22,
+          711.1516999999999
+        ]
+      ],
+      "pixel_box": [
+        68,
+        1787,
+        1631,
+        2027
+      ],
+      "image": "questions/Q39.png",
+      "sha256": "86b48d5976ff59685b124fa7fc870aad5fcba2f899a6f6afbb24022f9a8edb71",
+      "width": 1563,
+      "height": 240,
+      "question_text": "39. 下列何者的活化與行為酬償(behavioral reward)以及藥物濫用(drug abuse)最為相關？\n(A) 網狀活化系統(reticular activating system)\n(B) 內生性類鴉片系統(endogenous-opioid system)\n(C) 黑質紋狀體多巴胺系統(nigrostriatal dopamine system)\n(D) 中腦邊緣多巴胺系統(mesolimbic dopamine system)",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L3309",
+      "toc_line": 3309,
+      "chapter": 49,
+      "concept": "49.5",
+      "title": "The Brain’s Reward System and Drug Addiction",
+      "printed_page": 1103,
+      "body_pdf_page": 1152,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        48
+      ],
+      "chapter_label": "Ch49 Nervous Systems"
+    },
+    "secondary": [],
+    "primary_reason": "49.5 / The Brain’s Reward System and Drug Addiction：中腦多巴胺獎賞迴路及成癮，直接有腦獎賞系統最小條目。",
+    "secondary_reason": "無另列最小次條目；題目要求獎賞與濫藥特定迴路，49.5明列Brain’s Reward System，較總論精確，D而非黑質紋狀體。",
+    "answer_analysis": "D。腹側被蓋區投射到伏隔核等邊緣區的多巴胺迴路與獎賞／濫藥相關。黑質紋狀體主要關聯動作調控；其他選項可能參與行為，但不是此題最直接路徑。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1103,
+        "pdf_page": 1152,
+        "text_file": "textbook_evidence/pdf-1152.txt",
+        "sha256": "4e7f47562b4cfb63c7d409701ea42bf150ac2bbfd46ce4a30fb8362653ae3a69"
+      },
+      {
+        "printed_page": 1104,
+        "pdf_page": 1153,
+        "text_file": "textbook_evidence/pdf-1153.txt",
+        "sha256": "816ec28f6067adec06765df7a0b337afaed9b8869a2cc62cd5a948336feafc24"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q39",
+    "issue_resolution_index": 38
+  },
+  {
+    "id": "ISU-109-Q40",
+    "school": "ISU",
+    "year": 109,
+    "q": 40,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 40,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "official_pdf_page": 22,
+      "regions": [
+        [
+          24,
+          710.2516999999999,
+          572.22,
+          784
+        ]
+      ],
+      "pixel_box": [
+        68,
+        2024,
+        1631,
+        2235
+      ],
+      "image": "questions/Q40.png",
+      "sha256": "3ebb9247cef32ad62e256ecd7d7bbfe019267e6a129bbf5300780d12a9284973",
+      "width": 1563,
+      "height": 211,
+      "question_text": "40. 在持續性之運動過程中（例如長距離賽跑），運動員血中何種成分會隨著時間下降？\n(A) 抗利尿激素(antidiuretic hormone) (B) 腎上腺素(epinephrine)\n(C) 胰島素(insulin) (D) 游離脂肪酸(free fatty acid)",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L2743",
+      "toc_line": 2743,
+      "chapter": 41,
+      "concept": "41.5",
+      "title": "Regulation of Energy Storage",
+      "printed_page": 915,
+      "body_pdf_page": 964,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch41 Animal Nutrition"
+    },
+    "secondary": [
+      {
+        "id": "L3039",
+        "toc_line": 3039,
+        "chapter": 45,
+        "concept": "45.3",
+        "title": "Adrenal Hormones: Response to Stress",
+        "printed_page": 1012,
+        "body_pdf_page": 1061,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          47
+        ],
+        "chapter_label": "Ch45 Hormones and the Endocrine System"
+      }
+    ],
+    "primary_reason": "41.5 / Regulation of Energy Storage：長時間運動調整燃料動員，胰島素下降屬能量儲存的調節。",
+    "secondary_reason": "45.3 / Adrenal Hormones: Response to Stress：腎上腺素促進燃料動員提供持續運動的荷爾蒙背景。",
+    "answer_analysis": "C。持續運動時交感及腎上腺素性作用可抑制胰島素分泌，肌肉仍可因收縮增加葡萄糖攝取；脂肪酸可供能。此為典型持續運動條件，不混同訓練後靜息或任意進食／補糖情境。",
+    "textbook_evidence": [
+      {
+        "printed_page": 915,
+        "pdf_page": 964,
+        "text_file": "textbook_evidence/pdf-0964.txt",
+        "sha256": "ea29e08d83b858bdaf063849870592412ee08d84e6bc84fdfbb45f89df73033e"
+      },
+      {
+        "printed_page": 916,
+        "pdf_page": 965,
+        "text_file": "textbook_evidence/pdf-0965.txt",
+        "sha256": "d153f211471595d3817b8b8adbe5434434f9d4a15ce1ee0a32d61ba594c6cf32"
+      },
+      {
+        "printed_page": 1012,
+        "pdf_page": 1061,
+        "text_file": "textbook_evidence/pdf-1061.txt",
+        "sha256": "fefe648daa1fc783f79fccadab66042ae2a31d89a74f1e8ed130a5f433397883"
+      },
+      {
+        "printed_page": 1013,
+        "pdf_page": 1062,
+        "text_file": "textbook_evidence/pdf-1062.txt",
+        "sha256": "1fe9b96f0dfdf6e9b4bcb1ad20f05fa78782a5155e53898d6873c95b74759f57"
+      }
+    ],
+    "supplement_ids": [
+      "S40"
+    ],
+    "coverage_note": "Campbell提供列示分類原理；未直接涵蓋的細節由具名補充來源與同年釋疑支援，取得及實讀界線見來源紀錄。",
+    "second_review_id": "ISU-109-R2-Q40",
+    "issue_resolution_index": 39
+  },
+  {
+    "id": "ISU-109-Q41",
+    "school": "ISU",
+    "year": 109,
+    "q": 41,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 41,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "official_pdf_page": 23,
+      "regions": [
+        [
+          24,
+          166.35169999999994,
+          572.22,
+          203.85169999999997
+        ]
+      ],
+      "pixel_box": [
+        68,
+        474,
+        1631,
+        581
+      ],
+      "image": "questions/Q41.png",
+      "sha256": "12365dddca7689cee58efa4d12a86712dcc52a6763d988c58c8edb880b7cbe52",
+      "width": 1563,
+      "height": 107,
+      "question_text": "41. 控制吞嚥(swallowing)反射的吞嚥中樞(swallowing center)位於下列何處？\n(A) 橋腦(pons) (B) 脊髓(spinal cord) (C) 中腦(midbrain) (D) 延髓(medulla)",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L3251",
+      "toc_line": 3251,
+      "chapter": 49,
+      "concept": "49.2",
+      "title": "The vertebrate brain is regionally specialized",
+      "printed_page": 1091,
+      "body_pdf_page": 1140,
+      "kind": "concept",
+      "toc_pdf_pages": [
+        48
+      ],
+      "chapter_label": "Ch49 Nervous Systems"
+    },
+    "secondary": [
+      {
+        "id": "L2708",
+        "toc_line": 2708,
+        "chapter": 41,
+        "concept": "41.3",
+        "title": "The Oral Cavity, Pharynx, and Esophagus",
+        "printed_page": 905,
+        "body_pdf_page": 954,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          46
+        ],
+        "chapter_label": "Ch41 Animal Nutrition"
+      }
+    ],
+    "primary_reason": "49.2 / The vertebrate brain is regionally specialized：定位延髓需腦區特化；正文腦幹敘述在49.2首個小目之前，目錄未另列Brainstem。",
+    "secondary_reason": "41.3 / The Oral Cavity, Pharynx, and Esophagus：吞嚥的咽與食道過程提供反射功能背景。",
+    "answer_analysis": "D。Campbell印刷1093的延髓功能包含吞嚥。橋腦可參與相關網絡，但題目問典型吞嚥中樞定位。最小目錄採Concept 49.2，不虛構正文圖說為目錄小目。",
+    "textbook_evidence": [
+      {
+        "printed_page": 906,
+        "pdf_page": 955,
+        "text_file": "textbook_evidence/pdf-0955.txt",
+        "sha256": "1de82fa735485ab29ae34cd12a6134c58fcabb0364ef6c03e03777a0009243b7"
+      },
+      {
+        "printed_page": 1091,
+        "pdf_page": 1140,
+        "text_file": "textbook_evidence/pdf-1140.txt",
+        "sha256": "e1b817674ab424713987d70d70cf8697a094aacc6aa8a2ea65741676efbb2b75"
+      },
+      {
+        "printed_page": 1092,
+        "pdf_page": 1141,
+        "text_file": "textbook_evidence/pdf-1141.txt",
+        "sha256": "0f63cbec75bd7978af0fdc8ebccb3b4ade4013ff5ca53aadac8229f3ebb9c1ea"
+      },
+      {
+        "printed_page": 1093,
+        "pdf_page": 1142,
+        "text_file": "textbook_evidence/pdf-1142.txt",
+        "sha256": "8895aa60bdce190c3deb442d407b758eb38d42340adec5024c9c888687dc4079"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q41",
+    "issue_resolution_index": 40
+  },
+  {
+    "id": "ISU-109-Q42",
+    "school": "ISU",
+    "year": 109,
+    "q": 42,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 42,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "official_pdf_page": 23,
+      "regions": [
+        [
+          24,
+          202.95169999999996,
+          572.22,
+          287.3117
+        ]
+      ],
+      "pixel_box": [
+        68,
+        578,
+        1631,
+        819
+      ],
+      "image": "questions/Q42.png",
+      "sha256": "f6f185bb363511c7e073c3521677198eb9c50636236b97ae4b89e3ae833d5df2",
+      "width": 1563,
+      "height": 241,
+      "question_text": "42. 以下哪一項之血中含量比值增加可能升高動脈粥狀硬化(atherosclerosis)罹患率?\n(A) 低密度脂蛋白：高密度脂蛋白(LDL : HDL)\n(B) 中密度脂蛋白：高密度脂蛋白(IDL : HDL)\n(C) 非常低密度脂蛋白：低密度脂蛋白(VLDL : LDL)\n(D) 乳糜微粒：低密度脂蛋白(chylomicron : LDL)",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L2805",
+      "toc_line": 2805,
+      "chapter": 42,
+      "concept": "42.4",
+      "title": "Cardiovascular Disease",
+      "printed_page": 937,
+      "body_pdf_page": 986,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch42 Circulation and Gas Exchange"
+    },
+    "secondary": [],
+    "primary_reason": "42.4 / Cardiovascular Disease：LDL與HDL相對含量的動脈粥狀硬化風險，直接屬心血管疾病。",
+    "secondary_reason": "無另列最小次條目；教材心血管疾病段支持A為可能風險上升；不把關聯寫成個人診斷或HDL的無條件因果保護。",
+    "answer_analysis": "A。LDL相對HDL增加是教材列出的風險關係；是群體風險指標，非單一比值足以診斷，亦不把HDL一律視為因果性保護保證。",
+    "textbook_evidence": [
+      {
+        "printed_page": 937,
+        "pdf_page": 986,
+        "text_file": "textbook_evidence/pdf-0986.txt",
+        "sha256": "86e85c7cddf4a18bcc8551fc269382887a4f7106f65c1ba32e97a3ff7871680f"
+      },
+      {
+        "printed_page": 938,
+        "pdf_page": 987,
+        "text_file": "textbook_evidence/pdf-0987.txt",
+        "sha256": "41008c26bfbc9893f39549105dc7637fe5cceede9c5bec2ecb6a1b7fe332c1fd"
+      },
+      {
+        "printed_page": 939,
+        "pdf_page": 988,
+        "text_file": "textbook_evidence/pdf-0988.txt",
+        "sha256": "1a35ea6189781bf21718207c440199479002f16a87dd96c97e0fc07635f54b53"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q42",
+    "issue_resolution_index": 41
+  },
+  {
+    "id": "ISU-109-Q43",
+    "school": "ISU",
+    "year": 109,
+    "q": 43,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 43,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "official_pdf_page": 23,
+      "regions": [
+        [
+          24,
+          286.4117,
+          572.22,
+          370.77170000000007
+        ]
+      ],
+      "pixel_box": [
+        68,
+        816,
+        1631,
+        1057
+      ],
+      "image": "questions/Q43.png",
+      "sha256": "3b996c802dd82941c39c39da96b7c9b57a6f5e6ffd242dfc8c8be05e66c977ed",
+      "width": 1563,
+      "height": 241,
+      "question_text": "43. 運動時，肌肉張力與下列何者無關？\n(A) 參與收縮的運動單元(active motor unit)數目\n(B) 肌纖維直徑\n(C) 肌纖維之動作電位頻率\n(D) 肌纖維之膜電位去極化(depolarisation)幅度",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L3381",
+      "toc_line": 3381,
+      "chapter": 50,
+      "concept": "50.5",
+      "title": "Vertebrate Skeletal Muscle",
+      "printed_page": 1126,
+      "body_pdf_page": 1175,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        49
+      ],
+      "chapter_label": "Ch50 Sensory and Motor Mechanisms"
+    },
+    "secondary": [
+      {
+        "id": "L3206",
+        "toc_line": 3206,
+        "chapter": 48,
+        "concept": "48.3",
+        "title": "Graded Potentials and Action Potentials",
+        "printed_page": 1073,
+        "body_pdf_page": 1122,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          48
+        ],
+        "chapter_label": "Ch48 Neurons, Synapses, and Signaling"
+      }
+    ],
+    "primary_reason": "50.5 / Vertebrate Skeletal Muscle：張力由肌纖維大小、運動單元招募及刺激頻率調節，主屬骨骼肌。",
+    "secondary_reason": "48.3 / Graded Potentials and Action Potentials：動作電位全有全無特性解釋D不是一般張力編碼方式。",
+    "answer_analysis": "D。正常生理條件下，單一肌纖維動作電位幅度近全有全無，張力以頻率、招募及纖維大小調節。不可擴張為任何病理性膜電位或離子改變都不影響收縮。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1073,
+        "pdf_page": 1122,
+        "text_file": "textbook_evidence/pdf-1122.txt",
+        "sha256": "75edf25b57d7a755d0bca305c1f9800ba8b85bd7e018c2ee62bd3f62da970a04"
+      },
+      {
+        "printed_page": 1128,
+        "pdf_page": 1177,
+        "text_file": "textbook_evidence/pdf-1177.txt",
+        "sha256": "004ea105f3aacc98369dd6b38802264042f7107392022a8c66bf072a5fec031d"
+      },
+      {
+        "printed_page": 1129,
+        "pdf_page": 1178,
+        "text_file": "textbook_evidence/pdf-1178.txt",
+        "sha256": "e418e4403e47a268a6715e0c949d181abbc62fd06c1c5e593d70cc60dde696f9"
+      },
+      {
+        "printed_page": 1130,
+        "pdf_page": 1179,
+        "text_file": "textbook_evidence/pdf-1179.txt",
+        "sha256": "9e88a483e41d22b67c06c7bd6ee21a511bae60a7a938b2b083be3d8b9976e5ba"
+      },
+      {
+        "printed_page": 1131,
+        "pdf_page": 1180,
+        "text_file": "textbook_evidence/pdf-1180.txt",
+        "sha256": "131bc65d94260173a5e7aaa370429ffbcd66f60398c374f43e7c9fb301cc828e"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q43",
+    "issue_resolution_index": 42
+  },
+  {
+    "id": "ISU-109-Q44",
+    "school": "ISU",
+    "year": 109,
+    "q": 44,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 44,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "official_pdf_page": 23,
+      "regions": [
+        [
+          24,
+          369.8717000000001,
+          572.22,
+          422.9717000000001
+        ]
+      ],
+      "pixel_box": [
+        68,
+        1054,
+        1631,
+        1206
+      ],
+      "image": "questions/Q44.png",
+      "sha256": "db71c4e529e780c59d2d3089ac2ad02b67ab77fd8b7cec586dae643d1bcae4ea",
+      "width": 1563,
+      "height": 152,
+      "question_text": "44. 端粒酶(telomerase)之功能係在染色體(chromosome)DNA之末端進行下列何種作用？\n(A) 朝5’端方向加長 (B) 朝3’端方向加長\n(C) 朝兩股之末端皆加長 (D) 朝5’端方向縮短",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [
+        29
+      ],
+      "clarification_disposition": "109年度7/1審議會議釋疑維持原答案B"
+    },
+    "primary": {
+      "id": "L1019",
+      "toc_line": 1019,
+      "chapter": 16,
+      "concept": "16.2",
+      "title": "Replicating the Ends of DNA Molecules",
+      "printed_page": 328,
+      "body_pdf_page": 377,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        39
+      ],
+      "chapter_label": "Ch16 The Molecular Basis of Inheritance"
+    },
+    "secondary": [],
+    "primary_reason": "16.2 / Replicating the Ends of DNA Molecules：端粒酶解決線性染色體末端複製問題，直接有末端複製條目。",
+    "secondary_reason": "無另列最小次條目；教材末端圖與官方PDF29均為加在既有DNA3′端、合成5′→3′；B，另一股補齊不是端粒酶直接雙股延伸。",
+    "answer_analysis": "B。端粒酶以自身RNA為模板，向既有DNA的3′端加核苷酸，合成方向仍為5′→3′；互補股由其他複製酵素補上，不是端粒酶直接同時延長兩股。官方PDF29所引Weaver3e印刷735維持B，引用頁限公告內內容。",
+    "textbook_evidence": [
+      {
+        "printed_page": 328,
+        "pdf_page": 377,
+        "text_file": "textbook_evidence/pdf-0377.txt",
+        "sha256": "b840e2aee15956379c09199d6c99c94840c4716dcfb83bd5e3f8a21efdcc0033"
+      },
+      {
+        "printed_page": 329,
+        "pdf_page": 378,
+        "text_file": "textbook_evidence/pdf-0378.txt",
+        "sha256": "1f538c3fbecb4b85eac0e1baef26dfe7d05ed8b0f0857ec8d517d977c572e47b"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q44",
+    "issue_resolution_index": 43
+  },
+  {
+    "id": "ISU-109-Q45",
+    "school": "ISU",
+    "year": 109,
+    "q": 45,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 45,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "official_pdf_page": 23,
+      "regions": [
+        [
+          24,
+          422.07170000000013,
+          572.22,
+          506.4317000000002
+        ]
+      ],
+      "pixel_box": [
+        68,
+        1203,
+        1631,
+        1444
+      ],
+      "image": "questions/Q45.png",
+      "sha256": "6240505953981a69d0126926cfedbded9b4a811422254cbab6eb59492ddc6161",
+      "width": 1563,
+      "height": 241,
+      "question_text": "45. 有關綠蠵龜(Chelonia mydas)之心臟，下列何者正確？\n(A) 含有二心房二心室\n(B) 具有完整之心室中隔(interventricular septum)\n(C) 體靜脈心室腔(cavum venosum)之血液，在心室收縮時進入主動脈\n(D) 長時間潛水時，可進行左至右分流(left to right shunt; L-R shunt)，使血液略過肺循環",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L2763",
+      "toc_line": 2763,
+      "chapter": 42,
+      "concept": "42.1",
+      "title": "Organization of Vertebrate Circulatory Systems",
+      "printed_page": 924,
+      "body_pdf_page": 973,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch42 Circulation and Gas Exchange"
+    },
+    "secondary": [],
+    "primary_reason": "42.1 / Organization of Vertebrate Circulatory Systems：龜類心室分隔及肺／體循環分流直接屬脊椎動物循環系統比較。",
+    "secondary_reason": "無另列最小次條目；重新開Q45原圖，對照Campbell龜類及原作者腔室圖：體動脈出口連CV，肺旁路為R-L，C正確。研究物種不同與NOAA取得失敗明示，未用其冒充綠蠵龜直接量測。",
+    "answer_analysis": "C。龜類有兩心房及未完全隔開的心室；體動脈流出途徑由cavum venosum通向主動脈，略過肺為右至左分流，非D的左至右。cavum venosum名稱不代表其中永遠僅有缺氧血。Campbell圖文支援龜類框架；1976原研究對象為Pseudemys與Testudo，支持一般龜類腔室機制，不冒稱綠蠵龜直接實驗。NOAA海龜PDF取得失敗，未作已讀證據。",
+    "textbook_evidence": [
+      {
+        "printed_page": 924,
+        "pdf_page": 973,
+        "text_file": "textbook_evidence/pdf-0973.txt",
+        "sha256": "41f64bdea2ebf2beb339a886d61e2073cb237c30814b45f8fa2505b8cf39e8f6"
+      },
+      {
+        "printed_page": 925,
+        "pdf_page": 974,
+        "text_file": "textbook_evidence/pdf-0974.txt",
+        "sha256": "02c55e087ced3c7f7bc37cb855cfb903d6a28038e9baf301fe3510514e083adf"
+      },
+      {
+        "printed_page": 926,
+        "pdf_page": 975,
+        "text_file": "textbook_evidence/pdf-0975.txt",
+        "sha256": "8773131b852180adeb6a32863d5fbcba8f313c6689a1dea9e7c22e64d631592b"
+      }
+    ],
+    "supplement_ids": [
+      "S45"
+    ],
+    "coverage_note": "Campbell提供列示分類原理；未直接涵蓋的細節由具名補充來源與同年釋疑支援，取得及實讀界線見來源紀錄。",
+    "second_review_id": "ISU-109-R2-Q45",
+    "issue_resolution_index": 44
+  },
+  {
+    "id": "ISU-109-Q46",
+    "school": "ISU",
+    "year": 109,
+    "q": 46,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 46,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "official_pdf_page": 23,
+      "regions": [
+        [
+          24,
+          505.5317000000002,
+          572.22,
+          556.8916
+        ]
+      ],
+      "pixel_box": [
+        68,
+        1441,
+        1631,
+        1587
+      ],
+      "image": "questions/Q46.png",
+      "sha256": "2c2432c99b20a7a55005b329cb7fc6765dddd5b55dc94ac0a923c47ba8653f9f",
+      "width": 1563,
+      "height": 146,
+      "question_text": "46. 反芻動物(ruminants)胃內何處含有最多之共生細菌？\n(A) 瘤胃(rumen) (B) 蜂巢胃(reticulum)\n(C) 重瓣胃(omasum) (D) 皺胃(abomasum)",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [
+        29
+      ],
+      "clarification_disposition": "109年度7/1審議會議釋疑維持原答案A"
+    },
+    "primary": {
+      "id": "L2733",
+      "toc_line": 2733,
+      "chapter": 41,
+      "concept": "41.4",
+      "title": "Mutualistic Adaptations",
+      "printed_page": 912,
+      "body_pdf_page": 961,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch41 Animal Nutrition"
+    },
+    "secondary": [],
+    "primary_reason": "41.4 / Mutualistic Adaptations：反芻胃內微生物協助植物食物消化，直接屬互利適應。",
+    "secondary_reason": "無另列最小次條目；題問共生消化的胃室位置，41.4互利適應直接；官方PDF29以主要發酵及最大胃室維持A，未推論其他胃室完全無菌。",
+    "answer_analysis": "A。瘤胃是主要共生發酵場所，官方PDF29引用Sherwood2e印刷655，稱容量最大且為纖維消化主場所，維持A。不是其他胃室沒有細菌，也不將「最多」偷換成經測量各部位每毫升密度；引用書頁僅讀公告圖文。",
+    "textbook_evidence": [
+      {
+        "printed_page": 912,
+        "pdf_page": 961,
+        "text_file": "textbook_evidence/pdf-0961.txt",
+        "sha256": "7c0e1a21eac5039647a68a0e64e854a4b7e929398ca609b04a58718e18d2c9d0"
+      },
+      {
+        "printed_page": 913,
+        "pdf_page": 962,
+        "text_file": "textbook_evidence/pdf-0962.txt",
+        "sha256": "17f0f03bfb2762231030e8a604f58d69e55000aac4203a938611dcc591446562"
+      },
+      {
+        "printed_page": 914,
+        "pdf_page": 963,
+        "text_file": "textbook_evidence/pdf-0963.txt",
+        "sha256": "4d160eb8ca2c70f353e738c81799df149b4d23137f9fc3466df61c7351cec58b"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q46",
+    "issue_resolution_index": 45
+  },
+  {
+    "id": "ISU-109-Q47",
+    "school": "ISU",
+    "year": 109,
+    "q": 47,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 47,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "official_pdf_page": 23,
+      "regions": [
+        [
+          24,
+          555.9916000000001,
+          572.22,
+          605.4916999999999
+        ]
+      ],
+      "pixel_box": [
+        68,
+        1585,
+        1631,
+        1726
+      ],
+      "image": "questions/Q47.png",
+      "sha256": "c696e38977e21aa22a86fe0d339d5c7293f6de7554f53ded39bbac4645f1543f",
+      "width": 1563,
+      "height": 141,
+      "question_text": "47. 請問心肌細胞受損後，下列何種酵素最先在血液中被偵測到？\n(A) Glutaminase (B) Alkaline phosphatase\n(C) Creatine kinase (D) Aspartate aminotransferase",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L2805",
+      "toc_line": 2805,
+      "chapter": 42,
+      "concept": "42.4",
+      "title": "Cardiovascular Disease",
+      "printed_page": 937,
+      "body_pdf_page": 986,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch42 Circulation and Gas Exchange"
+    },
+    "secondary": [],
+    "primary_reason": "42.4 / Cardiovascular Disease：心肌受損釋出酵素的病理情境對應心血管疾病；Campbell未細列標記時間。",
+    "secondary_reason": "無另列最小次條目；S47歷史教材指受損後早期升高而非正常零值，C；按四個酵素判讀，不宣稱CK是所有標記中最早或現行唯一診斷指標。",
+    "answer_analysis": "C。依原題四種酵素，CK是心肌受損後早期上升的典型指標，補充教材列約3–6小時。CK原本就可在血中測得，應理解為受損後增高，不是首次從無到有；總CK非心肌專一，CK-MB也不等同總CK，不主張其為所有現行生物標記中最早。",
+    "textbook_evidence": [
+      {
+        "printed_page": 937,
+        "pdf_page": 986,
+        "text_file": "textbook_evidence/pdf-0986.txt",
+        "sha256": "86e85c7cddf4a18bcc8551fc269382887a4f7106f65c1ba32e97a3ff7871680f"
+      },
+      {
+        "printed_page": 938,
+        "pdf_page": 987,
+        "text_file": "textbook_evidence/pdf-0987.txt",
+        "sha256": "41008c26bfbc9893f39549105dc7637fe5cceede9c5bec2ecb6a1b7fe332c1fd"
+      }
+    ],
+    "supplement_ids": [
+      "S47"
+    ],
+    "coverage_note": "Campbell提供列示分類原理；未直接涵蓋的細節由具名補充來源與同年釋疑支援，取得及實讀界線見來源紀錄。",
+    "second_review_id": "ISU-109-R2-Q47",
+    "issue_resolution_index": 46
+  },
+  {
+    "id": "ISU-109-Q48",
+    "school": "ISU",
+    "year": 109,
+    "q": 48,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 48,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "official_pdf_page": 23,
+      "regions": [
+        [
+          24,
+          604.5917,
+          572.22,
+          642.0917
+        ]
+      ],
+      "pixel_box": [
+        68,
+        1723,
+        1631,
+        1830
+      ],
+      "image": "questions/Q48.png",
+      "sha256": "0f940f7f29cb252e9d075144d3115cb083db469b346cb32bf5cc4b018acecceb",
+      "width": 1563,
+      "height": 107,
+      "question_text": "48. 下列何者最容易自由通過腎絲球微血管(glomerular capillary)管壁的窗孔(fenestrae)？\n(A) 蛋白質 (B) 抗體 (C) 尿素(urea) (D) 紅血球",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L2970",
+      "toc_line": 2970,
+      "chapter": 44,
+      "concept": "44.4",
+      "title": "The nephron is organized for stepwise processing of blood filtrate",
+      "printed_page": 987,
+      "body_pdf_page": 1036,
+      "kind": "concept",
+      "toc_pdf_pages": [
+        47
+      ],
+      "chapter_label": "Ch44 Osmoregulation and Excretion"
+    },
+    "secondary": [],
+    "primary_reason": "44.4 / The nephron is organized for stepwise processing of blood filtrate：大小選擇性濾過在Concept 44.4印刷987開头、From Blood Filtrate to Urine之前，故以該Concept為最小真實目錄。",
+    "secondary_reason": "無另列最小次條目；重開原圖及完整印刷987，濾過選擇性在44.4引言、From Blood Filtrate to Urine之前，主目修為44.4。尿素C最易過濾，保留全屏障多層結構限制。",
+    "answer_analysis": "C。尿素分子小，可自由濾過；紅血球及多數大分子蛋白被完整濾過屏障限制。題幹只寫內皮窗孔較簡化，實際屏障還有基底膜及足細胞裂隙；不把單一窗孔說成全部選擇性的唯一來源。",
+    "textbook_evidence": [
+      {
+        "printed_page": 984,
+        "pdf_page": 1033,
+        "text_file": "textbook_evidence/pdf-1033.txt",
+        "sha256": "a9b3f9d286e389c9cbac10caa68208e36bce2301e4d3acc49c763720c537e3b1"
+      },
+      {
+        "printed_page": 985,
+        "pdf_page": 1034,
+        "text_file": "textbook_evidence/pdf-1034.txt",
+        "sha256": "7cd7ede9a6cd217d80799ae6e74c775674b52d730f91eac3ccbe447a234c8748"
+      },
+      {
+        "printed_page": 986,
+        "pdf_page": 1035,
+        "text_file": "textbook_evidence/pdf-1035.txt",
+        "sha256": "d31595f991cb35667eb9672dbac4c641260490b13b602e4660764191c56d57ce"
+      },
+      {
+        "printed_page": 987,
+        "pdf_page": 1036,
+        "text_file": "textbook_evidence/pdf-1036.txt",
+        "sha256": "ed6b5e0b1691b202b6e8ff69b70176668a7563ba9868462d2ba4b811d3a93ce0"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q48",
+    "issue_resolution_index": 47
+  },
+  {
+    "id": "ISU-109-Q49",
+    "school": "ISU",
+    "year": 109,
+    "q": 49,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 49,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "official_pdf_page": 23,
+      "regions": [
+        [
+          24,
+          641.1917,
+          572.22,
+          725.5517
+        ]
+      ],
+      "pixel_box": [
+        68,
+        1828,
+        1631,
+        2068
+      ],
+      "image": "questions/Q49.png",
+      "sha256": "441f667e1ea7cf1e69cd3779d4b49d3c6c93edbd7a647768d8ada6a7d9e710c4",
+      "width": 1563,
+      "height": 240,
+      "question_text": "49. 若連續幾天食用低鈉鹽的飲食，會出現那一種生理現象？\n(A) 尿液中鈉離子(Na+)濃度增高\n(B) 醛固酮(aldosterone)分泌增加\n(C) 心房利鈉胜肽(atrial natriuretic peptide)分泌增加\n(D) 血漿中腎素(rennin)的濃度減少",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L2987",
+      "toc_line": 2987,
+      "chapter": 44,
+      "concept": "44.5",
+      "title": "Homeostatic Regulation of the Kidney",
+      "printed_page": 994,
+      "body_pdf_page": 1043,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        47
+      ],
+      "chapter_label": "Ch44 Osmoregulation and Excretion"
+    },
+    "secondary": [],
+    "primary_reason": "44.5 / Homeostatic Regulation of the Kidney：低鈉經RAAS與醛固酮保鈉屬腎臟恆定調節。",
+    "secondary_reason": "無另列最小次條目；低鈉典型RAAS保鈉反應為B；濃度還受尿量影響，腎素應拼renin，兩項差異都保留，分類仍為腎臟恆定調節。",
+    "answer_analysis": "B。典型低鈉攝入刺激保鈉反應，使醛固酮增加、腎鈉重吸收增加。尿鈉排出量與濃度須區分，濃度亦受水量影響。原題腎素英文rennin應為renin，rennin另指凝乳酶用語；原題照存。",
+    "textbook_evidence": [
+      {
+        "printed_page": 994,
+        "pdf_page": 1043,
+        "text_file": "textbook_evidence/pdf-1043.txt",
+        "sha256": "ae5d88dfeb6c16a9f25392ac411d4c6cd2769c5f229626aba428a44e532959cc"
+      },
+      {
+        "printed_page": 995,
+        "pdf_page": 1044,
+        "text_file": "textbook_evidence/pdf-1044.txt",
+        "sha256": "6adc1ec2a2c51522cf05990d9ca598d5906766ae9d3b9aa82ccd82ff84b1e94c"
+      },
+      {
+        "printed_page": 996,
+        "pdf_page": 1045,
+        "text_file": "textbook_evidence/pdf-1045.txt",
+        "sha256": "5f134b82b60789895236267e0356fff13cdce6206f202e47d6a017b46c04f3bb"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q49",
+    "issue_resolution_index": 48
+  },
+  {
+    "id": "ISU-109-Q50",
+    "school": "ISU",
+    "year": 109,
+    "q": 50,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 50,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "official_pdf_page": 23,
+      "regions": [
+        [
+          24,
+          724.6517,
+          572.22,
+          784
+        ]
+      ],
+      "pixel_box": [
+        68,
+        2066,
+        1631,
+        2235
+      ],
+      "image": "questions/Q50.png",
+      "sha256": "1b03a7c515d862b73e238dec953637bfe3c41350101058eef9b1fd57f1e91d49",
+      "width": 1563,
+      "height": 169,
+      "question_text": "50. 在炎熱乾燥的環境下，以下何種植物的光呼吸作用(photorespiration)最旺盛？\n(A) 玉米 (B) 菠菜 (C) 鳳梨 (D) 仙人掌",
+      "shared_stimulus": false,
+      "includes_figure": false,
+      "text_source": "本輪PDF提取文字；完整5頁全部50題原圖已視讀，原字形與浮水印保留，提取差異以原圖為準。"
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "official_combined_answer_page": 24,
+      "answer_region": "最下方第四張生物表；上方三科不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列本輪取得的109年度釋疑PDF28–29；依同年答案採計，不宣稱沒有其他未取得公告"
+    },
+    "primary": {
+      "id": "L0673",
+      "toc_line": 673,
+      "chapter": 10,
+      "concept": "10.5",
+      "title": "Photorespiration: An Evolutionary Relic?",
+      "printed_page": 203,
+      "body_pdf_page": 252,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        37
+      ],
+      "chapter_label": "Ch10 Photosynthesis"
+    },
+    "secondary": [
+      {
+        "id": "L0676",
+        "toc_line": 676,
+        "chapter": 10,
+        "concept": "10.5",
+        "title": "C4 Plants",
+        "printed_page": 203,
+        "body_pdf_page": 252,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          37
+        ],
+        "chapter_label": "Ch10 Photosynthesis"
+      },
+      {
+        "id": "L0679",
+        "toc_line": 679,
+        "chapter": 10,
+        "concept": "10.5",
+        "title": "CAM Plants",
+        "printed_page": 205,
+        "body_pdf_page": 254,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          37
+        ],
+        "chapter_label": "Ch10 Photosynthesis"
+      }
+    ],
+    "primary_reason": "10.5 / Photorespiration: An Evolutionary Relic?：熱乾燥環境中C3植物Rubisco氧化反應增加，直接屬光呼吸。",
+    "secondary_reason": "10.5 / C4 Plants：玉米以C4空間分隔濃縮CO2；10.5 / CAM Plants：鳳梨和仙人掌的CAM時間分隔減少水分代價及光呼吸。",
+    "answer_analysis": "B。菠菜是C3植物，關閉氣孔使葉內CO2低而相對O2高，較易光呼吸；玉米C4、鳳梨及仙人掌CAM具有濃縮／保存CO2策略。比較限題設典型條件，不說CAM或C4絕無光呼吸。",
+    "textbook_evidence": [
+      {
+        "printed_page": 203,
+        "pdf_page": 252,
+        "text_file": "textbook_evidence/pdf-0252.txt",
+        "sha256": "f95db8df6ec50e2ebe6fbc5423b5da652c39d2213a0f90ab09f124dd3546e721"
+      },
+      {
+        "printed_page": 204,
+        "pdf_page": 253,
+        "text_file": "textbook_evidence/pdf-0253.txt",
+        "sha256": "063fc9b6165718954137937938c9f7b678e91b2028a13c1b016ad1869d3c9366"
+      },
+      {
+        "printed_page": 205,
+        "pdf_page": 254,
+        "text_file": "textbook_evidence/pdf-0254.txt",
+        "sha256": "608eca4bf9ee946c0057bd976e13c8fe0cb6ab1fbde8feab81841731ed50fb92"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；原題限定、同年釋疑細節與最小目錄邊界逐題保留。",
+    "second_review_id": "ISU-109-R2-Q50",
+    "issue_resolution_index": 49
+  }
+]

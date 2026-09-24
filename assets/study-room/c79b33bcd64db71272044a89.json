@@ -1,0 +1,386 @@
+[
+  {
+    "id": "S01",
+    "title": "Nobel官方：1990、1986物理及2014、2017化學獎",
+    "finding": "1990並非Minsky；其他三年顯微技術配對與題表吻合。",
+    "read_scope": "官方搜尋回傳的得主及獎項段；部分canonical summary直開Internal Error，改以官方索引／學術說明PDF搜尋節錄核實，非全部全文。",
+    "urls": [
+      "https://www.nobelprize.org/prizes/physics/1990/9592-the-nobel-prize-in-physics-1990/",
+      "https://www.nobelprize.org/prizes/physics/1986/summary/",
+      "https://www.nobelprize.org/nobel_prizes/chemistry/laureates/2014/",
+      "https://www.nobelprize.org/uploads/2018/06/advanced-chemistryprize2017-1.pdf"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU110官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "f5ce2532a3b5b91597086d048e2bbcb209f3d176e890ebc8b79a71b6a2db54d5"
+  },
+  {
+    "id": "S02",
+    "title": "Albertin et al. 2015：The octopus genome and the evolution of cephalopod neural and morphological novelties",
+    "finding": "Octopus bimaculoides是2015研究的定序物種，支持加州雙斑蛸選項。",
+    "read_scope": "原出版商研究摘要／搜尋節錄與出版日期；未宣稱全文已下載。",
+    "urls": [
+      "https://www.nature.com/articles/nature14668"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU110官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "3f6187f5d34a1d0efe4b6f37b361772b5cd5a650b9ba1981c0d8030f6bba21ae"
+  },
+  {
+    "id": "S03",
+    "title": "農政／林業官方珍稀植物資料：清水圓柏",
+    "finding": "官方資料具名清水圓柏及Juniperus chinensis var. taiwanensis；與原卷只到種名的精度分開，歷史保育名單不是自動對應現行IUCN級別。",
+    "read_scope": "官方頁面搜尋回傳的珍稀植物列表、名稱及說明；以歷史題目身分查證，不是法律意見。",
+    "urls": [
+      "https://www.forest.gov.tw/0004755",
+      "https://kids.moa.gov.tw/view.php?category=A17&func=knowledge&id=295&subfunc=kids_knowledge"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU110官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "0918d71db2c65591fe1514088c5d8dd3f280b77d15757acb0817dfec6a4f9f45"
+  },
+  {
+    "id": "S04",
+    "title": "Perri et al. 2021：Dire wolves were the last of an ancient New World canid lineage",
+    "finding": "古DNA研究是題設570萬年及趨同推論的來源背景。",
+    "read_scope": "原始研究摘要及作者機構存錄；限2021研究脈絡，不聲稱已排除後續所有系統發育修訂。",
+    "urls": [
+      "https://www.nature.com/articles/s41586-020-03082-x",
+      "https://eprints.ncl.ac.uk/272759"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU110官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "903ee349196c3fba8d153fa117fb11d1e8b97a83787f1d53aa1b7803d30ba3fa"
+  },
+  {
+    "id": "S05",
+    "title": "2013 Arabidopsis EXPANSIN-LIKE A2與病原／逆境反應研究",
+    "finding": "EXLA2突變株對Botrytis等壞死營養病原的感受性改變，不能把expansin家族一概說成與防禦無關。",
+    "read_scope": "PubMed原始研究摘要；限定Arabidopsis EXLA2與該實驗條件，不外推所有家族成員。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/23782466/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU110官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "affddfe222424099295f122343ba212b1866251add4b99c093acaf10cc8139d6"
+  },
+  {
+    "id": "S06",
+    "title": "Nobel 2018免疫檢查點官方學術說明",
+    "finding": "Allison的CTLA-4阻斷抗腫瘤與Honjo團隊PD-1研究；貢獻描述不同於兩人各首次克隆對應分子。",
+    "read_scope": "官方Scientific Background及PD-1發現段；press-release直開失敗後使用可讀官方學術頁。",
+    "urls": [
+      "https://www.nobelprize.org/prizes/medicine/2018/advanced-information/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU110官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "e9921c57ddbe92339363024ca5070154da94426dc923ef0ce2eb7179a9cfe013"
+  },
+  {
+    "id": "S07",
+    "title": "GH脂解：人類脂肪研究與STAT5／JAK2原始實驗",
+    "finding": "人類GH干預及小鼠STAT5／脂肪細胞JAK2研究支持GHR-JAK-STAT軸；ERK等可參與下游，不是排他途徑。",
+    "read_scope": "原始研究摘要及搜尋回傳實驗結果；人類與小鼠證據分記，未聲稱全部全文精讀。",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6731350/",
+      "https://pubmed.ncbi.nlm.nih.gov/10486277/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4188962/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6226059/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU110官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "2197ebdbc184b7bba953f94dc8f65c8661bba73a039295f41e46443edc5d4d49"
+  },
+  {
+    "id": "S08",
+    "title": "ASLA 2011獎項與農政2012鰲鼓開園公告",
+    "finding": "鰲鼓濕地森林園區由中山大學規劃，獲ASLA分析規劃Award of Excellence；官方開園日期2012-11-24。",
+    "read_scope": "ASLA官方獎項列表及農政公告搜尋回傳正文。",
+    "urls": [
+      "https://old.asla.org/2011awards/index.html",
+      "https://www.moa.gov.tw/ws.php?id=2447760"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU110官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "002c458ad8e6eb7e313a45fb7ef62e1a060b96c5def4aba1b2cb15ecf6fbae09"
+  },
+  {
+    "id": "S09",
+    "title": "Noguchi et al. 1987：Vibrio alginolyticus與河豚腸道TTX",
+    "finding": "部分菌株在培養條件下產生TTX或相關物質；不能單憑此研究證明所有Vibrio與所有河豚必然互利。",
+    "read_scope": "原出版商摘要；第三方聚合摘要僅用來找到DOI，正式證據URL使用原出版商。",
+    "urls": [
+      "https://link.springer.com/article/10.1007/BF00431409"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU110官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "1d9322527910a559d3c02c7f3f9aa6ddcff42436fd20ff222d0ba05b208469bb"
+  },
+  {
+    "id": "S10",
+    "title": "澳洲海膽荒地原始群集研究",
+    "finding": "Centrostephanus rodgersii過度取食與海藻林轉成海膽荒地、生物群集減少有原始研究支持。",
+    "read_scope": "原出版商研究摘要／結果搜尋節錄；後於考試，只補科學機制，不冒充110官方材料。",
+    "urls": [
+      "https://www.nature.com/articles/s41467-023-44543-x"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU110官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "0bdb8fcf3d77e03345258924cd7a3e461cdcfb9e43e9cc70477eb79a09affc5d"
+  },
+  {
+    "id": "S11",
+    "title": "國家檔案：RCA工廠污染事件",
+    "finding": "三氯乙烯、四氯乙烯、二氯甲烷等含氯有機化合物是事件具名污染物；多種暴露不能縮成唯一化合物。",
+    "read_scope": "國家檔案事件資料頁及列示污染物段落。",
+    "urls": [
+      "https://art.archives.gov.tw/tw/art/989-11895.html"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU110官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "36886c939a58e73d55ffc5fe31335dbd9b69105b60201e482de5f0d616c7f203"
+  },
+  {
+    "id": "S12",
+    "title": "Bräuer et al. 2019：KDEL受器的pH依賴ER蛋白回收",
+    "finding": "KDEL的E是Glu；雞KDELR結構、結合與定位實驗支持酸性Golgi辨識及COPI回收。",
+    "read_scope": "PubMed摘要及圖說；PMC7617890直開驗證頁未繞過，改用PubMed。未由摘要推算所有cis-Golgi均恰pH5。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/30846601/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU110官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "6110918989197cb40e8b1962fff2e2093cdc441d1cff164c18c3885a124c946c"
+  },
+  {
+    "id": "S13",
+    "title": "Thiolase縮合原始研究與幼鼠神經細胞酮體研究",
+    "finding": "Thiolase兩acetyl-CoA成acetoacetyl-CoA，再加第三個形成HMG-CoA；幼鼠研究支援神經膠細胞產酮的物種限定背景。",
+    "read_scope": "原始酵素結構研究摘要、幼鼠神經細胞研究摘要，及UCL作者學位論文中兩步反應段的搜尋節錄；全篇論文未下載。110官方雙答案本身只據同年度釋疑PDF7。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/12501183/",
+      "https://pubmed.ncbi.nlm.nih.gov/9425122/",
+      "https://discovery.ucl.ac.uk/id/eprint/10053453/1/Khabbush_10053453_thesis.Redacted.pdf"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU110官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "e4bc09d810e7e22a747a54d4d23b36cd316aada923b0d9bcd1d04baec1a6c22b"
+  },
+  {
+    "id": "S14",
+    "title": "NIH Assay Guidance Manual：Mechanism of Action Assays for Enzymes",
+    "finding": "MM模型與純competitive、noncompetitive、uncompetitive、mixed概念；純非競爭Vmax降而Km不變。",
+    "read_scope": "作者實驗指引Types of Inhibition與速率／受質相關段落，實際開頁文字核對；不是把所有反應都假定MM。",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK92001/?report=reader"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU110官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "1b36bdb08cb66f9fac3a500f42ad2684a130e553acff5c443d429a8c07d29305"
+  },
+  {
+    "id": "S15",
+    "title": "Brown et al. 1993：Cloning and characterization of an extracellular Ca2+-sensing receptor from bovine parathyroid",
+    "finding": "CaSR為G蛋白偶聯受器，與Ca2+通道有本質區別。",
+    "read_scope": "原出版商原始克隆研究摘要／搜尋節錄；牛副甲狀腺實驗身分保留。",
+    "urls": [
+      "https://www.nature.com/articles/366575a0"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU110官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "d6015e4a274483c36ef97a12b12caaea1c7fdc9f21a9d8373dbb7a3fb8c8f6fa"
+  },
+  {
+    "id": "S16",
+    "title": "人類astrocyte G6Pase-β原始研究及糖質新生反應資料",
+    "finding": "2018培養人類胎兒astrocytes表達G6Pase-β而非α，否定腦所有同工酵素一概缺乏；反應資料確認fructose-1,6-bisphosphatase。",
+    "read_scope": "原始研究PubMed完整摘要；PMC直開驗證頁改由PubMed。糖質新生作者教學條目的反應段僅用於標準酵素名稱，不冒稱其為原始實驗。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/30415704/",
+      "https://www.ncbi.nlm.nih.gov/books/NBK541119/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU110官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "2d3c58f2e87d996453b024272308f74c05e96ef4672198e804ba4882a67d6dfa"
+  },
+  {
+    "id": "S17",
+    "title": "Stryer／Berg生化教材：Glutamate為glutamine、proline前驅物",
+    "finding": "Glutamate家族包括glutamine與proline，與OAA衍生aspartate家族分開；必經中間步驟。",
+    "read_scope": "作者原教材在機構館藏的章節標題及生合成反應搜尋節錄；Basic Neurochemistry的glutamine synthetase反應段。不以細菌ProB/ProA酵素名稱直接套哺乳類。",
+    "urls": [
+      "https://fenix.esesjcluny.pt/dspace/bitstream/2295/2832/1/Lubert%20Stryer%20-%20Biochemistry.pdf",
+      "https://ncbi.nlm.nih.gov/books/NBK28036/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU110官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "e21a81fb297be531622f26a0a4de0e412eee1d741c22c250f8e09807c8b840cc"
+  },
+  {
+    "id": "S18",
+    "title": "2015原始研究：真核病毒結構性IRES在活細菌中啟動轉譯",
+    "finding": "特定真核病毒結構性IRES可在活細菌中啟動轉譯，是原題C的實驗界線，非所有細菌內源IRES普遍性證明。",
+    "read_scope": "原始研究摘要／實驗結論及作者實驗室論文頁；未宣稱完整全文逐段讀完。",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4352134/",
+      "https://www.umassmed.edu/globalassets/korostelev-lab/publications/2015-ires-nature.pdf"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU110官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "2e08be05cd0395b4005d7b9e21e07f4d2cca226ee7a8c5555ee8f7df19fdd6de"
+  },
+  {
+    "id": "S19",
+    "title": "OpenStax Anatomy and Physiology 2e：The Stomach",
+    "finding": "Parietal cells分泌HCl及intrinsic factor，後者為小腸B12吸收所需。",
+    "read_scope": "原教材胃腺細胞段，包含壁細胞、主細胞與黏液頸細胞；補足Campbell未詳列IF的部分。",
+    "urls": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-4-the-stomach"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU110官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "12db68df20d8eb44f0ae915bc590556e432ff37962d0254c6086c8c89678de4c"
+  },
+  {
+    "id": "S20",
+    "title": "Kussmaul and Hirst 2006：Complex I產生ROS的機制",
+    "finding": "牛心complex I的NADH pool還原程度與superoxide生成相關；不是complex III Q cycle所有情況的直接實驗。",
+    "read_scope": "原始研究摘要及研究結果搜尋節錄；明記complex I及物種來源。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/16682634/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU110官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "aeaa4d26f1e5064e4c9ebf5e0b0ba8fc28393eb1aa4adfe1e91715733f180597"
+  },
+  {
+    "id": "S21",
+    "title": "馬祖風景區官方：藍眼淚與夜光蟲",
+    "finding": "馬祖藍眼淚以Noctiluca夜光蟲為主要說明生物，屬甲藻；可異營攝食。",
+    "read_scope": "風景區官方生態介紹中物種及發光說明段。",
+    "urls": [
+      "https://theme.matsu-nsa.gov.tw/beautiful_matsu_ecology4.html",
+      "https://www.matsu-nsa.gov.tw/zh-TW/topics/11"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU110官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "2fce6ff4b30c2b6049766d96d116ff209b0849242064dba325ebff206b728cea"
+  },
+  {
+    "id": "S22",
+    "title": "肺動脈壓力反射：人類2020及犬原始實驗",
+    "finding": "人類高海拔低氧與iNO降低肺動脈壓時交感輸出下降；犬壓力實驗亦見肺動脈反射。不能聲稱肺動脈無此感受器，也不能冒充人體失血30%的直接實驗。",
+    "read_scope": "人類PubMed摘要（條件、PASP、MSNA與結論）實際開頁核對；犬原始研究摘要及方法物種段。保留每項實驗的物種與條件。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/31977069/",
+      "https://pubmed.ncbi.nlm.nih.gov/10918080/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3180001/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU110官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "9cde68e34eb98897fbfeff72f90c016260c711438d63104b42c4000a4da2b107"
+  },
+  {
+    "id": "S23",
+    "title": "Pittman 2011：Regulation of Tissue Oxygenation — Oxygen Transport",
+    "finding": "升溫、升CO2、升H+及升2,3-DPG使解離曲線右移，降低則左移。",
+    "read_scope": "原作者專書Allosteric Effectors of Oxygen Binding to Hemoglobin段；非原始單一臨床試驗。",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK54103/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU110官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "ebfe7b80efe6c6477470a8c96c710061ede48bbd104c62c43d932de118979017"
+  },
+  {
+    "id": "S24",
+    "title": "醛固酮：唾液原始輸注研究及腎水鹽／酸鹼教材",
+    "finding": "袋鼠醛固酮輸注實驗唾液Na/K下降；原教材支持腎Na回收與K、H排出及酸鹼相關作用，不能把不同物種數小時推成正常人數天定量。",
+    "read_scope": "原始唾液實驗摘要，OpenStax原教材的腎離子與酸鹼段；原題仍按短期模型採計C。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/3805995/",
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-9-regulation-of-fluid-volume-and-composition",
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/26-4-acid-base-balance"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU110官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "aa8d83b55bca56e74a082284d7d691b8f8a0ec56a8002c38f346dff48c238652"
+  },
+  {
+    "id": "S25",
+    "title": "ICTV Coronaviridae報告與SARS-CoV-2 RdRp結構原始研究",
+    "finding": "冠狀病毒正股RNA含cap與poly(A)，RdRp形成RNA複製中間體；非主要經反轉錄DNA途徑。",
+    "read_scope": "ICTV官方病毒基因體／複製表及RdRp原始研究摘要；ICTV頁面較新分類名稱不代入原題名稱。",
+    "urls": [
+      "https://ictv.global/report/chapter/coronaviridae/coronaviridae",
+      "https://pubmed.ncbi.nlm.nih.gov/32277040/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU110官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "a367cba9910cb572acf489b25e9bd5a279f2faa8d88586ff1ed8c0e0d696866e"
+  },
+  {
+    "id": "S26",
+    "title": "OpenStax Anatomy and Physiology 2e：Transport of Gases",
+    "finding": "教材列溶解約7–10%、HCO3約70%、carbaminohemoglobin約20%；支持三種主要形式，未支持albumin攜帶20%。",
+    "read_scope": "原教材Carbon Dioxide Transport全文子段實讀；其百分比與原題約30%及本地Campbell約5%明確分開，不強行同值。",
+    "urls": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-5-transport-of-gases"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU110官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "02ac272f0a5c5d513cf3a0a2b19c3426acabbfecd2b0883b76d7d21a31993eab"
+  },
+  {
+    "id": "S27",
+    "title": "Quest Diagnostics官方檢驗教育：Testosterone與結合蛋白",
+    "finding": "常用分配約44%SHBG、54%albumin，超過50%SHBG不應作無條件定值；DHT與男性性徵需與T區分。",
+    "read_scope": "檢驗機構官方FAQ的結合比例段；不是獨立人類輸精管ABP運送原始實驗。C仍明確只按110官方釋疑採計。",
+    "urls": [
+      "https://www.questdiagnostics.com/healthcare-professionals/clinical-education-center/faq/faq165"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU110官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "067ad2c03f365ff76238c5b82098bbce9a5cf57583fa62c6087ce514530dead8"
+  },
+  {
+    "id": "S28",
+    "title": "Long et al. 2020：Antibody responses to SARS-CoV-2 in patients with COVID-19",
+    "finding": "患者IgG與IgM可同時或先後不同時間出現，原題C先IgM後IgG不是普遍個體通則。",
+    "read_scope": "原始研究摘要：285位患者及seroconversion時序描述；不外推其他病原或所有免疫狀態。",
+    "urls": [
+      "https://www.nature.com/articles/s41591-020-0897-1"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU110官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "a7012d9bee45335157121e6ac3a994e8e9964b8858b1cdccbdff6acd60ffe4ac"
+  }
+]

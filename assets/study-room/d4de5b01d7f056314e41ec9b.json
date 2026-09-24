@@ -1,0 +1,173 @@
+[
+  {
+    "id": "S01",
+    "title": "肝臟F2,6BP與糖代謝調控",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/1892901/",
+      "https://pubmed.ncbi.nlm.nih.gov/6451625/"
+    ],
+    "finding": "人類肝細胞升糖素處理的F2,6BP下降，以及F2,6BP活化PFK的原始實驗。",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀搜尋回傳的原始研究摘要／官方資料內容，不宣稱所有出版商全文已取得；諾貝爾頁使用官方搜尋節錄。",
+    "source_type": "primary_research"
+  },
+  {
+    "id": "S02",
+    "title": "肝臟glucose-6-phosphatase及釋糖",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/9813078/",
+      "https://pubmed.ncbi.nlm.nih.gov/9604862/"
+    ],
+    "finding": "肝G6Pase系統位於ER，支援游離葡萄糖生成；不泛稱肌肉所有同功型皆不存在。",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀搜尋回傳的原始研究摘要／官方資料內容，不宣稱所有出版商全文已取得；諾貝爾頁使用官方搜尋節錄。",
+    "source_type": "primary_research"
+  },
+  {
+    "id": "S03",
+    "title": "HumanCyc gluconeogenesis pathway",
+    "urls": [
+      "https://pubchem.ncbi.nlm.nih.gov/pathway/HUMANCYC%3APWY66-399"
+    ],
+    "finding": "官方途徑資料提供pyruvate羧化成OAA及指定malate輸出路線，不宣稱所有糖質新生必經malate。",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀搜尋回傳的原始研究摘要／官方資料內容，不宣稱所有出版商全文已取得；諾貝爾頁使用官方搜尋節錄。",
+    "source_type": "official_curated_data"
+  },
+  {
+    "id": "S04",
+    "title": "Acetylation of prostaglandin synthase by aspirin (1975)",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/810797/"
+    ],
+    "finding": "原始酵素實驗支持aspirin乙醯化抑制前列腺素合成酵素的cyclooxygenase活性。",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀搜尋回傳的原始研究摘要／官方資料內容，不宣稱所有出版商全文已取得；諾貝爾頁使用官方搜尋節錄。",
+    "source_type": "primary_research"
+  },
+  {
+    "id": "S05",
+    "title": "A small heat shock protein cooperates with heat shock protein 70 systems (2000)",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/10631262/"
+    ],
+    "finding": "熱變性luciferase實驗示範熱休克伴侶系統協助復性，補足課本折疊框架。",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀搜尋回傳的原始研究摘要／官方資料內容，不宣稱所有出版商全文已取得；諾貝爾頁使用官方搜尋節錄。",
+    "source_type": "primary_research"
+  },
+  {
+    "id": "S06",
+    "title": "Exosome-mediated transfer of mRNAs and microRNAs (2007)",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/17486113/"
+    ],
+    "finding": "原始研究顯示外泌體RNA可轉移到其他細胞並發揮功能。",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀搜尋回傳的原始研究摘要／官方資料內容，不宣稱所有出版商全文已取得；諾貝爾頁使用官方搜尋節錄。",
+    "source_type": "primary_research"
+  },
+  {
+    "id": "S07",
+    "title": "Piezo1 and Piezo2 mechanically activated cation channels (2010)",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/20813920/",
+      "https://www.nobelprize.org/prizes/medicine/2021/advanced-information/"
+    ],
+    "finding": "原始通道研究支持Piezo1及2的機械活化性；諾貝爾官方科學背景區分Piezo2典型觸覺與本體感覺角色。",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀搜尋回傳的原始研究摘要／官方資料內容，不宣稱所有出版商全文已取得；諾貝爾頁使用官方搜尋節錄。",
+    "source_type": "primary_research_with_official_background"
+  },
+  {
+    "id": "S08",
+    "title": "Modified nucleosides in mRNA: Kariko et al. 2005 and 2008",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/16111635/",
+      "https://pubmed.ncbi.nlm.nih.gov/18797453/"
+    ],
+    "finding": "原始研究顯示核苷修飾降低RNA的先天辨識，並提高轉譯及生物穩定性。",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀搜尋回傳的原始研究摘要／官方資料內容，不宣稱所有出版商全文已取得；諾貝爾頁使用官方搜尋節錄。",
+    "source_type": "primary_research"
+  },
+  {
+    "id": "S09",
+    "title": "Principles of activation and permeation in an anion-selective Cys-loop receptor (2011)",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/21572436/"
+    ],
+    "finding": "線蟲GluCl結構與作用研究支持ivermectin結合並促進氯通道開啟。",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀搜尋回傳的原始研究摘要／官方資料內容，不宣稱所有出版商全文已取得；諾貝爾頁使用官方搜尋節錄。",
+    "source_type": "primary_research"
+  },
+  {
+    "id": "S10",
+    "title": "IUBMB EC 1.11.1.6 catalase",
+    "urls": [
+      "https://iubmb.qmul.ac.uk/enzyme/EC1/11/1/6.html"
+    ],
+    "finding": "官方酵素資料的總反應為2H2O2 = O2 + 2H2O，是歧化而非只有還原。",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀搜尋回傳的原始研究摘要／官方資料內容，不宣稱所有出版商全文已取得；諾貝爾頁使用官方搜尋節錄。",
+    "source_type": "official_curated_data"
+  },
+  {
+    "id": "S11",
+    "title": "Activation of VEGF gene transcription by HIF-1 (1996)",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/8756616/"
+    ],
+    "finding": "原始啟動子、結合位突變及轉錄實驗支持HIF調控VEGF。",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀搜尋回傳的原始研究摘要／官方資料內容，不宣稱所有出版商全文已取得；諾貝爾頁使用官方搜尋節錄。",
+    "source_type": "primary_research"
+  },
+  {
+    "id": "S12",
+    "title": "AMPK and mTOR regulate autophagy through direct phosphorylation of Ulk1 (2011)",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/21258367/"
+    ],
+    "finding": "原始研究支持營養狀態經AMPK/mTOR對Ulk1及自噬的不同調控方向。",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀搜尋回傳的原始研究摘要／官方資料內容，不宣稱所有出版商全文已取得；諾貝爾頁使用官方搜尋節錄。",
+    "source_type": "primary_research"
+  },
+  {
+    "id": "S13",
+    "title": "The immune responses in CD40-deficient mice (1994)",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/7534202/"
+    ],
+    "finding": "原始缺陷鼠實驗呈現抗體類別轉換及生發中心受損，支持T/B協同判別。",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀搜尋回傳的原始研究摘要／官方資料內容，不宣稱所有出版商全文已取得；諾貝爾頁使用官方搜尋節錄。",
+    "source_type": "primary_research"
+  },
+  {
+    "id": "S14",
+    "title": "13C and 14C urea breath tests: original studies (1987 and 1989)",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/2883491/",
+      "https://pubmed.ncbi.nlm.nih.gov/2593958/"
+    ],
+    "finding": "以標記尿素代謝後呼出CO2偵測幽門螺旋桿菌；13C為穩定同位素。",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀搜尋回傳的原始研究摘要／官方資料內容，不宣稱所有出版商全文已取得；諾貝爾頁使用官方搜尋節錄。",
+    "source_type": "primary_research"
+  },
+  {
+    "id": "S15",
+    "title": "Anti-PD-1 and anti-PD-L1 antibodies in advanced cancer (2012)",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/22658127/",
+      "https://pubmed.ncbi.nlm.nih.gov/22658128/"
+    ],
+    "finding": "原始臨床研究機制說明支持阻斷PD-1/PD-L1抑制路徑以恢復抗腫瘤免疫；不是Campbell的直接內容。",
+    "retrieved_on": "2026-09-08",
+    "access_scope": "已讀搜尋回傳的原始研究摘要／官方資料內容，不宣稱所有出版商全文已取得；諾貝爾頁使用官方搜尋節錄。",
+    "source_type": "primary_research"
+  }
+]

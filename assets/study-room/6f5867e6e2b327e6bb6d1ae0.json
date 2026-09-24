@@ -1,0 +1,265 @@
+{
+  "question": {
+    "path": "dda9c3cc3274ae2368dcf7f9.pdf",
+    "sha256": "a3a5c1d2b4e738ddd91a32bfb44539793983c8863034a5eefd6ad09d2a1930f3",
+    "pdf_pages": 32,
+    "inventory_category": "biology_question",
+    "scope_status": "VERIFIED_COMPLETE_PDF_HEADERS_AND_BIOLOGY_FULL_IMAGES",
+    "subject": "生物學（含生理學）",
+    "question_count": 50,
+    "biology_pdf_pages": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "printed_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "excluded_subject_pages": {
+      "國文": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "化學": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "英文": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    "source_difference": "檔名標生物但實際32頁混科。與本輪官方ZIP中113成員PDF1–32逐頁文字和72dpi像素相同，含浮水印。"
+  },
+  "answer": {
+    "path": "8884c3ab293e7b4d43d38486.pdf",
+    "sha256": "9819707d55e22f6c9505c5dd891f0f1a2ce74d7579e56663ac32168e8e98f8e1",
+    "pdf_pages": 1,
+    "inventory_category": "biology_answer",
+    "scope_status": "VISUALLY_VERIFIED_OFFICIAL_IDENTICAL_PAGE",
+    "biology_pdf_pages": [
+      1
+    ],
+    "official_combined_pdf_page": 33,
+    "biology_region": "PDF1最下方第四張生物表；上方其他三科不採用"
+  },
+  "clarification": {
+    "path": "5da1cf197339ad232e5c6cd9.pdf",
+    "sha256": "3b6f909ad6c649779d9b3b6b0959454b3fc3e18560c7113e6966def13524cef5",
+    "pdf_pages": 5,
+    "inventory_category": "clarification",
+    "scope_status": "BIOLOGY_ROWS_VISUALLY_VERIFIED",
+    "biology_pdf_pages": [
+      3,
+      4,
+      5
+    ],
+    "official_combined_pdf_pages": [
+      36,
+      37,
+      38
+    ],
+    "biology_questions": {
+      "2": [
+        3
+      ],
+      "4": [
+        3,
+        4
+      ],
+      "7": [
+        4
+      ],
+      "25": [
+        4
+      ],
+      "30": [
+        4,
+        5
+      ],
+      "33": [
+        5
+      ],
+      "43": [
+        5
+      ]
+    },
+    "official_corrections": {
+      "25": "A/B",
+      "30": "B/C/D"
+    },
+    "meeting_date": "2024-04-24",
+    "publication_date": "NOT_INDEPENDENTLY_VERIFIED",
+    "excluded": "PDF1–2非生物、PDF3上方英文31排除；其餘43題未列本輪取得公告，不宣稱不存在其他未取得公告。"
+  },
+  "combined_candidate": {
+    "path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/schools/ISU/files/其他試題_非生物或待查/ISU_113_combined_exam_archive__113學年度學士後中醫學系招生考試考古題公告.pdf",
+    "sha256": "a6d439538fe91f81ed4492f34fce1bfe10a6f4004fe246b619c89a7cb4ae051f",
+    "pdf_pages": 38,
+    "inventory_category": "combined_exam_archive",
+    "scope_status": "IDENTICAL_OFFICIAL_113_MEMBER",
+    "official_sha256_match": true
+  },
+  "textbook": {
+    "path": "Campbell Biology 12e.pdf（教材參考，全文未公開）",
+    "sha256": "de7c28b93a1c853c0c58d53cd658848d08cf033cde7c2071c062bfdd25b5dc73"
+  },
+  "toc": {
+    "path": "Campbell toc.txt（教材參考，全文未公開）",
+    "sha256": "472c94c03d3e7f107284b4e59ba744b406faee99580f5d940e0c2dab3d0c3dc7"
+  },
+  "official_archive": {
+    "path": "source/supplemental/ISU113/official-historical-exams.zip",
+    "url": "https://www.isu.edu.tw/storage/files/9crd3xNNj7FiMlpyB92xu98jBE5cQrUWvqPB0ZfK.zip",
+    "final_url": "https://www.isu.edu.tw/storage/files/9crd3xNNj7FiMlpyB92xu98jBE5cQrUWvqPB0ZfK.zip",
+    "sha256": "3245682ef6e3375ef8696b35feb1b3ea0b45fe8343f5a42b4c12d81611c32953",
+    "bytes": 26604484,
+    "retrieved_at": "2026-09-09T16:37:49.080945+08:00",
+    "source_type": "OFFICIAL_DIRECT"
+  },
+  "archive_notice": {
+    "path": "source/supplemental/ISU113/archive-notice.html",
+    "url": "https://www.isu.edu.tw/admissions/30?category=7&year=115",
+    "final_url": "https://www.isu.edu.tw/admissions/30?category=7&year=115",
+    "sha256": "18060bda109366ee9c470b563aaa7da68952841a37e91fa4f4d9732016ca6294",
+    "bytes": 439450,
+    "retrieved_at": "2026-09-09T16:37:50.373472+08:00",
+    "source_type": "OFFICIAL_DIRECT"
+  },
+  "official_combined": {
+    "path": "cad3eec9d30a21d1e953fe5c.pdf",
+    "sha256": "a6d439538fe91f81ed4492f34fce1bfe10a6f4004fe246b619c89a7cb4ae051f",
+    "bytes": 3148940,
+    "pdf_pages": 38,
+    "member": "113學年度學士後中醫學系招生考試考古題公告.pdf",
+    "archive_sha256": "3245682ef6e3375ef8696b35feb1b3ea0b45fe8343f5a42b4c12d81611c32953",
+    "url": "https://www.isu.edu.tw/storage/files/9crd3xNNj7FiMlpyB92xu98jBE5cQrUWvqPB0ZfK.zip",
+    "source_type": "OFFICIAL_113_MEMBER_OF_HISTORICAL_ARCHIVE",
+    "scope_status": "VERIFIED_ALL_38_PAGES_TEXT_AND_PIXELS_IDENTICAL_TO_LOCAL_PARTS",
+    "biology_question_pdf_pages": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "biology_answer_pdf_page": 33,
+    "biology_clarification_pdf_pages": [
+      36,
+      37,
+      38
+    ]
+  },
+  "official_question": {
+    "path": "cad3eec9d30a21d1e953fe5c.pdf",
+    "sha256": "a6d439538fe91f81ed4492f34fce1bfe10a6f4004fe246b619c89a7cb4ae051f",
+    "bytes": 3148940,
+    "pdf_pages": 38,
+    "member": "113學年度學士後中醫學系招生考試考古題公告.pdf",
+    "archive_sha256": "3245682ef6e3375ef8696b35feb1b3ea0b45fe8343f5a42b4c12d81611c32953",
+    "url": "https://www.isu.edu.tw/storage/files/9crd3xNNj7FiMlpyB92xu98jBE5cQrUWvqPB0ZfK.zip",
+    "source_type": "OFFICIAL_113_MEMBER_OF_HISTORICAL_ARCHIVE",
+    "scope_status": "VERIFIED_ALL_38_PAGES_TEXT_AND_PIXELS_IDENTICAL_TO_LOCAL_PARTS",
+    "biology_question_pdf_pages": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "biology_answer_pdf_page": 33,
+    "biology_clarification_pdf_pages": [
+      36,
+      37,
+      38
+    ],
+    "role": "題本採PDF27–32；答案與釋疑另標不同頁，不是115題本"
+  },
+  "source_access_notes": {
+    "initial_download": "沙盒WinError10013，依授權require_escalated重試成功",
+    "old_113_notice": "搜尋取得2024-04-14答案公告摘要；直接開啟失敗，不用失敗頁作答案證據。正式來源為本輪官方ZIP中的113具名成員。",
+    "archive_notice_link": "官方下載頁歷屆試題連結74，公告顯示2025-12-12，與試卷年度113分开。"
+  },
+  "source_differences": {
+    "ISU-113-Q01": "D。印刷1122–1123指出中央凹有最高視錐密度，周邊比例下降；視交叉是軸突路徑，非感光細胞聚集處。原題conal point保留，不另創造對應教材構造。",
+    "ISU-113-Q02": "C，釋疑維持。以標定特定溶體水解酵素追蹤其生合成運送路徑，粗糙ER→Golgi→lysosome；不是任意染劑的分布實驗。釋疑引用Campbell第7章與本地12e第6章不同；其粒線體歷史討論不表示粒線體會生成本題溶體酵素。",
+    "ISU-113-Q03": "A。兩群聚皆2種100個體，甲90:10較不均勻；Shannon指數重算甲0.325083、乙0.693147（自然對數），甲多樣性較低。不是以總個體數或僅物種數判斷。",
+    "ISU-113-Q04": "D，釋疑維持且承認遠曲小管後段也受影響。ADH促集尿管水通透性及水重吸收；「主要」不等於「唯一」。原題集尿管用語保留，未將遠曲小管從科學說明刪除。",
+    "ISU-113-Q05": "C。短日照植物須連續黑暗超過8小時；8.5小時不中斷符合。A僅7小時；B、D夜間被短暫光照切斷，不能只加總黑暗時數。",
+    "ISU-113-Q06": "D。大而鮮紅或黃色、氣味少是常見鳥媒花組合；風媒一般不需醒目花冠，蛾媒常依賴夜間香味，蜂媒的典型特徵不同。這是授粉症候群的通常關係，不保證每種植物只能由鳥授粉。",
+    "ISU-113-Q07": "A（乙戊），釋疑維持。題目預設傳統限制酶／接合酶重組與IPTG誘導流程；不需另加純化解旋酶，蛋白質體學也不是生產單一SOD的必要程序。不表示大腸桿菌自身沒有helicase、蛋白純度不能分析，或所有重組技術都必用限制酶。使用質譜檢查單一蛋白也不自動等於蛋白質體學。L1238文字目錄漏DNA，採PDF40與正文的完整題名。",
+    "ISU-113-Q08": "C。依題文，活宿主階段為寄生性消費者，死亡後繼續利用有機物而具分解作用；無光合生產者角色。分解者在廣義能量分類亦屬異營消費者，兩標籤不必互斥；不由俗名推定未給出的真菌物種。",
+    "ISU-113-Q09": "C。MAP≈DBP+(SBP−DBP)/3=90+(150−90)/3=110 mmHg；60是脈壓，120是兩端點算術平均。三分之一公式是常見靜息周邊動脈近似，不是所有心率及波形下的精確時間積分。",
+    "ISU-113-Q10": "A。mRNA以DNA模板體外轉錄，進入細胞後翻譯的是蛋白質，不是DNA。平台通常可快速設計製造；RNA穩定性及遞送有要求，D的「易保存」不能作普遍優勢。Nobel2023官方背景支援本題現代技術，本地12e提供免疫與轉錄原理，未冒稱其已載2023得獎事件。",
+    "ISU-113-Q11": "D，順序D–A–B–C，反向等價。令A=0、B=7、C=29、D=−25，五個給定距離皆吻合。這是題目線性圖距模型，不能將D至C的54圖距直接當作54%可觀測重組率；遠距離重組有多次互換限制。",
+    "ISU-113-Q12": "D錯在「自身攜帶的DNA模板」，應為RNA模板，蛋白組件催化DNA延長。人類TTAGGG與不同物種端粒序列須分開；端粒縮短與衰老相關不等於能單憑端粒長度精確決定個體壽命。",
+    "ISU-113-Q13": "B。黏膜主要為IgA，IgG是血中主要類型，IgE參與多細胞寄生蟲反應；分泌型五聚體IgM通常有10個抗原結合位。最後一項不應外推成B細胞膜上單體IgM也有10位；本地966的IgD概述不需擴寫成任何IgD都不可能分泌。",
+    "ISU-113-Q14": "官方B：胰島β細胞自體免疫對應第一型，而非題寫第二型糖尿病。另保留D的科學問題：類風濕因子RF本身是針對IgG等的自體抗體，不能簡化成「針對類風溼性因子產生抗體」就造成RA。MS與第一型糖尿病也不能概括成只有抗體介導。未取得本題改答案公告，科學差異不擅改官方採計。",
+    "ISU-113-Q15": "A。在低NaCl到達緻密斑或失鹽低容量的題設下腎素增加；交感活動下降、腎灌流壓升高通常反向。原文「鈉離子量減少」未交代位置與容量，保留這個限定，不能直接等同任何低血鈉都提高腎素。",
+    "ISU-113-Q16": "D。ATP不足使肌球蛋白難以自肌動蛋白解離，Ca調控與回收亦受影響；不是「缺少鈣」導致收縮卡住，也不是乳酸或肝醣缺乏本身作直接交叉橋原因。ATP結合促解離，水解使頭部再活化，兩步不能混為一談。",
+    "ISU-113-Q17": "B為一般教科書情境：Rh陰性母親先致敏，後續Rh陽性胎兒可受跨胎盤IgG影響。不是第二胎必發，既往輸血、流產或早期母胎出血可使第一個活產胎兒受影響；已有預防措施也會改變風險。本地969–970提供血型排斥原理，Rh細節另依NCBI教材，沒有把ABO段落冒稱Rh原文。",
+    "ISU-113-Q18": "B。體溫、飢餓與口渴主要由下視丘調控，延腦偏基本自律功能；小腦協調動作平衡，胼胝體連接兩側皮質，邊緣迴路參與情緒及記憶。Q18採真實Concept49.2，是因沒有符合本題的更小目錄條目，而非省略可用葉節點。",
+    "ISU-113-Q19": "C。閉眼放鬆清醒較典型呈alpha活動，與深慢波睡眠及專注活動不同；原題把EEG印成EGG，原圖及文字原樣保留。Campbell提供腦波與睡眠基礎，閉眼alpha另用原始EEG研究補足，不由教材一般清醒圖直接捏造alpha頻帶標示。",
+    "ISU-113-Q20": "C。ATP+水生成ADP與無機磷酸的總反應可釋放自由能，進而偶聯細胞做功；不是單獨斷裂化學鍵會放能。A加磷酸不是本題釋能步驟，B羰基與D長碳氫鏈均非ATP主要機制。",
+    "ISU-113-Q21": "D。β-galactosidase裂解X-gal後形成藍色產物；不能將β改為α或λ，β-glucuronidase的受質不同。NEB文件確認特定酵素與X-gal關係；原題僅問顯色，未自行添加插入基因或藍白篩選實驗結果。",
+    "ISU-113-Q22": "C。每循環通常輸出3Na+、輸入2K+，依賴ATP；A方向反，B／D誤稱被動。泵建立梯度，不等同每次動作電位快速上升期Na通道的被動內流。",
+    "ISU-113-Q23": "官方A。QRS嚴格表示心室去極化，電事件先於並引發機械收縮；題目所有選項用收縮／舒張概括，故依採計選心室收縮，不能把QRS本身定義成肌肉縮短。L2776依真實PDF採Rhythmic Beat，保留文字目錄Rhythms差異。",
+    "ISU-113-Q24": "D。ΔΔCt=20−23=−3，2^(−ΔΔCt)=8，樣本1對2的相對量為8倍。須假設目標與參考擴增效率相容且近每循環加倍；若ΔCt已參考基因校正，算的是標準化相對量，不能無條件稱兩管總核酸量差8倍。",
+    "ISU-113-Q25": "原A；釋疑改A/B皆可。按原題英文minute ventilation，總每分鐘通氣量500×8=4000（B）；肺泡通氣量(500−120)×8=3040（A）。960是死腔每分鐘通氣量，4960不符兩個定義。官方容許兩解不抹平專有名詞差異；功能餘氣量也不是每分鐘通氣量。",
+    "ISU-113-Q26": "D。液泡、ER與Golgi屬內膜系統，粒線體不屬之。是否屬內膜系統依功能與囊泡聯繫判定，不能用單層／雙層膜粗分，因核膜也是內膜系統組件。",
+    "ISU-113-Q27": "B。題寫「分隔肌肉纖維的單元」應解作界定肌原纖維的肌小節，非把整條肌纖維細胞分開。Z線主要錨定actin細肌絲，不是actin與myosin兩類肌絲共同直接結合的通稱；Ca主要由肌漿網調節。",
+    "ISU-113-Q28": "D。蒸發需要吸收能量，較高動能分子離開後剩餘液體冷卻，所以汗蒸發可散熱。斷開水間氫鍵吸熱，高比熱減緩升溫；極性、氫鍵及H+／OH−支持其餘基礎敘述。不是汗水形成或滴落必然有等量蒸發冷卻。",
+    "ISU-113-Q29": "B。人類B細胞在骨髓、T細胞在胸腺成熟；本地958明列來源，960–961說明成熟與自我耐受。脾與淋巴結是周邊免疫反應的重要場所，不能把它們混列為初級器官。",
+    "ISU-113-Q30": "原D；釋疑改B/C/D皆可。光反應含水氧化放O2、末端還原NADP+成NADPH，以及梯度驅動ATP形成；H2O為電子來源而非此流程淨產物。直接／間接與整個光反應範圍是爭點；官方「將光能轉換為電子」不可照抄為物質生成，光是激發既有電子。",
+    "ISU-113-Q31": "A。嗅覺神經元軸突先投射嗅球，再由相關神經元傳向嗅覺皮質。顆粒細胞可存在嗅球局部迴路，不宜說與嗅球完全無關；但不是此題問的主要中繼構造。毛細胞、桿狀細胞分屬其他感覺。",
+    "ISU-113-Q32": "D。ACTH由腦垂腺前葉分泌，受下視丘CRH調控；TRH與GHRH是釋放激素，GHIH即生長抑素是下視丘抑制訊號。本地1007–1009及1012提供來源與軸，不把下視丘的調控作用誤認成ACTH由其製造。",
+    "ISU-113-Q33": "B，釋疑維持。基因組包括全套DNA序列，包含基因及非編碼區；代謝物與蛋白質分屬其他層次。「所有基因」不涵蓋全基因組，且基因也不只蛋白編碼基因。官方引第21章，本地主定義在第1章、次列21.3，保留引用範圍差異。",
+    "ISU-113-Q34": "B。第一詞是屬名且首字大寫，第二詞為種小名且小寫；兩詞合成物種學名並常用斜體。原文「第二個詞描述特殊物種」較鬆散，不能把種小名單獨當完整二名學名。",
+    "ISU-113-Q35": "官方C符合典型教科書比較：真核具膜包圍的核與多種膜胞器；A顛倒，B顛倒典型染色體，D忽略單細胞真核生物。Campbell98說原核細胞質幾乎都無膜胞器（almost all），題目C絕對措辭保留，未擴寫成所有原核DNA必為環狀。",
+    "ISU-113-Q36": "官方C。Aβ斑塊是疾病重要病理，但本地1104明確寫神經元外的amyloid plaques，細胞內主要為tau神經纖維纏結；原題「腦部神經元中的」位置不精確。疾病機制亦非單一斑塊足以概括，保留官方採C及科學位置差異。",
+    "ISU-113-Q37": "C。Campbell753–755的化石與DNA證據支援智人在非洲起源；本題只比較洲別，不由此推定唯一確切地點，也不把其他早期人屬遷徙當作現代智人的同一事件。",
+    "ISU-113-Q38": "B是通常的功能分類：種皮主要保護，子葉與胚乳可儲藏養分，某些種子也由外胚乳（珠心來源）儲藏。補充藜麥原始研究證實外胚乳澱粉；原題「不存有營養成分」不應解成任何發育階段的種皮絕不含營養物質。",
+    "ISU-113-Q39": "C。典型氣孔調控主要涉及光、CO2、溫度／水分狀態及保衛細胞K+等滲透溶質。不是說Na+或鹽逆境對植物氣孔完全沒有影響，而是題列Na+濃度非一般主要調控因素。",
+    "ISU-113-Q40": "A。典型胚囊中央細胞含兩個極核，與一精核融合形成通常3n的初生胚乳核；卵細胞與另一精細胞形成合子。輔細胞協助導引花粉管，反足細胞不是胚乳來源。最小真實目錄無獨立Double Fertilization葉項，不能以正文小標虛造TOC。",
+    "ISU-113-Q41": "A。尿酸鹽長期升高及晶體沉積可造成關節發炎，並非所有高尿酸者必有痛風；草酸鈣與尿素等不是此題主要致病結晶。Campbell982支援尿酸廢物分類，疾病細節另由NIAMS核對，不冒稱教材該段完整論痛風。",
+    "ISU-113-Q42": "C。邦克列酸直接結合ANT（ADP/ATP carrier），阻止胞質ADP入基質與ATP外輸；不是直接結合ATP synthase、cytochrome c或complex III。Campbell110與177–178僅提供區隔及ATP輸出原理，毒素標的由Cell原始研究摘要證實。ANT利用電化學條件交換核苷酸，不能誤分類成自身水解ATP的鈉鉀型泵。",
+    "ISU-113-Q43": "B，釋疑維持。松果體分泌melatonin，夜間通常較多；「大腦」是題目與釋疑廣義用法，解剖上屬間腦上視丘，不是端腦皮質。非傍晚必達最高、也非刺激色胺酸生成；食藥署2023資料說產品按藥品列管，不能當臺灣一般保健食品。治療睡眠障礙的題首敘述不等於療效已普遍確立。",
+    "ISU-113-Q44": "官方B。Campbell223–225列典型cAMP、Ca2+、IP3，並以NO由鄰細胞而來、活化guanylyl cyclase產cGMP說明。本題問「常見」依此框架選B；NO也有受體下游合成及細胞內訊息作用，不能說它在任何定義或迴路都不可能扮演第二訊息角色。保留分類慣例與來源界線，未擅改採計。",
+    "ISU-113-Q45": "A。statolith受重力移動／施壓引起感覺毛偏折，由機械受器感測；不是以光、化學或溫度辨向。題目稱「物質」但選項實為受器功能，保留原題措辭，不改成另一道化學成分題。",
+    "ISU-113-Q46": "A。GABA是腦內主要抑制性傳遞物質；脊髓甘胺酸亦重要，其他列出的介質可能依受器與迴路產生不同效應。不能將「最主要」擴寫成只有GABA能抑制，或每個發育時期與離子條件都相同。",
+    "ISU-113-Q47": "C。TLR是辨識某些病原模式的受器；細胞素與干擾素主要是訊號分子。補體亦參與先天辨識與效應，不能概括說完全不辨識病原，但題目指定細胞受器層次時TLR最直接。",
+    "ISU-113-Q48": "B。LH是題列最直接的排卵觸發訊號，FSH偏卵泡發育、雌激素參與上游回饋、黃體酮維持週期後段。原題「立刻」須限於已有反應能力的成熟卵泡，非任意時期注射就瞬間排卵；本地1033說人類排卵約在LH高峰後一天，不提供實際動物注射處方。",
+    "ISU-113-Q49": "B。視網膜為最內側感光神經層，水晶體把光聚焦到視網膜；鞏膜與脈絡膜分別偏保護與血管供應。視網膜上光學成像與大腦形成視知覺仍是不同階段。",
+    "ISU-113-Q50": "A。Campbell表39.1（印刷846）明列芽尖分生組織與幼葉是主要合成處，根尖亦能合成；發育種子與果實高IAA不必等於全為當地新合成。主目錄起始847，相關總表在846，兩頁定位分開保存，不另虛構TOC的Auxin葉項。"
+  }
+}

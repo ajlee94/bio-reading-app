@@ -1,0 +1,1257 @@
+[
+  {
+    "review_id": "ISU-109-R2-Q01",
+    "q": 1,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 1,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L0323",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      97,
+      98
+    ],
+    "alternative_checked": "是否因酵母及青黴菌而分到真菌章？",
+    "finding": "逐一核對四物種的細胞類型，決定答案的共同判準是有無粒線體，6.2細胞比較最直接；不另列背景物種章。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q02",
+    "q": 2,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 1,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L3144",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      1049,
+      1050,
+      1051
+    ],
+    "alternative_checked": "原腸是內胚層還是消化道管腔？",
+    "finding": "以教材原腸形成图文區分腔與胚層，D為腔的命運；Gastrulation比整章動物發育精確。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q03",
+    "q": 3,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 1,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L0608",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      182,
+      183
+    ],
+    "alternative_checked": "直接去胺是否應選alanine或甘胺酸？",
+    "finding": "官方109釋疑PDF28反應圖確認serine去胺生成pyruvate，維持D；Campbell僅提供分解代謝框架，公告外Stryer全文未讀。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q04",
+    "q": 4,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 1,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L2495",
+    "secondary_confirmed": [
+      "L2486"
+    ],
+    "textbook_pages_checked": [
+      826,
+      827,
+      828,
+      829
+    ],
+    "alternative_checked": "花藥內有生殖細胞是否也為3n？",
+    "finding": "重算兩極核加一精核為3n，花藥為母體器官，不因含花粉改為3n；種子發育主目及生命週期次目同章照存。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q05",
+    "q": 5,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 1,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L2599",
+    "secondary_confirmed": [
+      "L2596",
+      "L2557"
+    ],
+    "textbook_pages_checked": [
+      847,
+      855,
+      866,
+      867,
+      868
+    ],
+    "alternative_checked": "病害是否應只分類抗病原體或水楊酸？",
+    "finding": "印刷855明列jasmonates防禦herbivores及pathogens，三個真實條目分別承接蟲、病與激素機制；答案只在題列四者比較。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q06",
+    "q": 6,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 1,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L1583",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      530,
+      538,
+      539,
+      540
+    ],
+    "alternative_checked": "是否按地質年代概述而非板塊構造？",
+    "finding": "盤古會合機制位於Plate Tectonics印刷538–539，二疊紀符合時間；不把「僅有」當全年代無例外地理敘述。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q07",
+    "q": 7,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 1,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L1254",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      426,
+      427
+    ],
+    "alternative_checked": "互補試驗是否就是測交或Ames？",
+    "finding": "Alberts互補段明確區分同／不同基因功能缺失；20.2基因功能鑑定最接近真實目錄，沒有假造Complementation子目。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q08",
+    "q": 8,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 1,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L1107",
+    "secondary_confirmed": [
+      "L1110"
+    ],
+    "textbook_pages_checked": [
+      366,
+      367,
+      368,
+      369
+    ],
+    "alternative_checked": "共同抑制物機制應放基本概念或負調控類型？",
+    "finding": "直接結合機制在印刷367、負調控類型從368開始；因此主目調為Operons基本概念，類型另存同章次目。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q09",
+    "q": 9,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 1,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L0948",
+    "secondary_confirmed": [
+      "L0974"
+    ],
+    "textbook_pages_checked": [
+      300,
+      308,
+      309
+    ],
+    "alternative_checked": "可否只看Klinefelter病名分類？",
+    "finding": "由X不活化推算XXY有一Barr body，疾病條目只補核型；主次同章仍分開保留，非重複計數。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q10",
+    "q": 10,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 1,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L0961",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      305,
+      306
+    ],
+    "alternative_checked": "交換率排序是否可用猜測位置？",
+    "finding": "依ab10、ac8、bc18推c-a-b，再依ad30、bd20置d於b外側；五組距離全部吻合c-a-b-d及其鏡像，排除其餘三選項。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q11",
+    "q": 11,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 1,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L1442",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      490,
+      491
+    ],
+    "alternative_checked": "是否須使用Hardy–Weinberg推估？",
+    "finding": "獨立以等位基因總数200計114個B，得0.57；灰色50/100，直接觀察即可，主目確為Gene Pools and Allele Frequencies。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q12",
+    "q": 12,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 2,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L0837",
+    "secondary_confirmed": [
+      "L0824"
+    ],
+    "textbook_pages_checked": [
+      256,
+      257,
+      259,
+      260,
+      261,
+      262
+    ],
+    "alternative_checked": "23、46、92的計數單位是否混淆？",
+    "finding": "前期I的23對同源染色體組成23四分體，46是染色體數、92是染色分體；兩個13章最小條目均保留。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q13",
+    "q": 13,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 2,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L1113",
+    "secondary_confirmed": [
+      "L1110"
+    ],
+    "textbook_pages_checked": [
+      368,
+      369,
+      370
+    ],
+    "alternative_checked": "只解除lac抑制是否已是高表達？",
+    "finding": "印刷369–370需CAP-cAMP正調控並有乳糖解除負調控，故正調控主目與負調控次目不可刪任一。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q14",
+    "q": 14,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 2,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L0665",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      191,
+      192,
+      201,
+      202
+    ],
+    "alternative_checked": "Calvin循環是否需虛設碳固定小目？",
+    "finding": "PDF目錄37的10.4無更細子目；正文191–192的stroma與201–202一致，採Concept本身即最小真實條目。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q15",
+    "q": 15,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 2,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L2586",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      861,
+      862
+    ],
+    "alternative_checked": "是否為氣孔保衛細胞或葉柄生長運動？",
+    "finding": "印刷861–862的pulvini為快速膨壓運動，選A，Mechanical Stimuli直接對應；無需另加生長向性。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q16",
+    "q": 16,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 2,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L3768",
+    "secondary_confirmed": [
+      "L3745"
+    ],
+    "textbook_pages_checked": [
+      1263,
+      1264,
+      1270,
+      1271
+    ],
+    "alternative_checked": "廊道缺乏是否較邊緣效應優先？",
+    "finding": "以題幹面積縮小的直接幾何後果判A，印刷1270–1271支持邊緣／核心改變；棲地威脅作次目，保留「最大」的情境限制。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q17",
+    "q": 17,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 2,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L0608",
+    "secondary_confirmed": [
+      "L0911"
+    ],
+    "textbook_pages_checked": [
+      182,
+      183,
+      285,
+      286,
+      287
+    ],
+    "alternative_checked": "疾病遺傳模式或錯誤代謝底物何者主分類？",
+    "finding": "答案A靠支鏈胺基酸代謝與苯丙胺酸區別，主目改9.6分解代謝、14.4隱性疾病作次目；原圖及讀回確認英文含syrup，未添加不存在的漏字錯誤。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q18",
+    "q": 18,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 2,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L1126",
+    "secondary_confirmed": [
+      "L1052"
+    ],
+    "textbook_pages_checked": [
+      342,
+      343,
+      344,
+      373,
+      374,
+      375
+    ],
+    "alternative_checked": "promoter突變是否保證不影響mRNA序列？",
+    "finding": "轉錄速率是最直接C，但起始點相關突變存在例外，不作絕對排除；18.2調控主目與17.2轉錄合成次目分工清楚。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q19",
+    "q": 19,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 2,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L0611",
+    "secondary_confirmed": [
+      "L0255"
+    ],
+    "textbook_pages_checked": [
+      75,
+      183
+    ],
+    "alternative_checked": "HMG-CoA synthase與reductase哪個限速？",
+    "finding": "公開生化教材明確支持還原酶至mevalonate，B；Campbell不虛報含此細節，主生合成／次固醇屬性保留。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q20",
+    "q": 20,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 2,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L0608",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      182,
+      183
+    ],
+    "alternative_checked": "oxygenase是否等同一般需氧氧化？",
+    "finding": "IUBMB EC1.13.11.5反應式直接用O2開環，對應tyrosine；分類維持胺基酸分解，不移至電子傳遞。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q21",
+    "q": 21,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 2,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L0895",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      281,
+      282
+    ],
+    "alternative_checked": "非等位基因遮蔽是否可称顯性？",
+    "finding": "核對印刷281–282區分不同座位上位作用與同座位顯隱性，選B；多基因孟德爾延伸是實際最小目。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q22",
+    "q": 22,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 2,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L2944",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      978,
+      979,
+      980
+    ],
+    "alternative_checked": "溯河鮭魚是否為狹鹽而只短暫進淡水？",
+    "finding": "可跨越海淡水鹽度並完成生活史，依教材例為廣鹽性，B；分類為調滲機制而非僅動物遷徙。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q23",
+    "q": 23,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 3,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L3023",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      1006,
+      1007,
+      1008
+    ],
+    "alternative_checked": "Campbell的PRH刺激圖是否與dopamine矛盾？",
+    "finding": "完整核對官方PDF28末段及29續圖，D為解除抑制；Campbell的刺激訊號未否定多巴胺抑制，補充Prolactin段說明雙向調節。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q24",
+    "q": 24,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 3,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L0958",
+    "secondary_confirmed": [
+      "L0763"
+    ],
+    "textbook_pages_checked": [
+      236,
+      237,
+      302,
+      303,
+      304
+    ],
+    "alternative_checked": "Harlequin可否當成減數分裂非姐妹重組？",
+    "finding": "重開完整Q24圖並讀Wolff作者說明，確定SCE為D；標記15.3只提供交換家族框架，12.1補姐妹構造，明文保存與教材非姐妹交換的範圍差。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q25",
+    "q": 25,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 3,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L1215",
+    "secondary_confirmed": [
+      "L1013"
+    ],
+    "textbook_pages_checked": [
+      327,
+      409,
+      410
+    ],
+    "alternative_checked": "所有RNA病毒是否毫無校對？",
+    "finding": "原作者nsp10–nsp14實驗證明冠狀病毒例外；D按一般教材規則採計，19.3高突變主目與16.2校對次目保持，沒有把例外刪除。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q26",
+    "q": 26,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 3,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L0466",
+    "secondary_confirmed": [
+      "L0349"
+    ],
+    "textbook_pages_checked": [
+      107,
+      108,
+      139,
+      140
+    ],
+    "alternative_checked": "晚期內體可水解是否就要改採C？",
+    "finding": "重新核對甲乙丙丁戊原圖，C把水解放內體之前亦不合理；官方B是選項最合適簡化。晚期內體可先降解及胞飲／胞吞用語差異另存，不改官方採計。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q27",
+    "q": 27,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 3,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L0456",
+    "secondary_confirmed": [
+      "L2717"
+    ],
+    "textbook_pages_checked": [
+      138,
+      139,
+      909,
+      910
+    ],
+    "alternative_checked": "印刷139說down是否支持不能逆梯度？",
+    "finding": "重新看原題C及D，與印刷910的against及極性轉運圖交叉核對；共同運輸可逆葡萄糖梯度，故C成立，139措辭差異明列而不更動教材。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q28",
+    "q": 28,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 3,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L3209",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      1073,
+      1074,
+      1075
+    ],
+    "alternative_checked": "相對與絕對不反應期是否可只看Na通道？",
+    "finding": "教材過極化及出版社樣章PDF5支持延遲K導度主要解釋相對期，C；同時保留Na通道部分恢復的貢獻，未寫成絕對互斥。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q29",
+    "q": 29,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 3,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L3212",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      1075,
+      1076,
+      1077
+    ],
+    "alternative_checked": "題幹泛稱所有離子通道是否準確？",
+    "finding": "圖文直接支持郎氏結集中電壓閘控Na通道、跳躍傳導；採A但限制通道種類，不主張其他部位全無離子通道。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q30",
+    "q": 30,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 3,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L3384",
+    "secondary_confirmed": [
+      "L3381"
+    ],
+    "textbook_pages_checked": [
+      1128,
+      1129,
+      1131,
+      1132
+    ],
+    "alternative_checked": "其他肌細胞是否完全沒有calmodulin？",
+    "finding": "比較平滑肌MLCK與骨骼肌troponin，B限主要收縮開關；不否認其他肌細胞的calmodulin，兩個50.5最小目同章照存。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q31",
+    "q": 31,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 3,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L2783",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      929,
+      930,
+      931
+    ],
+    "alternative_checked": "最多血量是否等於最大總截面積？",
+    "finding": "Klabunde容量血管段確認靜脈血量最多，D；不以微血管截面積答題，42.3血管結構功能直接對應。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q32",
+    "q": 32,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 4,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L2802",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      934,
+      935,
+      936
+    ],
+    "alternative_checked": "白血球種類多寡是否應主分免疫章？",
+    "finding": "題問周邊血分類計數而非抗原反應，42.4血液成分直接；S32補足成人嗜中性球比例，保留年齡差異。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q33",
+    "q": 33,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 4,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L2773",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      926,
+      927,
+      928
+    ],
+    "alternative_checked": "原題心輸出量單位缺少每分鐘能否默改？",
+    "finding": "另行重算SV60 mL，4200/60=70/min；採A並註明原文4.2 L缺/min，完整題文與原圖不增字。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q34",
+    "q": 34,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 4,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L2773",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      926,
+      927,
+      928
+    ],
+    "alternative_checked": "壓力最高與上升最快是否相同？",
+    "finding": "比較dP/dt與壓力峰值，作者教材指等容收縮達最大上升率；B，無需將射血較高壓力錯當變化率。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q35",
+    "q": 35,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 4,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L2802",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      935,
+      936,
+      937
+    ],
+    "alternative_checked": "thrombin與prothrombin是否易混？",
+    "finding": "印刷936–937凝血箭頭顯示thrombin作用於fibrinogen，A；不把前驅物或抗凝物當催化酵素。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q36",
+    "q": 36,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 4,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L2853",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      947,
+      948,
+      949
+    ],
+    "alternative_checked": "缺氧降低飽和度是否等於降低親和力？",
+    "finding": "官方109釋疑PDF29維持A；固定PO2比較解離曲線，區分DPG改親和力與低PO2改飽和度，也保留慢性缺氧可間接改DPG。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q37",
+    "q": 37,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 4,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L2843",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      945,
+      946,
+      947
+    ],
+    "alternative_checked": "頸動脈體與頸動脈竇、主動脈體是否混用？",
+    "finding": "Campbell周邊呼吸回饋加S37舌咽神經分支確認C；B的迷走屬主要主動脈體路徑，不能套到頸動脈體。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q38",
+    "q": 38,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 4,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L2714",
+    "secondary_confirmed": [
+      "L2711"
+    ],
+    "textbook_pages_checked": [
+      907,
+      908,
+      909
+    ],
+    "alternative_checked": "選項酵素名稱是否代表其分泌時形式？",
+    "finding": "以實際分泌型amylase對照pepsinogen、trypsinogen、chymotrypsinogen，C；小腸及胃消化兩個同章小目完整保存。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q39",
+    "q": 39,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 4,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L3309",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      1103,
+      1104
+    ],
+    "alternative_checked": "多巴胺是否應只分神經傳遞物質總覽？",
+    "finding": "題目要求獎賞與濫藥特定迴路，49.5明列Brain’s Reward System，較總論精確，D而非黑質紋狀體。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q40",
+    "q": 40,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 4,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L2743",
+    "secondary_confirmed": [
+      "L3039"
+    ],
+    "textbook_pages_checked": [
+      915,
+      916,
+      1012,
+      1013
+    ],
+    "alternative_checked": "持續運動與訓練後靜息是否混同？",
+    "finding": "原題是長距離賽跑當下，S40運動內分泌段支持insulin下降；能量調節主目、腎上腺壓力反應次目分別承接C及背景。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q41",
+    "q": 41,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 5,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L3251",
+    "secondary_confirmed": [
+      "L2708"
+    ],
+    "textbook_pages_checked": [
+      906,
+      1091,
+      1092,
+      1093
+    ],
+    "alternative_checked": "吞嚥功能能否誤分Arousal and Sleep？",
+    "finding": "PDF目錄48首個49.2小目為1094覺醒，吞嚥延髓圖在1093故屬Concept開頭；採49.2本身與口腔咽食道次目，D。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q42",
+    "q": 42,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 5,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L2805",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      937,
+      938,
+      939
+    ],
+    "alternative_checked": "LDL:HDL是診斷還是風險？",
+    "finding": "教材心血管疾病段支持A為可能風險上升；不把關聯寫成個人診斷或HDL的無條件因果保護。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q43",
+    "q": 43,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 5,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L3381",
+    "secondary_confirmed": [
+      "L3206"
+    ],
+    "textbook_pages_checked": [
+      1073,
+      1128,
+      1129,
+      1130,
+      1131
+    ],
+    "alternative_checked": "去極化幅度與頻率是否混為一談？",
+    "finding": "比較正常動作電位全有全無與運動單元／頻率調張力，D；保留病理性膜改變例外，主骨骼肌、次48.3動作電位。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q44",
+    "q": 44,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 5,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L1019",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      328,
+      329
+    ],
+    "alternative_checked": "朝3′端加長是否表示合成方向3′→5′？",
+    "finding": "教材末端圖與官方PDF29均為加在既有DNA3′端、合成5′→3′；B，另一股補齊不是端粒酶直接雙股延伸。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q45",
+    "q": 45,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 5,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L2763",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      924,
+      925,
+      926
+    ],
+    "alternative_checked": "cavum venosum是否必只通肺，L-R能否繞肺？",
+    "finding": "重新開Q45原圖，對照Campbell龜類及原作者腔室圖：體動脈出口連CV，肺旁路為R-L，C正確。研究物種不同與NOAA取得失敗明示，未用其冒充綠蠵龜直接量測。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q46",
+    "q": 46,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 5,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L2733",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      912,
+      913,
+      914
+    ],
+    "alternative_checked": "是否應以細菌分類章處理瘤胃菌？",
+    "finding": "題問共生消化的胃室位置，41.4互利適應直接；官方PDF29以主要發酵及最大胃室維持A，未推論其他胃室完全無菌。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q47",
+    "q": 47,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 5,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L2805",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      937,
+      938
+    ],
+    "alternative_checked": "最先偵測是否意味正常血沒有CK？",
+    "finding": "S47歷史教材指受損後早期升高而非正常零值，C；按四個酵素判讀，不宣稱CK是所有標記中最早或現行唯一診斷指標。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q48",
+    "q": 48,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 5,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L2970",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      984,
+      985,
+      986,
+      987
+    ],
+    "alternative_checked": "窗孔濾過是否可放腎小管後續处理小目？",
+    "finding": "重開原圖及完整印刷987，濾過選擇性在44.4引言、From Blood Filtrate to Urine之前，主目修為44.4。尿素C最易過濾，保留全屏障多層結構限制。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q49",
+    "q": 49,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 5,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L2987",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      994,
+      995,
+      996
+    ],
+    "alternative_checked": "尿鈉濃度、排出量與rennin字樣是否正確？",
+    "finding": "低鈉典型RAAS保鈉反應為B；濃度還受尿量影響，腎素應拼renin，兩項差異都保留，分類仍為腎臟恆定調節。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "ISU-109-R2-Q50",
+    "q": 50,
+    "reviewer": "Codex /root",
+    "method": "同一執行者非盲證據覆核：首輪逐題完整原頁視讀；第二輪讀回50題完整題文與A–D、同年答案釋疑、教材聚焦段及備選分類；Q24/26/27/45/48另開完整裁圖。另檔保存，不是第二位外部審查者。",
+    "original_image_page": 5,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      28,
+      29
+    ],
+    "primary_confirmed": "L0673",
+    "secondary_confirmed": [
+      "L0676",
+      "L0679"
+    ],
+    "textbook_pages_checked": [
+      203,
+      204,
+      205
+    ],
+    "alternative_checked": "CAM及C4是否可直接寫成零光呼吸？",
+    "finding": "比較菠菜C3、玉米C4、鳳梨／仙人掌CAM，熱乾燥下B較旺盛；三個10.5真實小目保留，章級每題仍只計一次。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  }
+]

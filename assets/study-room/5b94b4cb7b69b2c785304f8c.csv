@@ -1,0 +1,68 @@
+﻿mode,chapter_number,chapter,count
+primary,43,Ch43 The Immune System,5
+primary,9,Ch09 Cellular Respiration and Fermentation,4
+primary,6,Ch06 A Tour of the Cell,3
+primary,7,Ch07 Membrane Structure and Function,3
+primary,18,Ch18 Regulation of Gene Expression,3
+primary,45,Ch45 Hormones and the Endocrine System,3
+primary,10,Ch10 Photosynthesis,2
+primary,11,Ch11 Cell Communication,2
+primary,12,Ch12 The Cell Cycle,2
+primary,39,Ch39 Plant Responses to Internal and External Signals,2
+primary,42,Ch42 Circulation and Gas Exchange,2
+primary,48,"Ch48 Neurons, Synapses, and Signaling",2
+primary,50,Ch50 Sensory and Motor Mechanisms,2
+primary,54,Ch54 Community Ecology,2
+primary,2,Ch02 The Chemical Context of Life,1
+primary,3,Ch03 Water and Life,1
+primary,5,Ch05 The Structure and Function of Large Biological Molecules,1
+primary,14,Ch14 Mendel and the Gene Idea,1
+primary,16,Ch16 The Molecular Basis of Inheritance,1
+primary,17,Ch17 Gene Expression: From Gene to Protein,1
+primary,23,Ch23 The Evolution of Populations,1
+primary,27,Ch27 Bacteria and Archaea,1
+primary,36,Ch36 Resource Acquisition and Transport in Vascular Plants,1
+primary,38,Ch38 Angiosperm Reproduction and Biotechnology,1
+primary,41,Ch41 Animal Nutrition,1
+primary,51,Ch51 Animal Behavior,1
+primary,55,Ch55 Ecosystems and Restoration Ecology,1
+secondary,18,Ch18 Regulation of Gene Expression,2
+secondary,6,Ch06 A Tour of the Cell,1
+secondary,7,Ch07 Membrane Structure and Function,1
+secondary,8,Ch08 An Introduction to Metabolism,1
+secondary,11,Ch11 Cell Communication,1
+secondary,20,Ch20 DNA Tools and Biotechnology,1
+secondary,41,Ch41 Animal Nutrition,1
+secondary,42,Ch42 Circulation and Gas Exchange,1
+secondary,53,Ch53 Population Ecology,1
+secondary,54,Ch54 Community Ecology,1
+both,18,Ch18 Regulation of Gene Expression,5
+both,43,Ch43 The Immune System,5
+both,6,Ch06 A Tour of the Cell,4
+both,7,Ch07 Membrane Structure and Function,4
+both,9,Ch09 Cellular Respiration and Fermentation,4
+both,11,Ch11 Cell Communication,3
+both,42,Ch42 Circulation and Gas Exchange,3
+both,45,Ch45 Hormones and the Endocrine System,3
+both,54,Ch54 Community Ecology,3
+both,10,Ch10 Photosynthesis,2
+both,12,Ch12 The Cell Cycle,2
+both,39,Ch39 Plant Responses to Internal and External Signals,2
+both,41,Ch41 Animal Nutrition,2
+both,48,"Ch48 Neurons, Synapses, and Signaling",2
+both,50,Ch50 Sensory and Motor Mechanisms,2
+both,2,Ch02 The Chemical Context of Life,1
+both,3,Ch03 Water and Life,1
+both,5,Ch05 The Structure and Function of Large Biological Molecules,1
+both,8,Ch08 An Introduction to Metabolism,1
+both,14,Ch14 Mendel and the Gene Idea,1
+both,16,Ch16 The Molecular Basis of Inheritance,1
+both,17,Ch17 Gene Expression: From Gene to Protein,1
+both,20,Ch20 DNA Tools and Biotechnology,1
+both,23,Ch23 The Evolution of Populations,1
+both,27,Ch27 Bacteria and Archaea,1
+both,36,Ch36 Resource Acquisition and Transport in Vascular Plants,1
+both,38,Ch38 Angiosperm Reproduction and Biotechnology,1
+both,51,Ch51 Animal Behavior,1
+both,53,Ch53 Population Ecology,1
+both,55,Ch55 Ecosystems and Restoration Ecology,1

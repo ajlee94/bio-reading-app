@@ -1,0 +1,67 @@
+{
+  "question": {
+    "path": "b2aa66fbded3eab47de94d7a.pdf",
+    "sha256": "6e46f6c172436ff06c479c0732b6c3a9dc8e7642326466e7860b3258f0090e27",
+    "pdf_pages": 10
+  },
+  "answer": {
+    "path": "9aef0a0e6d65cc0c3be46616.pdf",
+    "sha256": "c20f71517855d837ae875a113625d4c8c598e3dd893ba96579118a080860418c",
+    "pdf_pages": 4,
+    "canonical_archive_path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/schools/CMU/files/答案_釋疑/CMU_114_biology_answer.pdf",
+    "biology_pdf_pages": [
+      4
+    ],
+    "scope_note": "原檔4頁含其他考科；本年度生物答案只使用PDF4，原檔不改。"
+  },
+  "clarification": {
+    "path": "52eda5e90def729e7ac82c96.pdf",
+    "sha256": "91e2f534bfae0d185f3aab36404e6d70375ccb6043d211780e77ee39786cd6fb",
+    "pdf_pages": 15,
+    "canonical_archive_path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/schools/CMU/files/答案_釋疑/CMU_114_biology_clarification.pdf",
+    "biology_pdf_pages": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "scope_note": "15頁原檔含其他考科；生物釋疑從PDF7中段開始至PDF15，其他考科不套入生物。"
+  },
+  "textbook": {
+    "path": "Campbell Biology 12e.pdf（教材參考，全文未公開）",
+    "sha256": "de7c28b93a1c853c0c58d53cd658848d08cf033cde7c2071c062bfdd25b5dc73",
+    "pdf_pages": 1493
+  },
+  "toc": {
+    "path": "Campbell toc.txt（教材參考，全文未公開）",
+    "sha256": "472c94c03d3e7f107284b4e59ba744b406faee99580f5d940e0c2dab3d0c3dc7"
+  },
+  "edition_verified": {
+    "edition": "Campbell Biology 12e",
+    "printed_to_body_pdf_offset": 49,
+    "toc_pdf_pages": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "method": "本地TOC及PDF目錄文字對照，正文頁尾印刷碼與PDF索引相差49；非沿用官方釋疑的不同版本頁碼。"
+  }
+}

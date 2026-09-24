@@ -1,0 +1,121 @@
+[
+  {
+    "id": "S01",
+    "title": "Smets et al. 2005：Cytokinin-induced hypocotyl elongation in light-grown Arabidopsis",
+    "finding": "光照阿拉伯芥在乙烯作用受抑時，細胞分裂素可促進下胚軸伸長；生長素運輸阻斷亦影響反應。激素作用受物種、光照與處理影響，不能直接把此實驗當成玉米原圖各標示的實證。",
+    "read_scope": "PubMed開頁摘要；未讀出版商全文。只支援Q1激素互作的條件限制。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/15843964/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU107官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "3bef34bdb6a9de282c0e2d6638fe9eece6aff1291c50c9dfcfe465a7f2a3626e"
+  },
+  {
+    "id": "S02",
+    "title": "1987：Anticoagulant activity of proteoglycans released from human basophil-mast cell system",
+    "finding": "研究的正常人及CML嗜鹼性球製備物未測到抗凝活性；CML標記醣胺聚醣主要為軟骨素硫酸、未辨識肝素。此結果限制「所有嗜鹼性球普遍分泌肝素」的說法，不能從特定製備物推成任何條件皆不存在。Q12官方仍採C。",
+    "read_scope": "J-STAGE索引提供的原始研究摘要，含製備物純度及實驗結果；直接開頁快取失敗，未取得全文。",
+    "urls": [
+      "https://www.jstage.jst.go.jp/article/joma1947/99/5-6/99_5-6_595/_article/-char/en"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU107官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "2549590e75c4e20ea8802c0b8fc58633163f790e6a35c0ee22b021b41acda691"
+  },
+  {
+    "id": "S03",
+    "title": "2006 JBC：Thyroid Hormone Stimulates Protein Synthesis in the Cardiomyocyte by Activating the Akt-mTOR and p70S6K Pathways",
+    "finding": "原始研究報告細胞質TRα1與PI3K之p85α次單元互作；支援存在非典型細胞質路徑，不能把所有甲狀腺素作用都稱為細胞質受體。典型核內受體與原題「細胞質」措辭分開。",
+    "read_scope": "出版商索引摘要與結果節錄；直接開頁失敗，未取得全文。",
+    "urls": [
+      "https://www.sciencedirect.com/science/article/pii/S0021925818951951"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU107官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "6fab396677e434372302d31c2ea5c33a799de0f9ff8d9e81fa1436d4dd48bf86"
+  },
+  {
+    "id": "S04",
+    "title": "Cauet et al. 2005：Identification of the glycosylation site of the adenovirus type 5 fiber protein",
+    "finding": "第5型腺病毒纖維蛋白兩種形式中一種帶單一O-GlcNAc，修飾位點為軸部Ser109。無套膜病毒仍可有醣基化蛋白；研究未因此證明該醣基就是宿主受體結合位點。",
+    "read_scope": "PubMed搜尋提供的完整摘要；直接開頁遇驗證頁。未取得全文，限此血清型與纖維蛋白。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/15807538/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU107官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "45828d16e8a163cb5eb172a893f87544cc3847d016b7eaa69fded12d7b8cd71c"
+  },
+  {
+    "id": "S05",
+    "title": "Parrott et al. 2014：Differential incubation temperatures result in dimorphic DNA methylation patterning of SOX9 and aromatase promoters in alligator embryos",
+    "finding": "孵育溫度不同伴隨鱷胚性腺SOX9／芳香環化酶啟動子甲基化差異；雄性誘導溫度下CYP19A1較高甲基化與較低表達相關。溫度決定性別不能概括為沒有表觀遺傳參與，也不等同已證明跨代遺傳或單一因果。",
+    "read_scope": "PubMed原始摘要的搜尋節錄；直接開頁驗證阻擋，未讀全文。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/24227754/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU107官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "0a926f101e4ddb749a6644ac13f65bb5af989379b8647112626dc32f43b8eccf"
+  },
+  {
+    "id": "S06",
+    "title": "2017：Tubular Cardiac Tissues Derived from Human Induced Pluripotent Stem Cells Generate Pulse Pressure In Vivo",
+    "finding": "研究以藥物選擇提高心肌細胞純度，移植工程心臟組織至裸大鼠並未觀察到腫瘤；支援分化與純化影響風險，不能說所有成熟心肌細胞移植必然癌化。異種免疫缺陷動物結果不證明人類自體移植免疫風險為零。",
+    "read_scope": "Nature原始研究開頁，實讀細胞純化比例、移植結果及tumor相關段落；未宣稱完成臨床驗證。",
+    "urls": [
+      "https://www.nature.com/articles/srep45499"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU107官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "f9361f7529d219c4a740c2c63a227fc1d7c3a28770339a3b2ef1fcb817ac0df3"
+  },
+  {
+    "id": "S07",
+    "title": "Rubin and Hait：Topoisomerase Biology，Holland-Frei Cancer Medicine 6e",
+    "finding": "拓樸異構酶調節DNA複製與轉錄所生的拓樸張力；與直接拆開雙股的解旋酶不同。II型使用ATP，不能把某一型能量要求泛化為全部拓樸異構酶。",
+    "read_scope": "NCBI Bookshelf作者教材開頁，實讀導論、酵素類型及ATP段落。",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK14039/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU107官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "581b79b826c552fd6d406541037d07fb70ff5921514cdc2e67d850249d9b0c0e"
+  },
+  {
+    "id": "S08",
+    "title": "Yuk and Marshall 2003：Heat Adaptation Alters Escherichia coli O157:H7 Membrane Lipid Composition and Verotoxin Production",
+    "finding": "升溫適應後棕櫚酸增加；不同菌株的cis-vaccenic acid可增加、減少或少變。原題D符合教材一般適應方向，但特定脂肪酸與菌株不可一概而論；官方B或D採計獨立保存。",
+    "read_scope": "PMC／PubMed原始摘要與結果搜尋節錄，包含不同菌株差異；未逐篇讀完官方Q48列出的全部研究，不宣稱那些引用全都直接支持B。",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC194916/",
+      "https://pubmed.ncbi.nlm.nih.gov/12957893/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU107官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "74af2aba93958a1bd55138b8afd9f10b40c99ab28527063d0163b92a20350517"
+  },
+  {
+    "id": "S09",
+    "title": "Surette, Miller and Bassler 1999：Quorum sensing in E. coli, S. typhimurium, and V. harveyi",
+    "finding": "原始研究以Vibrio報告菌偵測多物種產生的AI-2，並鑑定同源luxS；支持化學訊號可跨菌種被偵測，不能說群體感應只能同種。不是每種菌株都產生或回應同一訊號。",
+    "read_scope": "PMC／PubMed索引提供的完整原始摘要與正文導論；未逐段讀全篇。",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC15544/",
+      "https://pubmed.ncbi.nlm.nih.gov/9990077/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU107官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "17b0f8c21eebc485a5d9aaaf405152d9f3348716e8c586afe0f6584a8bf447e0"
+  }
+]

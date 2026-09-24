@@ -1,0 +1,252 @@
+[
+  {
+    "id": "S01",
+    "title": "NEB限制酶辨識與切割表",
+    "finding": "BamHI G/GATCC、BglII A/GATCT、ClaI AT/CGAT、BstBI TT/CGAA；支持辨識原圖錯字並核對B選項。",
+    "read_scope": "實讀製造商表格相應四列，非單憑搜尋標題。",
+    "urls": [
+      "https://www.neb.com/en-us/tools-and-resources/selection-charts/alphabetized-list-of-recognition-specificities"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU109官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "35bedd39b5bab11d015c963e49b48de898c680d96103109f481b41bbb2928d50"
+  },
+  {
+    "id": "S02",
+    "title": "GPER及G蛋白、環核苷酸通道原始實驗",
+    "finding": "GPR30可結合雌激素；研究模型有ER膜及細胞膜定位。Gβγ與環核苷酸可分別活化特定通道，不泛化至所有通道。",
+    "read_scope": "Revankar 2005及Thomas 2007摘要；Logothetis 1987摘要的單通道實驗；Nakamura與Gold 1987摘要。未宣稱讀取付費全文。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/15705806/",
+      "https://pubmed.ncbi.nlm.nih.gov/17379646/",
+      "https://www.nature.com/articles/325321a0",
+      "https://pubmed.ncbi.nlm.nih.gov/3027574/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU109官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "d4b8a71856c8b2bd6d5be22d366389de6f17f9483016a1aae88c2d72f2cbe6c7"
+  },
+  {
+    "id": "S04",
+    "title": "C3束鞘與PEPC原始研究",
+    "finding": "Arabidopsis的束鞘並非一概無葉綠體，C3植物亦有非光合PEPC代謝，限制原題與官方解讀的絕對語句。",
+    "read_scope": "Aubry 2014原始研究引言之束鞘葉綠體段及研究目的；Janacek 2009搜尋返回的原始實驗摘要，開頁失敗；2015原始研究搜尋返回摘要及PEPC反應段；PMC開頁遇驗證頁。",
+    "urls": [
+      "https://onlinelibrary.wiley.com/doi/10.1111/tpj.12502",
+      "https://onlinelibrary.wiley.com/doi/10.1111/j.1365-313X.2009.03873.x",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4348777/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU109官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "38e922c597b1734ce3f2cb41770dd6557d7269cc94cf8d40bfdb6546c68214ef"
+  },
+  {
+    "id": "S07",
+    "title": "中研院軟珊瑚造礁研究及海管處藻礁資料",
+    "finding": "研究團隊在南灣發現Sinularia軟珊瑚造礁；藻礁累積緩慢。支持E為錯誤全稱，非所有軟珊瑚皆等同礁體建造者。",
+    "read_scope": "中研院2011研究報告正文；2019軟珊瑚造礁原始研究摘要；海管處藻礁說明的年代與生長段。",
+    "urls": [
+      "https://newsletter.sinica.edu.tw/reviews/en/news/read_newsb4ff.html",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6362064/",
+      "https://www.marine.gov.tw/zh_tw/about/chronology/%E6%8F%AD%E9%96%8B%E8%97%BB%E7%A4%81%E7%9A%84%E7%A5%9E%E7%A7%98%E9%9D%A2%E7%B4%97-56591023"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU109官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "7172713466afe4f0d2a9157b232b8bb4f4199defb5e9f4382c10324bebed0e36"
+  },
+  {
+    "id": "S09",
+    "title": "政府大鵬灣規劃之地形成因",
+    "finding": "官方描述東港溪、林邊溪泥沙與沿岸輸沙造成沙洲隔開海域而形成潟湖，支援bar-built分類。",
+    "read_scope": "規劃PDF搜尋返回之地形段落與大鵬灣管理處潟湖介紹，未宣稱完整閱讀規劃書全部頁面。",
+    "urls": [
+      "https://www.tcd.gov.tw/uploadfile/tcd_plan/20094212143613.pdf",
+      "https://activity.dbnsa.gov.tw/ee/Article.aspx?Arti=03004151&Lang=1"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU109官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "629f6ccdf57d8f9ec935de3802b74a2aafafdd1c06a3fde6cd32e11e34fc8f05"
+  },
+  {
+    "id": "S13",
+    "title": "臺灣官方石花菜與洋菜資料",
+    "finding": "Gelidium石花菜屬紅藻並可用於洋菜生產。",
+    "read_scope": "中研院魚貝類書頁、農業部食農頁與水試所2022石花菜介紹之物種及用途段。",
+    "urls": [
+      "https://fishdb.sinica.edu.tw/e_books/fishshell2011pic.php?id=7",
+      "https://fae.moa.gov.tw/map/food_item.php?id=368",
+      "https://www.tfrin.gov.tw/theme_data.php?id=1255&sub_theme=special_message&theme=book_data"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU109官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "83a766c99f949c0c22281613d281af4c4d13a219c3d2aa3e69625cf1c490310d"
+  },
+  {
+    "id": "S16",
+    "title": "國家公園署113至116年計畫所列公園年表",
+    "finding": "五個選項實施時間依次1982、1995、2007、2009、2014，南方四島最晚。計畫實施與管理處成立分欄。",
+    "read_scope": "官方PDF搜尋返回的公園實施及管理處成立完整相關五列，未宣稱整本計畫視讀。",
+    "urls": [
+      "https://www.nps.gov.tw/uploads/files/09eb2fd7b83cae153869271e7d433bfe.pdf"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU109官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "b99e668c96f76221b2c4640d03535b84f62020482f79617f3a28ecf7397cdf55"
+  },
+  {
+    "id": "S19",
+    "title": "中興大學植物分類研究室2013紅茄苳開花紀錄",
+    "finding": "原生野外消失與自琉球引回栽培可並存；研究室直接記錄校園紅茄苳開花，不支持僅由引入便推定為其他相似物種。",
+    "read_scope": "2013-10-08正文完整段落及附件名Bru_gymnorhiza；未作本輪植物標本鑑定。",
+    "urls": [
+      "https://www.nchu.edu.tw/news-detail.php?id=25537"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU109官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "edcff2bffa219987cc7fd9da855d56a6bfb0606642a8d2cf1fa96b439f276c9e"
+  },
+  {
+    "id": "S26",
+    "title": "WHOI溶氧最低區研究與NOAA海洋光照資料",
+    "finding": "研究航次報告最低含氧區位於約100–1000m，反駁最深必最低；NOAA說明典型海水的光衰減及藍色。",
+    "read_scope": "WHOI研究團隊報告的設備、深度及東南太平洋原位研究段落；NOAA光穿透及海洋顏色說明，非所有海域實測資料。",
+    "urls": [
+      "https://www.whoi.edu/press-room/news-release/new-technologies-revise-scientists-understanding-of-the-oxygen-minimum-zone/",
+      "https://oceanservice.noaa.gov/facts/light_travel.html",
+      "https://oceanservice.noaa.gov/facts/oceanblue.html"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU109官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "64ece651f9037f10f44a4c617e1bbb00f2c110dfbbc4667d9c1f39c63a3ec4c7"
+  },
+  {
+    "id": "S27",
+    "title": "PRB 2020世界人口資料",
+    "finding": "2020資料約78億人口，與官方77.6億及最接近80億選項一致。",
+    "read_scope": "PRB當年資料頁人口總數段；不使用當前動態人口時鐘替換歷史答案。",
+    "urls": [
+      "https://2020-wpds.prb.org/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU109官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "f8bef960ba4782a602ec0c95916c72fb3db6f920b8d9470ad798309f37c51f1b"
+  },
+  {
+    "id": "S34",
+    "title": "中央氣象署海象小學堂",
+    "finding": "台中苗栗一帶最大潮差可達5m，東岸約小於2m。屬典型區域比較，不是每一潮次排序。",
+    "read_scope": "潮差定義、影響因子與台灣沿岸差異三段，實讀網頁正文。",
+    "urls": [
+      "https://south.cwa.gov.tw/inner/ANPB1573551698tUAh"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU109官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "2771dade04451f6631fbe15c008af0b8fd6e1cf4b8f8856a2c969a143dd1afce"
+  },
+  {
+    "id": "S37",
+    "title": "官方釋疑引用的表現分析研究",
+    "finding": "官方援引mRNA與蛋白共同量測例子及ISH方法，支持其廣義評估解讀；不把ISH或未註RT的qPCR誤稱直接蛋白量測。",
+    "read_scope": "PubMed條目題名、研究標的及摘要；本地教材另外核對核酸、蛋白檢測與轉錄後調控。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/11371713/",
+      "https://pubmed.ncbi.nlm.nih.gov/19099259/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU109官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "3d996c6601c1902691ad312767640945ab0f5826b3c1b12762ee9d737549c115"
+  },
+  {
+    "id": "S39",
+    "title": "細胞外鈣受體及Ca非依賴PKC原始研究",
+    "finding": "牛副甲狀腺受體具有細胞外鈣感測及G蛋白偶聯樣構造，故不能將鈣絕不結合膜受體當作E錯的理由。另有PKC-delta原始表現研究顯示活化不需Ca2+，支持亞型界線。",
+    "read_scope": "PubMed完整摘要；未宣稱讀取Nature付費全文。PKC-delta研究搜尋返回摘要的Ca需求段。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/8255296/",
+      "https://pubmed.ncbi.nlm.nih.gov/1915352/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU109官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "1ed3b73361917f89ea60f1508deac35ab8e1c1f2323b7450930b9b44235b5476"
+  },
+  {
+    "id": "S41",
+    "title": "Fedorova等2008青鱂腎小球形成研究",
+    "finding": "研究以mesonephros稱成體魚腎，並說明opisthonephros用語與哺乳動物暫時中腎的差異，不能混同metanephros。",
+    "read_scope": "原始研究網頁搜尋返回之魚腎命名及形態段落，未宣稱全部組織圖已視讀。",
+    "urls": [
+      "https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/dvdy.21687"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU109官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "8d4d05f52eeb39c6423df2067f8b9acca1911bf91126a61ecc96bf38dbf08f82"
+  },
+  {
+    "id": "S47",
+    "title": "角膜及頭部真皮來源原始研究",
+    "finding": "P0-Cre及Wnt1-Cre追蹤支持成年小鼠角膜部分前驅細胞的神經脊來源，不代表角膜所有細胞同一直接起源。另有頭部真皮發育研究指出頭部中胚層與神經脊的來源差別。",
+    "read_scope": "PubMed完整摘要中的來源追蹤與骨髓移植對照。頭部真皮Wnt研究搜尋返回來源與譜系摘要。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/16888282/",
+      "https://pubmed.ncbi.nlm.nih.gov/20980404/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU109官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "d17b8e189b8a579fd8d7b80e93fe518c689801f3cbb946e9b2a0b5b39607e92b"
+  },
+  {
+    "id": "S49",
+    "title": "Nagai等2020水稻節間伸長原始研究",
+    "finding": "ACE1賦予節間分生區細胞分裂能力，與將節間分生區直接等同已完成分化組織的概括不符。",
+    "read_scope": "Nature原始研究完整摘要及圖標題；不宣稱全文已取得，也不将2020年較晚研究冒稱官方命題依據。",
+    "urls": [
+      "https://www.nature.com/articles/s41586-020-2501-8"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU109官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "d762a2d334d3e84192eac7c4f3125c254f8322846212d16e1818881e95b8a569"
+  },
+  {
+    "id": "S50",
+    "title": "DNA中脫氧黃嘌呤與脫胺鹼基修復原始研究",
+    "finding": "G脫胺產xanthine，A脫胺產hypoxanthine；鹼基切除修復涉及glycosylase，與原題化學名及簡化酶組分開。",
+    "read_scope": "2003穩定性研究摘要及導言產物段、2004糖基酶原始研究摘要；未將本地NER圖當成BER完整反應。",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC149198/",
+      "https://pubmed.ncbi.nlm.nih.gov/15247209/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU109官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "f6b7d9010b77036027b1c9d8f4fc6b85bf77a1adf0c46abdda1b068c6cefa993"
+  },
+  {
+    "id": "S33",
+    "title": "Inbar與Kupiec 1999有絲重組原始研究",
+    "finding": "營養生長細胞可經同源重組修復DNA雙股斷裂，因此正常分裂比較不能外推成體細胞絕無重組。",
+    "read_scope": "原始研究摘要之損傷修復、同源搜尋與模板選擇，未宣稱全文視讀。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/10330153/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU109官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "da45f984d2b517d9e3dd7cac672aec17b996a18468dfd8ae77fb0293fe7943c3"
+  }
+]

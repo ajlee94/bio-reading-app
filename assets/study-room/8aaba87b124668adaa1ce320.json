@@ -1,0 +1,4942 @@
+[
+  {
+    "id": "CMU-108-Q01",
+    "school": "CMU",
+    "year": 108,
+    "q": 1,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 1,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "regions": [
+        [
+          40,
+          86.98800000000006,
+          565.5,
+          141.24199999999996
+        ],
+        [
+          40,
+          141.24199999999996,
+          565.5,
+          261.342
+        ]
+      ],
+      "image": "questions/Q01.png",
+      "sha256": "c6b3bd4b434111a41beb17169abb5085af1d0644e0d1905881d957635b90a3bb",
+      "width": 1123,
+      "height": 385,
+      "question_text": "※1~4 題組題\n假設具有二個顯隱性基因座(Aa 和 Bb)的自花授粉雙純品系水稻稻種，一雙純品系基因型為\nAAbb，另一雙純品系基因型為aaBB：\n1. 若以AAbb 基因型的雙純品系為母本，aaBB基因型的雙純品系為父本，所產生的F1子代\n再進行試交(testcrosses)試驗，在 Aa 和 Bb 二基因座為完全不連鎖的情形下，有關子代基\n因型組合，下列何者最可能？\n(A) AaBB、AaBb、aaBB、aaBb (B) AAbb、AaBb、aaBB、aabb\n(C) Aabb、AaBB、aaBb、aabb (D) AABb、AAbb、aaBb、aabb\n(E) AaBb、Aabb、aaBb、aabb",
+      "shared_stimulus": true,
+      "composition": "原頁共用題組與本題區塊依序無改字拼接，間隔12像素白邊；整頁另存"
+    },
+    "official_answer": {
+      "original": "E",
+      "adopted": "E",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L0875",
+      "toc_line": 875,
+      "chapter": 14,
+      "concept": "14.1",
+      "title": "The Law of Independent Assortment",
+      "printed_page": 274,
+      "body_pdf_page": 323,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        38
+      ],
+      "chapter_label": "Ch14 Mendel and the Gene Idea"
+    },
+    "secondary": [
+      {
+        "id": "L0872",
+        "toc_line": 872,
+        "chapter": 14,
+        "concept": "14.1",
+        "title": "The Law of Segregation",
+        "printed_page": 271,
+        "body_pdf_page": 320,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          38
+        ],
+        "chapter_label": "Ch14 Mendel and the Gene Idea"
+      }
+    ],
+    "primary_reason": "14.1 / The Law of Independent Assortment：雙因子雜交個體在兩基因獨立分配時產生四種等比例配子，測交直接讀出配子比例。",
+    "secondary_reason": "14.1 / The Law of Segregation：分離定律條目內的測交正文說明與aabb交配的判讀設計，Testcross未另列於目錄，不自造葉節點。",
+    "answer_analysis": "原題共用背景AAbb×aaBB得AaBb；在未連鎖的題設下，與aabb測交得AaBb、Aabb、aaBb、aabb各1/4，採E。獨立分配是本題遺傳比例假設，不等於所有物理位置都在不同染色體。",
+    "textbook_evidence": [
+      {
+        "printed_page": 272,
+        "pdf_page": 321,
+        "text_file": "textbook_evidence/pdf-0321.txt",
+        "sha256": "52ae504f762b0608a342469b2d8f58f370a7b59b1785f74cc1a20da2a5768fb1"
+      },
+      {
+        "printed_page": 273,
+        "pdf_page": 322,
+        "text_file": "textbook_evidence/pdf-0322.txt",
+        "sha256": "bb1f718482ef76a3b47eab2ad1f227e93db0f1275b6bf95f803dcd86927c31d2"
+      },
+      {
+        "printed_page": 274,
+        "pdf_page": 323,
+        "text_file": "textbook_evidence/pdf-0323.txt",
+        "sha256": "efe71256f6947c50ea8973b9c53c019e82d9c950f0dce14b0453bf43c2a12534"
+      },
+      {
+        "printed_page": 275,
+        "pdf_page": 324,
+        "text_file": "textbook_evidence/pdf-0324.txt",
+        "sha256": "1a52c50bd4b72be7f65ef560d65910269093fc451ec38a057fd99f7d568f5813"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q01",
+    "issue_resolution_index": 0
+  },
+  {
+    "id": "CMU-108-Q02",
+    "school": "CMU",
+    "year": 108,
+    "q": 2,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 2,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "regions": [
+        [
+          40,
+          86.98800000000006,
+          565.5,
+          141.24199999999996
+        ],
+        [
+          40,
+          261.342,
+          565.5,
+          363.442
+        ]
+      ],
+      "image": "questions/Q02.png",
+      "sha256": "09f62fc939d487d893ba552dd7162bb56d9c3c10f9106989fcad207bd0593c04",
+      "width": 1123,
+      "height": 346,
+      "question_text": "※1~4 題組題\n假設具有二個顯隱性基因座(Aa 和 Bb)的自花授粉雙純品系水稻稻種，一雙純品系基因型為\nAAbb，另一雙純品系基因型為aaBB：\n2. 若以AAbb 基因型的雙純品系為母本，aaBB基因型的雙純品系為父本，所產生的F1子代\n再進行試交試驗，在 Aa 和 Bb 二基因座為完全連鎖的情況下，有關子代基因型組合，下\n列何者最可能？\n(A) Aabb、AaBb (B) Aabb、aaBb (C) aaBB、aaBb\n(D) aaBb、aabb (E) AaBB、aaBb",
+      "shared_stimulus": true,
+      "composition": "原頁共用題組與本題區塊依序無改字拼接，間隔12像素白邊；整頁另存"
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L0955",
+      "toc_line": 955,
+      "chapter": 15,
+      "concept": "15.3",
+      "title": "How Linkage Affects Inheritance",
+      "printed_page": 301,
+      "body_pdf_page": 350,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        39
+      ],
+      "chapter_label": "Ch15 The Chromosomal Basis of Inheritance"
+    },
+    "secondary": [
+      {
+        "id": "L0958",
+        "toc_line": 958,
+        "chapter": 15,
+        "concept": "15.3",
+        "title": "Genetic Recombination and Linkage",
+        "printed_page": 302,
+        "body_pdf_page": 351,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          39
+        ],
+        "chapter_label": "Ch15 The Chromosomal Basis of Inheritance"
+      }
+    ],
+    "primary_reason": "15.3 / How Linkage Affects Inheritance：完全連鎖時同一染色體的等位基因組合整組傳遞。",
+    "secondary_reason": "15.3 / Genetic Recombination and Linkage：與雙隱性親本的後代用來辨認親本型及重組型。",
+    "answer_analysis": "共用親本確定F1相位為Ab/aB；完全連鎖無交換時只產Ab、aB配子，與aabb測交得Aabb與aaBb，採B。不能把相位改成AB/ab。",
+    "textbook_evidence": [
+      {
+        "printed_page": 301,
+        "pdf_page": 350,
+        "text_file": "textbook_evidence/pdf-0350.txt",
+        "sha256": "9363e4881ddf022ecfd5b0289c53c7991b360f476e30984b4c613b394d2b6de5"
+      },
+      {
+        "printed_page": 302,
+        "pdf_page": 351,
+        "text_file": "textbook_evidence/pdf-0351.txt",
+        "sha256": "15cf52b8d97952d828a00cae03dcf14cfb2de36a6c606ac397b1d6e3b5a6323f"
+      },
+      {
+        "printed_page": 303,
+        "pdf_page": 352,
+        "text_file": "textbook_evidence/pdf-0352.txt",
+        "sha256": "f3aad5d9a1f5883cdcf350c657201e6ab85596ccd27bccd57e5bfa7956f9ccf8"
+      },
+      {
+        "printed_page": 304,
+        "pdf_page": 353,
+        "text_file": "textbook_evidence/pdf-0353.txt",
+        "sha256": "ad3b514dee0983bfab3b517b38bc49a13857d9891280c1ea3800873459cd6edf"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q02",
+    "issue_resolution_index": 1
+  },
+  {
+    "id": "CMU-108-Q03",
+    "school": "CMU",
+    "year": 108,
+    "q": 3,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 3,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "regions": [
+        [
+          40,
+          86.98800000000006,
+          565.5,
+          141.24199999999996
+        ],
+        [
+          40,
+          363.442,
+          565.5,
+          430.24199999999996
+        ]
+      ],
+      "image": "questions/Q03.png",
+      "sha256": "4c93105280d87fc4eaeb146cbda7280cc7d0c0d1604865c1e3fbd8e7aecab0d7",
+      "width": 1123,
+      "height": 270,
+      "question_text": "※1~4 題組題\n假設具有二個顯隱性基因座(Aa 和 Bb)的自花授粉雙純品系水稻稻種，一雙純品系基因型為\nAAbb，另一雙純品系基因型為aaBB：\n3. 若以aaBB基因型的雙純品系為母本，AAbb 基因型的雙純品系為父本，在Aa和 Bb 二基\n因座為完全不連鎖情形下，所產生的F1 子代之胚乳的基因型組合，下列何者最可能？\n(A) AAaBbb (B) AaaBbb (C) AAaBBb (D) AaaBBb (E) AAabbb",
+      "shared_stimulus": true,
+      "composition": "原頁共用題組與本題區塊依序無改字拼接，間隔12像素白邊；整頁另存"
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L2486",
+      "toc_line": 2486,
+      "chapter": 38,
+      "concept": "38.1",
+      "title": "The Angiosperm Life Cycle: An Overview",
+      "printed_page": 826,
+      "body_pdf_page": 875,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        45
+      ],
+      "chapter_label": "Ch38 Angiosperm Reproduction and Biotechnology"
+    },
+    "secondary": [
+      {
+        "id": "L2489",
+        "toc_line": 2489,
+        "chapter": 38,
+        "concept": "38.1",
+        "title": "Development of Female Gametophytes (Embryo Sacs)",
+        "printed_page": 826,
+        "body_pdf_page": 875,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          45
+        ],
+        "chapter_label": "Ch38 Angiosperm Reproduction and Biotechnology"
+      },
+      {
+        "id": "L2495",
+        "toc_line": 2495,
+        "chapter": 38,
+        "concept": "38.1",
+        "title": "Seed Development and Structure",
+        "printed_page": 828,
+        "body_pdf_page": 877,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          45
+        ],
+        "chapter_label": "Ch38 Angiosperm Reproduction and Biotechnology"
+      }
+    ],
+    "primary_reason": "38.1 / The Angiosperm Life Cycle: An Overview：雙受精的精子與兩個極核融合產生胚乳，必須從被子植物生活史讀出核來源。",
+    "secondary_reason": "38.1 / Development of Female Gametophytes (Embryo Sacs)：母本胚囊由大孢子形成，提供兩個aB極核；38.1 / Seed Development and Structure：種子發育條目說明三倍體胚乳與二倍體胚的區別。",
+    "answer_analysis": "母本aaBB的兩個極核各aB，父本AAbb精子Ab，合成AaaBBb，採D。AaBb是胚而非胚乳。Double Fertilization是正文小標，不是獨立目錄葉節點；主分類保留真實目錄的生活史概觀。",
+    "textbook_evidence": [
+      {
+        "printed_page": 826,
+        "pdf_page": 875,
+        "text_file": "textbook_evidence/pdf-0875.txt",
+        "sha256": "476cf50739c9725798af38934ab9d64b318b8e474c2e3636c9d1f2ce61bd86e4"
+      },
+      {
+        "printed_page": 827,
+        "pdf_page": 876,
+        "text_file": "textbook_evidence/pdf-0876.txt",
+        "sha256": "b2aafa8d0f29783b8f09e63a05690dab9470c5c2dff85b6f331da1b82baa1a6a"
+      },
+      {
+        "printed_page": 828,
+        "pdf_page": 877,
+        "text_file": "textbook_evidence/pdf-0877.txt",
+        "sha256": "c6d1399135f4783349f9731b819a4998de5da033914d775f466a265551cf11a6"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q03",
+    "issue_resolution_index": 2
+  },
+  {
+    "id": "CMU-108-Q04",
+    "school": "CMU",
+    "year": 108,
+    "q": 4,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 4,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "regions": [
+        [
+          40,
+          86.98800000000006,
+          565.5,
+          141.24199999999996
+        ],
+        [
+          40,
+          430.24199999999996,
+          565.5,
+          533.092
+        ]
+      ],
+      "image": "questions/Q04.png",
+      "sha256": "d91b97308634d7628631ea3b6ee4fa1898645db1c80301e1b629e75e017d261c",
+      "width": 1123,
+      "height": 348,
+      "question_text": "※1~4 題組題\n假設具有二個顯隱性基因座(Aa 和 Bb)的自花授粉雙純品系水稻稻種，一雙純品系基因型為\nAAbb，另一雙純品系基因型為aaBB：\n4. 若以aaBB基因型的雙純品系為母本，AAbb 基因型的雙純品系為父本，所產生的F1子代\n再和原父本 AAbb 進行雜交試驗，結果如下：\nAABb：AAbb：AaBb：Aabb = 304：824：809：363，推測Aa和Bb 二基因座具有連鎖現\n象，而由此數據進行此子代重組頻率(recombination frequency)計算，下列何者最接近？\n(A) 13.2% (B) 15.8% (C) 29.0% (D) 35.2% (E) 49.1%",
+      "shared_stimulus": true,
+      "composition": "原頁共用題組與本題區塊依序無改字拼接，間隔12像素白邊；整頁另存"
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L0961",
+      "toc_line": 961,
+      "chapter": 15,
+      "concept": "15.3",
+      "title": "Mapping the Distance Between Genes Using Recombination Data: Scientific Inquiry",
+      "printed_page": 305,
+      "body_pdf_page": 354,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        39
+      ],
+      "chapter_label": "Ch15 The Chromosomal Basis of Inheritance"
+    },
+    "secondary": [
+      {
+        "id": "L0958",
+        "toc_line": 958,
+        "chapter": 15,
+        "concept": "15.3",
+        "title": "Genetic Recombination and Linkage",
+        "printed_page": 302,
+        "body_pdf_page": 351,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          39
+        ],
+        "chapter_label": "Ch15 The Chromosomal Basis of Inheritance"
+      }
+    ],
+    "primary_reason": "15.3 / Mapping the Distance Between Genes Using Recombination Data: Scientific Inquiry：依重組後代數除以總後代數計算遺傳圖距。",
+    "secondary_reason": "15.3 / Genetic Recombination and Linkage：後代基因型須還原成F1配子，判別親本與重組型。",
+    "answer_analysis": "本題回交AAbb，不是與aabb測交。AABb304、AAbb824、AaBb809、Aabb363對應F1的AB、Ab、aB、ab；重組為304+363，總2300，重組率29%，採C。",
+    "textbook_evidence": [
+      {
+        "printed_page": 302,
+        "pdf_page": 351,
+        "text_file": "textbook_evidence/pdf-0351.txt",
+        "sha256": "15cf52b8d97952d828a00cae03dcf14cfb2de36a6c606ac397b1d6e3b5a6323f"
+      },
+      {
+        "printed_page": 303,
+        "pdf_page": 352,
+        "text_file": "textbook_evidence/pdf-0352.txt",
+        "sha256": "f3aad5d9a1f5883cdcf350c657201e6ab85596ccd27bccd57e5bfa7956f9ccf8"
+      },
+      {
+        "printed_page": 304,
+        "pdf_page": 353,
+        "text_file": "textbook_evidence/pdf-0353.txt",
+        "sha256": "ad3b514dee0983bfab3b517b38bc49a13857d9891280c1ea3800873459cd6edf"
+      },
+      {
+        "printed_page": 305,
+        "pdf_page": 354,
+        "text_file": "textbook_evidence/pdf-0354.txt",
+        "sha256": "d7a3836f5b9c6380908a9a72462c9e92e5d47f69a63d94fa2dd6414040aa5242"
+      },
+      {
+        "printed_page": 306,
+        "pdf_page": 355,
+        "text_file": "textbook_evidence/pdf-0355.txt",
+        "sha256": "babca5e1d6540bcaf259626eb2b90168d69dab9b3ec3fe353ab06dcc2e75042c"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q04",
+    "issue_resolution_index": 3
+  },
+  {
+    "id": "CMU-108-Q05",
+    "school": "CMU",
+    "year": 108,
+    "q": 5,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 5,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "regions": [
+        [
+          40,
+          533.092,
+          565.5,
+          653.942
+        ]
+      ],
+      "image": "questions/Q05.png",
+      "sha256": "c0e65e3777ccee5363f02a3b8e5193a972d754893e5d74b14058574b33c52dfc",
+      "width": 1123,
+      "height": 259,
+      "question_text": "5. 在美國緬因州(Maine)的春天，雄性大角麋鹿常會闖入放牧場內對雌性乳牛進行呼喚，甚至\n試圖進行交配行為，但是大角麋鹿的雄性生殖器無法適合乳牛的雌性生殖器。上述現象的\n生殖隔離類型，下列何者最可能？\n(A) 時間隔離(temporal isolation) (B) 機械隔離(mechanical isolation)\n(C) 配子隔離(gametic isolation) (D) 行為隔離(behavioral isolation)\n(E) 棲地隔離(habitat isolation)",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1488",
+      "toc_line": 1488,
+      "chapter": 24,
+      "concept": "24.1",
+      "title": "The Biological Species Concept",
+      "printed_page": 507,
+      "body_pdf_page": 556,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        41
+      ],
+      "chapter_label": "Ch24 The Origin of Species"
+    },
+    "secondary": [],
+    "primary_reason": "24.1 / The Biological Species Concept：嘗試交配但生殖器構造不合，是合子前機械隔離。",
+    "secondary_reason": "無另列最小次條目；教材的隔離類型依真正阻斷環節分類；原題明示構造阻礙。",
+    "answer_analysis": "題述雄性大角麋鹿對雌性乳牛呼喚並嘗試交配，阻礙是構造不匹配，採B。不能僅因有呼喚就選行為隔離。緬因州情境按原題保留，未聲稱另外查證該具名自然史事件。",
+    "textbook_evidence": [
+      {
+        "printed_page": 507,
+        "pdf_page": 556,
+        "text_file": "textbook_evidence/pdf-0556.txt",
+        "sha256": "245c8bcb793f5e920301c7dd144d3596f597e31caebd99eda5c4abbed8b92937"
+      },
+      {
+        "printed_page": 508,
+        "pdf_page": 557,
+        "text_file": "textbook_evidence/pdf-0557.txt",
+        "sha256": "8fba5eda1d43441422cd997e1ac59365803d4b8f1f5743a45ad318773fad57f6"
+      },
+      {
+        "printed_page": 509,
+        "pdf_page": 558,
+        "text_file": "textbook_evidence/pdf-0558.txt",
+        "sha256": "cfdc31ea2b41a37a370a00b4993f8f146e59ea917a8be761caa022799ce2c078"
+      },
+      {
+        "printed_page": 510,
+        "pdf_page": 559,
+        "text_file": "textbook_evidence/pdf-0559.txt",
+        "sha256": "11f22fdb85f93123cc3ddf87be4b3292833cfd6ccff8e60e55ff7f90ca880cd0"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q05",
+    "issue_resolution_index": 4
+  },
+  {
+    "id": "CMU-108-Q06",
+    "school": "CMU",
+    "year": 108,
+    "q": 6,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 6,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "regions": [
+        [
+          40,
+          653.942,
+          565.5,
+          810.25
+        ]
+      ],
+      "image": "questions/Q06.png",
+      "sha256": "05fe394a13e76832d948fc3a4c9178db2950d43f63c84717cbbcc3436bd632de",
+      "width": 1123,
+      "height": 334,
+      "question_text": "6. 檸檬酸循環(citric acid cycle)中，某二化合物會分解釋放二分子二氧化碳，有關此二化合物，\n下列何者最正確？\n(A) 檸檬酸鹽(citrate)、異檸檬酸鹽(isocitrate)\n(B) α-酮戊二酸鹽(α-ketogultarate)、琥珀酸輔酶 A(succinyl CoA)\n(C) 琥珀酸鹽(succinate)、延胡索酸鹽(fumarate)\n(D) 琥珀酸輔酶A、琥珀酸鹽\n(E) 異檸檬酸鹽、α-酮戊二酸鹽",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "E",
+      "adopted": "E",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L0575",
+      "toc_line": 575,
+      "chapter": 9,
+      "concept": "9.3",
+      "title": "The Citric Acid Cycle",
+      "printed_page": 172,
+      "body_pdf_page": 221,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        37
+      ],
+      "chapter_label": "Ch09 Cellular Respiration and Fermentation"
+    },
+    "secondary": [],
+    "primary_reason": "9.3 / The Citric Acid Cycle：檸檬酸循環兩個氧化脫羧步驟各放出一個二氧化碳。",
+    "secondary_reason": "無另列最小次條目；反應底物及兩次脫羧可直接對照教材循環圖，無須另列一般酵素條目。",
+    "answer_analysis": "isocitrate→α-ketoglutarate及α-ketoglutarate→succinyl-CoA各釋出一個CO2，採E。原文α-ketogultarate的拼字照留於題圖及題文，科學說明使用α-ketoglutarate。",
+    "textbook_evidence": [
+      {
+        "printed_page": 172,
+        "pdf_page": 221,
+        "text_file": "textbook_evidence/pdf-0221.txt",
+        "sha256": "f7422e53613da385f6c4d2121de91a6e576eefaefe5d859b71f51bbeeecec84e"
+      },
+      {
+        "printed_page": 173,
+        "pdf_page": 222,
+        "text_file": "textbook_evidence/pdf-0222.txt",
+        "sha256": "b2f8f663f39470d5f289164cc87343fa0bd04aac9c5c296aae5f319a5bd876bc"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q06",
+    "issue_resolution_index": 5
+  },
+  {
+    "id": "CMU-108-Q07",
+    "school": "CMU",
+    "year": 108,
+    "q": 7,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 7,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "regions": [
+        [
+          40,
+          86.44200000000001,
+          565.5,
+          207.29200000000003
+        ]
+      ],
+      "image": "questions/Q07.png",
+      "sha256": "3d5b1609cce89f4006dd2254e330175dc1d84a86e9aac09179d840c8be33f4fa",
+      "width": 1123,
+      "height": 258,
+      "question_text": "7. Agrobacterium tumefaciens 現今已大量運用於植物生物技術，主要是因為可以利用它將一\n種植物的基因帶到且插入到另一種植物基因組中。這種現象在自然界中亦會發生，下列何\n者是此現象最可能的作用？\n(A) 垂直演化(vertical evolution) (B) 外顯子重新排列(exon shuffling)\n(C) 退化轉移(vestigial transfer) (D) 轉位(translocation)\n(E) 水平基因轉移(horizontal gene transfer)",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "E",
+      "adopted": "E",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1698",
+      "toc_line": 1698,
+      "chapter": 26,
+      "concept": "26.6",
+      "title": "The Important Role of Horizontal Gene Transfer",
+      "printed_page": 568,
+      "body_pdf_page": 617,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        42
+      ],
+      "chapter_label": "Ch26 Phylogeny and the Tree of Life"
+    },
+    "secondary": [
+      {
+        "id": "L2527",
+        "toc_line": 2527,
+        "chapter": 38,
+        "concept": "38.3",
+        "title": "Plant Biotechnology and Genetic Engineering",
+        "printed_page": 837,
+        "body_pdf_page": 886,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          45
+        ],
+        "chapter_label": "Ch38 Angiosperm Reproduction and Biotechnology"
+      }
+    ],
+    "primary_reason": "26.6 / The Important Role of Horizontal Gene Transfer：跨物種而非親子世代的基因移入，是水平基因轉移。",
+    "secondary_reason": "38.3 / Plant Biotechnology and Genetic Engineering：農桿菌Ti質體是植物基因工程的具體載體應用。",
+    "answer_analysis": "農桿菌將DNA移入植物，採E的horizontal gene transfer。不是染色體內移位，也不是exon shuffling；水平轉移的分類框架與Ti載體的實例分開定位。",
+    "textbook_evidence": [
+      {
+        "printed_page": 568,
+        "pdf_page": 617,
+        "text_file": "textbook_evidence/pdf-0617.txt",
+        "sha256": "aa6b36724bd5af53ed20e44fda7a003a7895522a5db973410d1dfa0c38fa9e05"
+      },
+      {
+        "printed_page": 569,
+        "pdf_page": 618,
+        "text_file": "textbook_evidence/pdf-0618.txt",
+        "sha256": "e8dbc8b0a34dc46e59f32fb54edd8dcbc386d64ea07aba4de429dc803bd7920e"
+      },
+      {
+        "printed_page": 837,
+        "pdf_page": 886,
+        "text_file": "textbook_evidence/pdf-0886.txt",
+        "sha256": "f2d16d9d89efb7799772f388170076f8633ffeaa2ed5cc56131412bc6a5feb38"
+      },
+      {
+        "printed_page": 838,
+        "pdf_page": 887,
+        "text_file": "textbook_evidence/pdf-0887.txt",
+        "sha256": "763e7af3efcfe0b00c4e2fd4a18c40adb15c05f8b1cc2e2bb4f1acec85ac23fc"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q07",
+    "issue_resolution_index": 6
+  },
+  {
+    "id": "CMU-108-Q08",
+    "school": "CMU",
+    "year": 108,
+    "q": 8,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 8,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "regions": [
+        [
+          40,
+          207.29200000000003,
+          565.5,
+          327.392
+        ]
+      ],
+      "image": "questions/Q08.png",
+      "sha256": "bef87571f308e5fdbc09f6ce905293cf72c53ad936b97b9f8d00d625f7dfae23",
+      "width": 1123,
+      "height": 257,
+      "question_text": "8. 在人體中有兩大類球蛋白，分別為肌紅蛋白(myoglobin)和血紅蛋白(hemoglobin)，此二類\n編碼蛋白質的基因皆來自共同的祖先基因，且存在於人體基因組，此肌紅蛋白和血紅蛋白\n基因關係的類型，下列何者最可能？\n(A) 直系基因(orthologous genes) (B) 同功基因(analogous genes)\n(C) 旁系基因(paralogous genes) (D) 同源異型基因(homeotic genes)\n(E) 偽基因(pseudogenes)",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1675",
+      "toc_line": 1675,
+      "chapter": 26,
+      "concept": "26.4",
+      "title": "Gene Duplications and Gene Families",
+      "printed_page": 565,
+      "body_pdf_page": 614,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        42
+      ],
+      "chapter_label": "Ch26 Phylogeny and the Tree of Life"
+    },
+    "secondary": [],
+    "primary_reason": "26.4 / Gene Duplications and Gene Families：同一祖先基因複製並分化所生的基因是旁系同源。",
+    "secondary_reason": "無另列最小次條目；以複製事件和物種分化事件區分，落在實際旁系同源最小條目。",
+    "answer_analysis": "同一物種的globin基因家族來自基因複製，為paralogous genes，採C。Orthologous指物種分化後的對應同源基因，不能僅因序列相似就互換。",
+    "textbook_evidence": [
+      {
+        "printed_page": 565,
+        "pdf_page": 614,
+        "text_file": "textbook_evidence/pdf-0614.txt",
+        "sha256": "15f495b6f407f4df40bd3465e56f2eea847b70b94382eb55bdd1d0830413d4ae"
+      },
+      {
+        "printed_page": 566,
+        "pdf_page": 615,
+        "text_file": "textbook_evidence/pdf-0615.txt",
+        "sha256": "265c5d486e355de5568584fcf85b7f77e300c99366fed5f8ad4f3123262f81c9"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q08",
+    "issue_resolution_index": 7
+  },
+  {
+    "id": "CMU-108-Q09",
+    "school": "CMU",
+    "year": 108,
+    "q": 9,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 9,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "regions": [
+        [
+          40,
+          327.392,
+          565.5,
+          448.262
+        ]
+      ],
+      "image": "questions/Q09.png",
+      "sha256": "8a792d0ef11947d74e12ac5e2869722dd3fbd1d0ec2e6f1315392427e48cd798",
+      "width": 1123,
+      "height": 258,
+      "question_text": "9. 有關裸子植物韌皮部構造的敘述，下列何者最正確？\n(A) 由篩胞(sieve cell)與伴細胞(companion cell)進行養分的運輸\n(B) 由篩管(sieve-tube element)進行養分的運輸\n(C) 由篩胞進行養分的運輸\n(D) 由伴細胞進行養分的運輸\n(E) 由篩管與伴細胞進行養分的運輸",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L2289",
+      "toc_line": 2289,
+      "chapter": 35,
+      "concept": "35.1",
+      "title": "Common Types of Plant Cells",
+      "printed_page": 763,
+      "body_pdf_page": 812,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        44
+      ],
+      "chapter_label": "Ch35 Vascular Plant Structure, Growth, and Development"
+    },
+    "secondary": [
+      {
+        "id": "L2410",
+        "toc_line": 2410,
+        "chapter": 36,
+        "concept": "36.5",
+        "title": "Movement from Sugar Sources to Sugar Sinks",
+        "printed_page": 799,
+        "body_pdf_page": 848,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          45
+        ],
+        "chapter_label": "Ch36 Resource Acquisition and Transport in Vascular Plants"
+      }
+    ],
+    "primary_reason": "35.1 / Common Types of Plant Cells：維管組織細胞型的比較包含裸子植物的篩細胞與被子植物的篩管分子。",
+    "secondary_reason": "36.5 / Movement from Sugar Sources to Sugar Sinks：韌皮部運輸條目補足篩管分子與伴細胞的功能關係。",
+    "answer_analysis": "裸子植物使用篩細胞，採C；被子植物典型為篩管分子與伴細胞。裸子植物可有相關白蛋白細胞，但不是被子植物的真伴細胞。分類依植物組織細胞型，不把裸子植物韌皮部說成完全沒有支持細胞。",
+    "textbook_evidence": [
+      {
+        "printed_page": 764,
+        "pdf_page": 813,
+        "text_file": "textbook_evidence/pdf-0813.txt",
+        "sha256": "60cc241029d7fb0036013ae8dad03a3f655cb89e82e08b3945d65394668670dc"
+      },
+      {
+        "printed_page": 765,
+        "pdf_page": 814,
+        "text_file": "textbook_evidence/pdf-0814.txt",
+        "sha256": "b7cc478079b88a941fe2ae8b3056820ed9a2386f0a0ab59bdc04e12be507546e"
+      },
+      {
+        "printed_page": 799,
+        "pdf_page": 848,
+        "text_file": "textbook_evidence/pdf-0848.txt",
+        "sha256": "a307450b4023b95e4d69921288da33a74e9e1d509b6f304c8664e9b1fbe48778"
+      },
+      {
+        "printed_page": 800,
+        "pdf_page": 849,
+        "text_file": "textbook_evidence/pdf-0849.txt",
+        "sha256": "5ded6b4c4c1f7c8fbdb2115b53e339632aa4746895fe984175a692ddbc07c4f2"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q09",
+    "issue_resolution_index": 8
+  },
+  {
+    "id": "CMU-108-Q10",
+    "school": "CMU",
+    "year": 108,
+    "q": 10,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 10,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "regions": [
+        [
+          40,
+          448.262,
+          565.5,
+          515.062
+        ]
+      ],
+      "image": "questions/Q10.png",
+      "sha256": "ea56835f93708022b81fa75b0338f9004c2f0a908bc81dab0a7911f07e48478a",
+      "width": 1123,
+      "height": 143,
+      "question_text": "10. 有關真核生物5S 核糖體RNA(5S ribosomal RNA)的合成酵素，下列何者最正確？\n(A) RNA聚合酶I (B) RNA聚合酶II (C) RNA聚合酶 III\n(D) DNA聚合酶I (E) DNA聚合酶III",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1049",
+      "toc_line": 1049,
+      "chapter": 17,
+      "concept": "17.2",
+      "title": "Molecular Components of Transcription",
+      "printed_page": 342,
+      "body_pdf_page": 391,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        39
+      ],
+      "chapter_label": "Ch17 Gene Expression: From Gene to Protein"
+    },
+    "secondary": [],
+    "primary_reason": "17.2 / Molecular Components of Transcription：題目直接辨別轉錄所使用的RNA聚合酶類型。",
+    "secondary_reason": "無另列最小次條目；分類為轉錄分子組件；特定聚合酶對應有另列補充證據。",
+    "answer_analysis": "真核細胞核內5S rRNA由RNA polymerase III轉錄，採C。Campbell印刷342概述三種核RNA聚合酶，詳述Pol II；5S與Pol III的明確對應另由Cooper教材及原始研究補證，不冒稱Campbell此頁已逐項列出。",
+    "textbook_evidence": [
+      {
+        "printed_page": 342,
+        "pdf_page": 391,
+        "text_file": "textbook_evidence/pdf-0391.txt",
+        "sha256": "4b99eada22ebd57a42b032a8f68a6a819c70d9376cfa907b787aec7304f9547e"
+      },
+      {
+        "printed_page": 343,
+        "pdf_page": 392,
+        "text_file": "textbook_evidence/pdf-0392.txt",
+        "sha256": "eca7ee347d6c5c4b42fb502890431d6552de75eff743253e8ec893ae907690ec"
+      }
+    ],
+    "supplement_ids": [
+      "S01"
+    ],
+    "coverage_note": "本地Campbell支援所列分類框架；具名外部事件／機制／科學界線由列示來源補充，實讀範圍見來源紀錄。",
+    "second_review_id": "CMU-108-R2-Q10",
+    "issue_resolution_index": 9
+  },
+  {
+    "id": "CMU-108-Q11",
+    "school": "CMU",
+    "year": 108,
+    "q": 11,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 11,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "regions": [
+        [
+          40,
+          515.062,
+          565.5,
+          653.942
+        ]
+      ],
+      "image": "questions/Q11.png",
+      "sha256": "3856d2bcac511f1249f4f3304ebddbe05329ec7e0d7674a039fc5e561d022403",
+      "width": 1123,
+      "height": 297,
+      "question_text": "11. 在親緣關係樹(phylogenetic trees)和化石證據進行相關聯分析後，發現化石證據的定年結果\n與分子證據的分支長度具有正相關性，而可以推斷各分類群親緣關係樹與物種演化時間的\n關係，此為利用分子時鐘(molecular clocks)的概念，而分子時鐘的可信賴度最主要取決於\n下列何種突變的速率？\n(A) 有利的突變(favorable mutation) (B) 非同義突變(nonsynonymous mutation)\n(C) 中性突變(neutral mutation) (D) 無義突變(nonsense mutation)\n(E) 錯義突變(missense mutation)",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1685",
+      "toc_line": 1685,
+      "chapter": 26,
+      "concept": "26.5",
+      "title": "Molecular Clocks",
+      "printed_page": 566,
+      "body_pdf_page": 615,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        42
+      ],
+      "chapter_label": "Ch26 Phylogeny and the Tree of Life"
+    },
+    "secondary": [
+      {
+        "id": "L1662",
+        "toc_line": 1662,
+        "chapter": 26,
+        "concept": "26.3",
+        "title": "Phylogenetic Trees with Proportional Branch Lengths",
+        "printed_page": 561,
+        "body_pdf_page": 610,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          42
+        ],
+        "chapter_label": "Ch26 Phylogeny and the Tree of Life"
+      }
+    ],
+    "primary_reason": "26.5 / Molecular Clocks：分子時鐘以累積序列差異估計分化時間，中性差異較能代表持續累積。",
+    "secondary_reason": "26.3 / Phylogenetic Trees with Proportional Branch Lengths：以分支長度表示序列變化或校準時間的親緣樹，是題述化石年代與分支長度相關的資料呈現。",
+    "answer_analysis": "依中性突變累積的分子鐘推估分化，採C。不同基因、類群的速率可不同，仍需校準；非同義替換不是一律中性，分子時鐘也不是絕對均速的精確年表。",
+    "textbook_evidence": [
+      {
+        "printed_page": 561,
+        "pdf_page": 610,
+        "text_file": "textbook_evidence/pdf-0610.txt",
+        "sha256": "9d2bdb4d297f9d3a7a4164dac766cf407d16e2c3b1034dcfde4e3112be15ac9c"
+      },
+      {
+        "printed_page": 562,
+        "pdf_page": 611,
+        "text_file": "textbook_evidence/pdf-0611.txt",
+        "sha256": "dec30858eab6d90230bb4b060019bb6d9891f985b686541c07ea1d8ffd8e85b8"
+      },
+      {
+        "printed_page": 566,
+        "pdf_page": 615,
+        "text_file": "textbook_evidence/pdf-0615.txt",
+        "sha256": "265c5d486e355de5568584fcf85b7f77e300c99366fed5f8ad4f3123262f81c9"
+      },
+      {
+        "printed_page": 567,
+        "pdf_page": 616,
+        "text_file": "textbook_evidence/pdf-0616.txt",
+        "sha256": "11e85310e7f79e763880fe59fd86d38cb01a2e57551490eb02a9fd6556aecaed"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q11",
+    "issue_resolution_index": 10
+  },
+  {
+    "id": "CMU-108-Q12",
+    "school": "CMU",
+    "year": 108,
+    "q": 12,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 12,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "regions": [
+        [
+          40,
+          653.942,
+          565.5,
+          810.25
+        ]
+      ],
+      "image": "questions/Q12.png",
+      "sha256": "1afb9bba299e99b6a9c67326d609fda51751f46314cfb60087c540fe7573704a",
+      "width": 1123,
+      "height": 334,
+      "question_text": "12. 某單細胞生物細胞外的磷酸鹽濃度遠低於細胞質的磷酸鹽濃度，由於此生物細胞外的酸性\n比細胞內的酸性更強，所以磷酸鹽可繼續輸入細胞內，並且已知此生物將磷酸鹽輸入細胞\n的機制是取決於細胞膜上的pH梯度，有關此單細胞生物進行磷酸鹽運輸的機制，下列何\n者最可能？\n(A) 被動擴散(passive diffusion) (B) 促進擴散(facilitated diffusion)\n(C) 主動運輸(active transport) (D) 共同運輸(cotransport)\n(E) 胞吞作用(endocytosis)",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L0456",
+      "toc_line": 456,
+      "chapter": 7,
+      "concept": "7.4",
+      "title": "Cotransport: Coupled Transport by a Membrane Protein",
+      "printed_page": 138,
+      "body_pdf_page": 187,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        36
+      ],
+      "chapter_label": "Ch07 Membrane Structure and Function"
+    },
+    "secondary": [
+      {
+        "id": "L0450",
+        "toc_line": 450,
+        "chapter": 7,
+        "concept": "7.4",
+        "title": "The Need for Energy in Active Transport",
+        "printed_page": 136,
+        "body_pdf_page": 185,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          36
+        ],
+        "chapter_label": "Ch07 Membrane Structure and Function"
+      }
+    ],
+    "primary_reason": "7.4 / Cotransport: Coupled Transport by a Membrane Protein：H+順梯度流動與磷酸鹽逆梯度同向搬運，是共同運輸中的同向運輸。",
+    "secondary_reason": "7.4 / The Need for Energy in Active Transport：質子梯度由主動運輸建立，為次級運輸提供能量。",
+    "answer_analysis": "H+順梯度帶動磷酸鹽逆梯度入胞，採D共同運輸(cotransport)，其同向形式可稱symport；原選項C是active transport的較廣類型，並非寫secondary active transport。共同運輸蛋白本身不必直接水解ATP。",
+    "textbook_evidence": [
+      {
+        "printed_page": 137,
+        "pdf_page": 186,
+        "text_file": "textbook_evidence/pdf-0186.txt",
+        "sha256": "dae08628541b74763aa914a4c3c6c6ac97d48256c97b34111062d5b82b4b714d"
+      },
+      {
+        "printed_page": 138,
+        "pdf_page": 187,
+        "text_file": "textbook_evidence/pdf-0187.txt",
+        "sha256": "26c3029e5ec80ff16962be585fc5307a65ace6bc184ca2941e37ed1d411397bf"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q12",
+    "issue_resolution_index": 11
+  },
+  {
+    "id": "CMU-108-Q13",
+    "school": "CMU",
+    "year": 108,
+    "q": 13,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 13,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "regions": [
+        [
+          40,
+          86.44200000000001,
+          565.5,
+          207.29200000000003
+        ]
+      ],
+      "image": "questions/Q13.png",
+      "sha256": "9f6a685a79ac6c9f27fc1da2e36d64226e2a2c51dfdf2f57603a0ed5a1361d10",
+      "width": 1123,
+      "height": 258,
+      "question_text": "13. 天擇作用可以改變族群遺傳性狀的頻度分布，若是在族群中，具有中間型性狀的個體可以\n獲得較高的繁殖成功率，而具二極端值性狀的個體則呈現相對較低的繁殖成功率，此現象\n最符合下列何種天擇？\n(A) 方向性天擇(directional selection) (B) 穩定型天擇(stabilizing selection)\n(C) 分裂型天擇(disruptive selection) (D) 純化型天擇(purifying selection)\n(E) 頻率依存型天擇(frequency-dependent selection)",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1465",
+      "toc_line": 1465,
+      "chapter": 23,
+      "concept": "23.4",
+      "title": "Natural Selection: A Closer Look",
+      "printed_page": 497,
+      "body_pdf_page": 546,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        41
+      ],
+      "chapter_label": "Ch23 The Evolution of Populations"
+    },
+    "secondary": [],
+    "primary_reason": "23.4 / Natural Selection: A Closer Look：中間表型生存較佳而兩端受排除，是穩定化選擇。",
+    "secondary_reason": "無另列最小次條目；按表型分布及選汰方向判別，避免把穩定化等同平衡選擇。",
+    "answer_analysis": "中間表型具有較高適合度，採B的stabilizing selection；不是維持多種等位基因的balancing selection，也不是稀少型優勢的頻率依賴選擇。",
+    "textbook_evidence": [
+      {
+        "printed_page": 497,
+        "pdf_page": 546,
+        "text_file": "textbook_evidence/pdf-0546.txt",
+        "sha256": "fae9e775197dea5910b874038d50f2244276f86d6af651db3120fa43280ca997"
+      },
+      {
+        "printed_page": 498,
+        "pdf_page": 547,
+        "text_file": "textbook_evidence/pdf-0547.txt",
+        "sha256": "3403e8b7f991e24a1527ff71deb96fdc2288e8f2586dbc611da0cf905c9ce414"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q13",
+    "issue_resolution_index": 12
+  },
+  {
+    "id": "CMU-108-Q14",
+    "school": "CMU",
+    "year": 108,
+    "q": 14,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 14,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "regions": [
+        [
+          40,
+          207.29200000000003,
+          565.5,
+          291.37199999999996
+        ]
+      ],
+      "image": "questions/Q14.png",
+      "sha256": "a2fc496737538a6c739bb8aeba32a8d7af5b8f60308bfa8c4c859859ae9b51c5",
+      "width": 1123,
+      "height": 180,
+      "question_text": "14. 植物寄生者可以自行進行光合作用獲得碳水化合物，但由植物宿主獲得水分和養分，下列\n何者最可能為此類生物？\n(A) 菌根(mycorrhizae) (B) 病媒(vector) (C) 寄生物(parasite)\n(D) 半寄生物(hemiparasite) (E) 地衣(lichen)",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L2469",
+      "toc_line": 2469,
+      "chapter": 37,
+      "concept": "37.3",
+      "title": "Epiphytes, Parasitic Plants, and Carnivorous Plants",
+      "printed_page": 818,
+      "body_pdf_page": 867,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        45
+      ],
+      "chapter_label": "Ch37 Soil and Plant Nutrition"
+    },
+    "secondary": [
+      {
+        "id": "L3601",
+        "toc_line": 3601,
+        "chapter": 54,
+        "concept": "54.1",
+        "title": "Exploitation",
+        "printed_page": 1217,
+        "body_pdf_page": 1266,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          50
+        ],
+        "chapter_label": "Ch54 Community Ecology"
+      }
+    ],
+    "primary_reason": "37.3 / Epiphytes, Parasitic Plants, and Carnivorous Plants：能光合作用但從宿主取得水與礦物質的植物屬半寄生植物。",
+    "secondary_reason": "54.1 / Exploitation：寄生是此資源關係在群集交互作用中的類型。",
+    "answer_analysis": "可自行光合、仍取用宿主水分礦物質，採D的hemiparasite；C寄生植物為較廣類別。附生植物只是附著位置，不能替代營養依賴的寄生判定。",
+    "textbook_evidence": [
+      {
+        "printed_page": 818,
+        "pdf_page": 867,
+        "text_file": "textbook_evidence/pdf-0867.txt",
+        "sha256": "3e195f4ec53d3fcd0f319a1ef0f1ee201b47261d74436e50d069f41bb8641219"
+      },
+      {
+        "printed_page": 819,
+        "pdf_page": 868,
+        "text_file": "textbook_evidence/pdf-0868.txt",
+        "sha256": "2e94edbc74d86d068cc9a1c85b3076b6d220f6262740d5d2da939b4e47b08f1d"
+      },
+      {
+        "printed_page": 1219,
+        "pdf_page": 1268,
+        "text_file": "textbook_evidence/pdf-1268.txt",
+        "sha256": "63dfa71bb4326c9cc9d52138410810f30c94af476e37164e0e7be3d47f5717e7"
+      },
+      {
+        "printed_page": 1220,
+        "pdf_page": 1269,
+        "text_file": "textbook_evidence/pdf-1269.txt",
+        "sha256": "ed56ca9a5eabdb336f40fe41762697b0d811691af68638f1db32e43ddfb72415"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q14",
+    "issue_resolution_index": 13
+  },
+  {
+    "id": "CMU-108-Q15",
+    "school": "CMU",
+    "year": 108,
+    "q": 15,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 15,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "regions": [
+        [
+          40,
+          291.37199999999996,
+          565.5,
+          358.162
+        ]
+      ],
+      "image": "questions/Q15.png",
+      "sha256": "d4c222b7cf8221cc121bf11e7250e15fecb82f0adc457b1d1e50d0d097301c1b",
+      "width": 1123,
+      "height": 142,
+      "question_text": "15. 有關森林植物群落而言，大部分光合作用最主要發生的區域，下列何者最可能？\n(A) 樹冠層(canopy) (B) 中層植被(midstory) (C) 下層植被(understory)\n(D) 林下層(forest floor) (E) 草本層(herb layer)",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L3493",
+      "toc_line": 3493,
+      "chapter": 52,
+      "concept": "52.2",
+      "title": "General Features of Terrestrial Biomes",
+      "printed_page": 1172,
+      "body_pdf_page": 1221,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        49
+      ],
+      "chapter_label": "Ch52 An Introduction to Ecology and the Biosphere"
+    },
+    "secondary": [
+      {
+        "id": "L2349",
+        "toc_line": 2349,
+        "chapter": 36,
+        "concept": "36.1",
+        "title": "Shoot Architecture and Light Capture",
+        "printed_page": 785,
+        "body_pdf_page": 834,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          45
+        ],
+        "chapter_label": "Ch36 Resource Acquisition and Transport in Vascular Plants"
+      }
+    ],
+    "primary_reason": "52.2 / General Features of Terrestrial Biomes：森林的垂直分層使樹冠集中接受光照，回答主要光合作用位置。",
+    "secondary_reason": "36.1 / Shoot Architecture and Light Capture：莖葉構造與排列決定截光，是樹冠光合優勢的功能連結。",
+    "answer_analysis": "森林樹冠通常得到最多光並集中葉面，題設採A。此為一般森林分層推論，不是聲稱任何季節、林型與每一片葉的光合速率都必然最高。",
+    "textbook_evidence": [
+      {
+        "printed_page": 785,
+        "pdf_page": 834,
+        "text_file": "textbook_evidence/pdf-0834.txt",
+        "sha256": "743778a3d7572ab26e22d0f706b62d07f916a015f9bdb0b31b93a52559aba096"
+      },
+      {
+        "printed_page": 786,
+        "pdf_page": 835,
+        "text_file": "textbook_evidence/pdf-0835.txt",
+        "sha256": "9839c5f1cff9bef967a58f04de7a60158da381aefd01956ba86a379d3db8786a"
+      },
+      {
+        "printed_page": 1172,
+        "pdf_page": 1221,
+        "text_file": "textbook_evidence/pdf-1221.txt",
+        "sha256": "ed92306b1a4299793ba74937c86485266d99f5dca8c90b59005fc6f46e222c5a"
+      },
+      {
+        "printed_page": 1174,
+        "pdf_page": 1223,
+        "text_file": "textbook_evidence/pdf-1223.txt",
+        "sha256": "22d625fefbf159594824c0be456b41aa46003ed15b433c8b6eb147f7ce456592"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q15",
+    "issue_resolution_index": 14
+  },
+  {
+    "id": "CMU-108-Q16",
+    "school": "CMU",
+    "year": 108,
+    "q": 16,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 16,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "regions": [
+        [
+          40,
+          358.162,
+          565.5,
+          461.022
+        ]
+      ],
+      "image": "questions/Q16.png",
+      "sha256": "86b4e172f91a21430ef675735de1dd85e71f3af5d7dc70a852d7a68f920bd9a3",
+      "width": 1123,
+      "height": 220,
+      "question_text": "16. 鐮刀狀細胞貧血症(sickle-cell anemia)是一種人類遺傳疾病，為在β-球蛋白基因發生突變\n導致的結果，有關此突變的類型，下列何者最可能？\n(A) 同義突變(synonymous mutation) (B) 靜默突變(silent mutation)\n(C) 無義突變 (D) 閱讀框架移動(reading frameshift)\n(E) 錯義突變",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "E",
+      "adopted": "E",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1085",
+      "toc_line": 1085,
+      "chapter": 17,
+      "concept": "17.5",
+      "title": "Types of Small-Scale Mutations",
+      "printed_page": 357,
+      "body_pdf_page": 406,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        39
+      ],
+      "chapter_label": "Ch17 Gene Expression: From Gene to Protein"
+    },
+    "secondary": [
+      {
+        "id": "L0911",
+        "toc_line": 911,
+        "chapter": 14,
+        "concept": "14.4",
+        "title": "Recessively Inherited Disorders",
+        "printed_page": 285,
+        "body_pdf_page": 334,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          38
+        ],
+        "chapter_label": "Ch14 Mendel and the Gene Idea"
+      }
+    ],
+    "primary_reason": "17.5 / Types of Small-Scale Mutations：β-globin單一鹼基替換使谷胺酸改為纈胺酸，是錯義替換。",
+    "secondary_reason": "14.4 / Recessively Inherited Disorders：鐮刀型血球疾病是這種分子改變的遺傳性狀實例。",
+    "answer_analysis": "胺基酸Glu變Val而非終止密碼或閱讀框位移，採E的missense mutation。分子突變類型為主，疾病遺傳為次，不引入題目未問的治療推論。",
+    "textbook_evidence": [
+      {
+        "printed_page": 285,
+        "pdf_page": 334,
+        "text_file": "textbook_evidence/pdf-0334.txt",
+        "sha256": "86222ba3b5b909132b55a566280c1a66a674f717e36fa83132670dea475f43bd"
+      },
+      {
+        "printed_page": 286,
+        "pdf_page": 335,
+        "text_file": "textbook_evidence/pdf-0335.txt",
+        "sha256": "046527c5d36d75cdb2a84bbc9a44d2ef321c97348377d9a04b8336696fc53df2"
+      },
+      {
+        "printed_page": 357,
+        "pdf_page": 406,
+        "text_file": "textbook_evidence/pdf-0406.txt",
+        "sha256": "f34173a528185d0eb90991d6fcd5cb450c8f92912fdd7a7cc18bb962343ce655"
+      },
+      {
+        "printed_page": 358,
+        "pdf_page": 407,
+        "text_file": "textbook_evidence/pdf-0407.txt",
+        "sha256": "58e70ff5dd03d401c33b6b79f575325efef4a086188aa8276c2808acfe77956f"
+      },
+      {
+        "printed_page": 359,
+        "pdf_page": 408,
+        "text_file": "textbook_evidence/pdf-0408.txt",
+        "sha256": "d8b66c4595af7b41371f594b05128affa5c9d168aa00538449af0808b6f15e0f"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q16",
+    "issue_resolution_index": 15
+  },
+  {
+    "id": "CMU-108-Q17",
+    "school": "CMU",
+    "year": 108,
+    "q": 17,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 17,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "regions": [
+        [
+          40,
+          461.022,
+          565.5,
+          563.872
+        ]
+      ],
+      "image": "questions/Q17.png",
+      "sha256": "0ce95963893c81cd49106f4ab03b6193946b8c438d0bae63809c5a6c3867e48b",
+      "width": 1123,
+      "height": 220,
+      "question_text": "17. 一年輕男性進行核型分析後，結果顯示具有一個巴爾氏體(Barr body)，下列何者是此男性\n最可能患有的疾病？\n(A) 克萊恩斐特氏症(Klinefelter syndrome) (B) 透納氏症(Turner syndrome)\n(C) 唐氏症(Down syndrome) (D) 三 X染色體症(trisomy-X syndrome)\n(E) 二 Y染色體症(double-Y syndrome)",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L0974",
+      "toc_line": 974,
+      "chapter": 15,
+      "concept": "15.4",
+      "title": "Human Conditions Due to Chromosomal Alterations",
+      "printed_page": 308,
+      "body_pdf_page": 357,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        39
+      ],
+      "chapter_label": "Ch15 The Chromosomal Basis of Inheritance"
+    },
+    "secondary": [
+      {
+        "id": "L0948",
+        "toc_line": 948,
+        "chapter": 15,
+        "concept": "15.2",
+        "title": "X Inactivation in Female Mammals",
+        "printed_page": 300,
+        "body_pdf_page": 349,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          39
+        ],
+        "chapter_label": "Ch15 The Chromosomal Basis of Inheritance"
+      }
+    ],
+    "primary_reason": "15.4 / Human Conditions Due to Chromosomal Alterations：男性細胞有一個Barr body，典型對應多一條X染色體的XXY。",
+    "secondary_reason": "15.2 / X Inactivation in Female Mammals：X染色體失活解釋Barr body數量與X數的關係。",
+    "answer_analysis": "按考題典型核型推論XXY Klinefelter，採A；Barr body數通常為X染色體數減一。這是題設推理，單憑此現象不替代實際核型診斷或排除嵌合情況。",
+    "textbook_evidence": [
+      {
+        "printed_page": 300,
+        "pdf_page": 349,
+        "text_file": "textbook_evidence/pdf-0349.txt",
+        "sha256": "6ae9d990a2fdc6b2f21613e6212f04dfe766b46b224c08e3ed21a1ccfc5c3e71"
+      },
+      {
+        "printed_page": 301,
+        "pdf_page": 350,
+        "text_file": "textbook_evidence/pdf-0350.txt",
+        "sha256": "9363e4881ddf022ecfd5b0289c53c7991b360f476e30984b4c613b394d2b6de5"
+      },
+      {
+        "printed_page": 308,
+        "pdf_page": 357,
+        "text_file": "textbook_evidence/pdf-0357.txt",
+        "sha256": "985752ae91132e502a4385656c987fa7defe5a31468aa40df42e13f792d59ad0"
+      },
+      {
+        "printed_page": 309,
+        "pdf_page": 358,
+        "text_file": "textbook_evidence/pdf-0358.txt",
+        "sha256": "5db36d74d75f9071ac7ae7deeecb9685faa8a67f91ca140fd392f9a2504290ff"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q17",
+    "issue_resolution_index": 16
+  },
+  {
+    "id": "CMU-108-Q18",
+    "school": "CMU",
+    "year": 108,
+    "q": 18,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 18,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "regions": [
+        [
+          40,
+          563.872,
+          565.5,
+          666.712
+        ]
+      ],
+      "image": "questions/Q18.png",
+      "sha256": "dfe647504a957e97d0e41525530407e1513e45bea2437f8906f7ffc0c9d6b95d",
+      "width": 1123,
+      "height": 220,
+      "question_text": "18. 依據地球各地質歷史時期的環境狀態和大氣組成判斷，最早能讓現生的哺乳動物生存的時\n期，下列何者最可能？\n(A) 太古宙(Archaean Eon) (B) 元古宙(Proterozoic Eon)\n(C) 泥盆紀時期(Devonian Period) (D) 寒武紀時期(Cambrian Period)\n(E) 三疊紀時期(Triassic Period)",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [
+        7
+      ],
+      "clarification_disposition": "維持原答案D"
+    },
+    "primary": {
+      "id": "L1573",
+      "toc_line": 1573,
+      "chapter": 25,
+      "concept": "25.3",
+      "title": "The Origin of Multicellularity",
+      "printed_page": 535,
+      "body_pdf_page": 584,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        41
+      ],
+      "chapter_label": "Ch25 The History of Life on Earth"
+    },
+    "secondary": [
+      {
+        "id": "L1570",
+        "toc_line": 1570,
+        "chapter": 25,
+        "concept": "25.3",
+        "title": "The First Single-Celled Organisms",
+        "printed_page": 533,
+        "body_pdf_page": 582,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          41
+        ],
+        "chapter_label": "Ch25 The History of Life on Earth"
+      },
+      {
+        "id": "L1576",
+        "toc_line": 1576,
+        "chapter": 25,
+        "concept": "25.3",
+        "title": "The Colonization of Land",
+        "printed_page": 536,
+        "body_pdf_page": 585,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          41
+        ],
+        "chapter_label": "Ch25 The History of Life on Earth"
+      }
+    ],
+    "primary_reason": "25.3 / The Origin of Multicellularity：考題以氧氣環境與多細胞動物演化的時間框架判別較早可行時段。",
+    "secondary_reason": "25.3 / The First Single-Celled Organisms：早期單細胞生命與氧氣變化提供前史比較；25.3 / The Colonization of Land：登陸條目用於排除把較晚陸域演化當作最早門檻。",
+    "answer_analysis": "官方採D寒武紀，釋疑以早期足夠氧氣的假想可生存條件解釋，並非哺乳類實際起源年代。Campbell12印刷535–536討論寒武紀及氧氣假說；原題未給物種、氧分壓與食物，不能證明現代哺乳類都能在當時存活。官方引Global11印刷590，與本地12頁碼分開。",
+    "textbook_evidence": [
+      {
+        "printed_page": 533,
+        "pdf_page": 582,
+        "text_file": "textbook_evidence/pdf-0582.txt",
+        "sha256": "d5f06b9843a76fdbc0d8d7ff653aabe99536fca436f1ab17b6db1fc7cf496472"
+      },
+      {
+        "printed_page": 534,
+        "pdf_page": 583,
+        "text_file": "textbook_evidence/pdf-0583.txt",
+        "sha256": "66842bdcd1b9f9dbbd43e666586d1b9781f07394c562406f1efd78f481621d25"
+      },
+      {
+        "printed_page": 535,
+        "pdf_page": 584,
+        "text_file": "textbook_evidence/pdf-0584.txt",
+        "sha256": "a6cc09705d1431bcb1be6084ab79915208d89b4a53a9ba6f4d134072704e9f39"
+      },
+      {
+        "printed_page": 536,
+        "pdf_page": 585,
+        "text_file": "textbook_evidence/pdf-0585.txt",
+        "sha256": "5962ff81cd1fc20d632b8043a70ca36eaf2c9c2506c078457afbe1d9441cd546"
+      },
+      {
+        "printed_page": 537,
+        "pdf_page": 586,
+        "text_file": "textbook_evidence/pdf-0586.txt",
+        "sha256": "e1932f851b9646b2b73646e1855c8d431f61f8a3d3168de7e97596f74c287d5f"
+      }
+    ],
+    "supplement_ids": [
+      "S02"
+    ],
+    "coverage_note": "本地Campbell支援所列分類框架；具名外部事件／機制／科學界線由列示來源補充，實讀範圍見來源紀錄。",
+    "second_review_id": "CMU-108-R2-Q18",
+    "issue_resolution_index": 17
+  },
+  {
+    "id": "CMU-108-Q19",
+    "school": "CMU",
+    "year": 108,
+    "q": 19,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 19,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "regions": [
+        [
+          40,
+          666.712,
+          565.5,
+          810.25
+        ]
+      ],
+      "image": "questions/Q19.png",
+      "sha256": "a726fca717d578d1d5aecc9d8e54cc31fdd880890b8ece421bfb342e2d50d71d",
+      "width": 1123,
+      "height": 307,
+      "question_text": "19. 在動物的免疫系統中，有關受傷區域的發炎反應初始階段(initial stages)參與的細胞和訊息\n分子，下列何者最正確？\n(A) 吞噬細胞(phagocytes)和溶菌酶(lysozymes)\n(B) 吞噬細胞和細胞介素(cytokines)\n(C) 樹突細胞(dendritic cells)和干擾素(interferons)\n(D) 淋巴球(lymphocytes)和干擾素\n(E) 肥大細胞(mast cells)和組織胺(histamines)",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "E",
+      "adopted": "E",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [
+        7,
+        8
+      ],
+      "clarification_disposition": "維持原答案E"
+    },
+    "primary": {
+      "id": "L2870",
+      "toc_line": 2870,
+      "chapter": 43,
+      "concept": "43.1",
+      "title": "Innate Immunity of Vertebrates",
+      "printed_page": 954,
+      "body_pdf_page": 1003,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        47
+      ],
+      "chapter_label": "Ch43 The Immune System"
+    },
+    "secondary": [],
+    "primary_reason": "43.1 / Innate Immunity of Vertebrates：肥大細胞釋放組織胺，早期引發血管變化與發炎反應。",
+    "secondary_reason": "無另列最小次條目；在同一發炎最小條目內可解釋答案並保留官方概括用語的範圍差異。",
+    "answer_analysis": "採E的mast cell與histamine。巨噬細胞等也釋出細胞激素參與發炎；官方用語若把mast cell統稱主要吞噬細胞，須與教材主要吞噬細胞的中性球、巨噬細胞分開。釋疑圖跨PDF7與8，兩頁都保留。",
+    "textbook_evidence": [
+      {
+        "printed_page": 954,
+        "pdf_page": 1003,
+        "text_file": "textbook_evidence/pdf-1003.txt",
+        "sha256": "e35748b311a49cf93b32366fc6f34f1bac0e4aba64b522319a59928435d2df03"
+      },
+      {
+        "printed_page": 955,
+        "pdf_page": 1004,
+        "text_file": "textbook_evidence/pdf-1004.txt",
+        "sha256": "bf64e7e0e49015a26d4d4ca0e513887a66d4fdb2f3703d3fe0809ec3335f7212"
+      },
+      {
+        "printed_page": 956,
+        "pdf_page": 1005,
+        "text_file": "textbook_evidence/pdf-1005.txt",
+        "sha256": "408471536c1f2399bcde0bcc125e0b7160c838e95c177754294b8271dc4c1ed9"
+      },
+      {
+        "printed_page": 957,
+        "pdf_page": 1006,
+        "text_file": "textbook_evidence/pdf-1006.txt",
+        "sha256": "10b142924afb568b75f8fda4bf8ea1d6bc2d2f254907b105047d8fea26f96cf6"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q19",
+    "issue_resolution_index": 18
+  },
+  {
+    "id": "CMU-108-Q20",
+    "school": "CMU",
+    "year": 108,
+    "q": 20,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 20,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "regions": [
+        [
+          40,
+          86.44200000000001,
+          565.5,
+          207.29200000000003
+        ]
+      ],
+      "image": "questions/Q20.png",
+      "sha256": "3e2adb6efcf966673c0844e36ee01eccc19e7747d47f990bef01429055a29ea0",
+      "width": 1123,
+      "height": 258,
+      "question_text": "20. 有關生物間交互作用的敘述，下列何者最正確？\n(A) 共生(symbiosis)是指二物種共同生存且二者皆可獲得利益的現象\n(B) 動物性與植物性寄生者可以是外寄生(ectoparasite)或是內寄生(endoparasite)\n(C) 寄生者在宿主間的傳遞皆需要中間媒介生物的存在\n(D) 寄生者皆在單一宿主生物內完成其生命週期\n(E) 植物缺乏葉綠素且完全由宿主獲得養分的生存方式稱為腐生(saprotism)",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L3601",
+      "toc_line": 3601,
+      "chapter": 54,
+      "concept": "54.1",
+      "title": "Exploitation",
+      "printed_page": 1217,
+      "body_pdf_page": 1266,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        50
+      ],
+      "chapter_label": "Ch54 Community Ecology"
+    },
+    "secondary": [
+      {
+        "id": "L2469",
+        "toc_line": 2469,
+        "chapter": 37,
+        "concept": "37.3",
+        "title": "Epiphytes, Parasitic Plants, and Carnivorous Plants",
+        "printed_page": 818,
+        "body_pdf_page": 867,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          45
+        ],
+        "chapter_label": "Ch37 Soil and Plant Nutrition"
+      }
+    ],
+    "primary_reason": "54.1 / Exploitation：寄生可依寄生者位於宿主體內或表面區分，不限於動物。",
+    "secondary_reason": "37.3 / Epiphytes, Parasitic Plants, and Carnivorous Plants：植物寄生的水分與養分取得方式補足跨界例子。",
+    "answer_analysis": "採B，植物及動物都可有體外、體內寄生者。植物體內寄生以Pilostyles原始研究補證；不能把symbiosis一律譯為互利，也不能認為所有寄生者都必有媒介或僅一宿主。無葉綠素且取宿主營養並不等於腐生。",
+    "textbook_evidence": [
+      {
+        "printed_page": 818,
+        "pdf_page": 867,
+        "text_file": "textbook_evidence/pdf-0867.txt",
+        "sha256": "3e195f4ec53d3fcd0f319a1ef0f1ee201b47261d74436e50d069f41bb8641219"
+      },
+      {
+        "printed_page": 819,
+        "pdf_page": 868,
+        "text_file": "textbook_evidence/pdf-0868.txt",
+        "sha256": "2e94edbc74d86d068cc9a1c85b3076b6d220f6262740d5d2da939b4e47b08f1d"
+      },
+      {
+        "printed_page": 1217,
+        "pdf_page": 1266,
+        "text_file": "textbook_evidence/pdf-1266.txt",
+        "sha256": "e096f1765e1a66c32561893fa484e49c828e5c847bf4d8e066a242583564ecc9"
+      },
+      {
+        "printed_page": 1218,
+        "pdf_page": 1267,
+        "text_file": "textbook_evidence/pdf-1267.txt",
+        "sha256": "82702d7d028696b959d98926440f26e603e530be353837cff2a0c63796842941"
+      },
+      {
+        "printed_page": 1219,
+        "pdf_page": 1268,
+        "text_file": "textbook_evidence/pdf-1268.txt",
+        "sha256": "63dfa71bb4326c9cc9d52138410810f30c94af476e37164e0e7be3d47f5717e7"
+      },
+      {
+        "printed_page": 1220,
+        "pdf_page": 1269,
+        "text_file": "textbook_evidence/pdf-1269.txt",
+        "sha256": "ed56ca9a5eabdb336f40fe41762697b0d811691af68638f1db32e43ddfb72415"
+      }
+    ],
+    "supplement_ids": [
+      "S09"
+    ],
+    "coverage_note": "本地Campbell支援所列分類框架；具名外部事件／機制／科學界線由列示來源補充，實讀範圍見來源紀錄。",
+    "second_review_id": "CMU-108-R2-Q20",
+    "issue_resolution_index": 19
+  },
+  {
+    "id": "CMU-108-Q21",
+    "school": "CMU",
+    "year": 108,
+    "q": 21,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 21,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "regions": [
+        [
+          40,
+          207.29200000000003,
+          565.5,
+          291.37199999999996
+        ]
+      ],
+      "image": "questions/Q21.png",
+      "sha256": "7fb4165756208102dd76378e55aa0f14c48683583fb6eb6cfaca4a6c93a085a0",
+      "width": 1123,
+      "height": 180,
+      "question_text": "21. 在生態上許多因子影響物種豐富度，受掠食和其他無脊椎生物物種影響最嚴重的生態地景\n尺度，下列何者最正確？\n(A) 大陸(continent) (B) 區域(region) (C) 帶(realm)\n(D) 全球(global) (E) 當地族群(local population)",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "E",
+      "adopted": "E",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [
+        8
+      ],
+      "clarification_disposition": "維持原答案E"
+    },
+    "primary": {
+      "id": "L3620",
+      "toc_line": 3620,
+      "chapter": 54,
+      "concept": "54.2",
+      "title": "Species with a Large Impact",
+      "printed_page": 1225,
+      "body_pdf_page": 1274,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        50
+      ],
+      "chapter_label": "Ch54 Community Ecology"
+    },
+    "secondary": [
+      {
+        "id": "L3611",
+        "toc_line": 3611,
+        "chapter": 54,
+        "concept": "54.2",
+        "title": "Species Diversity",
+        "printed_page": 1222,
+        "body_pdf_page": 1271,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          50
+        ],
+        "chapter_label": "Ch54 Community Ecology"
+      },
+      {
+        "id": "L3623",
+        "toc_line": 3623,
+        "chapter": 54,
+        "concept": "54.2",
+        "title": "Bottom-Up and Top-Down Controls",
+        "printed_page": 1226,
+        "body_pdf_page": 1275,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          50
+        ],
+        "chapter_label": "Ch54 Community Ecology"
+      }
+    ],
+    "primary_reason": "54.2 / Species with a Large Impact：關鍵捕食者會透過食物網對當地群集物種組成產生不成比例的影響。",
+    "secondary_reason": "54.2 / Species Diversity：物種多樣性界定分析對象；54.2 / Bottom-Up and Top-Down Controls：自上而下控制連結捕食者與營養階層。",
+    "answer_analysis": "官方採E並以local population層級解釋。科學上多物種多樣性屬群集，單一族群不是物種豐富度單位；題目英文local population照留。捕食者效應有情境與尺度依賴，不是所有研究皆有全球至當地的固定大小排序。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1222,
+        "pdf_page": 1271,
+        "text_file": "textbook_evidence/pdf-1271.txt",
+        "sha256": "587fcc4647e73313d02bc0a596a8da479a2ba8784c6b4def75c17dde608c1072"
+      },
+      {
+        "printed_page": 1225,
+        "pdf_page": 1274,
+        "text_file": "textbook_evidence/pdf-1274.txt",
+        "sha256": "b0af65cba90ace89729f8a89c40eaa9bf7851fd65d4a069a1d1bda3516055def"
+      },
+      {
+        "printed_page": 1226,
+        "pdf_page": 1275,
+        "text_file": "textbook_evidence/pdf-1275.txt",
+        "sha256": "c5c0180d5c9d91e592923f8c62396604c203566f91954bb12d6609af5b62193b"
+      },
+      {
+        "printed_page": 1227,
+        "pdf_page": 1276,
+        "text_file": "textbook_evidence/pdf-1276.txt",
+        "sha256": "d63311ae9df1c302468c583816622ba8f2314e276e02704f2fe7e13987a99dcf"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q21",
+    "issue_resolution_index": 20
+  },
+  {
+    "id": "CMU-108-Q22",
+    "school": "CMU",
+    "year": 108,
+    "q": 22,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 22,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "regions": [
+        [
+          40,
+          291.37199999999996,
+          565.5,
+          394.212
+        ]
+      ],
+      "image": "questions/Q22.png",
+      "sha256": "3662bf6bfc6b1aae408788c0e3ea64e4772e654efdad03de5869b8f5f946ab24",
+      "width": 1123,
+      "height": 219,
+      "question_text": "22. 現今已完成大量物種之粒線體解碼工作，有關哺乳動物粒線體基因組的敘述，下列何者錯\n誤？\n(A) 大約具有 40 個基因 (B) 具有 22個轉移RNA(transfer RNA)\n(C) 不具有核糖體基因 (D) 基因組大小約16.5Kb\n(E) 轉錄轉譯後屬於蛋白質的基因，其產物多用於氧化磷酸化作用",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L0984",
+      "toc_line": 984,
+      "chapter": 15,
+      "concept": "15.5",
+      "title": "Inheritance of Organelle Genes",
+      "printed_page": 311,
+      "body_pdf_page": 360,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        39
+      ],
+      "chapter_label": "Ch15 The Chromosomal Basis of Inheritance"
+    },
+    "secondary": [
+      {
+        "id": "L0362",
+        "toc_line": 362,
+        "chapter": 6,
+        "concept": "6.5",
+        "title": "The Evolutionary Origins of Mitochondria and Chloroplasts",
+        "printed_page": 109,
+        "body_pdf_page": 158,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          36
+        ],
+        "chapter_label": "Ch06 A Tour of the Cell"
+      }
+    ],
+    "primary_reason": "15.5 / Inheritance of Organelle Genes：粒線體有自身基因並編碼部分蛋白與RNA，應依胞器基因內容判斷。",
+    "secondary_reason": "6.5 / The Evolutionary Origins of Mitochondria and Chloroplasts：粒線體及葉綠體的構造與遺傳半自主性補充背景。",
+    "answer_analysis": "哺乳類粒線體DNA約16.5kb、37個基因，含13個蛋白基因、22個tRNA、2個rRNA；原題約40為近似。採C，若ribosomal genes指rRNA基因，聲稱沒有即錯；若指核糖體蛋白基因則語義不同，原題用詞照留。Campbell給分類框架，具體數目由Cooper及Brown教材補證。",
+    "textbook_evidence": [
+      {
+        "printed_page": 109,
+        "pdf_page": 158,
+        "text_file": "textbook_evidence/pdf-0158.txt",
+        "sha256": "7de28165cb8bff3bacd880ad5856c6e4ac13778a2dfe70f3df7ec9cc88939b69"
+      },
+      {
+        "printed_page": 110,
+        "pdf_page": 159,
+        "text_file": "textbook_evidence/pdf-0159.txt",
+        "sha256": "b19dc207171e51593e43340c05466120f897d531809799535931bbc2044c389f"
+      },
+      {
+        "printed_page": 311,
+        "pdf_page": 360,
+        "text_file": "textbook_evidence/pdf-0360.txt",
+        "sha256": "6cceaaec2cc7c010bd71270a9b48e04da0cba73801021a5716425a721902ec33"
+      }
+    ],
+    "supplement_ids": [
+      "S03"
+    ],
+    "coverage_note": "本地Campbell支援所列分類框架；具名外部事件／機制／科學界線由列示來源補充，實讀範圍見來源紀錄。",
+    "second_review_id": "CMU-108-R2-Q22",
+    "issue_resolution_index": 21
+  },
+  {
+    "id": "CMU-108-Q23",
+    "school": "CMU",
+    "year": 108,
+    "q": 23,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 23,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "regions": [
+        [
+          40,
+          394.212,
+          565.5,
+          479.042
+        ]
+      ],
+      "image": "questions/Q23.png",
+      "sha256": "9b0c264e10ad0ca7398d634360e2930abae76270fff5cfae27a9720a42ab9484",
+      "width": 1123,
+      "height": 182,
+      "question_text": "23. 有關胰島素被分泌後作用於肌肉細胞以增加葡萄糖攝取的訊息傳導類型，下列何者最可能？\n(A) 細胞間訊息傳導(intercellular signaling) (B) 內分泌訊息傳導(endocrine signaling)\n(C) 旁分泌訊息傳導(paracrine signaling) (D) 自分泌訊息傳導(autocrine signaling)\n(E) 共分泌訊息傳導(synaptic signaling)",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [
+        8
+      ],
+      "clarification_disposition": "維持原答案B"
+    },
+    "primary": {
+      "id": "L2998",
+      "toc_line": 2998,
+      "chapter": 45,
+      "concept": "45.1",
+      "title": "Intercellular Information Flow",
+      "printed_page": 1000,
+      "body_pdf_page": 1049,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        47
+      ],
+      "chapter_label": "Ch45 Hormones and the Endocrine System"
+    },
+    "secondary": [
+      {
+        "id": "L0698",
+        "toc_line": 698,
+        "chapter": 11,
+        "concept": "11.1",
+        "title": "Local and Long-Distance Signaling",
+        "printed_page": 215,
+        "body_pdf_page": 264,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          38
+        ],
+        "chapter_label": "Ch11 Cell Communication"
+      }
+    ],
+    "primary_reason": "45.1 / Intercellular Information Flow：胰島素進入血液到遠端作用，是內分泌訊號的運送方式。",
+    "secondary_reason": "11.1 / Local and Long-Distance Signaling：細胞訊號章的局部與長距離傳訊為上位分類。",
+    "answer_analysis": "胰島素透過循環傳遞到標的細胞，採B endocrine。A intercellular為更廣類型；是否有受體或回饋不會把題述遠端作用改成autocrine。E原題把synaptic signaling譯為共分泌，通常稱突觸傳訊；原題仍照存。",
+    "textbook_evidence": [
+      {
+        "printed_page": 215,
+        "pdf_page": 264,
+        "text_file": "textbook_evidence/pdf-0264.txt",
+        "sha256": "8530f5b200421d1b1a68d0f02ae2e066c21117ce032af53148c427e6b4edd434"
+      },
+      {
+        "printed_page": 216,
+        "pdf_page": 265,
+        "text_file": "textbook_evidence/pdf-0265.txt",
+        "sha256": "38349fca5e0d99f524ff4211c28044160540f05d9db4abdfa8720abd97713f16"
+      },
+      {
+        "printed_page": 1000,
+        "pdf_page": 1049,
+        "text_file": "textbook_evidence/pdf-1049.txt",
+        "sha256": "eb74577a74820c7d29fb09be4e44ee9544f16e4c48acba6ef5b0fae9b954b505"
+      },
+      {
+        "printed_page": 1001,
+        "pdf_page": 1050,
+        "text_file": "textbook_evidence/pdf-1050.txt",
+        "sha256": "8d471031ce866f64c92e513115e5c0ebc276d893edede2505a5a503ceb17a5ab"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q23",
+    "issue_resolution_index": 22
+  },
+  {
+    "id": "CMU-108-Q24",
+    "school": "CMU",
+    "year": 108,
+    "q": 24,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 24,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "regions": [
+        [
+          40,
+          479.042,
+          565.5,
+          581.892
+        ]
+      ],
+      "image": "questions/Q24.png",
+      "sha256": "fea9ebc1f4b244d672ec4c0588f418af69d91c22d2afbfe810b6f1fd895030b3",
+      "width": 1123,
+      "height": 220,
+      "question_text": "24. 依據化石證據可鑑別出過往地質歷史上發生過 5 次大滅絕事件(mass extinctions)，下列何\n者不屬於此 5 次大滅絕事件時期？\n(A) 終二疊紀(End-Permian, 251 Ma) (B) 終三疊紀(End-Triassic, 200 Ma)\n(C) 晚泥盆紀(Late Devonian, 約 360 Ma) (D) 末期奧陶紀(Terminal Ordovician, 444 Ma)\n(E) 終石炭紀(End-Carboniferous, 299 Ma)",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "E",
+      "adopted": "E",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1586",
+      "toc_line": 1586,
+      "chapter": 25,
+      "concept": "25.4",
+      "title": "Mass Extinctions",
+      "printed_page": 540,
+      "body_pdf_page": 589,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        41
+      ],
+      "chapter_label": "Ch25 The History of Life on Earth"
+    },
+    "secondary": [],
+    "primary_reason": "25.4 / Mass Extinctions：辨認顯生宙五次大型滅絕事件及其地質時段。",
+    "secondary_reason": "無另列最小次條目；依事件對應時段即可分類及作答，來源年代差異不刪改。",
+    "answer_analysis": "五大滅絕為奧陶紀末、晚泥盆紀、二疊紀末、三疊紀末及白堊紀末；不包括石炭紀末，採E。原題給的近似古老年代仍保留，不以新的年代估計默改題文。",
+    "textbook_evidence": [
+      {
+        "printed_page": 540,
+        "pdf_page": 589,
+        "text_file": "textbook_evidence/pdf-0589.txt",
+        "sha256": "0b8d1cb982727b310b73cf43151a8b8a6d2773f572f7c0a49d8a7708580c1614"
+      },
+      {
+        "printed_page": 541,
+        "pdf_page": 590,
+        "text_file": "textbook_evidence/pdf-0590.txt",
+        "sha256": "d9c8a0068b061cdaa14389ea6a8e3b8363a353aa06837b3132cfe983991c5982"
+      },
+      {
+        "printed_page": 542,
+        "pdf_page": 591,
+        "text_file": "textbook_evidence/pdf-0591.txt",
+        "sha256": "c1af44900db05b38d0477f801e90c107b9443dd248ad317a83318ba8ce749d41"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q24",
+    "issue_resolution_index": 23
+  },
+  {
+    "id": "CMU-108-Q25",
+    "school": "CMU",
+    "year": 108,
+    "q": 25,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 25,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "regions": [
+        [
+          40,
+          581.892,
+          565.5,
+          666.712
+        ]
+      ],
+      "image": "questions/Q25.png",
+      "sha256": "73be47d1b2247b96c665b3ba346c41c13535ac5b8af290ce3af807308fedf611",
+      "width": 1123,
+      "height": 181,
+      "question_text": "25. 有關使用親緣關係樹進行生物空間分布相關問題研究的學科，下列何者最接近？\n(A) 親緣地理學(phylogeography) (B) 生物地理學(biogeography)\n(C) 生理地理學(physiogeography) (D) 宏基因體學(metagenomics)\n(E) 親緣基因體學(phylogenomics)",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1639",
+      "toc_line": 1639,
+      "chapter": 26,
+      "concept": "26.1",
+      "title": "Applying Phylogenies",
+      "printed_page": 557,
+      "body_pdf_page": 606,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        42
+      ],
+      "chapter_label": "Ch26 Phylogeny and the Tree of Life"
+    },
+    "secondary": [
+      {
+        "id": "L1418",
+        "toc_line": 1418,
+        "chapter": 22,
+        "concept": "22.3",
+        "title": "Biogeography",
+        "printed_page": 482,
+        "body_pdf_page": 531,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          41
+        ],
+        "chapter_label": "Ch22 Descent with Modification: A Darwinian View of Life"
+      }
+    ],
+    "primary_reason": "26.1 / Applying Phylogenies：將親緣樹與地理分布合用以重建族群歷史，對應親緣樹應用。",
+    "secondary_reason": "22.3 / Biogeography：生物地理條目補充歷史事件與地理分布的連結。",
+    "answer_analysis": "採A phylogeography，重點為遺傳譜系的空間及歷史分布。Biogeography較廣；本地目錄沒有獨立Phylogeography葉條目，使用26.1親緣樹應用搭配22.3生物地理，並列Knowles定義補證。",
+    "textbook_evidence": [
+      {
+        "printed_page": 482,
+        "pdf_page": 531,
+        "text_file": "textbook_evidence/pdf-0531.txt",
+        "sha256": "e108e67d752bf58b004dcbcf471c3d59db41ef39236b3586d57bebd4f05ef5d1"
+      },
+      {
+        "printed_page": 483,
+        "pdf_page": 532,
+        "text_file": "textbook_evidence/pdf-0532.txt",
+        "sha256": "13f1782d6779f0f6855ddf8ca2a0f63c0b743856cf9338613b2359168be0804c"
+      },
+      {
+        "printed_page": 555,
+        "pdf_page": 604,
+        "text_file": "textbook_evidence/pdf-0604.txt",
+        "sha256": "b3c34732e5ad6907ede2ed5d8992df09482d9ab76027f1862fb10220bc874dd8"
+      },
+      {
+        "printed_page": 556,
+        "pdf_page": 605,
+        "text_file": "textbook_evidence/pdf-0605.txt",
+        "sha256": "428620bf9ce85a28e70f1fabe27f76a14c13c5af8fe69adcc635c18a68aa50ed"
+      },
+      {
+        "printed_page": 557,
+        "pdf_page": 606,
+        "text_file": "textbook_evidence/pdf-0606.txt",
+        "sha256": "22a06a856f8af1c25891fce3258c4c9c10a64652dabc59e32153dcc467f59fb4"
+      }
+    ],
+    "supplement_ids": [
+      "S04"
+    ],
+    "coverage_note": "本地Campbell支援所列分類框架；具名外部事件／機制／科學界線由列示來源補充，實讀範圍見來源紀錄。",
+    "second_review_id": "CMU-108-R2-Q25",
+    "issue_resolution_index": 24
+  },
+  {
+    "id": "CMU-108-Q26",
+    "school": "CMU",
+    "year": 108,
+    "q": 26,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 26,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "regions": [
+        [
+          40,
+          666.712,
+          565.5,
+          810.25
+        ]
+      ],
+      "image": "questions/Q26.png",
+      "sha256": "71c2b607914b47774c2c4b2f7ee1a384f51e4c7dabc7e17590fa216893e9f24d",
+      "width": 1123,
+      "height": 307,
+      "question_text": "26. 真核細胞大部分的遺傳物質被包裹於細胞核內，核蛋白片層(nuclear lamina)存在於核膜內\n側，如果在實驗室中利用化學方式處理導致核蛋白片層被分解，下列何種結果最易發生？\n(A) 染色體中的組蛋白與DNA分離 (B) 細胞分裂時細胞核無法分裂\n(C) 染色體在細胞分裂時丟失 (D) 細胞核形狀改變\n(E) 孔複合體(pore complexes)蛋白構型改變，核孔關閉",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L0333",
+      "toc_line": 333,
+      "chapter": 6,
+      "concept": "6.3",
+      "title": "The Nucleus: Information Central",
+      "printed_page": 102,
+      "body_pdf_page": 151,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        36
+      ],
+      "chapter_label": "Ch06 A Tour of the Cell"
+    },
+    "secondary": [
+      {
+        "id": "L0381",
+        "toc_line": 381,
+        "chapter": 6,
+        "concept": "6.6",
+        "title": "Components of the Cytoskeleton",
+        "printed_page": 113,
+        "body_pdf_page": 162,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          36
+        ],
+        "chapter_label": "Ch06 A Tour of the Cell"
+      }
+    ],
+    "primary_reason": "6.3 / The Nucleus: Information Central：核纖層支撐核膜內側並維持細胞核形狀。",
+    "secondary_reason": "6.6 / Components of the Cytoskeleton：中間絲類核纖層蛋白的結構角色連結細胞骨架。",
+    "answer_analysis": "核纖層受損可直接破壞核形狀與支撐，採D。它不是核孔封閉開關，也不等於組蛋白或DNA本身被分解。",
+    "textbook_evidence": [
+      {
+        "printed_page": 102,
+        "pdf_page": 151,
+        "text_file": "textbook_evidence/pdf-0151.txt",
+        "sha256": "b1163a601c9d73f30777b8ed5d342f50e20c0014a40314dd243c5ea1442b0e84"
+      },
+      {
+        "printed_page": 103,
+        "pdf_page": 152,
+        "text_file": "textbook_evidence/pdf-0152.txt",
+        "sha256": "6fa7f0f39286c86b50b03b7cc5f769d2db8effcba0a1f6fe29c7b35db4c5a7a4"
+      },
+      {
+        "printed_page": 113,
+        "pdf_page": 162,
+        "text_file": "textbook_evidence/pdf-0162.txt",
+        "sha256": "d804b41e9a9914f277808a8161f7f1a5f25f818f6f25b5fdd3b52d15382ac27d"
+      },
+      {
+        "printed_page": 114,
+        "pdf_page": 163,
+        "text_file": "textbook_evidence/pdf-0163.txt",
+        "sha256": "cca797c236cc40b6352b24372d91c127d9e243947ef4858cae8f46a00fa05134"
+      },
+      {
+        "printed_page": 117,
+        "pdf_page": 166,
+        "text_file": "textbook_evidence/pdf-0166.txt",
+        "sha256": "5eaa7053a2ee85288962b7f1c879b2b889e7abf211215ba05e0f5b5df292d50d"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q26",
+    "issue_resolution_index": 25
+  },
+  {
+    "id": "CMU-108-Q27",
+    "school": "CMU",
+    "year": 108,
+    "q": 27,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 27,
+      "pdf_page": 6,
+      "printed_page": 6,
+      "regions": [
+        [
+          40,
+          86.44200000000001,
+          565.5,
+          189.26199999999994
+        ]
+      ],
+      "image": "questions/Q27.png",
+      "sha256": "4932027089a6e737a8b40a811f575d6d1b23553c30bd0ffbcc2329ce221fa758",
+      "width": 1123,
+      "height": 219,
+      "question_text": "27. 一假設個體數無限大的族群進行族群遺傳研究，選用一個僅具有二個對偶基因“A”和 “a”\n的顯隱性基因座，在族群中隨機取樣50 個體，結果呈現：25個體為“A”同型合子、15 個\n體為“a”同型合子、10 個體為異型合子。由此資料進行分析，此族群在經歷一次隨機配對\n後的異型合子頻度，下列何者最接近？\n(A) 20% (B) 24% (C) 40% (D) 48% (E) 60%",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1445",
+      "toc_line": 1445,
+      "chapter": 23,
+      "concept": "23.2",
+      "title": "The Hardy-Weinberg Equation",
+      "printed_page": 490,
+      "body_pdf_page": 539,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        41
+      ],
+      "chapter_label": "Ch23 The Evolution of Populations"
+    },
+    "secondary": [
+      {
+        "id": "L1442",
+        "toc_line": 1442,
+        "chapter": 23,
+        "concept": "23.2",
+        "title": "Gene Pools and Allele Frequencies",
+        "printed_page": 490,
+        "body_pdf_page": 539,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          41
+        ],
+        "chapter_label": "Ch23 The Evolution of Populations"
+      }
+    ],
+    "primary_reason": "23.2 / The Hardy-Weinberg Equation：由當代等位基因頻率計算隨機交配下一代的2pq。",
+    "secondary_reason": "23.2 / Gene Pools and Allele Frequencies：先從基因型人數推導p與q，而不是直接用目前異型合子比例。",
+    "answer_analysis": "50個體中25AA、10Aa、15aa，p=(50+10)/100=0.6，q=0.4；隨機交配且無其他改變頻率的因素時，下一代Aa=2pq=0.48，採D；目前10/50=0.20不是下一代答案。",
+    "textbook_evidence": [
+      {
+        "printed_page": 490,
+        "pdf_page": 539,
+        "text_file": "textbook_evidence/pdf-0539.txt",
+        "sha256": "4e9ee38641a9378424b7cd97369021fe3d056f8bcbd8253040de35724ad9186f"
+      },
+      {
+        "printed_page": 491,
+        "pdf_page": 540,
+        "text_file": "textbook_evidence/pdf-0540.txt",
+        "sha256": "0126bcd251c1b31178e2c9b61c17339265e311b7b3c6c1a7d3bd504eebd02d3d"
+      },
+      {
+        "printed_page": 492,
+        "pdf_page": 541,
+        "text_file": "textbook_evidence/pdf-0541.txt",
+        "sha256": "5b7cd06dd5ea963f08e757db2e5695abca42aab7a7918afc4c99a8ba5ec103f6"
+      },
+      {
+        "printed_page": 493,
+        "pdf_page": 542,
+        "text_file": "textbook_evidence/pdf-0542.txt",
+        "sha256": "3652b1fd2ea97eb6f099b8ea306c9bc2ee6e80630c92c6b53ff1156c7e8e4a3b"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q27",
+    "issue_resolution_index": 26
+  },
+  {
+    "id": "CMU-108-Q28",
+    "school": "CMU",
+    "year": 108,
+    "q": 28,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 28,
+      "pdf_page": 6,
+      "printed_page": 6,
+      "regions": [
+        [
+          40,
+          189.26199999999994,
+          565.5,
+          273.342
+        ]
+      ],
+      "image": "questions/Q28.png",
+      "sha256": "2822ced7bd1738ff8eccd2c54f230feb5dc0978004f8c8c6fca9fb96560ef698",
+      "width": 1123,
+      "height": 180,
+      "question_text": "28. 一位身高 100 公分的孩童，在一棵 5 公尺高的紅檜樹幹上刻了一個身高標記，經過多年\n後，紅檜已經長到20 公尺高，此時上述身高標記應位於紅檜樹幹何處？\n(A) 離地 0.5 公尺處 (B) 離地 1公尺處 (C) 離地 4公尺處\n(D) 離地 10 公尺處 (E) 離地 19公尺處",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L2292",
+      "toc_line": 2292,
+      "chapter": 35,
+      "concept": "35.2",
+      "title": "Different meristems generate new cells for primary and secondary growth",
+      "printed_page": 766,
+      "body_pdf_page": 815,
+      "kind": "concept",
+      "toc_pdf_pages": [
+        44
+      ],
+      "minimum_scope": "terminal_concept_no_subentries",
+      "chapter_label": "Ch35 Vascular Plant Structure, Growth, and Development"
+    },
+    "secondary": [
+      {
+        "id": "L2303",
+        "toc_line": 2303,
+        "chapter": 35,
+        "concept": "35.3",
+        "title": "Primary Growth of Shoots",
+        "printed_page": 769,
+        "body_pdf_page": 818,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          44
+        ],
+        "chapter_label": "Ch35 Vascular Plant Structure, Growth, and Development"
+      }
+    ],
+    "primary_reason": "35.2 / Different meristems generate new cells for primary and secondary growth：植株長高主要在頂端分生組織形成新的伸長區，既有樹幹位置不按總高同比上移。",
+    "secondary_reason": "35.3 / Primary Growth of Shoots：根與莖的初生生長提供頂端生長位置的具體機制。",
+    "answer_analysis": "原先距地1m的樹幹記號按題設仍約1m，採B。樹皮增粗、裂解或脫落可改變記號可見性，但不是因樹長高而按比例升高。主條目Concept35.2在真實目錄沒有再列子條目，可作最小終端概念。",
+    "textbook_evidence": [
+      {
+        "printed_page": 766,
+        "pdf_page": 815,
+        "text_file": "textbook_evidence/pdf-0815.txt",
+        "sha256": "086b22c6013373d4f709223e0a7df70dd58f019ee7fad19fc4ed49caae98e331"
+      },
+      {
+        "printed_page": 767,
+        "pdf_page": 816,
+        "text_file": "textbook_evidence/pdf-0816.txt",
+        "sha256": "7415b4c24dee32f0fe6fb1ddfabcac94c37351ee04e00f7026260ae1370a4099"
+      },
+      {
+        "printed_page": 769,
+        "pdf_page": 818,
+        "text_file": "textbook_evidence/pdf-0818.txt",
+        "sha256": "1c6ac14bacd723dd1d8f33611a9b765cc4b9325d965357dafb2bda52282f83d7"
+      },
+      {
+        "printed_page": 770,
+        "pdf_page": 819,
+        "text_file": "textbook_evidence/pdf-0819.txt",
+        "sha256": "dcf201fee5c88f9ad44b6e96516b2a3b7e5db3a28e390b3537f349d960df37d0"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q28",
+    "issue_resolution_index": 27
+  },
+  {
+    "id": "CMU-108-Q29",
+    "school": "CMU",
+    "year": 108,
+    "q": 29,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 29,
+      "pdf_page": 6,
+      "printed_page": 6,
+      "regions": [
+        [
+          40,
+          273.342,
+          565.5,
+          358.162
+        ]
+      ],
+      "image": "questions/Q29.png",
+      "sha256": "995461cd104cec8c9755f0733fd853a4df00a101e916c6bfc6ed82aa46f46632",
+      "width": 1123,
+      "height": 181,
+      "question_text": "29. 下列何種細胞構造主要參與肝臟解毒作用，而在肝細胞中含量豐富？\n(A) 溶體(lysosome) (B) 高爾基體(Golgi apparatus)\n(C) 核膜(nuclear envelope) (D) 粗糙內質網(rough ER)\n(E) 平滑內質網(smooth ER)",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "E",
+      "adopted": "E",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L0343",
+      "toc_line": 343,
+      "chapter": 6,
+      "concept": "6.4",
+      "title": "The Endoplasmic Reticulum: Biosynthetic Factory",
+      "printed_page": 104,
+      "body_pdf_page": 153,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        36
+      ],
+      "chapter_label": "Ch06 A Tour of the Cell"
+    },
+    "secondary": [],
+    "primary_reason": "6.4 / The Endoplasmic Reticulum: Biosynthetic Factory：平滑內質網參與藥物與毒物解毒，肝細胞相應結構發達。",
+    "secondary_reason": "無另列最小次條目；解毒是平滑內質網的直接正文功能，無需增加肝臟整體消化分類。",
+    "answer_analysis": "採E smooth ER；粗糙內質網主要與分泌/膜蛋白生產相關，高基氏體處理和分送，不是題述主要解毒部位。",
+    "textbook_evidence": [
+      {
+        "printed_page": 104,
+        "pdf_page": 153,
+        "text_file": "textbook_evidence/pdf-0153.txt",
+        "sha256": "28f54efc6014c231d064754c6e6c87392167c3dabbd0b99b094a095fdc00f1e0"
+      },
+      {
+        "printed_page": 105,
+        "pdf_page": 154,
+        "text_file": "textbook_evidence/pdf-0154.txt",
+        "sha256": "80c7dfc003db4dea3b7e6d94aacf6a48816e4a6df7a3457209cd7f2cdb908c03"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q29",
+    "issue_resolution_index": 28
+  },
+  {
+    "id": "CMU-108-Q30",
+    "school": "CMU",
+    "year": 108,
+    "q": 30,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 30,
+      "pdf_page": 6,
+      "printed_page": 6,
+      "regions": [
+        [
+          40,
+          358.162,
+          565.5,
+          461.022
+        ]
+      ],
+      "image": "questions/Q30.png",
+      "sha256": "d81c3a6ad3479a3f832cb4228b7ed644fa2f5a4e2c5ec4347ed4003c81e1cc68",
+      "width": 1123,
+      "height": 220,
+      "question_text": "30. 長春花鹼(vinblastine)是一種抑制微管聚合的藥物，以長春花鹼處理癌細胞時，癌細胞無法\n_____，所以長春花鹼可用於治療某些形式的癌症。下列何者最適合填入空格中？\n(A) 保持細胞核的形狀 (B) 利用變形蟲運動進行移轉\n(C) 在細胞分裂時分離染色體 (D) 維持胞質循流(cytoplasmic streaming)\n(E) 在細胞分裂期間形成卵裂溝(cleavage furrows)",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L0773",
+      "toc_line": 773,
+      "chapter": 12,
+      "concept": "12.2",
+      "title": "The Mitotic Spindle: A Closer Look",
+      "printed_page": 240,
+      "body_pdf_page": 289,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        38
+      ],
+      "chapter_label": "Ch12 The Cell Cycle"
+    },
+    "secondary": [
+      {
+        "id": "L0381",
+        "toc_line": 381,
+        "chapter": 6,
+        "concept": "6.6",
+        "title": "Components of the Cytoskeleton",
+        "printed_page": 113,
+        "body_pdf_page": 162,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          36
+        ],
+        "chapter_label": "Ch06 A Tour of the Cell"
+      }
+    ],
+    "primary_reason": "12.2 / The Mitotic Spindle: A Closer Look：微管動態受阻使有絲分裂紡錘體無法正常移動染色體。",
+    "secondary_reason": "6.6 / Components of the Cytoskeleton：微管的tubulin組成與動態不同於肌動蛋白及中間絲。",
+    "answer_analysis": "依題設tubulin聚合受抑，最直接阻礙染色體分離，採C；其他動作常依賴肌動蛋白或中間絲。僅按題設藥理機制判斷，不延伸臨床劑量與用藥建議。",
+    "textbook_evidence": [
+      {
+        "printed_page": 113,
+        "pdf_page": 162,
+        "text_file": "textbook_evidence/pdf-0162.txt",
+        "sha256": "d804b41e9a9914f277808a8161f7f1a5f25f818f6f25b5fdd3b52d15382ac27d"
+      },
+      {
+        "printed_page": 114,
+        "pdf_page": 163,
+        "text_file": "textbook_evidence/pdf-0163.txt",
+        "sha256": "cca797c236cc40b6352b24372d91c127d9e243947ef4858cae8f46a00fa05134"
+      },
+      {
+        "printed_page": 240,
+        "pdf_page": 289,
+        "text_file": "textbook_evidence/pdf-0289.txt",
+        "sha256": "c865a00ae13ca31bae016bbc48ac76558aac755b56fce879d32e89c602ba8ac6"
+      },
+      {
+        "printed_page": 241,
+        "pdf_page": 290,
+        "text_file": "textbook_evidence/pdf-0290.txt",
+        "sha256": "7e8cf138c83ce1c93661e30984b0195199acc33de341eec3cc0fb006b7c0f9d5"
+      },
+      {
+        "printed_page": 242,
+        "pdf_page": 291,
+        "text_file": "textbook_evidence/pdf-0291.txt",
+        "sha256": "b470e7679e093ae98607f9d361e86c3a0a0c43a0c584cb720ef61007743b7d16"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q30",
+    "issue_resolution_index": 29
+  },
+  {
+    "id": "CMU-108-Q31",
+    "school": "CMU",
+    "year": 108,
+    "q": 31,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 31,
+      "pdf_page": 6,
+      "printed_page": 6,
+      "regions": [
+        [
+          40,
+          461.022,
+          565.5,
+          563.872
+        ]
+      ],
+      "image": "questions/Q31.png",
+      "sha256": "9be65dcdee2d3528215579114f1adde44258c1e97c28c388369277b61992ddd1",
+      "width": 1123,
+      "height": 220,
+      "question_text": "31. 咖啡因是磷酸二酯酶(phosphodiesterase)的抑制劑，因此，最近常喝咖啡的人細胞中下列何\n種分子的含量會增加？\n(A) 磷酸化蛋白質 (B) cAMP\n(C) 腺苷酸環化酶 (adenylyl cyclase) (D) 活化的G蛋白\n(E) G蛋白偶聯受體 (G protein-coupled receptor)",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L0724",
+      "toc_line": 724,
+      "chapter": 11,
+      "concept": "11.3",
+      "title": "Small Molecules and Ions as Second Messengers",
+      "printed_page": 223,
+      "body_pdf_page": 272,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        38
+      ],
+      "local_toc_title": "Small Molecules and Second Messengers",
+      "source_difference": "本地文字目錄：Small Molecules and Second Messengers；本輪實看PDF目錄採完整原名：Small Molecules and Ions as Second Messengers。原來源檔不改。",
+      "chapter_label": "Ch11 Cell Communication"
+    },
+    "secondary": [],
+    "primary_reason": "11.3 / Small Molecules and Ions as Second Messengers：磷酸二酯酶分解cAMP，抑制此酶使第二訊使的清除降低。",
+    "secondary_reason": "無另列最小次條目；以第二訊使降解機制完成分類；明示日常飲用效果不能由此考題推出。",
+    "answer_analysis": "採B，cAMP較易累積；不必假設受體、G蛋白或腺苷酸環化酶數量增加。題設以咖啡因抑制PDE作機制假設；原始研究顯示PDE抑制濃度與其他反應可不同，不能直接把一般喝咖啡的主要效應等同此路徑。",
+    "textbook_evidence": [
+      {
+        "printed_page": 223,
+        "pdf_page": 272,
+        "text_file": "textbook_evidence/pdf-0272.txt",
+        "sha256": "d23ae033cb40111bbaa80800c9d466b6880c87ed5a88320f8ba8c6275d38ac3b"
+      },
+      {
+        "printed_page": 224,
+        "pdf_page": 273,
+        "text_file": "textbook_evidence/pdf-0273.txt",
+        "sha256": "a710b5ef4d7732ef95dc2a860bc7c78c3b5b17f56200fe4ede0b4ae40b4e7aca"
+      },
+      {
+        "printed_page": 225,
+        "pdf_page": 274,
+        "text_file": "textbook_evidence/pdf-0274.txt",
+        "sha256": "f115a5b1a9fd1ce8bc5cc6891664256c5de7ec769e27b6659d1722763182c285"
+      }
+    ],
+    "supplement_ids": [
+      "S05"
+    ],
+    "coverage_note": "本地Campbell支援所列分類框架；具名外部事件／機制／科學界線由列示來源補充，實讀範圍見來源紀錄。",
+    "second_review_id": "CMU-108-R2-Q31",
+    "issue_resolution_index": 30
+  },
+  {
+    "id": "CMU-108-Q32",
+    "school": "CMU",
+    "year": 108,
+    "q": 32,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 32,
+      "pdf_page": 6,
+      "printed_page": 6,
+      "regions": [
+        [
+          40,
+          563.872,
+          565.5,
+          720.762
+        ]
+      ],
+      "image": "questions/Q32.png",
+      "sha256": "006158c019a946a3782f716cfa09f3a935485cc0cbb6710c9abb46044dc6e414",
+      "width": 1123,
+      "height": 335,
+      "question_text": "32. 為探討檸檬酸鹽對酵母菌呼吸作用之影響，分別使用AB兩種培養基在有氧環境中培養酵\n母菌，A 培養基比 B 培養基多添加了檸檬酸鹽，比較 AB 培養基中酵母菌之呼吸作用產\n物，下列何者對A培養基中酵母菌的敘述最適合？\n(A) ATP 和二氧化碳產量都增加\n(B) ATP 和二氧化碳產量都下降\n(C) ATP 產量增加，但二氧化碳產量下降\n(D) ATP 產量下降，但二氧化碳產量增加\n(E) ATP 產量沒有變化，二氧化碳產量增加",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [
+        8,
+        9
+      ],
+      "clarification_disposition": "維持原答案A"
+    },
+    "primary": {
+      "id": "L0575",
+      "toc_line": 575,
+      "chapter": 9,
+      "concept": "9.3",
+      "title": "The Citric Acid Cycle",
+      "printed_page": 172,
+      "body_pdf_page": 221,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        37
+      ],
+      "chapter_label": "Ch09 Cellular Respiration and Fermentation"
+    },
+    "secondary": [
+      {
+        "id": "L0614",
+        "toc_line": 614,
+        "chapter": 9,
+        "concept": "9.6",
+        "title": "Regulation of Cellular Respiration via Feedback Mechanisms",
+        "printed_page": 183,
+        "body_pdf_page": 232,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          37
+        ],
+        "chapter_label": "Ch09 Cellular Respiration and Fermentation"
+      },
+      {
+        "id": "L0588",
+        "toc_line": 588,
+        "chapter": 9,
+        "concept": "9.4",
+        "title": "An Accounting of ATP Production by Cellular Respiration",
+        "printed_page": 177,
+        "body_pdf_page": 226,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          37
+        ],
+        "chapter_label": "Ch09 Cellular Respiration and Fermentation"
+      }
+    ],
+    "primary_reason": "9.3 / The Citric Acid Cycle：檸檬酸是檸檬酸循環中間產物，官方採計依其進入能量代謝的意圖。",
+    "secondary_reason": "9.6 / Regulation of Cellular Respiration via Feedback Mechanisms：檸檬酸與ATP回饋調控糖解，必須保留抑制PFK的教材機制；9.4 / An Accounting of ATP Production by Cellular Respiration：氧化磷酸化說明最終ATP供應。",
+    "answer_analysis": "官方採A並在釋疑引入細胞成長及ATP需求增加的條件；原題未交代這些條件。Campbell指出累積檸檬酸可抑制PFK，不能由添加檸檬酸必然推出產ATP增加；實際取決於運輸、濃度、pH與代謝狀態。官方答案A與此條件不足分開保存，不擅改官方採計，也不把官方解釋當成受控實驗結果。",
+    "textbook_evidence": [
+      {
+        "printed_page": 172,
+        "pdf_page": 221,
+        "text_file": "textbook_evidence/pdf-0221.txt",
+        "sha256": "f7422e53613da385f6c4d2121de91a6e576eefaefe5d859b71f51bbeeecec84e"
+      },
+      {
+        "printed_page": 173,
+        "pdf_page": 222,
+        "text_file": "textbook_evidence/pdf-0222.txt",
+        "sha256": "b2f8f663f39470d5f289164cc87343fa0bd04aac9c5c296aae5f319a5bd876bc"
+      },
+      {
+        "printed_page": 177,
+        "pdf_page": 226,
+        "text_file": "textbook_evidence/pdf-0226.txt",
+        "sha256": "582657d70dc5264799ee47d5c86e5d847564c6443059299029a8c582c7ad7246"
+      },
+      {
+        "printed_page": 178,
+        "pdf_page": 227,
+        "text_file": "textbook_evidence/pdf-0227.txt",
+        "sha256": "0452fe61d5348f9bc5d41753954d4f0191a35b1afd485013de9966383125e06f"
+      },
+      {
+        "printed_page": 183,
+        "pdf_page": 232,
+        "text_file": "textbook_evidence/pdf-0232.txt",
+        "sha256": "e0e164e1bd6e9f4f1a8604dfa0b89bbb60492486e6a5a6597ba430818884aaf7"
+      },
+      {
+        "printed_page": 184,
+        "pdf_page": 233,
+        "text_file": "textbook_evidence/pdf-0233.txt",
+        "sha256": "a24a1c9c84e20b4ace23cbd7e06c6a3d71b6f6ccfabbc27b772442156b11ffd9"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q32",
+    "issue_resolution_index": 31
+  },
+  {
+    "id": "CMU-108-Q33",
+    "school": "CMU",
+    "year": 108,
+    "q": 33,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 33,
+      "pdf_page": 6,
+      "printed_page": 6,
+      "regions": [
+        [
+          40,
+          720.762,
+          565.5,
+          810.25
+        ]
+      ],
+      "image": "questions/Q33.png",
+      "sha256": "772f18b4c185ffce7706c8cf2bbcd9f3d66c1a960b9d1a475f60f892e7af962f",
+      "width": 1123,
+      "height": 192,
+      "question_text": "33. 若有一種可感染番茄的植物病毒具有水楊酸羥基酶(salicylate hydroxylase)，此酵素可分解\n水楊酸，相較於此酵素缺失的相同病毒而言，此病毒對植物的致病能力，下列何者最正確？\n(A) 具有較強的致病性 (B) 兩者的致病能力一樣 (C) 具有較弱的致病性\n(D) 將會完全失去致病能力 (E) 可感染的植物物種數將會減少",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [
+        9
+      ],
+      "clarification_disposition": "維持原答案A"
+    },
+    "primary": {
+      "id": "L2596",
+      "toc_line": 2596,
+      "chapter": 39,
+      "concept": "39.5",
+      "title": "Defenses Against Pathogens",
+      "printed_page": 866,
+      "body_pdf_page": 915,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        45
+      ],
+      "chapter_label": "Ch39 Plant Responses to Internal and External Signals"
+    },
+    "secondary": [],
+    "primary_reason": "39.5 / Defenses Against Pathogens：水楊酸參與系統性獲得抗性，移除訊號會削弱防禦。",
+    "secondary_reason": "無另列最小次條目；只以水楊酸防禦機制支持A，避免將多個不同層級結果混為必然。",
+    "answer_analysis": "假想病毒能分解水楊酸，會削弱SAR而使感染更嚴重，採A。不能由此推出所有植物必滅絕，也不能由未滅絕推得病毒宿主範圍；官方對E的延伸說法與直接機制分開。",
+    "textbook_evidence": [
+      {
+        "printed_page": 866,
+        "pdf_page": 915,
+        "text_file": "textbook_evidence/pdf-0915.txt",
+        "sha256": "5168b341b9b1b58fa641e4e71196fcac74601e62bb6c66f83f1f5fb8bd0a99a8"
+      },
+      {
+        "printed_page": 867,
+        "pdf_page": 916,
+        "text_file": "textbook_evidence/pdf-0916.txt",
+        "sha256": "15f45bf7924d3dee3b6a8950a1fd577316585954934d5cf1e31a83f7035ebc16"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q33",
+    "issue_resolution_index": 32
+  },
+  {
+    "id": "CMU-108-Q34",
+    "school": "CMU",
+    "year": 108,
+    "q": 34,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 34,
+      "pdf_page": 7,
+      "printed_page": 7,
+      "regions": [
+        [
+          40,
+          86.44200000000001,
+          565.5,
+          190.058
+        ]
+      ],
+      "image": "questions/Q34.png",
+      "sha256": "acf982b006fe6d5d753bfa2e9c197165d032b7b8b16f32ccb1d1f0c2e0e0d636",
+      "width": 1123,
+      "height": 221,
+      "question_text": "34. 細胞全能性(totipotency)一詞用來形容細胞具有生長成完整新個體的能力，在植物上，有關\n細胞全能性代表的意義，下列何者最接近？\n(A) 植物的發育不受遺傳控制 (B) 莖與根的細胞具有不同的基因\n(C) 細胞的分化取決於基因表現的控制 (D) 環境對細胞分化沒有影響\n(E) 植物生長過程中單一細胞的基因表現模式不會改變",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [
+        9
+      ],
+      "clarification_disposition": "維持原答案C"
+    },
+    "primary": {
+      "id": "L1261",
+      "toc_line": 1261,
+      "chapter": 20,
+      "concept": "20.3",
+      "title": "Cloning Plants: Single-Cell Cultures",
+      "printed_page": 428,
+      "body_pdf_page": 477,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        40
+      ],
+      "chapter_label": "Ch20 DNA Tools and Biotechnology"
+    },
+    "secondary": [
+      {
+        "id": "L2332",
+        "toc_line": 2332,
+        "chapter": 35,
+        "concept": "35.5",
+        "title": "Gene Expression and the Control of Cell Differentiation",
+        "printed_page": 778,
+        "body_pdf_page": 827,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          44
+        ],
+        "chapter_label": "Ch35 Vascular Plant Structure, Growth, and Development"
+      },
+      {
+        "id": "L1120",
+        "toc_line": 1120,
+        "chapter": 18,
+        "concept": "18.2",
+        "title": "Differential Gene Expression",
+        "printed_page": 370,
+        "body_pdf_page": 419,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          39
+        ],
+        "chapter_label": "Ch18 Regulation of Gene Expression"
+      }
+    ],
+    "primary_reason": "20.3 / Cloning Plants: Single-Cell Cultures：由成熟細胞再生成植株的克隆實驗顯示基因組仍可支持多種分化命運。",
+    "secondary_reason": "35.5 / Gene Expression and the Control of Cell Differentiation：植物細胞分化條目提供發育背景；18.2 / Differential Gene Expression：差異基因表現解釋保留同一基因組卻有不同細胞功能。",
+    "answer_analysis": "採C，許多已分化植物細胞保留全套遺傳資訊，可在適當條件再生；不表示每種成熟細胞永遠都能再生。官方引第11版印刷461，本地12版實據為428–429，兩版頁碼不混用。",
+    "textbook_evidence": [
+      {
+        "printed_page": 370,
+        "pdf_page": 419,
+        "text_file": "textbook_evidence/pdf-0419.txt",
+        "sha256": "ff4dea1b9cec2f59b7b93ac0132fef4c0c5bf6d8936068fc80a654f9afdbb25e"
+      },
+      {
+        "printed_page": 371,
+        "pdf_page": 420,
+        "text_file": "textbook_evidence/pdf-0420.txt",
+        "sha256": "0b3d4d568b964f9e87c911943b2ff9ab65ab486d2f3f793577245dacaa866803"
+      },
+      {
+        "printed_page": 428,
+        "pdf_page": 477,
+        "text_file": "textbook_evidence/pdf-0477.txt",
+        "sha256": "12e1016604763272d11b6234d67d38af72a69019200575937f83eeca475bd82b"
+      },
+      {
+        "printed_page": 429,
+        "pdf_page": 478,
+        "text_file": "textbook_evidence/pdf-0478.txt",
+        "sha256": "bd10ba8067ece0c5a946c3421c2e643b8eec1ed43a8ec82ce5d156d22f298819"
+      },
+      {
+        "printed_page": 778,
+        "pdf_page": 827,
+        "text_file": "textbook_evidence/pdf-0827.txt",
+        "sha256": "3c4657fdbfcc4095e9850a844192ab07610d99c05ef9a80e202823c5306e7b5b"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q34",
+    "issue_resolution_index": 33
+  },
+  {
+    "id": "CMU-108-Q35",
+    "school": "CMU",
+    "year": 108,
+    "q": 35,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 35,
+      "pdf_page": 7,
+      "printed_page": 7,
+      "regions": [
+        [
+          40,
+          189.058,
+          565.5,
+          261.342
+        ],
+        [
+          40,
+          261.342,
+          565.5,
+          399.462
+        ]
+      ],
+      "image": "questions/Q35.png",
+      "sha256": "17bd8ac349b3a1afe760005176cc7e1b04191f239a1518fdd717d2bf044bd251",
+      "width": 1123,
+      "height": 462,
+      "question_text": "※35~36題組題\n原產於南美洲熱帶雨林的巴西堅果樹為一種硬木樹，可以長到50 多公尺高，每個堅果中含\n有 8-25 粒種子，具有高經濟價值。巴西堅果樹的黃色花朵只能依靠某種特殊的雌性蜜蜂\norchid bee 作為傳粉者，無法自行授粉。\n35. 如果一隻雌性蜜蜂orchid bee剛造訪一棵巴西堅果樹的花朵，並繼續造訪另一棵樹的花朵，\n下列事件發生的順序應該為何？\n(A) 授粉→花粉管從花粉粒中萌發→花粉管進入珠孔(micropyle) →雙重受精\n(B) 授粉→花粉管進入珠孔→花粉管從花粉粒中萌發→雙重受精\n(C) 花粉管從花粉粒中萌發→授粉→花粉管進入珠孔→雙重受精\n(D) 花粉管進入珠孔→花粉管從花粉粒中萌發→授粉→雙重受精\n(E) 花粉管從花粉粒中萌發→花粉管進入珠孔→授粉→雙重受精",
+      "shared_stimulus": true,
+      "composition": "原頁共用題組與本題區塊依序無改字拼接，間隔12像素白邊；整頁另存"
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L2486",
+      "toc_line": 2486,
+      "chapter": 38,
+      "concept": "38.1",
+      "title": "The Angiosperm Life Cycle: An Overview",
+      "printed_page": 826,
+      "body_pdf_page": 875,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        45
+      ],
+      "chapter_label": "Ch38 Angiosperm Reproduction and Biotechnology"
+    },
+    "secondary": [
+      {
+        "id": "L2483",
+        "toc_line": 2483,
+        "chapter": 38,
+        "concept": "38.1",
+        "title": "Methods of Pollination",
+        "printed_page": 825,
+        "body_pdf_page": 874,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          45
+        ],
+        "chapter_label": "Ch38 Angiosperm Reproduction and Biotechnology"
+      },
+      {
+        "id": "L2495",
+        "toc_line": 2495,
+        "chapter": 38,
+        "concept": "38.1",
+        "title": "Seed Development and Structure",
+        "printed_page": 828,
+        "body_pdf_page": 877,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          45
+        ],
+        "chapter_label": "Ch38 Angiosperm Reproduction and Biotechnology"
+      }
+    ],
+    "primary_reason": "38.1 / The Angiosperm Life Cycle: An Overview：花粉到達柱頭、萌發並長管到珠孔、再雙受精，是被子植物生活史順序。",
+    "secondary_reason": "38.1 / Methods of Pollination：授粉條目判別花粉到柱頭的起點；38.1 / Seed Development and Structure：種子發育承接受精後的胚與胚乳。",
+    "answer_analysis": "採A：授粉→花粉萌發/花粉管生長→經珠孔→雙受精。巴西堅果與傳粉者的共用背景完整保留為題設，不把背景每一生態敘述冒稱已由教材確認。",
+    "textbook_evidence": [
+      {
+        "printed_page": 825,
+        "pdf_page": 874,
+        "text_file": "textbook_evidence/pdf-0874.txt",
+        "sha256": "2303ba19cbffb49a37ffc8154044a3c4da964b147c982531e3451d4397b63d71"
+      },
+      {
+        "printed_page": 826,
+        "pdf_page": 875,
+        "text_file": "textbook_evidence/pdf-0875.txt",
+        "sha256": "476cf50739c9725798af38934ab9d64b318b8e474c2e3636c9d1f2ce61bd86e4"
+      },
+      {
+        "printed_page": 827,
+        "pdf_page": 876,
+        "text_file": "textbook_evidence/pdf-0876.txt",
+        "sha256": "b2aafa8d0f29783b8f09e63a05690dab9470c5c2dff85b6f331da1b82baa1a6a"
+      },
+      {
+        "printed_page": 828,
+        "pdf_page": 877,
+        "text_file": "textbook_evidence/pdf-0877.txt",
+        "sha256": "c6d1399135f4783349f9731b819a4998de5da033914d775f466a265551cf11a6"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q35",
+    "issue_resolution_index": 34
+  },
+  {
+    "id": "CMU-108-Q36",
+    "school": "CMU",
+    "year": 108,
+    "q": 36,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 36,
+      "pdf_page": 7,
+      "printed_page": 7,
+      "regions": [
+        [
+          40,
+          189.058,
+          565.5,
+          261.342
+        ],
+        [
+          40,
+          399.462,
+          565.5,
+          483.542
+        ]
+      ],
+      "image": "questions/Q36.png",
+      "sha256": "456087025ccb58358194a8770ede18c5dbcb26eca78d20fca5c2f117d777f47d",
+      "width": 1123,
+      "height": 346,
+      "question_text": "※35~36題組題\n原產於南美洲熱帶雨林的巴西堅果樹為一種硬木樹，可以長到50 多公尺高，每個堅果中含\n有 8-25 粒種子，具有高經濟價值。巴西堅果樹的黃色花朵只能依靠某種特殊的雌性蜜蜂\norchid bee 作為傳粉者，無法自行授粉。\n36. 若將此巴西堅果樹移植到東南亞栽種，發現這些植株生長狀況良好，開花率也很高，但是\n卻無法結出果實，下列何者為最可能的原因？\n(A) 孢子體存活率低 (B) 無法產生胚珠 (C) 無法產生花粉\n(D) 花粉太小 (E) 授粉失敗",
+      "shared_stimulus": true,
+      "composition": "原頁共用題組與本題區塊依序無改字拼接，間隔12像素白邊；整頁另存"
+    },
+    "official_answer": {
+      "original": "E",
+      "adopted": "E",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L2483",
+      "toc_line": 2483,
+      "chapter": 38,
+      "concept": "38.1",
+      "title": "Methods of Pollination",
+      "printed_page": 825,
+      "body_pdf_page": 874,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        45
+      ],
+      "chapter_label": "Ch38 Angiosperm Reproduction and Biotechnology"
+    },
+    "secondary": [
+      {
+        "id": "L2514",
+        "toc_line": 2514,
+        "chapter": 38,
+        "concept": "38.2",
+        "title": "Mechanisms That Prevent Self-Fertilization",
+        "printed_page": 834,
+        "body_pdf_page": 883,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          45
+        ],
+        "chapter_label": "Ch38 Angiosperm Reproduction and Biotechnology"
+      }
+    ],
+    "primary_reason": "38.1 / Methods of Pollination：植株正常生長並開花卻缺乏結果，題設最直接指向有效授粉者不足。",
+    "secondary_reason": "38.2 / Mechanisms That Prevent Self-Fertilization：自交不親和及異交機制說明有花粉不等於完成有效授粉。",
+    "answer_analysis": "採E授粉失敗；缺乏有效授粉昆蟲是共用背景下的可能原因。依共用背景推理，不能僅由不結果斷言無胚珠、無花粉或完全不能進行光合作用；也不把考題推斷當成田間實驗已排除全部其他因素。",
+    "textbook_evidence": [
+      {
+        "printed_page": 825,
+        "pdf_page": 874,
+        "text_file": "textbook_evidence/pdf-0874.txt",
+        "sha256": "2303ba19cbffb49a37ffc8154044a3c4da964b147c982531e3451d4397b63d71"
+      },
+      {
+        "printed_page": 826,
+        "pdf_page": 875,
+        "text_file": "textbook_evidence/pdf-0875.txt",
+        "sha256": "476cf50739c9725798af38934ab9d64b318b8e474c2e3636c9d1f2ce61bd86e4"
+      },
+      {
+        "printed_page": 834,
+        "pdf_page": 883,
+        "text_file": "textbook_evidence/pdf-0883.txt",
+        "sha256": "7f4aeaa74e46a88222227908887d6fe11e6e32ef1b8f54ad7eef0c82413a6e28"
+      },
+      {
+        "printed_page": 835,
+        "pdf_page": 884,
+        "text_file": "textbook_evidence/pdf-0884.txt",
+        "sha256": "aca26e3b4df1f98d4819dbb9aa5e8fbd2903a810e061b0f3833b25b60b783a74"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q36",
+    "issue_resolution_index": 35
+  },
+  {
+    "id": "CMU-108-Q37",
+    "school": "CMU",
+    "year": 108,
+    "q": 37,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 37,
+      "pdf_page": 7,
+      "printed_page": 7,
+      "regions": [
+        [
+          40,
+          483.542,
+          565.5,
+          604.392
+        ]
+      ],
+      "image": "questions/Q37.png",
+      "sha256": "c36b25851293df3d3293b39e527123e329dd6f5d53b36d99e861f0806e8accf7",
+      "width": 1123,
+      "height": 259,
+      "question_text": "37. 假設仙人掌刺的尖銳度由 S 基因控制，具有隱性等位基因 ss 的仙人掌刺較鈍。另有第二\n個基因 N 決定仙人掌是否有刺，nn仙人掌外表型為無刺。如果仙人掌SsNn自花授粉，下\n列何者最接近其後代外表型比例？\n(A) 3/4尖刺：1/4 無刺 (B) 1/4尖刺：1/2 鈍刺：1/4 無刺\n(C) 1/4尖刺：1/4鈍刺：1/4 軟刺：1/4無刺 (D) 9/16尖刺：3/16 鈍刺：4/16 無刺\n(E) 9/16 尖刺：3/16 鈍刺：3/16 軟刺：1/16 無刺",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L0895",
+      "toc_line": 895,
+      "chapter": 14,
+      "concept": "14.3",
+      "title": "Extending Mendelian Genetics for Two or More Genes",
+      "printed_page": 281,
+      "body_pdf_page": 330,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        38
+      ],
+      "chapter_label": "Ch14 Mendel and the Gene Idea"
+    },
+    "secondary": [
+      {
+        "id": "L0875",
+        "toc_line": 875,
+        "chapter": 14,
+        "concept": "14.1",
+        "title": "The Law of Independent Assortment",
+        "printed_page": 274,
+        "body_pdf_page": 323,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          38
+        ],
+        "chapter_label": "Ch14 Mendel and the Gene Idea"
+      }
+    ],
+    "primary_reason": "14.3 / Extending Mendelian Genetics for Two or More Genes：一基因座的隱性同型會遮蔽另一基因的表現，產生隱性上位作用比例。",
+    "secondary_reason": "14.1 / The Law of Independent Assortment：兩基因的獨立分配建立兩組3:1，組合後再依遮蔽規則合併。",
+    "answer_analysis": "以nn無刺且遮蔽S/s、兩基因獨立分配的考題模型，得9尖刺:3鈍刺:4無刺，採D。9:3:3:1是未合併的二因子類別，不能直接當作最後三種表型；獨立分配屬比例成立的假設。",
+    "textbook_evidence": [
+      {
+        "printed_page": 274,
+        "pdf_page": 323,
+        "text_file": "textbook_evidence/pdf-0323.txt",
+        "sha256": "efe71256f6947c50ea8973b9c53c019e82d9c950f0dce14b0453bf43c2a12534"
+      },
+      {
+        "printed_page": 275,
+        "pdf_page": 324,
+        "text_file": "textbook_evidence/pdf-0324.txt",
+        "sha256": "1a52c50bd4b72be7f65ef560d65910269093fc451ec38a057fd99f7d568f5813"
+      },
+      {
+        "printed_page": 281,
+        "pdf_page": 330,
+        "text_file": "textbook_evidence/pdf-0330.txt",
+        "sha256": "4ab76504c8b946848b988e4e55d97315b962fcc9d8d979e446df0818a74283c1"
+      },
+      {
+        "printed_page": 282,
+        "pdf_page": 331,
+        "text_file": "textbook_evidence/pdf-0331.txt",
+        "sha256": "bd4418e48e71b013f6b1cd6f0acc0afd130acdcc1885c48c5ffda74d34c9b3cd"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q37",
+    "issue_resolution_index": 36
+  },
+  {
+    "id": "CMU-108-Q38",
+    "school": "CMU",
+    "year": 108,
+    "q": 38,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 38,
+      "pdf_page": 7,
+      "printed_page": 7,
+      "regions": [
+        [
+          40,
+          604.392,
+          565.5,
+          810.25
+        ]
+      ],
+      "image": "questions/Q38.png",
+      "sha256": "1b5765c85b064ae0ae60a586fc5f117afaab9a00a393ac8405da66e0b84dbd93",
+      "width": 1123,
+      "height": 440,
+      "question_text": "38. 熱帶地區農民栽種可可樹，但由於大氣中二氧化碳濃度增加導致溫度和降雨改變，進而引\n發許多疾病和蟲害。為了解決這些問題，科學家對這些樹木的基因組進行分析研究，發現\n在數個主要品種中存在一些遺傳變異。從長遠來看，下列何種策略最有可能減少農民面臨\n的壓力？\n(A) 在溫帶地區種植更多的可可樹\n(B) 將不同品種的可可樹雜交，篩選出生產高質量可可豆和抗病蟲害的植株\n(C) 將可可樹栽種時分開得更遠，以減少從一棵樹到另一棵樹的疾病傳播率\n(D) 密集施肥，添加殺菌劑和殺蟲劑以降低病蟲害\n(E) 僅選擇單一品種栽種，減少遺傳變異",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L2524",
+      "toc_line": 2524,
+      "chapter": 38,
+      "concept": "38.3",
+      "title": "Plant Breeding",
+      "printed_page": 837,
+      "body_pdf_page": 886,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        45
+      ],
+      "chapter_label": "Ch38 Angiosperm Reproduction and Biotechnology"
+    },
+    "secondary": [
+      {
+        "id": "L1432",
+        "toc_line": 1432,
+        "chapter": 23,
+        "concept": "23.1",
+        "title": "Genetic Variation",
+        "printed_page": 487,
+        "body_pdf_page": 536,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          41
+        ],
+        "chapter_label": "Ch23 The Evolution of Populations"
+      }
+    ],
+    "primary_reason": "38.3 / Plant Breeding：以不同品種雜交並選擇目標性狀是傳統植物育種。",
+    "secondary_reason": "23.1 / Genetic Variation：既有遺傳變異是選育耐受性狀的材料基礎。",
+    "answer_analysis": "採B，跨品種雜交與選拔可組合有利變異，不必然需要外源轉基因。此是育種策略，不宣稱任何指定後代已經完成氣候或田間耐受測試。",
+    "textbook_evidence": [
+      {
+        "printed_page": 487,
+        "pdf_page": 536,
+        "text_file": "textbook_evidence/pdf-0536.txt",
+        "sha256": "c85903c27e93d13f7d85dcd230c7358d03be8491305296e213f140cf00f666cc"
+      },
+      {
+        "printed_page": 488,
+        "pdf_page": 537,
+        "text_file": "textbook_evidence/pdf-0537.txt",
+        "sha256": "26f6b8f42c56c08791fc2aa8b0c7d2755f039927430be1dbfe517d700221a031"
+      },
+      {
+        "printed_page": 836,
+        "pdf_page": 885,
+        "text_file": "textbook_evidence/pdf-0885.txt",
+        "sha256": "0a48a2c458443dcda2174666cc82947310a7af0a66d1dce6cca305c74ed84519"
+      },
+      {
+        "printed_page": 837,
+        "pdf_page": 886,
+        "text_file": "textbook_evidence/pdf-0886.txt",
+        "sha256": "f2d16d9d89efb7799772f388170076f8633ffeaa2ed5cc56131412bc6a5feb38"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q38",
+    "issue_resolution_index": 37
+  },
+  {
+    "id": "CMU-108-Q39",
+    "school": "CMU",
+    "year": 108,
+    "q": 39,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 39,
+      "pdf_page": 8,
+      "printed_page": 8,
+      "regions": [
+        [
+          40,
+          86.98800000000006,
+          565.5,
+          345.42199999999997
+        ],
+        [
+          40,
+          345.42199999999997,
+          565.5,
+          393.462
+        ]
+      ],
+      "image": "questions/Q39.png",
+      "sha256": "73dcc79b9f8d9489b0fc4913ebd04e60bae4a6d2860420f2adc406622a37cbe7",
+      "width": 1123,
+      "height": 667,
+      "question_text": "※39~40題組題\n某新發現的植物具有三個連鎖基因A、B、C 分別控制三種遺傳特徵：三種基因的隱性外表\n型分別為黑色葉子(a)、有尖刺的莖(b)與空心根(c)，遺傳學家以異型合子進行試交試驗，得\n到的子代外表型分布如下表（+ 野生型），請依結果回答第 39~40 題。\n外表型 葉子 莖 根 子代數量\n1 a + + 27\n2 a + c 1\n3 a b + 64\n4 a b c 880\n5 + b + 2\n6 + b c 30\n7 + + c 56\n8 + + + 940\nTotal 2000\n39. 上表中哪些外表型的子代在基因 A和 B之間發生重組？\n(A) 1,2,5 和 6 (B) 1,3,6 和7 (C) 2,3,5 和 7 (D) 2,4,5 和 7 (E) 2,4,5 和 8",
+      "shared_stimulus": true,
+      "composition": "原頁共用題組與本題區塊依序無改字拼接，間隔12像素白邊；整頁另存"
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L0958",
+      "toc_line": 958,
+      "chapter": 15,
+      "concept": "15.3",
+      "title": "Genetic Recombination and Linkage",
+      "printed_page": 302,
+      "body_pdf_page": 351,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        39
+      ],
+      "chapter_label": "Ch15 The Chromosomal Basis of Inheritance"
+    },
+    "secondary": [
+      {
+        "id": "L0961",
+        "toc_line": 961,
+        "chapter": 15,
+        "concept": "15.3",
+        "title": "Mapping the Distance Between Genes Using Recombination Data: Scientific Inquiry",
+        "printed_page": 305,
+        "body_pdf_page": 354,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          39
+        ],
+        "chapter_label": "Ch15 The Chromosomal Basis of Inheritance"
+      }
+    ],
+    "primary_reason": "15.3 / Genetic Recombination and Linkage：測交中以數量最多的親本型為基準，辨識a與b的重組組合。",
+    "secondary_reason": "15.3 / Mapping the Distance Between Genes Using Recombination Data: Scientific Inquiry：這些重組類也會用於下一題遺傳圖距，保留圖譜條目。",
+    "answer_analysis": "原表abc=880、+++=940為親本型；a與b反式組合出現在表列1、2、5、6，採A。C基因狀態不改變a/b是否重組；表格與Q40共用內容須完整保存。",
+    "textbook_evidence": [
+      {
+        "printed_page": 302,
+        "pdf_page": 351,
+        "text_file": "textbook_evidence/pdf-0351.txt",
+        "sha256": "15cf52b8d97952d828a00cae03dcf14cfb2de36a6c606ac397b1d6e3b5a6323f"
+      },
+      {
+        "printed_page": 303,
+        "pdf_page": 352,
+        "text_file": "textbook_evidence/pdf-0352.txt",
+        "sha256": "f3aad5d9a1f5883cdcf350c657201e6ab85596ccd27bccd57e5bfa7956f9ccf8"
+      },
+      {
+        "printed_page": 304,
+        "pdf_page": 353,
+        "text_file": "textbook_evidence/pdf-0353.txt",
+        "sha256": "ad3b514dee0983bfab3b517b38bc49a13857d9891280c1ea3800873459cd6edf"
+      },
+      {
+        "printed_page": 305,
+        "pdf_page": 354,
+        "text_file": "textbook_evidence/pdf-0354.txt",
+        "sha256": "d7a3836f5b9c6380908a9a72462c9e92e5d47f69a63d94fa2dd6414040aa5242"
+      },
+      {
+        "printed_page": 306,
+        "pdf_page": 355,
+        "text_file": "textbook_evidence/pdf-0355.txt",
+        "sha256": "babca5e1d6540bcaf259626eb2b90168d69dab9b3ec3fe353ab06dcc2e75042c"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q39",
+    "issue_resolution_index": 38
+  },
+  {
+    "id": "CMU-108-Q40",
+    "school": "CMU",
+    "year": 108,
+    "q": 40,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 40,
+      "pdf_page": 8,
+      "printed_page": 8,
+      "regions": [
+        [
+          40,
+          86.98800000000006,
+          565.5,
+          345.42199999999997
+        ],
+        [
+          40,
+          393.462,
+          565.5,
+          460.262
+        ]
+      ],
+      "image": "questions/Q40.png",
+      "sha256": "e1eacb173ed64b42660cb9b4e50202ac43f3aedc864341618648dd17c2524a7e",
+      "width": 1123,
+      "height": 707,
+      "question_text": "※39~40題組題\n某新發現的植物具有三個連鎖基因A、B、C 分別控制三種遺傳特徵：三種基因的隱性外表\n型分別為黑色葉子(a)、有尖刺的莖(b)與空心根(c)，遺傳學家以異型合子進行試交試驗，得\n到的子代外表型分布如下表（+ 野生型），請依結果回答第 39~40 題。\n外表型 葉子 莖 根 子代數量\n1 a + + 27\n2 a + c 1\n3 a b + 64\n4 a b c 880\n5 + b + 2\n6 + b c 30\n7 + + c 56\n8 + + + 940\nTotal 2000\n40. 如果重組頻率代表圖譜單位(map units, mu)，計算遺傳圖譜上基因A和 B之間的距離，下\n列何者最接近？\n(A) 3 mu (B) 6 mu (C) 15 mu (D) 30 mu (E) 45 mu",
+      "shared_stimulus": true,
+      "composition": "原頁共用題組與本題區塊依序無改字拼接，間隔12像素白邊；整頁另存"
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L0961",
+      "toc_line": 961,
+      "chapter": 15,
+      "concept": "15.3",
+      "title": "Mapping the Distance Between Genes Using Recombination Data: Scientific Inquiry",
+      "printed_page": 305,
+      "body_pdf_page": 354,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        39
+      ],
+      "chapter_label": "Ch15 The Chromosomal Basis of Inheritance"
+    },
+    "secondary": [
+      {
+        "id": "L0958",
+        "toc_line": 958,
+        "chapter": 15,
+        "concept": "15.3",
+        "title": "Genetic Recombination and Linkage",
+        "printed_page": 302,
+        "body_pdf_page": 351,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          39
+        ],
+        "chapter_label": "Ch15 The Chromosomal Basis of Inheritance"
+      }
+    ],
+    "primary_reason": "15.3 / Mapping the Distance Between Genes Using Recombination Data: Scientific Inquiry：由a/b重組四類共60隻除以2000隻，估算短距離圖譜單位。",
+    "secondary_reason": "15.3 / Genetic Recombination and Linkage：重組後代辨識是計算圖距所需前置。",
+    "answer_analysis": "重組數=27+1+2+30=60，總2000，重組率3%，約3 map units，採A。兩個極少數類也必須計入；圖距不是實體DNA的鹼基對距離。",
+    "textbook_evidence": [
+      {
+        "printed_page": 302,
+        "pdf_page": 351,
+        "text_file": "textbook_evidence/pdf-0351.txt",
+        "sha256": "15cf52b8d97952d828a00cae03dcf14cfb2de36a6c606ac397b1d6e3b5a6323f"
+      },
+      {
+        "printed_page": 303,
+        "pdf_page": 352,
+        "text_file": "textbook_evidence/pdf-0352.txt",
+        "sha256": "f3aad5d9a1f5883cdcf350c657201e6ab85596ccd27bccd57e5bfa7956f9ccf8"
+      },
+      {
+        "printed_page": 304,
+        "pdf_page": 353,
+        "text_file": "textbook_evidence/pdf-0353.txt",
+        "sha256": "ad3b514dee0983bfab3b517b38bc49a13857d9891280c1ea3800873459cd6edf"
+      },
+      {
+        "printed_page": 305,
+        "pdf_page": 354,
+        "text_file": "textbook_evidence/pdf-0354.txt",
+        "sha256": "d7a3836f5b9c6380908a9a72462c9e92e5d47f69a63d94fa2dd6414040aa5242"
+      },
+      {
+        "printed_page": 306,
+        "pdf_page": 355,
+        "text_file": "textbook_evidence/pdf-0355.txt",
+        "sha256": "babca5e1d6540bcaf259626eb2b90168d69dab9b3ec3fe353ab06dcc2e75042c"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q40",
+    "issue_resolution_index": 39
+  },
+  {
+    "id": "CMU-108-Q41",
+    "school": "CMU",
+    "year": 108,
+    "q": 41,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 41,
+      "pdf_page": 8,
+      "printed_page": 8,
+      "regions": [
+        [
+          40,
+          460.262,
+          565.5,
+          545.092
+        ]
+      ],
+      "image": "questions/Q41.png",
+      "sha256": "c09a464c0b2eab7f544bddadd396fa35af74ff45d03eae73e48216a92d79d065",
+      "width": 1123,
+      "height": 181,
+      "question_text": "41. 假設一位孩童時常感到疲倦，經過診察發現其患有代謝性疾病。下列何種構造功能缺失時\n最容易出現這種疾病？\n(A) 溶體 (B) 高爾基體 (C) 平滑內質網\n(D) 核糖體 (E) 粒線體",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "E",
+      "adopted": "E",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [
+        9
+      ],
+      "clarification_disposition": "維持原答案E"
+    },
+    "primary": {
+      "id": "L0365",
+      "toc_line": 365,
+      "chapter": 6,
+      "concept": "6.5",
+      "title": "Mitochondria: Chemical Energy Conversion",
+      "printed_page": 110,
+      "body_pdf_page": 159,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        36
+      ],
+      "chapter_label": "Ch06 A Tour of the Cell"
+    },
+    "secondary": [
+      {
+        "id": "L0349",
+        "toc_line": 349,
+        "chapter": 6,
+        "concept": "6.4",
+        "title": "Lysosomes: Digestive Compartments",
+        "printed_page": 107,
+        "body_pdf_page": 156,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          36
+        ],
+        "chapter_label": "Ch06 A Tour of the Cell"
+      },
+      {
+        "id": "L0588",
+        "toc_line": 588,
+        "chapter": 9,
+        "concept": "9.4",
+        "title": "An Accounting of ATP Production by Cellular Respiration",
+        "printed_page": 177,
+        "body_pdf_page": 226,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          37
+        ],
+        "chapter_label": "Ch09 Cellular Respiration and Fermentation"
+      }
+    ],
+    "primary_reason": "6.5 / Mitochondria: Chemical Energy Conversion：易疲倦與能量代謝的題設意圖對應粒線體產生ATP。",
+    "secondary_reason": "6.4 / Lysosomes: Digestive Compartments：溶體也涉及代謝性遺傳病，保留題幹不具專一性的備選胞器；9.4 / An Accounting of ATP Production by Cellular Respiration：氧化磷酸化補充ATP供應機制。",
+    "answer_analysis": "官方採E粒線體；但僅憑易疲倦與代謝性疾病不能唯一診斷粒線體異常，溶體等也可能相關。釋疑將題文延伸為代謝症候群的說法照留為官方解釋，不把它當成原題已提供的確診資訊。",
+    "textbook_evidence": [
+      {
+        "printed_page": 107,
+        "pdf_page": 156,
+        "text_file": "textbook_evidence/pdf-0156.txt",
+        "sha256": "28d4b35a36abc90a9ca007da1ce17e4310b4b63c586652df16e7f49afc21a5a2"
+      },
+      {
+        "printed_page": 108,
+        "pdf_page": 157,
+        "text_file": "textbook_evidence/pdf-0157.txt",
+        "sha256": "fb99e477f89ecb9cbecdd8568318611f4a90af67c31a3c223920ef36742901c9"
+      },
+      {
+        "printed_page": 110,
+        "pdf_page": 159,
+        "text_file": "textbook_evidence/pdf-0159.txt",
+        "sha256": "b19dc207171e51593e43340c05466120f897d531809799535931bbc2044c389f"
+      },
+      {
+        "printed_page": 177,
+        "pdf_page": 226,
+        "text_file": "textbook_evidence/pdf-0226.txt",
+        "sha256": "582657d70dc5264799ee47d5c86e5d847564c6443059299029a8c582c7ad7246"
+      },
+      {
+        "printed_page": 178,
+        "pdf_page": 227,
+        "text_file": "textbook_evidence/pdf-0227.txt",
+        "sha256": "0452fe61d5348f9bc5d41753954d4f0191a35b1afd485013de9966383125e06f"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q41",
+    "issue_resolution_index": 40
+  },
+  {
+    "id": "CMU-108-Q42",
+    "school": "CMU",
+    "year": 108,
+    "q": 42,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 42,
+      "pdf_page": 8,
+      "printed_page": 8,
+      "regions": [
+        [
+          40,
+          545.092,
+          565.5,
+          810.25
+        ]
+      ],
+      "image": "questions/Q42.png",
+      "sha256": "2ebf6f17c5dad49897aedd233393713ac90046fc1aa1db21bceea7130a2dbb45",
+      "width": 1123,
+      "height": 567,
+      "question_text": "42. 有關人類卵子的敘述，下列何者最正確？\n(A) 剛出生的女嬰具有已經完成減數分裂第一、第二階段的次級卵母細胞\n(B) 青春期時，濾泡刺激素(follicle-stimulating hormone, FSH)會週期性刺激濾泡成熟，\n通常每個月至少會有十個以上的濾泡成熟\n(C) 排卵時，如果釋出的卵母細胞沒有成功受精，則卵子生成的程序無法達成，破裂的\n濾泡發育之黃體終將退化\n(D) 初級卵母細胞會經過減數分裂最後產生四個一致的卵子\n(E) 婦女的生殖力伴隨其年齡的增加而下降，主要原因為體內發育成熟的卵子數量越來\n越多，營養競爭導致卵子品質不佳",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L3091",
+      "toc_line": 3091,
+      "chapter": 46,
+      "concept": "46.3",
+      "title": "Gametogenesis",
+      "printed_page": 1027,
+      "body_pdf_page": 1076,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        48
+      ],
+      "chapter_label": "Ch46 Animal Reproduction"
+    },
+    "secondary": [
+      {
+        "id": "L3104",
+        "toc_line": 3104,
+        "chapter": 46,
+        "concept": "46.4",
+        "title": "Hormonal Control of Female Reproductive Cycles",
+        "printed_page": 1032,
+        "body_pdf_page": 1081,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          48
+        ],
+        "chapter_label": "Ch46 Animal Reproduction"
+      }
+    ],
+    "primary_reason": "46.3 / Gametogenesis：卵細胞形成的減數分裂停滯及受精後才完成第二分裂決定正誤。",
+    "secondary_reason": "46.4 / Hormonal Control of Female Reproductive Cycles：未受精時黃體退化及生殖週期激素變化提供同題另一半機制。",
+    "answer_analysis": "採C；未受精的次級卵母細胞通常不完成減II，且黃體退化。出生時初級卵母細胞停在減I前期，形成極體是不對稱分裂；不能把多個濾泡啟動都當成正常同時排出多顆成熟卵。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1027,
+        "pdf_page": 1076,
+        "text_file": "textbook_evidence/pdf-1076.txt",
+        "sha256": "cd97ae98a7db96ee6a58f53f933bf211507fafcc05cb2c3db5004313f32ed54c"
+      },
+      {
+        "printed_page": 1028,
+        "pdf_page": 1077,
+        "text_file": "textbook_evidence/pdf-1077.txt",
+        "sha256": "0d3b264419f2371ad9aaa59cc989f228d3927dd8eaa75e486ac71f63b6e2529c"
+      },
+      {
+        "printed_page": 1029,
+        "pdf_page": 1078,
+        "text_file": "textbook_evidence/pdf-1078.txt",
+        "sha256": "b3d3baf62a153ee466372508dbf6d42f8699533c623903fa6968d7f90cbbde75"
+      },
+      {
+        "printed_page": 1032,
+        "pdf_page": 1081,
+        "text_file": "textbook_evidence/pdf-1081.txt",
+        "sha256": "deef47f77a740396d520a4adbff033a8f1e9c0319f952c51b8345c365064c2b7"
+      },
+      {
+        "printed_page": 1033,
+        "pdf_page": 1082,
+        "text_file": "textbook_evidence/pdf-1082.txt",
+        "sha256": "eafb85fddce340bf688aa2b916ec04511bff63cbe4541a6c3424eb5bbf53bee0"
+      },
+      {
+        "printed_page": 1034,
+        "pdf_page": 1083,
+        "text_file": "textbook_evidence/pdf-1083.txt",
+        "sha256": "e9960876925f54d3f6af5714fce034f15d743256fe97cd943b51d03b719b7e9d"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q42",
+    "issue_resolution_index": 41
+  },
+  {
+    "id": "CMU-108-Q43",
+    "school": "CMU",
+    "year": 108,
+    "q": 43,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 43,
+      "pdf_page": 9,
+      "printed_page": 9,
+      "regions": [
+        [
+          40,
+          86.98800000000006,
+          565.5,
+          159.24199999999996
+        ],
+        [
+          40,
+          159.24199999999996,
+          565.5,
+          243.312
+        ]
+      ],
+      "image": "questions/Q43.png",
+      "sha256": "b163b5dd39877577d02651a3c80572ebabdd99c358cbb6b1a8bf53c2dac02591",
+      "width": 1123,
+      "height": 346,
+      "question_text": "※43~46題組題\n系統素(systemin)為番茄植株中的胜肽，當番茄受到物理性傷害(wound)或昆蟲啃咬時，系統\n素會從前驅蛋白prosystemin中被截切下來後與細胞膜上的受體結合，啟動細胞內一系列的\n訊息傳導過程而引發番茄的防禦機制。\n43. 受系統素誘導的物質中，下列何者在番茄中扮演最直接抵抗昆蟲的角色？\n(A) 鈣離子 (B) 過氧化氫\n(C) 茉莉酸鹽 (jasmonate, JA) (D) 蛋白酶抑制蛋白 (protease inhibitor)\n(E) mitogen-activated protein kinase (MAPK)",
+      "shared_stimulus": true,
+      "composition": "原頁共用題組與本題區塊依序無改字拼接，間隔12像素白邊；整頁另存"
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L2599",
+      "toc_line": 2599,
+      "chapter": 39,
+      "concept": "39.5",
+      "title": "Defenses Against Herbivores",
+      "printed_page": 867,
+      "body_pdf_page": 916,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        45
+      ],
+      "chapter_label": "Ch39 Plant Responses to Internal and External Signals"
+    },
+    "secondary": [
+      {
+        "id": "L2547",
+        "toc_line": 2547,
+        "chapter": 39,
+        "concept": "39.1",
+        "title": "Response",
+        "printed_page": 845,
+        "body_pdf_page": 894,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          45
+        ],
+        "chapter_label": "Ch39 Plant Responses to Internal and External Signals"
+      }
+    ],
+    "primary_reason": "39.5 / Defenses Against Herbivores：蛋白酶抑制劑直接抑制食草昆蟲消化蛋白質，是傷害誘導防禦的效應物。",
+    "secondary_reason": "39.1 / Response：細胞反應條目把最後防禦產物與上游訊號過程分開。",
+    "answer_analysis": "採D protease inhibitors；Ca2+、jasmonate與MAPK偏上游訊號，不是本題直接降低消化的主要效應物。Campbell提供食草防禦框架，番茄蛋白酶抑制劑的抗消化作用另由原始研究支援。",
+    "textbook_evidence": [
+      {
+        "printed_page": 845,
+        "pdf_page": 894,
+        "text_file": "textbook_evidence/pdf-0894.txt",
+        "sha256": "d2656e5fe3271abd7f7210b3392f6dce7d9edccb4c428e27533f832e75c61d72"
+      },
+      {
+        "printed_page": 867,
+        "pdf_page": 916,
+        "text_file": "textbook_evidence/pdf-0916.txt",
+        "sha256": "15f45bf7924d3dee3b6a8950a1fd577316585954934d5cf1e31a83f7035ebc16"
+      },
+      {
+        "printed_page": 868,
+        "pdf_page": 917,
+        "text_file": "textbook_evidence/pdf-0917.txt",
+        "sha256": "2d649aec008fc6a45af43625ede07546ee9b0efa7a73ee564fbf328303349b2e"
+      }
+    ],
+    "supplement_ids": [
+      "S06"
+    ],
+    "coverage_note": "本地Campbell支援所列分類框架；具名外部事件／機制／科學界線由列示來源補充，實讀範圍見來源紀錄。",
+    "second_review_id": "CMU-108-R2-Q43",
+    "issue_resolution_index": 42
+  },
+  {
+    "id": "CMU-108-Q44",
+    "school": "CMU",
+    "year": 108,
+    "q": 44,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 44,
+      "pdf_page": 9,
+      "printed_page": 9,
+      "regions": [
+        [
+          40,
+          86.98800000000006,
+          565.5,
+          159.24199999999996
+        ],
+        [
+          40,
+          243.312,
+          565.5,
+          309.39199999999994
+        ]
+      ],
+      "image": "questions/Q44.png",
+      "sha256": "c7208927dc558424a367efbb416a01b7c6daf11ce89d9e3dc16d9f9140a3a53d",
+      "width": 1123,
+      "height": 307,
+      "question_text": "※43~46題組題\n系統素(systemin)為番茄植株中的胜肽，當番茄受到物理性傷害(wound)或昆蟲啃咬時，系統\n素會從前驅蛋白prosystemin中被截切下來後與細胞膜上的受體結合，啟動細胞內一系列的\n訊息傳導過程而引發番茄的防禦機制。\n44. 有關訊息傳導途徑，下列何者屬於二級訊息分子(second messenger)？\n(A) 系統素 (B) 受體 (receptor) (C) 激酶 (kinase)\n(D) 鈣離子 (E) 蛋白酶抑制蛋白",
+      "shared_stimulus": true,
+      "composition": "原頁共用題組與本題區塊依序無改字拼接，間隔12像素白邊；整頁另存"
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L0724",
+      "toc_line": 724,
+      "chapter": 11,
+      "concept": "11.3",
+      "title": "Small Molecules and Ions as Second Messengers",
+      "printed_page": 223,
+      "body_pdf_page": 272,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        38
+      ],
+      "local_toc_title": "Small Molecules and Second Messengers",
+      "source_difference": "本地文字目錄：Small Molecules and Second Messengers；本輪實看PDF目錄採完整原名：Small Molecules and Ions as Second Messengers。原來源檔不改。",
+      "chapter_label": "Ch11 Cell Communication"
+    },
+    "secondary": [
+      {
+        "id": "L2544",
+        "toc_line": 2544,
+        "chapter": 39,
+        "concept": "39.1",
+        "title": "Transduction",
+        "printed_page": 844,
+        "body_pdf_page": 893,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          45
+        ],
+        "chapter_label": "Ch39 Plant Responses to Internal and External Signals"
+      }
+    ],
+    "primary_reason": "11.3 / Small Molecules and Ions as Second Messengers：Ca2+是細胞內常見的小分子/離子第二訊使。",
+    "secondary_reason": "39.1 / Transduction：植物訊號轉導連結題設的防禦刺激。",
+    "answer_analysis": "採D Ca2+；systemin屬外來第一訊號，受體與MAPK是蛋白元件。不要因都參與同一路徑而把所有元件一律稱第二訊使。",
+    "textbook_evidence": [
+      {
+        "printed_page": 224,
+        "pdf_page": 273,
+        "text_file": "textbook_evidence/pdf-0273.txt",
+        "sha256": "a710b5ef4d7732ef95dc2a860bc7c78c3b5b17f56200fe4ede0b4ae40b4e7aca"
+      },
+      {
+        "printed_page": 225,
+        "pdf_page": 274,
+        "text_file": "textbook_evidence/pdf-0274.txt",
+        "sha256": "f115a5b1a9fd1ce8bc5cc6891664256c5de7ec769e27b6659d1722763182c285"
+      },
+      {
+        "printed_page": 844,
+        "pdf_page": 893,
+        "text_file": "textbook_evidence/pdf-0893.txt",
+        "sha256": "db11ffcba3bc7b29d6d7d511cfe502ccf2e1b1eb1140b309eac125dfb585a6ff"
+      },
+      {
+        "printed_page": 845,
+        "pdf_page": 894,
+        "text_file": "textbook_evidence/pdf-0894.txt",
+        "sha256": "d2656e5fe3271abd7f7210b3392f6dce7d9edccb4c428e27533f832e75c61d72"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q44",
+    "issue_resolution_index": 43
+  },
+  {
+    "id": "CMU-108-Q45",
+    "school": "CMU",
+    "year": 108,
+    "q": 45,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 45,
+      "pdf_page": 9,
+      "printed_page": 9,
+      "regions": [
+        [
+          40,
+          86.98800000000006,
+          565.5,
+          159.24199999999996
+        ],
+        [
+          40,
+          309.39199999999994,
+          565.5,
+          448.262
+        ]
+      ],
+      "image": "questions/Q45.png",
+      "sha256": "43b517e5cdc3793b651e90989b884fbb3f8fc766242fc182af0d3706ed710689",
+      "width": 1123,
+      "height": 463,
+      "question_text": "※43~46題組題\n系統素(systemin)為番茄植株中的胜肽，當番茄受到物理性傷害(wound)或昆蟲啃咬時，系統\n素會從前驅蛋白prosystemin中被截切下來後與細胞膜上的受體結合，啟動細胞內一系列的\n訊息傳導過程而引發番茄的防禦機制。\n45. 兩株番茄分開栽種於不相通但距離相近的盆子裡，研究發現，當其中一株被昆蟲啃咬後另\n一株番茄的防禦機制會被啟動，下列何者最正確？\n(A) 番茄防禦相關的訊息傳導物中可能包含某種揮發性物質\n(B) 受傷的番茄會發出難以察覺的震動而影響周邊的植物\n(C) 將番茄置於黑暗中則此現象會消失\n(D) 昆蟲口器中會釋放出化學物質，同時影響兩盆植株\n(E) 植物防禦機制一旦啟動就會持續不斷",
+      "shared_stimulus": true,
+      "composition": "原頁共用題組與本題區塊依序無改字拼接，間隔12像素白邊；整頁另存"
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L2599",
+      "toc_line": 2599,
+      "chapter": 39,
+      "concept": "39.5",
+      "title": "Defenses Against Herbivores",
+      "printed_page": 867,
+      "body_pdf_page": 916,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        45
+      ],
+      "chapter_label": "Ch39 Plant Responses to Internal and External Signals"
+    },
+    "secondary": [],
+    "primary_reason": "39.5 / Defenses Against Herbivores：相鄰但未接觸植株啟動防禦，符合揮發性物質傳訊的食草防禦機制。",
+    "secondary_reason": "無另列最小次條目；以植物食草防禦條目完成分類，補充研究支持可能機制而不把單一化合物硬填為題目實測物。",
+    "answer_analysis": "採A植物可釋出揮發性物質傳遞訊息；空氣中methyl jasmonate誘導番茄蛋白酶抑制劑有原始研究。題設本身不能唯一辨認分子，也不能推出訊號永久有效或任何環境均相同。",
+    "textbook_evidence": [
+      {
+        "printed_page": 867,
+        "pdf_page": 916,
+        "text_file": "textbook_evidence/pdf-0916.txt",
+        "sha256": "15f45bf7924d3dee3b6a8950a1fd577316585954934d5cf1e31a83f7035ebc16"
+      },
+      {
+        "printed_page": 868,
+        "pdf_page": 917,
+        "text_file": "textbook_evidence/pdf-0917.txt",
+        "sha256": "2d649aec008fc6a45af43625ede07546ee9b0efa7a73ee564fbf328303349b2e"
+      }
+    ],
+    "supplement_ids": [
+      "S07"
+    ],
+    "coverage_note": "本地Campbell支援所列分類框架；具名外部事件／機制／科學界線由列示來源補充，實讀範圍見來源紀錄。",
+    "second_review_id": "CMU-108-R2-Q45",
+    "issue_resolution_index": 44
+  },
+  {
+    "id": "CMU-108-Q46",
+    "school": "CMU",
+    "year": 108,
+    "q": 46,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 46,
+      "pdf_page": 9,
+      "printed_page": 9,
+      "regions": [
+        [
+          40,
+          86.98800000000006,
+          565.5,
+          159.24199999999996
+        ],
+        [
+          40,
+          448.262,
+          565.5,
+          551.092
+        ]
+      ],
+      "image": "questions/Q46.png",
+      "sha256": "254636276f02e3663d02740adf68313f9fe4d31b96f94900faea72b75184847e",
+      "width": 1123,
+      "height": 386,
+      "question_text": "※43~46題組題\n系統素(systemin)為番茄植株中的胜肽，當番茄受到物理性傷害(wound)或昆蟲啃咬時，系統\n素會從前驅蛋白prosystemin中被截切下來後與細胞膜上的受體結合，啟動細胞內一系列的\n訊息傳導過程而引發番茄的防禦機制。\n46. 研究發現番茄防禦機制中，細胞內MAPK 被活化後會抑制細胞膜上面proton ATPase 的活\n性，此現象會導致下列何種變化？\n(A) 質子送出細胞外的速度增加 (B) 番茄細胞外的pH值上升\n(C) 細胞膜上的不飽和脂肪酸含量上升 (D) 細胞膜上受體分子數量降低\n(E) 茉莉酸合成受到抑制",
+      "shared_stimulus": true,
+      "composition": "原頁共用題組與本題區塊依序無改字拼接，間隔12像素白邊；整頁另存"
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L2362",
+      "toc_line": 2362,
+      "chapter": 36,
+      "concept": "36.2",
+      "title": "Short-Distance Transport of Solutes Across Plasma Membranes",
+      "printed_page": 788,
+      "body_pdf_page": 837,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        45
+      ],
+      "chapter_label": "Ch36 Resource Acquisition and Transport in Vascular Plants"
+    },
+    "secondary": [
+      {
+        "id": "L0721",
+        "toc_line": 721,
+        "chapter": 11,
+        "concept": "11.3",
+        "title": "Protein Phosphorylation and Dephosphorylation",
+        "printed_page": 222,
+        "body_pdf_page": 271,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          38
+        ],
+        "chapter_label": "Ch11 Cell Communication"
+      },
+      {
+        "id": "L2599",
+        "toc_line": 2599,
+        "chapter": 39,
+        "concept": "39.5",
+        "title": "Defenses Against Herbivores",
+        "printed_page": 867,
+        "body_pdf_page": 916,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          45
+        ],
+        "chapter_label": "Ch39 Plant Responses to Internal and External Signals"
+      }
+    ],
+    "primary_reason": "36.2 / Short-Distance Transport of Solutes Across Plasma Membranes：抑制將H+排到細胞外的質子幫浦，會使外側酸化減少。",
+    "secondary_reason": "11.3 / Protein Phosphorylation and Dephosphorylation：磷酸化反應串聯題設MAPK訊號；39.5 / Defenses Against Herbivores：植物食草防禦是刺激背景。",
+    "answer_analysis": "依題設MAPK抑制proton ATPase，H+外排下降，細胞外pH上升，採B。2019原始研究觀察早期PLL5使H+-ATPase去磷酸化與培養液鹼化，較晚MPK2再磷酸化使幫浦恢復活性，和原題MAPK抑制的直接因果不同；題設與更細的研究機制分開。",
+    "textbook_evidence": [
+      {
+        "printed_page": 137,
+        "pdf_page": 186,
+        "text_file": "textbook_evidence/pdf-0186.txt",
+        "sha256": "dae08628541b74763aa914a4c3c6c6ac97d48256c97b34111062d5b82b4b714d"
+      },
+      {
+        "printed_page": 138,
+        "pdf_page": 187,
+        "text_file": "textbook_evidence/pdf-0187.txt",
+        "sha256": "26c3029e5ec80ff16962be585fc5307a65ace6bc184ca2941e37ed1d411397bf"
+      },
+      {
+        "printed_page": 222,
+        "pdf_page": 271,
+        "text_file": "textbook_evidence/pdf-0271.txt",
+        "sha256": "01ebf4819f7c1c4baa945ac40e9e1186ca12de47442f1b2d682d74980aeed007"
+      },
+      {
+        "printed_page": 223,
+        "pdf_page": 272,
+        "text_file": "textbook_evidence/pdf-0272.txt",
+        "sha256": "d23ae033cb40111bbaa80800c9d466b6880c87ed5a88320f8ba8c6275d38ac3b"
+      },
+      {
+        "printed_page": 788,
+        "pdf_page": 837,
+        "text_file": "textbook_evidence/pdf-0837.txt",
+        "sha256": "8e61a0ffdf3bc8bcb0623ce9f9d94f3ab2b19f9efaf2bcd3e4111a804721385e"
+      },
+      {
+        "printed_page": 867,
+        "pdf_page": 916,
+        "text_file": "textbook_evidence/pdf-0916.txt",
+        "sha256": "15f45bf7924d3dee3b6a8950a1fd577316585954934d5cf1e31a83f7035ebc16"
+      },
+      {
+        "printed_page": 868,
+        "pdf_page": 917,
+        "text_file": "textbook_evidence/pdf-0917.txt",
+        "sha256": "2d649aec008fc6a45af43625ede07546ee9b0efa7a73ee564fbf328303349b2e"
+      }
+    ],
+    "supplement_ids": [
+      "S08"
+    ],
+    "coverage_note": "本地Campbell支援所列分類框架；具名外部事件／機制／科學界線由列示來源補充，實讀範圍見來源紀錄。",
+    "second_review_id": "CMU-108-R2-Q46",
+    "issue_resolution_index": 45
+  },
+  {
+    "id": "CMU-108-Q47",
+    "school": "CMU",
+    "year": 108,
+    "q": 47,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 47,
+      "pdf_page": 9,
+      "printed_page": 9,
+      "regions": [
+        [
+          40,
+          551.092,
+          565.5,
+          653.942
+        ]
+      ],
+      "image": "questions/Q47.png",
+      "sha256": "f402322035f26781fc6e3cee5e49c9e11abe3ba57036b090571b6ee169aaf3c4",
+      "width": 1123,
+      "height": 220,
+      "question_text": "47. 某植物根部的水勢為−0.18 MPa，將之置於0.1 M的蔗糖溶液中(水勢為−0.23 MPa)，有關\n水分子的移動方向，下列何者最正確？\n(A) 從植物根部流出到蔗糖溶液中 (B) 從蔗糖溶液流往植物根部\n(C) 雙向移動且移動速度維持一致 (D) 無法從所提供的資料判斷\n(E) 只有在植物根部組織內有ATP 水解時才會有水分子的移動",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L2365",
+      "toc_line": 2365,
+      "chapter": 36,
+      "concept": "36.2",
+      "title": "Short-Distance Transport of Water Across Plasma Membranes",
+      "printed_page": 788,
+      "body_pdf_page": 837,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        45
+      ],
+      "chapter_label": "Ch36 Resource Acquisition and Transport in Vascular Plants"
+    },
+    "secondary": [],
+    "primary_reason": "36.2 / Short-Distance Transport of Water Across Plasma Membranes：水的淨移動由較高水勢流向較低水勢。",
+    "secondary_reason": "無另列最小次條目；重新比較−0.18與−0.23的大小，方向明確。",
+    "answer_analysis": "細胞內−0.18MPa高於外界−0.23MPa，水淨流出，採A。微觀分子仍可雙向移動，與淨通量不同；此滲透不需直接用ATP驅動。",
+    "textbook_evidence": [
+      {
+        "printed_page": 788,
+        "pdf_page": 837,
+        "text_file": "textbook_evidence/pdf-0837.txt",
+        "sha256": "8e61a0ffdf3bc8bcb0623ce9f9d94f3ab2b19f9efaf2bcd3e4111a804721385e"
+      },
+      {
+        "printed_page": 789,
+        "pdf_page": 838,
+        "text_file": "textbook_evidence/pdf-0838.txt",
+        "sha256": "bfc9ea7ee1e2e34581571b18a2bda20616254b685476bbdea229d68e55aaf8c0"
+      },
+      {
+        "printed_page": 790,
+        "pdf_page": 839,
+        "text_file": "textbook_evidence/pdf-0839.txt",
+        "sha256": "1248de4636138ae50f679221c259bb7aa7b6e5e411fec3605cb7477c302ca2f3"
+      },
+      {
+        "printed_page": 791,
+        "pdf_page": 840,
+        "text_file": "textbook_evidence/pdf-0840.txt",
+        "sha256": "f50ddc8d3404819971dd9c9a8ed51e4601856bc0e5f35a1b72d0f34d8ad64f9d"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q47",
+    "issue_resolution_index": 46
+  },
+  {
+    "id": "CMU-108-Q48",
+    "school": "CMU",
+    "year": 108,
+    "q": 48,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 48,
+      "pdf_page": 9,
+      "printed_page": 9,
+      "regions": [
+        [
+          40,
+          653.942,
+          565.5,
+          810.25
+        ]
+      ],
+      "image": "questions/Q48.png",
+      "sha256": "44b22776915031474ada205e91073950d695e410ff2f1b4163c54c216d9e9760",
+      "width": 1123,
+      "height": 334,
+      "question_text": "48. 如果將植物細胞的類囊體(thylakoid)穿孔，使其內部與葉綠體基質(stroma)相互流通，下列\n何種過程最直接受影響？\n(A) 水分子裂解(split) (B) ATP 的合成\n(C) NADP +還原 (D) 光能吸收\n(E) 電子從光系統II(photosystem II)到光系統I的傳遞",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L0662",
+      "toc_line": 662,
+      "chapter": 10,
+      "concept": "10.3",
+      "title": "A Comparison of Chemiosmosis in Chloroplasts and Mitochondria",
+      "printed_page": 199,
+      "body_pdf_page": 248,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        37
+      ],
+      "chapter_label": "Ch10 Photosynthesis"
+    },
+    "secondary": [
+      {
+        "id": "L0585",
+        "toc_line": 585,
+        "chapter": 9,
+        "concept": "9.4",
+        "title": "Chemiosmosis: The Energy-Coupling Mechanism",
+        "printed_page": 175,
+        "body_pdf_page": 224,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          37
+        ],
+        "chapter_label": "Ch09 Cellular Respiration and Fermentation"
+      }
+    ],
+    "primary_reason": "10.3 / A Comparison of Chemiosmosis in Chloroplasts and Mitochondria：類囊體膜破孔使跨膜質子梯度消散，最直接降低光合ATP合成。",
+    "secondary_reason": "9.4 / Chemiosmosis: The Energy-Coupling Mechanism：粒線體化學滲透條目提供共同的梯度耦合原理。",
+    "answer_analysis": "採B ATP合成下降；直接受破壞的是膜維持梯度的能力，不能把破孔立即等同色素吸光或水分子光解本身消失。",
+    "textbook_evidence": [
+      {
+        "printed_page": 175,
+        "pdf_page": 224,
+        "text_file": "textbook_evidence/pdf-0224.txt",
+        "sha256": "35c1ca72ca159be79f166d2a76fed74d336b8389375391acfd247e14d8f7a7c8"
+      },
+      {
+        "printed_page": 176,
+        "pdf_page": 225,
+        "text_file": "textbook_evidence/pdf-0225.txt",
+        "sha256": "f8db8c58020ace9c1e8949235d327f0982f6f2fe801bfcb1a9cbdfd7c3e35841"
+      },
+      {
+        "printed_page": 199,
+        "pdf_page": 248,
+        "text_file": "textbook_evidence/pdf-0248.txt",
+        "sha256": "cfae8231f10dc3516cc82fff9bfaf894a3b07bb1fb2eca0cbb98873d029588a2"
+      },
+      {
+        "printed_page": 200,
+        "pdf_page": 249,
+        "text_file": "textbook_evidence/pdf-0249.txt",
+        "sha256": "65fa88fecb8e02c44cc2fa6e3002b4407d2092108416f589bb9911e5e97c494c"
+      },
+      {
+        "printed_page": 201,
+        "pdf_page": 250,
+        "text_file": "textbook_evidence/pdf-0250.txt",
+        "sha256": "fea698a84ca660a6cdb4d86bfb9f6d5dea0c370bc2431f3fd9d3a07571885fca"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q48",
+    "issue_resolution_index": 47
+  },
+  {
+    "id": "CMU-108-Q49",
+    "school": "CMU",
+    "year": 108,
+    "q": 49,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 49,
+      "pdf_page": 10,
+      "printed_page": 10,
+      "regions": [
+        [
+          40,
+          86.44200000000001,
+          565.5,
+          477.542
+        ]
+      ],
+      "image": "questions/Q49.png",
+      "sha256": "10883ec75bc6f78cdd71d7734e82a56043e577252368809945657053f899e712",
+      "width": 1123,
+      "height": 836,
+      "question_text": "49. 體溫調節的熱量來源是由體內代謝或外界環境所提供，觀察發現美國紐約市動物園的雌緬\n甸蟒(Python molurus bivittatus)孵卵的時候，蛇體溫度較環境高約6℃，進一步探討雌緬甸\n蟒孵卵時，若環境溫度下降，其氧氣消耗量與肌肉收縮的關係變化如下圖，下列何者最符\n合此實驗的結論？\n(A) 大部分爬蟲類體溫調節方式為內溫性(endothermy)，少數在特殊狀況下會由內溫性\n轉變為外溫性(ectothermy)\n(B) 雌緬甸蟒肌肉收縮的頻率與氧氣消耗量成正相關，顯示雌緬甸蟒會利用肌肉抖動來\n抑制細胞呼吸作用\n(C) 環境溫度下降造成雌緬甸蟒利用細胞呼吸作用與發抖來產生熱量，此種體溫調節方\n式為內溫性\n(D) 雌緬甸蟒的體溫可利用肌肉收縮與細胞呼吸作用進行調節，故不屬於變溫動物\n(E) 雌緬甸蟒會利用鱗片增厚減少熱量散失與增加細胞呼吸作用以維持體溫",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L2649",
+      "toc_line": 2649,
+      "chapter": 40,
+      "concept": "40.3",
+      "title": "Balancing Heat Loss and Gain",
+      "printed_page": 885,
+      "body_pdf_page": 934,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch40 Basic Principles of Animal Form and Function"
+    },
+    "secondary": [
+      {
+        "id": "L2643",
+        "toc_line": 2643,
+        "chapter": 40,
+        "concept": "40.3",
+        "title": "Endothermy and Ectothermy",
+        "printed_page": 884,
+        "body_pdf_page": 933,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          46
+        ],
+        "chapter_label": "Ch40 Basic Principles of Animal Form and Function"
+      },
+      {
+        "id": "L2646",
+        "toc_line": 2646,
+        "chapter": 40,
+        "concept": "40.3",
+        "title": "Variation in Body Temperature",
+        "printed_page": 884,
+        "body_pdf_page": 933,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          46
+        ],
+        "chapter_label": "Ch40 Basic Principles of Animal Form and Function"
+      }
+    ],
+    "primary_reason": "40.3 / Balancing Heat Loss and Gain：孵卵蟒蛇肌肉收縮與耗氧增加的圖形支持顫抖產熱。",
+    "secondary_reason": "40.3 / Endothermy and Ectothermy：內溫與外溫依熱的來源區分；40.3 / Variation in Body Temperature：變溫與恆溫依體溫變動區分，兩軸不能混為一談。",
+    "answer_analysis": "採C，圖示正相關與情境支持孵卵時的shivering endothermy。本地12印刷888有同一研究圖及結果，印刷887說明調節產熱；不是所有爬蟲類均內溫，也不是只靠體溫恆定便能判定熱源。原題歷史物種名與教材記載照留。",
+    "textbook_evidence": [
+      {
+        "printed_page": 884,
+        "pdf_page": 933,
+        "text_file": "textbook_evidence/pdf-0933.txt",
+        "sha256": "ba9c8e9332c756453d81731243a9157565b253b58c7f17e40c94a2469354c630"
+      },
+      {
+        "printed_page": 885,
+        "pdf_page": 934,
+        "text_file": "textbook_evidence/pdf-0934.txt",
+        "sha256": "7f697a52c0e9f02d8d9c3530e7efb4ccd3fe5508e635857a168f2f4f71242340"
+      },
+      {
+        "printed_page": 886,
+        "pdf_page": 935,
+        "text_file": "textbook_evidence/pdf-0935.txt",
+        "sha256": "6c993d484368f835bed7cc2cdbe60692f9e3da8ffc114dcadf8e8860c1d939f2"
+      },
+      {
+        "printed_page": 887,
+        "pdf_page": 936,
+        "text_file": "textbook_evidence/pdf-0936.txt",
+        "sha256": "e6de38b091c692729e9e9b3b1f4152985c069653046598cec3d7b98f24ac9392"
+      },
+      {
+        "printed_page": 888,
+        "pdf_page": 937,
+        "text_file": "textbook_evidence/pdf-0937.txt",
+        "sha256": "3fd22bbe87bd0d2929ec5d46afa26169529d3deb7bcec32abc0de4d2550b1e3d"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q49",
+    "issue_resolution_index": 48
+  },
+  {
+    "id": "CMU-108-Q50",
+    "school": "CMU",
+    "year": 108,
+    "q": 50,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 50,
+      "pdf_page": 10,
+      "printed_page": 10,
+      "regions": [
+        [
+          40,
+          477.542,
+          565.5,
+          810.25
+        ]
+      ],
+      "image": "questions/Q50.png",
+      "sha256": "deaca9de08acc0885086d427fa96db5dab236e21383cee09d08acaed1a843a56",
+      "width": 1123,
+      "height": 711,
+      "question_text": "50. EcoRI HindIII\nA B C\n假設一段 DNA被限制酵素EcoRI 與 HindIII切成如上圖的三個片段A、B、C，經過電泳\n膠片分離後的結果，與下列何者最相似？\n(A) (B)\nA B C A B C\n㊀ ㊉ ㊀ ㊉\n(C) (D)\nC B A C B A\n㊀ ㊉ ㊀ ㊉\n(E)\nC B A\n㊀ ㊉",
+      "shared_stimulus": false,
+      "composition": "原頁完整題目裁圖"
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 4,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得108生物釋疑PDF7下半部–9；依同年度原答案PDF4採計"
+    },
+    "primary": {
+      "id": "L1238",
+      "toc_line": 1238,
+      "chapter": 20,
+      "concept": "20.1",
+      "title": "Using Restriction Enzymes to Make a Recombinant DNA Plasmid",
+      "printed_page": 419,
+      "body_pdf_page": 468,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        40
+      ],
+      "local_toc_title": "Using Restriction Enzymes to Make a Recombinant Plasmid",
+      "source_difference": "本地文字目錄：Using Restriction Enzymes to Make a Recombinant Plasmid；本輪實看PDF目錄採完整原名：Using Restriction Enzymes to Make a Recombinant DNA Plasmid。原來源檔不改。",
+      "chapter_label": "Ch20 DNA Tools and Biotechnology"
+    },
+    "secondary": [],
+    "primary_reason": "20.1 / Using Restriction Enzymes to Make a Recombinant DNA Plasmid：DNA片段以凝膠電泳按長度分離，短片段朝正極移動較遠。",
+    "secondary_reason": "無另列最小次條目；原圖比例與電泳原理共同支持D；用真實重組質體最小條目收納其電泳技術內容。",
+    "answer_analysis": "原圖A最短、B次短、C明顯較長，DNA負電向+極，應C近起點、B與A在遠端且A更遠；D最符合原片段相對長度與間距。C選項雖順序近似但間距不符；不編造原圖未標的精確鹼基對長度。教材電泳圖在限制酶建立重組質體的最小條目正文內，不是PCR條目，也不自造Gel Electrophoresis目錄葉節點。",
+    "textbook_evidence": [
+      {
+        "printed_page": 419,
+        "pdf_page": 468,
+        "text_file": "textbook_evidence/pdf-0468.txt",
+        "sha256": "786b756245738af10f885f7cef25cf2192ccb858944b0c553788d85fe01e6795"
+      },
+      {
+        "printed_page": 420,
+        "pdf_page": 469,
+        "text_file": "textbook_evidence/pdf-0469.txt",
+        "sha256": "b33c9a1e5cc1a859d09f6ff3930656dcae0f37dec30cf3d884816bce8e776a7e"
+      },
+      {
+        "printed_page": 421,
+        "pdf_page": 470,
+        "text_file": "textbook_evidence/pdf-0470.txt",
+        "sha256": "4070e0aa9ca05552890dd3fe42d64f625a54b7029002899664736420ed8999a7"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "本地Campbell正文支援所列分類原理；原題及同年度釋疑的假設與措辭限制另見科學說明。",
+    "second_review_id": "CMU-108-R2-Q50",
+    "issue_resolution_index": 49
+  }
+]

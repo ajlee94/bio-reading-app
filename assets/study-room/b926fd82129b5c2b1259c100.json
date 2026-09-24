@@ -1,0 +1,202 @@
+[
+  {
+    "id": "S01",
+    "title": "Yoon等（2009）：Paulinella光合胞器的獨立初級起源",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC2685391/"
+    ],
+    "read_scope": "原始研究摘要背景及目標段；已下載HTML並提取聚焦段，未宣稱全篇實讀。",
+    "finding": "Paulinella chromatophora的光合胞器來自另一宗取得藍綠菌的初級內共生；第二宗初級事件不等於次級內共生。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU112官方採計",
+    "captures": [
+      {
+        "kind": "S01-paulinella",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2685391/",
+        "retrieved_at": "2026-09-10T13:39:42.483203+08:00",
+        "http_status": 200,
+        "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2685391/",
+        "content_type": "text/html; charset=utf-8",
+        "path": "審查紀錄/annual_review/TCU-112/official-fetch/S01-paulinella.html",
+        "sha256": "ed9495face7e46a3509c0ccba1928b1f267be0d739a88b16a3e2b794014f3f8a",
+        "bytes": 181310,
+        "status": "FETCHED_HTML",
+        "id": "S01"
+      }
+    ],
+    "authored_evidence_record_sha256": "ddbc9809db2eafbb5c62af60acc0ed88861a959e6bd14d9941c80022afa672a5"
+  },
+  {
+    "id": "S02",
+    "title": "Aman等（2018）：斑馬魚鱗發育原始研究",
+    "urls": [
+      "https://elifesciences.org/articles/37001"
+    ],
+    "read_scope": "正文Introduction的硬骨魚鱗片真皮基質段及摘要；HTML保存，逐字全文未讀。",
+    "finding": "硬骨魚鱗為嵌在真皮中的鈣化細胞外基質；原題把魚鱗一概列表皮衍生物過寬。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU112官方採計",
+    "captures": [
+      {
+        "kind": "S02-fish-scales",
+        "url": "https://elifesciences.org/articles/37001",
+        "retrieved_at": "2026-09-10T13:43:59.167656+08:00",
+        "http_status": 200,
+        "final_url": "https://elifesciences.org/articles/37001",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "審查紀錄/annual_review/TCU-112/official-fetch/S02-fish-scales.html",
+        "sha256": "5155b20c9138462eb8b76c7643f2352effc04c1d33611f181edb001c9241b821",
+        "bytes": 468836,
+        "status": "FETCHED_HTML",
+        "id": "S02"
+      }
+    ],
+    "authored_evidence_record_sha256": "c86c994ce290bb27a8085868e836e99334eddd10cecd80d41c670fee4063a95f"
+  },
+  {
+    "id": "S03",
+    "title": "NCBI ClinVar：CFTR c.1624G>T／Gly542Ter",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/clinvar/variation/7115/"
+    ],
+    "read_scope": "頁首HGVS及Molecular consequence的nonsense欄；原HTML與聚焦讀回雜湊已存。",
+    "finding": "G542X為甘胺酸542改成終止的無義突變，本紀錄只核對變異身分與分子類型。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU112官方採計",
+    "captures": [
+      {
+        "kind": "S03-CFTR",
+        "url": "https://www.ncbi.nlm.nih.gov/clinvar/variation/7115/",
+        "retrieved_at": "2026-09-10T13:43:59.988921+08:00",
+        "http_status": 200,
+        "final_url": "https://www.ncbi.nlm.nih.gov/clinvar/variation/7115/",
+        "content_type": "text/html; charset=utf-8",
+        "path": "審查紀錄/annual_review/TCU-112/official-fetch/S03-CFTR.html",
+        "sha256": "fa350499e892ea53de57c628e6da5a0a250da3da801497f263c57b0dd8dee74b",
+        "bytes": 529128,
+        "status": "FETCHED_HTML",
+        "id": "S03"
+      }
+    ],
+    "authored_evidence_record_sha256": "2b8bdf902f0d4ce91ec7d486aa1be3f2be0a5f4d6c933e3d29ae5a019a6258ec"
+  },
+  {
+    "id": "S04",
+    "title": "Adelaide University真菌學詞彙",
+    "urls": [
+      "https://mycology.adelaide.edu.au/glossary?m=login"
+    ],
+    "read_scope": "web實讀arthroconidium、ascospore、basidiospore、blastoconidium、conidium、sporangiospore、zygospore條目。直接下載SSL失敗，未有原始HTML雜湊；作者讀回紀錄雜湊不可冒作網站原檔雜湊。",
+    "finding": "節生、芽生、分生及孢囊孢子支援無性1、4、5、7；子囊、擔及接合孢子支援有性對照。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU112官方採計",
+    "captures": [
+      {
+        "id": "S04",
+        "url": "https://mycology.adelaide.edu.au/glossary?m=login",
+        "retrieved_at": "2026-09-10T13:50:48.553485+08:00",
+        "status": "FAILED",
+        "error": "<urlopen error [SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1010)>"
+      }
+    ],
+    "authored_evidence_record_sha256": "0efe9ad31828b44a978032e363a4d191a5baeaa71cbeec3aeeff2114d99de618"
+  },
+  {
+    "id": "S05",
+    "title": "Böhm等（2013）：青黴的有性生殖與菌株發展",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3557024/",
+      "https://www.ruhr-uni-bochum.de/imperia/md/content/cd-labor/pnas_boehm_2013.pdf"
+    ],
+    "read_scope": "摘要及Results首節、Fig1圖說，PDF1–2；作者PDF網頁可讀但直接下載SSL失敗，PMC HTML下載成功。",
+    "finding": "Q176×IB08/921在添加biotin的燕麥培養基條件可產可育子囊孢子並具重組證據。論文承認廣義P.chrysogenum內分類差異，不能推及所有Penicillium菌株及條件。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU112官方採計",
+    "captures": [
+      {
+        "id": "S05",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3557024/",
+        "retrieved_at": "2026-09-10T13:50:49.095912+08:00",
+        "http_status": 200,
+        "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3557024/",
+        "path": "審查紀錄/annual_review/TCU-112/official-fetch/S05.html",
+        "sha256": "167242db9c68ae395c287e98efe2414f309855fd87e63bbab7506d33656db3cf",
+        "status": "FETCHED_HTML"
+      }
+    ],
+    "authored_evidence_record_sha256": "ed9e6469e2c400e606ef947644eaf1bf690a3ffbb7aa56075db15367ace497df"
+  },
+  {
+    "id": "S06",
+    "title": "Hagman等：Analysis of the yeast short-term Crabtree effect and its origin",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4240471/"
+    ],
+    "read_scope": "原始實驗摘要，十種酵母在有氧及限葡萄糖培養後加糖的比較；已存HTML。",
+    "finding": "部分酵母有氧仍快速累積乙醇。研究是葡萄糖條件，不當作TCU112Q5麥芽糖的實驗重現。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU112官方採計",
+    "captures": [
+      {
+        "id": "S06",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4240471/",
+        "retrieved_at": "2026-09-10T13:50:50.000056+08:00",
+        "http_status": 200,
+        "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4240471/",
+        "path": "審查紀錄/annual_review/TCU-112/official-fetch/S06.html",
+        "sha256": "9a2a1ca25fbe48b9f5ab17e1fb15284832c497882bd54d4b2cb9f15751da3d2f",
+        "status": "FETCHED_HTML"
+      }
+    ],
+    "authored_evidence_record_sha256": "b088900d9f9a972dc4276993a90dd27624789f4997b6de8a60a8d7b14065cad5"
+  },
+  {
+    "id": "S07",
+    "title": "WHO：COVID-19傳播及Zika事實資料",
+    "urls": [
+      "https://www.who.int/news-room/questions-and-answers/item/coronavirus-disease-covid-19-how-is-it-transmitted",
+      "https://www.who.int/news-room/fact-sheets/detail/zika-virus",
+      "https://cdn.who.int/media/docs/default-source/biologicals/ecbs/bs-2020-2402-sars-cov-2-rna-17-nov-2020.pdf?download=true&sfvrsn=1f6e6d86_2"
+    ],
+    "read_scope": "2021-12-23 COVID-19傳播Q&A、2025-11-06 Zika傳播及RNA檢測段已存HTML；2020 WHO SARS-CoV-2 RNA文件Introduction以web檢索讀回，未另下載。",
+    "finding": "COVID-19經呼吸粒子傳播，Zika主要蚊媒且也有其他途徑；兩者RNA身分支援題目丙丁錯誤。資料更新日期不改變112年題幹最近15年的時間範圍。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU112官方採計",
+    "captures": [
+      {
+        "id": "S07",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/coronavirus-disease-covid-19-how-is-it-transmitted",
+        "retrieved_at": "2026-09-10T13:50:50.849706+08:00",
+        "http_status": 200,
+        "final_url": "https://www.who.int/news-room/questions-and-answers/item/coronavirus-disease-covid-19-how-is-it-transmitted",
+        "path": "審查紀錄/annual_review/TCU-112/official-fetch/S07-covid.html",
+        "sha256": "73a5afd27a31f71b1ab89ceb56a20bc73f30f3dc3aa1b135d6e0d6edd67607fc",
+        "status": "FETCHED_HTML"
+      },
+      {
+        "id": "S07",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/zika-virus",
+        "retrieved_at": "2026-09-10T13:50:51.282644+08:00",
+        "http_status": 200,
+        "final_url": "https://www.who.int/news-room/fact-sheets/detail/zika-virus",
+        "path": "審查紀錄/annual_review/TCU-112/official-fetch/S07-zika.html",
+        "sha256": "d51eb24309d4c97eda4ada6add96f3918436a4430277c3a515c12b688ffc531f",
+        "status": "FETCHED_HTML"
+      }
+    ],
+    "authored_evidence_record_sha256": "5db8a99dd2a7f46a4c5dfd691365e6f98dc6be89ae9789b6bb159eb424d63151"
+  },
+  {
+    "id": "S08",
+    "title": "Wilkie等（2002）：神經脊黑色素細胞譜系原始研究",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/12091305/"
+    ],
+    "read_scope": "PubMed原始研究摘要，神經脊melanoblast為皮膚、毛髮色素細胞前驅；web實讀，沒有聲稱出版商全文已下載。",
+    "finding": "補足Campbell器官形成段未直接列出的皮膚色素前驅來源，支持Q3A；不把眼部所有色素細胞都歸同一來源。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU112官方採計",
+    "captures": [],
+    "authored_evidence_record_sha256": "d6d9ed93fc88bb17c70c0562cd70e0ef843704e74e9591ba347eba8c57200342"
+  }
+]

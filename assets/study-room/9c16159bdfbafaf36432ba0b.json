@@ -1,0 +1,1589 @@
+[
+  {
+    "review_id": "CMU-111-R2-Q01",
+    "q": 1,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 2,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L1774",
+    "secondary_confirmed": [
+      "L0110"
+    ],
+    "textbook_pages_checked": [
+      588,
+      584,
+      31
+    ],
+    "alternative_checked": "2.2同位素應否取代27.6病原診斷；A是否唯一可用檢驗。",
+    "finding": "本地588病原細菌與31同位素分別支援臨床主題和示蹤次題；官方釋疑的快速非侵入限定未寫入原題，仍按A採計並保留其他方法用途。確認27.6主、2.2次。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q02",
+    "q": 2,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 2,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L2840",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      945,
+      946
+    ],
+    "alternative_checked": "呼吸調控神經回饋與橫膈機械通氣何者主導。",
+    "finding": "945–946描述負壓通氣及橫膈方向，B錯誤不需依靠神經反射知識；保留安靜與用力呼氣適用範圍，確認42.6的哺乳類呼吸條目。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q03",
+    "q": 3,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 2,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L1709",
+    "secondary_confirmed": [
+      "L1751"
+    ],
+    "textbook_pages_checked": [
+      574,
+      575,
+      584
+    ],
+    "alternative_checked": "一般繁殖Reproduction和Cell-Surface Structures的最小條目邊界。",
+    "finding": "重新定位575內生孢子段，實際位於細胞表面構造脈絡；584類群及公衛署非產孢資料核實Pseudomonas，改採1709主、1751次，不把內生孢子作繁殖方式。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q04",
+    "q": 4,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 2,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L2896",
+    "secondary_confirmed": [
+      "L2886"
+    ],
+    "textbook_pages_checked": [
+      959,
+      963,
+      964
+    ],
+    "alternative_checked": "B細胞抗原辨識與B細胞抗原呈現混淆。",
+    "finding": "963–964的MHC II呈現與959 T細胞辨識互補；題問表現MHC II的細胞，C符合，不用B受體直接結合條目替代呈現機制。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q05",
+    "q": 5,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 2,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L2899",
+    "secondary_confirmed": [
+      "L2889"
+    ],
+    "textbook_pages_checked": [
+      964,
+      965,
+      966,
+      960,
+      961
+    ],
+    "alternative_checked": "類型轉換是否與B/T均有V(D)J重組混為一事。",
+    "finding": "966區分抗體重鏈恆定區、960–961說明兩類受體多樣化，TFH研究補足AID；維持B並保留43.2發育次條目，未宣稱T細胞可切換抗體類別。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q06",
+    "q": 6,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 2,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L1196",
+    "secondary_confirmed": [
+      "L1202"
+    ],
+    "textbook_pages_checked": [
+      401,
+      404,
+      405
+    ],
+    "alternative_checked": "19.2動物病毒流程或一般生活史何者更直接。",
+    "finding": "題幹問基本六步，401一般循環為主，404–405動物病毒細節為次；逐一核對V、II、VI、III、IV、I與官方D相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q07",
+    "q": 7,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 2,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L2743",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      915,
+      916,
+      917
+    ],
+    "alternative_checked": "僅因胰島荷爾蒙而列45章是否優於41.5。",
+    "finding": "另實看TOC PDF46與正文PDF965／印刷916，41.5 Regulation of Energy Storage直接含α／β細胞及血糖圖，確定2743，不採不存在的2744條目。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q08",
+    "q": 8,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 3,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L1196",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      401
+    ],
+    "alternative_checked": "MB-02細胞株名稱能否推翻B19主要紅系嗜性。",
+    "finding": "釋疑PDF9及MB-02原研究分化條件相互核對，5–10日Epo誘導的紅系狀態支持複製，不能等同血小板母細胞；主歸19.2宿主範圍，B維持。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q09",
+    "q": 9,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 3,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L2908",
+    "secondary_confirmed": [
+      "L2911"
+    ],
+    "textbook_pages_checked": [
+      968,
+      969
+    ],
+    "alternative_checked": "原圖HBcAg能否默默換成CDC檢驗欄HBsAg。",
+    "finding": "重看原卷PDF3確認A與B印HBcAg；將原文保存，另列CDC標準HBsAg／anti-HBc／anti-HBs三項組合，疫苗免疫主歸43.3，官方A不變。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q10",
+    "q": 10,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 3,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L1189",
+    "secondary_confirmed": [
+      "L1212"
+    ],
+    "textbook_pages_checked": [
+      399,
+      400,
+      408,
+      409
+    ],
+    "alternative_checked": "無套膜是否能證明所有70%酒精均對腺病毒無效。",
+    "finding": "399–400結構比較及CDC分別對乙醇、異丙醇的說明已消除過度推論；19.1結構為主，19.3疾病防治為次，官方A僅按題目相對比較。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q11",
+    "q": 11,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 3,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L3271",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      1096,
+      1097,
+      1098
+    ],
+    "alternative_checked": "聽覺皮質定位應列49章或50章耳部轉導。",
+    "finding": "實看教材圖49.16，Temporal lobe與Auditory cortex位置明確；題目無耳蝸轉導機制，確認49.3 Information Processing而不以50章替代。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q12",
+    "q": 12,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 3,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L2870",
+    "secondary_confirmed": [
+      "L2899"
+    ],
+    "textbook_pages_checked": [
+      955,
+      956,
+      965,
+      966
+    ],
+    "alternative_checked": "C3與C5轉換酶組成及C3b2Bb記法。",
+    "finding": "重看原圖羅馬數字及下標，經典C4b2a3b、替代C3b2Bb是I、III，與官方D一致；補體先天反應為主，抗體啟動補體為次，配方不冒稱全載於Campbell。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q13",
+    "q": 13,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 3,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B或D",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L0450",
+    "secondary_confirmed": [
+      "L0443",
+      "L0440"
+    ],
+    "textbook_pages_checked": [
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138
+    ],
+    "alternative_checked": "只沿用原B是否漏掉官方更正D；主動與被動條目是否都保留。",
+    "finding": "原圖PDF3及釋疑PDF9確認B或D皆給分；132–138分辨離子主動吸收、水滲透及共運輸。正式採計雙答案，7.4主動為主並保存7.3兩個最小次條目，沒有刪除D來降低歧義。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q14",
+    "q": 14,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 3,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L1791",
+    "secondary_confirmed": [
+      "L1837",
+      "L1807",
+      "L1804"
+    ],
+    "textbook_pages_checked": [
+      594,
+      597,
+      600,
+      601,
+      612
+    ],
+    "alternative_checked": "D未包含III是否代表滴蟲不是原生動物。",
+    "finding": "597、600–601、612分別確認滴蟲、錐蟲、變形蟲；四個提供配對中僅D不含線蟲II，保留三個類群次條目，不從答案反推III為假。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q15",
+    "q": 15,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 3,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L1774",
+    "secondary_confirmed": [
+      "L1709"
+    ],
+    "textbook_pages_checked": [
+      588,
+      574,
+      575
+    ],
+    "alternative_checked": "Opa是否可直接等同教材的菌毛。",
+    "finding": "575表面附著僅作功能框架，原始淋菌研究支援Opa／CEACAM；敘明Opa外膜蛋白與菌毛不同，27.6主、27.1次證據範圍清楚。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q16",
+    "q": 16,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 4,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L0974",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      308,
+      309
+    ],
+    "alternative_checked": "兩條X是否被誤讀成只有46,XX；典型與全部核型界線。",
+    "finding": "308–309核型說明支持典型47,XXY；答案D不排除額外Y，唐氏21三體與白化症干擾項也核對，分類15.4確定。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q17",
+    "q": 17,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 4,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L3114",
+    "secondary_confirmed": [
+      "L3104"
+    ],
+    "textbook_pages_checked": [
+      1032,
+      1033,
+      1034,
+      1035,
+      1036
+    ],
+    "alternative_checked": "卵黃囊、絨毛膜與子宮週期是否混合來源。",
+    "finding": "1034–1036確認胎兒絨毛膜與母體內膜，1032–1033週期分期另列次；原C錯誤明確，46.5胎盤發育優先於46.4週期。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q18",
+    "q": 18,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 4,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L2896",
+    "secondary_confirmed": [
+      "L2899"
+    ],
+    "textbook_pages_checked": [
+      963,
+      964,
+      965,
+      966
+    ],
+    "alternative_checked": "TFH與Th1、樹突細胞是否混同；SHM與親和力成熟方向。",
+    "finding": "963–966加TFH原始研究支持C，記錄AID突變及選擇共同造成成熟，不照抄釋疑簡化因果；43.3輔助T與B反應兩個條目分別保存。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q19",
+    "q": 19,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 4,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L0132",
+    "secondary_confirmed": [
+      "L2883",
+      "L0268"
+    ],
+    "textbook_pages_checked": [
+      38,
+      39,
+      81,
+      958,
+      959
+    ],
+    "alternative_checked": "抗體內部共價鍵是否等同抗原結合界面鍵。",
+    "finding": "38–39弱相互作用、81蛋白質結構與958–959抗原位點分開核對；本題問結合界面排除A，化學作用力主2.3，免疫辨識與蛋白結構為次。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q20",
+    "q": 20,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 4,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L1751",
+    "secondary_confirmed": [
+      "L1715",
+      "L1196"
+    ],
+    "textbook_pages_checked": [
+      584,
+      401,
+      577
+    ],
+    "alternative_checked": "專性胞內寄生能否直接歸成病毒；自主脂質合成是否等於自由生活。",
+    "finding": "584細菌類群、577核糖體、401病毒依賴及磷脂原始研究共同確認細菌分類；官方D保留，但不把能合成部分物質擴大為無宿主即可生長。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q21",
+    "q": 21,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 4,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L1751",
+    "secondary_confirmed": [
+      "L1709"
+    ],
+    "textbook_pages_checked": [
+      574,
+      575,
+      584
+    ],
+    "alternative_checked": "S. aureus具名是否使coagulase完全不適用的說法失真。",
+    "finding": "ASM觸酶實驗支持B為快速常用屬級分辨；原題點名金葡菌，故保留凝固酶的物種辨識價值。分類27.4細菌表型確定，非以「C毫無用途」消除疑義。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q22",
+    "q": 22,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 4,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L1777",
+    "secondary_confirmed": [
+      "L1709"
+    ],
+    "textbook_pages_checked": [
+      574,
+      575,
+      588,
+      589
+    ],
+    "alternative_checked": "所有β-lactamase是否均能分解每一種頭孢菌素。",
+    "finding": "574–575細胞壁與588–589抗藥性配合CDC環水解定義，I／II屬β-lactam，仍保留酶受質範圍差異；主條目抗藥性比一般細胞壁更切題。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q23",
+    "q": 23,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 4,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L3574",
+    "secondary_confirmed": [
+      "L3531",
+      "L3584"
+    ],
+    "textbook_pages_checked": [
+      1191,
+      1192,
+      1202,
+      1203,
+      1204,
+      1207,
+      1208
+    ],
+    "alternative_checked": "釋疑排除transect是否可擴成不能估計蝴蝶豐度。",
+    "finding": "1191–1192抽樣假設與蝴蝶研究顯示方法各有條件；1202–1204及1207–1208確認密度依賴與人口轉型。保留官方B及釋疑方法界線，不改寫原題「最佳」。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q24",
+    "q": 24,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 5,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L1202",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      404,
+      405,
+      406
+    ],
+    "alternative_checked": "DNA病毒HBV需RT是否矛盾；enteric與Enterovirus是否可互換。",
+    "finding": "ICTV記載pgRNA反轉錄；404–406提供動物病毒複製框架。I、III為官方B，未把HBV列入反轉錄病毒科，亦保留題文中文／英文範圍不同。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q25",
+    "q": 25,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 5,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L1221",
+    "secondary_confirmed": [
+      "L1212"
+    ],
+    "textbook_pages_checked": [
+      412,
+      413,
+      408
+    ],
+    "alternative_checked": "把耐一般消毒寫成任何滅菌皆不可能是否合理。",
+    "finding": "412–413prion與CDC SSPE病例區分蛋白感染和麻疹病毒後果，CDC存在prion專用去污規範；正式D不變，19.3兩個最小條目完整。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q26",
+    "q": 26,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 5,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L1212",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      405,
+      408
+    ],
+    "alternative_checked": "神經病理線索是否應使主分類跳到神經系統。",
+    "finding": "CDC把蝙蝠、吞嚥症狀及Negri小體連結狂犬病毒，題目目標為病原辨識；19.3動物病毒疾病為主，潛伏期不由「回家後」推成當天。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q27",
+    "q": 27,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 5,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L0892",
+    "secondary_confirmed": [
+      "L1362"
+    ],
+    "textbook_pages_checked": [
+      280,
+      281,
+      463,
+      464
+    ],
+    "alternative_checked": "Hox發育基因與孟德爾多效性哪個是所問原理。",
+    "finding": "280–281一基因多性狀最直接，463–464 Hox僅具名背景；小鼠圖譜不當成人類全部功能驗證，不混入Hox-7／Msx1，14.3主、21.6次確定。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q28",
+    "q": 28,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 5,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L2199",
+    "secondary_confirmed": [
+      "L2202"
+    ],
+    "textbook_pages_checked": [
+      730,
+      731,
+      732
+    ],
+    "alternative_checked": "單一骨盆連接是否為所有過渡化石的排他性診斷。",
+    "finding": "730–732及2024 Tiktaalik軸骨研究支持承重演化的連續性；C仍為題目最佳線索，保留具指四肢等整體診斷及化石軟組織限制，34.4主次無疑義。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q29",
+    "q": 29,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 5,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L0898",
+    "secondary_confirmed": [
+      "L0895"
+    ],
+    "textbook_pages_checked": [
+      281,
+      282,
+      283
+    ],
+    "alternative_checked": "h²與H²分子、個體與族群解釋是否混淆。",
+    "finding": "281–283基因環境及累加效果，外部原文VA/VP對VG/VP，核實D；真實TOC用14.3環境與多基因條目，沒有自行創造遺傳率目錄。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q30",
+    "q": 30,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 5,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L0362",
+    "secondary_confirmed": [
+      "L0368"
+    ],
+    "textbook_pages_checked": [
+      109,
+      110,
+      111
+    ],
+    "alternative_checked": "有色體是否可由質體身分一律推成成熟時仍轉譯。",
+    "finding": "109–111提供起源與質體類型，番茄與水仙研究提示發育依賴差異；C代表可發生而非所有有色體必然同等活躍，6.5主次均有證據。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q31",
+    "q": 31,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 6,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L0830",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      258,
+      259
+    ],
+    "alternative_checked": "配子生活史是否被錯當成雙世代交替；2n是否一定稱孢子體。",
+    "finding": "258–259三種生活史與釋疑對讀，C符合gametic meiosis；釋疑鬆用孢子體的用語原樣保留但分析修正，13.2 life cycles最直接。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q32",
+    "q": 32,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 6,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L1452",
+    "secondary_confirmed": [
+      "L1465"
+    ],
+    "textbook_pages_checked": [
+      486,
+      487,
+      493,
+      494,
+      497,
+      498
+    ],
+    "alternative_checked": "族群喙形改變能否直接證明已種化。",
+    "finding": "新讀487完整達爾文雀乾旱段落，遺傳性喙形頻率跨代改變即microevolution；未有生殖隔離證據，23.3天擇主、23.4方向性效果次，D確定。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q33",
+    "q": 33,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 6,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L2300",
+    "secondary_confirmed": [
+      "L2359"
+    ],
+    "textbook_pages_checked": [
+      768,
+      769,
+      787,
+      788
+    ],
+    "alternative_checked": "原圖I–IV區域、分裂類型與共用右圖是否完整。",
+    "finding": "教材768根縱切圖和787–788兩路徑確認I成熟／II伸長／III有絲分裂／IV根冠；題組裁圖留兩題與全圖，35.3主、36.2次，A確定。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q34",
+    "q": 34,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 6,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L2378",
+    "secondary_confirmed": [
+      "L2300"
+    ],
+    "textbook_pages_checked": [
+      792,
+      793,
+      768,
+      769
+    ],
+    "alternative_checked": "卡氏帶與晚期木栓質層是否混為同一材料及區域。",
+    "finding": "792–793內皮路徑、768–769成熟區和Arabidopsis原始研究逐項區分，I區定位不變；保留教材suberin和研究lignin範圍，主36.3、次35.3。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q35",
+    "q": 35,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 6,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L0343",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      104,
+      105
+    ],
+    "alternative_checked": "肝臟解毒是否應以器官而非胞器功能分類。",
+    "finding": "104明載平滑ER、肝細胞及羥基增加水溶性；題幹聚焦胞器比較，6.4 ER直接完整，未把所有解毒反應概括為單一胞器。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q36",
+    "q": 36,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 6,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L1465",
+    "secondary_confirmed": [
+      "L1498",
+      "L1501"
+    ],
+    "textbook_pages_checked": [
+      497,
+      498,
+      511,
+      512,
+      513,
+      514,
+      515
+    ],
+    "alternative_checked": "選擇類型或種化途徑何者應主列；「最不可能」是否變成「絕不」。",
+    "finding": "497–498直接比較穩定／分歧天擇，511–515支援隔離與多倍化。保留相對可能性與先驅者效應非充分條件，23.4主、24.2兩次條目確認。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q37",
+    "q": 37,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 7,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L0349",
+    "secondary_confirmed": [
+      "L0355"
+    ],
+    "textbook_pages_checked": [
+      107,
+      108,
+      109
+    ],
+    "alternative_checked": "內膜系統是否必須連續一張膜；溶酶體輸入途徑。",
+    "finding": "107–109的溶酶體與內膜交通支持ER→Golgi來源，故6.4 Lysosomes為主、綜合內膜條目為次，不以鈣儲存或運動干擾項新增章。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q38",
+    "q": 38,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 7,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L1754",
+    "secondary_confirmed": [
+      "L1715",
+      "L1078"
+    ],
+    "textbook_pages_checked": [
+      585,
+      586,
+      577,
+      355,
+      356
+    ],
+    "alternative_checked": "可否把官方C改為科學完全正確，或將原D「轉譯」改成「轉錄」。",
+    "finding": "重看原卷PDF7逐字核對，C皆多順反子／無修飾與古菌mRNA加工研究不符；D確印轉譯。585–586和577、355–356確定細菌／古菌比較主27.4及基因表達次17.4，答案C與科學缺陷分欄保留。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q39",
+    "q": 39,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 7,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L0662",
+    "secondary_confirmed": [
+      "L0656"
+    ],
+    "textbook_pages_checked": [
+      197,
+      198,
+      199,
+      200
+    ],
+    "alternative_checked": "C的Pq是否完全不帶質子；D方向是否倒置。",
+    "finding": "197–200的電子流與跨膜質子圖確認腔→基質經ATP synthase；Pq亦參與質子耦合，不能用錯誤否定C的全部功能。10.2化學滲透主、線性電子流次，D採計。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q40",
+    "q": 40,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 7,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L0346",
+    "secondary_confirmed": [
+      "L0391",
+      "L0343"
+    ],
+    "textbook_pages_checked": [
+      105,
+      106,
+      118,
+      119
+    ],
+    "alternative_checked": "ECM是否被改稱胞內胞器，糖基化是否只限Golgi。",
+    "finding": "105–106及118–119分辨ER起始、Golgi加工、細胞外糖蛋白，釋疑D保留；6章三個最小主次條目均保存，章統計只計一次。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q41",
+    "q": 41,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 7,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L1830",
+    "secondary_confirmed": [
+      "L0830"
+    ],
+    "textbook_pages_checked": [
+      610,
+      611,
+      258,
+      259
+    ],
+    "alternative_checked": "Ulva世代同形能否證明配子同形。",
+    "finding": "重看原卷PDF7及物種名，Melkonian1980物種原始研究為稍異配；保留A官方採計和isomorphic／isogamous兩概念區隔。綠藻28.5主與生活史13.2次已確定，不假裝來源無衝突。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q42",
+    "q": 42,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 8,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L1052",
+    "secondary_confirmed": [
+      "L1059"
+    ],
+    "textbook_pages_checked": [
+      342,
+      343,
+      344,
+      345
+    ],
+    "alternative_checked": "V是否被誤作整條轉錄終止，導致加蓋時機錯置。",
+    "finding": "342–345轉錄泡、RNA末端加工對讀，V為局部DNA回配及RNA移出；A順序按RNA出口相依關係成立，明載加蓋可在早期轉錄中發生，17.2主、17.3次。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q43",
+    "q": 43,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 8,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L1120",
+    "secondary_confirmed": [
+      "L1126"
+    ],
+    "textbook_pages_checked": [
+      370,
+      371,
+      373,
+      374,
+      375,
+      376
+    ],
+    "alternative_checked": "「調節蛋白」是否足以推出所有對應基因都恆定。",
+    "finding": "370–376區分housekeeping、特定因子及差異表達；Roeder2009只支援指定植物SAM相關變化，不能證明所有D。官方D和普遍性不足分開保存，分類18.2明確。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q44",
+    "q": 44,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 8,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L1346",
+    "secondary_confirmed": [
+      "L1333"
+    ],
+    "textbook_pages_checked": [
+      452,
+      453,
+      455,
+      456
+    ],
+    "alternative_checked": "基因家族題應列多基因遺傳，還是重複後偽基因化。",
+    "finding": "452–456及嗅覺受器原始比較研究支持突變失活／偽基因差異，並非多基因控制一性狀的孟德爾題；21.5主、21.4次，原題不明計數口徑照存。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q45",
+    "q": 45,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 8,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L1728",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      579,
+      580
+    ],
+    "alternative_checked": "轉型、轉導、轉錄三個同音近義術語是否混淆。",
+    "finding": "579–580裸露DNA攝取與噬菌體媒介區分清楚；D是原題預期的整合情境，27.2 Genetic Recombination為真實最小TOC，未虛構正文小標為目錄。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q46",
+    "q": 46,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 9,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L1488",
+    "secondary_confirmed": [
+      "L1399"
+    ],
+    "textbook_pages_checked": [
+      507,
+      508,
+      509,
+      473,
+      474,
+      475
+    ],
+    "alternative_checked": "人為分籠是否代表品種已具內在生殖隔離。",
+    "finding": "507–509棲地隔離與473–475人工選擇對照，僅按空間分開作A類比；沒有升格為不同物種，24.1主、22.2次。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q47",
+    "q": 47,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 9,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L1445",
+    "secondary_confirmed": [
+      "L0911"
+    ],
+    "textbook_pages_checked": [
+      490,
+      491,
+      492,
+      285,
+      286
+    ],
+    "alternative_checked": "罹病率與隱性等位基因率是否漏開平方根。",
+    "finding": "重新以81/1000000求q²，q=0.009，p=0.991，核對原圖選項C；題組共享保留，疾病敘述與當代預後分開。23.2主、14.4次。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q48",
+    "q": 48,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 9,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L1452",
+    "secondary_confirmed": [
+      "L1445"
+    ],
+    "textbook_pages_checked": [
+      493,
+      494,
+      490,
+      491,
+      492
+    ],
+    "alternative_checked": "釋疑0.17838與0.017838差異是否影響官方答案；選汰後有否重新正規化。",
+    "finding": "重看釋疑PDF14，前文十倍小數筆誤、後式正確。以p²+2pq的生殖個體分母獨立計算p′=0.99108028、q′=0.00891972，D吻合；完全aa不繁殖為模型假設，23.3主、23.2次。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q49",
+    "q": 49,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 9,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L1557",
+    "secondary_confirmed": [
+      "L1570",
+      "L0242"
+    ],
+    "textbook_pages_checked": [
+      529,
+      532,
+      533,
+      534,
+      535,
+      70,
+      71,
+      72
+    ],
+    "alternative_checked": "按單一代表類群排分子起源是否超過化石證據。",
+    "finding": "529及532–535生命史與70–72多醣對照；化石海綿幾丁質研究否定一分子僅屬一門類的預設。官方B作考試代表序列，實際四分子最早起源未被證明，分類25.2／25.3與5.2已解決。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-111-R2-Q50",
+    "q": 50,
+    "reviewer": "Codex /root",
+    "method": "同一執行者的非盲證據覆核：依完整原圖首輪讀取、同年度答案釋疑、另行提取的教材正文及列示外部查證比較備選分類；逐題另存，非外部第二位審查者，不宣稱第二次全部重開原圖。",
+    "original_image_page": 9,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "primary_confirmed": "L1896",
+    "secondary_confirmed": [
+      "L1893"
+    ],
+    "textbook_pages_checked": [
+      631,
+      632,
+      633,
+      634,
+      641,
+      647,
+      648
+    ],
+    "alternative_checked": "石炭紀釋疑的被子植物年代及Rhynie Chert用法是否照單全收。",
+    "finding": "重看釋疑PDF14與教材631–634、647–648，保留被子植物年代及松葉蕨來源差異；大型無種子維管森林支援B，29.3意義為主、分類為次，不改官方史料。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  }
+]

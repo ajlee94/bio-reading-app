@@ -1,0 +1,246 @@
+{
+  "question": {
+    "path": "78de120bbdc523024f859fb1.pdf",
+    "sha256": "c34bdc39b59fba73e06ee718bfca5da2ca26fecc6f9ee5830fa9e3b82f078a67",
+    "pdf_pages": 10,
+    "inventory_category": "biology_question",
+    "scope_status": "ALL_TEN_FULL_PAGES_VISUALLY_READ",
+    "subject": "生物學",
+    "question_count": 50,
+    "cover_pdf_page": 1,
+    "biology_pdf_pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "printed_pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "text_layer": true,
+    "cross_page_questions": {},
+    "shared_questions": [
+      32,
+      33,
+      34
+    ],
+    "figure_questions": [
+      3,
+      9,
+      13,
+      14,
+      16,
+      20,
+      23,
+      27,
+      32,
+      33,
+      34
+    ],
+    "scope_note": "本輪實看題本全部10頁，PDF2–10連續Q1–50。Q32–34共享題幹、株高圖、GA路徑與基因表均在每題重複保存；無跨頁題。Q23樹狀圖至頁底，不能依最後文字位置截短。",
+    "local_acquisition": {
+      "source": "本地TCU109同年壓縮包解出之校方試卷／答案／公告；本轮以清冊、頁首、頁數、題號驗證",
+      "package_path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/schools/TCU/packages/TCU_109_biology_archive.rar",
+      "package_sha256": "5974643b296a7a26f57d3d196019873332e308424ed4f23052bb816f1da77965",
+      "inventory_path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/extracted_packages_inventory.csv",
+      "inventory_sha256": "280d2bc8f91ec869bda3500a48c733e0ab0fb17f821cdc03e7b5f29751096347"
+    },
+    "current_official_access": {
+      "id": "official-question",
+      "url": "https://admissions.tcu.edu.tw/wp-content/uploads/2020/05/109%E5%BE%8C%E4%B8%AD%E9%86%AB_%E7%94%9F%E7%89%A9%E5%AD%B8%E8%A9%A6%E9%A1%8C%E5%85%AC%E5%91%8A%E7%94%A8.pdf",
+      "checked_at": "2026-09-10T16:18:07.641600+08:00",
+      "final_url": "https://admissions.tcu.edu.tw/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "status": "OFFICIAL_OLD_PDF_URL_REDIRECTED_TO_HTML",
+      "path": "審查紀錄/annual_review/TCU-109/downloads/official-question-e0d58e2bab11.html",
+      "sha256": "e0d58e2bab11e0e0fe89bd7c88dd87fd3cde484e5ff499aa34e81b7b525a9e08",
+      "bytes": 85074,
+      "scope": "本輪實際回應；HTML首頁不算題本成功下載。"
+    }
+  },
+  "answer": {
+    "path": "b8ee7e784cc45597a2ec84cc.pdf",
+    "sha256": "4316713fe91efc7aefa3d232df63fe8d9f73f6d1026fec37d3b5a1a81221fc07",
+    "pdf_pages": 1,
+    "inventory_category": "biology_answer",
+    "scope_status": "ALL_50_ANSWERS_VISUALLY_READ",
+    "biology_pdf_pages": [
+      1
+    ],
+    "local_acquisition": {
+      "source": "本地TCU109同年壓縮包解出之校方試卷／答案／公告；本轮以清冊、頁首、頁數、題號驗證",
+      "package_path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/schools/TCU/packages/TCU_109_biology_archive.rar",
+      "package_sha256": "5974643b296a7a26f57d3d196019873332e308424ed4f23052bb816f1da77965",
+      "inventory_path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/extracted_packages_inventory.csv",
+      "inventory_sha256": "280d2bc8f91ec869bda3500a48c733e0ab0fb17f821cdc03e7b5f29751096347"
+    },
+    "current_official_access": {
+      "id": "official-answer",
+      "url": "https://admissions.tcu.edu.tw/wp-content/uploads/2020/05/109%E5%8F%83%E8%80%83%E7%AD%94%E6%A1%88_%E7%94%9F%E7%89%A9%E5%AD%B8%E5%85%AC%E5%91%8A%E7%94%A8.pdf",
+      "checked_at": "2026-09-10T16:16:26.750185+08:00",
+      "final_url": "https://admissions.tcu.edu.tw/wp-content/uploads/2020/05/109%E5%8F%83%E8%80%83%E7%AD%94%E6%A1%88_%E7%94%9F%E7%89%A9%E5%AD%B8%E5%85%AC%E5%91%8A%E7%94%A8.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "status": "OFFICIAL_PDF_DOWNLOADED_IDENTICAL",
+      "path": "審查紀錄/annual_review/TCU-109/downloads/official-answer-4316713fe91e.pdf",
+      "sha256": "4316713fe91efc7aefa3d232df63fe8d9f73f6d1026fec37d3b5a1a81221fc07",
+      "bytes": 62478,
+      "scope": "同年度PDF下載成功且與本地逐位元一致。"
+    }
+  },
+  "clarification": {
+    "path": "e0764e062aec963595050ef5.pdf",
+    "sha256": "69870365d8c148db2391e5f0c96dafa2957ec6534eb918aff79f9ec17ec2ca58",
+    "pdf_pages": 4,
+    "inventory_category": "clarification",
+    "scope_status": "ALL_FOUR_PAGES_VISUALLY_READ",
+    "biology_pdf_pages": [
+      2,
+      3,
+      4
+    ],
+    "biology_questions": {
+      "3": [
+        2
+      ],
+      "5": [
+        2
+      ],
+      "11": [
+        3
+      ],
+      "13": [
+        3
+      ],
+      "14": [
+        3
+      ],
+      "16": [
+        3
+      ],
+      "35": [
+        4
+      ],
+      "37": [
+        4
+      ],
+      "49": [
+        4
+      ],
+      "50": [
+        4
+      ]
+    },
+    "official_corrections": {
+      "5": "C或D"
+    },
+    "dispositions": {
+      "3": "維持原答案",
+      "5": "修正正確答案為C或D",
+      "11": "維持原答案",
+      "13": "維持原答案",
+      "14": "維持原答案",
+      "16": "維持原答案",
+      "35": "維持原答案",
+      "37": "維持原答案",
+      "49": "維持原答案",
+      "50": "維持原答案"
+    },
+    "excluded": "PDF1國文、化學及英文全部排除；PDF2英文12續段及英文28排除。化學15改D不是生物15更正。",
+    "scope_note": "109.6.8更新版共4頁，生物10題；Q5明示改為C或D，另9題維持。其餘40題未列本輪取得公告，不宣稱沒有其他公告。Q11、14、35、49、50敘述限制另存。",
+    "local_acquisition": {
+      "source": "本地TCU109同年壓縮包解出之校方試卷／答案／公告；本轮以清冊、頁首、頁數、題號驗證",
+      "package_path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/schools/TCU/packages/TCU_109_biology_archive.rar",
+      "package_sha256": "5974643b296a7a26f57d3d196019873332e308424ed4f23052bb816f1da77965",
+      "inventory_path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/extracted_packages_inventory.csv",
+      "inventory_sha256": "280d2bc8f91ec869bda3500a48c733e0ab0fb17f821cdc03e7b5f29751096347"
+    },
+    "current_official_access": {
+      "id": "official-clarification",
+      "url": "https://admissions.tcu.edu.tw/wp-content/uploads/2020/06/109%E9%87%8B%E7%96%91%E7%B5%90%E6%9E%9C%EF%BC%88%E6%9B%B4%E6%96%B0%E7%89%88%EF%BC%89.pdf",
+      "checked_at": "2026-09-10T16:16:26.751184+08:00",
+      "final_url": "https://admissions.tcu.edu.tw/wp-content/uploads/2020/06/109%E9%87%8B%E7%96%91%E7%B5%90%E6%9E%9C%EF%BC%88%E6%9B%B4%E6%96%B0%E7%89%88%EF%BC%89.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "status": "OFFICIAL_PDF_DOWNLOADED_IDENTICAL",
+      "path": "審查紀錄/annual_review/TCU-109/downloads/official-clarification-69870365d8c1.pdf",
+      "sha256": "69870365d8c148db2391e5f0c96dafa2957ec6534eb918aff79f9ec17ec2ca58",
+      "bytes": 149962,
+      "scope": "同年度PDF下載成功且與本地逐位元一致。"
+    }
+  },
+  "textbook": {
+    "path": "Campbell Biology 12e.pdf（教材參考，全文未公開）",
+    "sha256": "de7c28b93a1c853c0c58d53cd658848d08cf033cde7c2071c062bfdd25b5dc73"
+  },
+  "toc": {
+    "path": "Campbell toc.txt（教材參考，全文未公開）",
+    "sha256": "472c94c03d3e7f107284b4e59ba744b406faee99580f5d940e0c2dab3d0c3dc7"
+  },
+  "question_scientific_differences": {
+    "TCU-109-Q01": "採A。真核有氧呼吸的丙酮酸氧化及檸檬酸循環在粒線體產生CO2；糖解本身不放CO2。核糖體、高基氏體與溶小體並非本題葡萄糖呼吸的主要放CO2胞器。",
+    "TCU-109-Q02": "採B。兩者均可有糖解、ATP生成與NADH氧化；差異在NADH是否藉電子傳遞鏈再氧化。不能把所有無氧過程都稱發酵，無氧呼吸仍有電子傳遞鏈。 C把呼吸排除異化作用也錯誤，D的磷酸化級聯並非發酵特有。",
+    "TCU-109-Q03": "採B，僅丙合適，同年釋疑PDF2維持B。成熟哺乳類紅血球無粒線體，因此甲的所有動物細胞過廣；藻類也能呼吸，乙不成立；丙依釋疑限定仍存活的光合與非光合植物細胞；大腸桿菌無粒線體，但能以細胞膜進行呼吸電子傳遞，丁由無粒線體推出無法氧化磷酸化的推論錯誤。",
+    "TCU-109-Q04": "採A。根瘤共生固氮菌將N2轉為可用的含氮物；硝化菌氧化氨或亞硝酸鹽，不等同根瘤固氮。甲烷菌屬古菌且適應無氧環境；原核生物的形態、代謝、棲地及營養方式均具多樣性。粒線體內共生來源宜精確表述為細菌祖先，題目的紫色細菌用語保留，不擴寫成所有現生紫色菌。 C的種類最多取決於物種界定與採樣，不能當成已全面計數的結論。",
+    "TCU-109-Q05": "原答案C；109.6.8更新釋疑PDF2明示改為C或D。Erythromycin抑制核糖體翻譯，不以破壞細胞膜為主要機制；Tetracycline也作用於核糖體，不以DNA gyrase為主要標的；Streptomycin干擾核糖體，Ampicillin干擾細胞壁合成。釋疑把膜通透性受影響概括為壁受損的說法不可當成壁、膜同一構造；採計更正與機制說明分列。",
+    "TCU-109-Q06": "採C，酵素抑制劑。Aspirin抑制cyclooxygenase及前列腺素生成；不可把它歸為抗生素、轉錄因子或酵素活化劑。教材支援抑制原理，Aspirin專名機制另以Vane作者文獻摘要補足，未宣稱已閱讀1971全文。",
+    "TCU-109-Q07": "採D過氧化體。核內有多種RNA；粒線體與葉綠體有自身基因表現系統。這是四種胞器的相對比較，不宣稱過氧化體或其相關分離樣本絕對沒有任何RNA。",
+    "TCU-109-Q08": "採A。缺GTP不能正常形成活化的G蛋白-GTP；配體結合受器本身與ATP提供的受器磷酸化是不同步驟。題目是指定分子的直接作用比較，不能把長期完全缺GTP仍正常存活當作實驗事實。 無GTP不直接改變鈣通道選擇性，cAMP也不能替代GTP活化G蛋白。",
+    "TCU-109-Q09": "官方採A。I對應G1、II為S、III為G2，IV涵蓋DNA量下降的分裂區段。b的S期較長，在複製總速率等其他條件相同下可符合較多DNA，但圖未保證全部條件；不能由時間三倍直接證明DNA三倍。D的中期在IV若按整段M期解讀亦有可成立空間，故保留圖區界線與單選唯一性的限制，分類可明確判入細胞週期。",
+    "TCU-109-Q10": "採A微管。紡錘體由微管構成，干擾微管動態可阻斷正常染色體分離；B微絲、C核糖體、D粒線體不是此題紡錘體的構成標的。",
+    "TCU-109-Q11": "官方D，釋疑PDF3維持。減數分裂同源染色體非姊妹染色分體互換可改變等位基因組合，應與肉眼可見的染色體結構異常區分；有絲分裂通常保持套數。釋疑稱有絲分裂不改套數，但原D本已如此寫，理由與原選項並未完全對應。C把有無生長因子當成是否進G0的唯一條件也過度簡化；A的RNA與蛋白質結合不是G1的充分定義；釋疑則以轉錄、轉譯需要RNA與蛋白質結合來解釋此用語。採計與題文限制並存，並非因D獲採計就宣稱其他句無誤。",
+    "TCU-109-Q12": "採D。發酵藉還原有機分子再生NAD+，其ATP來自糖解的受質層次磷酸化；不能說發酵與細胞呼吸均經檸檬酸循環。呼吸的氧化磷酸化與糖解可並存。",
+    "TCU-109-Q13": "採C，釋疑PDF3維持。反應需適當緩衝液、DNA引子、dNTP、逆轉錄酵素及耐熱DNA聚合酶；用RNA引子或把NTP當DNA延伸原料不符合一般RT-PCR。單管可同時含逆轉錄及PCR成分，不能以PCR字樣排除逆轉錄需求；檢驗目標是RNA病毒，不直接把RNA當Taq的標準DNA模板。",
+    "TCU-109-Q14": "採C，釋疑PDF3維持。0.22µm等於220nm，是本題便利經濟的去菌孔徑；0.22nm與22nm遠小於一般細菌所需截留尺度，22µm則太大。FDA培養基實驗方法確有0.22µm過濾步驟；不把此孔徑宣稱能去除全部病毒、毒素或所有微生物。釋疑對奈米濾膜離子截留的概括受膜性質影響，不能當成所有膜的普遍性質。",
+    "TCU-109-Q15": "採B。端粒酶延伸端粒，並非專門把端粒降解；端粒保護末端，複製末端問題可使其縮短。D的生活方式研究只支持特定小樣本條件下端粒酶活性上升的關聯，不能由此保證延緩人體老化；保留題目宣稱與實證強度的差異。",
+    "TCU-109-Q16": "採A，釋疑PDF3維持。題設理想溫度培養一天，封閉培養可先適應、再增長，資源限制後達平台並可衰退；A最接近。教材邏輯斯模型描述接近環境容納量的增長，真實批次培養的遲滯、穩定與死亡期不必是精確數學S曲線，不由未標數值的原圖推造天數或菌數。",
+    "TCU-109-Q17": "採C。Epistasis指一個基因影響另一基因的表型表現；同一座位等位基因間的完全顯性與單一基因多效性都不是相同概念。",
+    "TCU-109-Q18": "採D。理想條件包括無突變、隨機交配、無自然選擇、極大族群及無基因流；只滿足至少一項不保證平衡。平衡針對分析的基因座，不意味整個基因組每個座位都無演化。",
+    "TCU-109-Q19": "採A。rr=36/100=q²=0.36，故q=0.6、p=0.4，Rr=2pq=0.48，100株中預期48株異型合子；原題要求的R頻率與Rr頻率依序為0.4、0.48；不能把36%直接當q，也不能以顯性表型64%當p。",
+    "TCU-109-Q20": "採B。圖的同源染色體配對及片段交換對應前期I；姊妹染色分體分離是後期II，與圖示重組事件不同。",
+    "TCU-109-Q21": "採C。標準CRISPR/Cas9以引導RNA定位並切割DNA，可用於破壞或編輯基因；不是Cas9加入就大量表現目標基因。改造dCas9融合活化域可做CRISPRa，屬不同配置，不能拿來替原選項無條件背書。miRNA、siRNA及反義RNA可影響RNA穩定性或翻譯，但具體機制不完全相同。",
+    "TCU-109-Q22": "採A。DNA甲基化、組蛋白修飾等可改變基因表現而不更改核苷酸序列；某些狀態可跨細胞分裂或在特定情況跨世代延續，不能說每種表觀修飾均永久遺傳。",
+    "TCU-109-Q23": "採C。A、B、D旋轉節點後均可寫為(A,(B,(C,(D,E))))；C為(A,((B,C),(D,E)))，多出B與C互為姊妹群的關係。判定依根與分支點，圖上相鄰距離或枝條角度不是親緣遠近量尺。",
+    "TCU-109-Q24": "採C，依題目採用的分類把家犬列Canis lupus familiaris。狼與犬可產生可育後代符合題設同種判斷；馬驢的雜種通常不育是受精後隔離例子。此處依題目物種概念與命名慣例，不把單次可雜交視作所有生物物種劃分的充分必要條件。",
+    "TCU-109-Q25": "採B。冬蟲夏草是真菌寄生昆蟲形成的複合體，不是昆蟲與真菌的互利或片利共生，更非昆蟲與植物互利。Campbell p655、669提供真菌吸收營養及寄生原理；Ophiocordyceps sinensis侵入Thitarodes幼蟲的專名關係由具名原始研究補足。p669正文Fungi as Parasites沒有列入本地實際目錄，不冒充最小目錄條目。",
+    "TCU-109-Q26": "採D。粒線體是膜包覆胞器，支持真核細胞；具有細胞壁的真核生物仍可能存在，不能據壁判細菌。纖毛可提供運動，且不同於細菌旗毛的構造。",
+    "TCU-109-Q27": "採B。葉綠素與光系統嵌於類囊體膜，不位於葉綠體外膜；澱粉可累積於基質。PSII的水氧化在類囊體腔側釋出O2及H+；不要把C選項的產氧位置誤當Calvin循環產氧。",
+    "TCU-109-Q28": "採A裸子植物；題幹已明示銀杏。Campbell p642明列Ginkgo biloba扇形秋黃葉及具肉質外層的種子。原題稱平行葉脈不夠準確，銀杏具有反覆二歧分叉的葉脈；保留原文並以植物形態原始文獻補充，不改寫題幹後再宣稱無差異。",
+    "TCU-109-Q29": "採C。存活葉片因缺水萎凋而關氣孔，CO2供應下降；A不能接受藍光與B的CO2積累抑制光解均非此題通常近因；D的高溶質效應須視失水程度，不能概括所有萎凋。原題枯萎一詞若指不可逆死亡還伴隨其他代謝損傷，本解釋依可調節的水分逆境情境。",
+    "TCU-109-Q30": "採D。木質部管胞與導管分子成熟時通常死亡且木質化；被子植物篩管分子成熟仍活著，雖缺細胞核且依賴伴細胞。韌皮部運輸糖等有機物；不能以無核等同死細胞。",
+    "TCU-109-Q31": "採A。ABA主要涉及種子休眠與缺水氣孔調節，本題典型抗植食訊號為jasmonates；生長素在適當濃度促進伸長，細胞分裂素促進分裂。Strigolactone促進某些寄生植物種子萌發及叢枝菌根真菌生長，D若概括所有種子則過廣；原始研究的物種與條件限制另列。",
+    "TCU-109-Q32": "採A，NA/LE/sln保留合成而失去題圖降解步驟，活性GA累積、植株最高。B野生型可合成也可降解；C的le妨礙活性GA形成；D的na在上游受阻。此推算依原題簡化路徑，不把SLN對所有GA底物與組織的活性都當成一致。",
+    "TCU-109-Q33": "採C，na/LE/SLN補GA12位於na阻斷之後，可繼續生成活性GA。CDP仍在阻斷上游；GA8及GA29是圖中的失活產物，不能以同屬GA名稱就當成有效救援。",
+    "TCU-109-Q34": "採C。反義NA降低NA表現，使野生型GA合成受阻而變矮；增加LS不等於降低GA，加入隱性lh不會自動壓過原野生等位基因，反義SLN反而可能減少GA失活而變高。反義RNA與siRNA不必完全同機制，本地目錄以RNA調節的最小可對照條目分類，技術差異明列。",
+    "TCU-109-Q35": "採D，釋疑PDF4維持。題本及教材的methylsalicylic acid對應這個情境應精確作methyl salicylate（水楊酸甲酯），遠處組織轉為salicylic acid參與systemic acquired resistance；釋疑所寫response與標準名稱resistance有差異。Park等煙草研究支援MeSA訊號；茉莉酸也可參與抗病，不能說只抗昆蟲或把MeSA當所有物種唯一SAR訊號。",
+    "TCU-109-Q36": "採B。部分胚珠成功發育仍可形成含有種子的豆莢；不能由一個果實就推斷全部胚珠受精。發育不良的種子也可能受精後敗育，不能全部斷言未受精；成熟豆科種子的養分多可轉入子葉，與完全從未形成胚乳不同。",
+    "TCU-109-Q37": "採A，釋疑PDF4維持。Flavonoids含花青素等成員，可吸收部分紫外線；Li等擬南芥突變體實驗支持類黃酮對UV-B耐受的貢獻。類胡蘿蔔素也能耗散過量光能，不能因非答案就否認其光保護；單一植物實驗不證明所有高山花色都由同一因素造成。",
+    "TCU-109-Q38": "官方採A（3→2→4→1）。乾旱後抗旱個體較易存活並留下較多後代，世代後相關等位基因頻率改變；2繁殖成功與4存活差異可重疊，典型因果敘述可先談3→4→2→1，選項卻未提供。保留官方A而不宣稱其排列為所有族群唯一時間順序；不把缺水直接造成定向新突變。",
+    "TCU-109-Q39": "官方採C（IgM、IgG）。此為題目採用的早期與後期簡化模型；SARS-CoV-2的IgM與IgG可接近同時出現，初感染3–4天未必可檢出，不能憑單次IgM/IgG可靠判定剛感染或已痊癒。CDC歷史抗體檢測說明記載感染後1–3週與近同時出現的限制，與Campbell一般免疫原理分列；不把本題當臨床診斷規則。",
+    "TCU-109-Q40": "採D。原D已正確稱後天性免疫，錯在宣稱B、T細胞只存在於靈長類；多種其他有頜脊椎動物也有這些細胞。B稱昆蟲巨噬細胞宜精確稱具吞噬能力的血球hemocytes，不能無條件等同脊椎動物巨噬細胞；嗜中性球最多的敘述須限制在人類循環白血球等情境。Epitope在抗原上，不是整個抗體或受器本身。",
+    "TCU-109-Q41": "採C（4→3→1→2）：cAMP→protein kinase A→phosphorylase kinase→glycogen phosphorylase，末者催化肝醣釋出glucose-1-phosphate。cAMP非蛋白激酶，phosphorylase kinase與glycogen phosphorylase不可因名稱相似互換。本地文字目錄的第二訊使標題缺Ions，已在年度證據依實際PDF38目錄保留差異並校正展示。",
+    "TCU-109-Q42": "採C，依一般非鱷類爬蟲的兩心房、一部分隔心室及雙循環理解。鱷類有四心腔，是原C未明列的例外；魚類通常一房一室單循環，兩生類兩房一室雙循環，鳥類四心腔雙循環。保留原題二生類用字。",
+    "TCU-109-Q43": "採B dopamine。腹側被蓋區神經元釋出多巴胺，投射伏隔核及前額葉等區，與酬賞學習和藥物成癮相關；不能把所有正向感受或成癮歸為單一化學物質的充分原因。",
+    "TCU-109-Q44": "採D。X-linked ALD的ABCD1缺陷影響極長鏈脂肪酸進入過氧化體處理，非典型溶體儲積病。Tay–Sachs涉及溶體脂質分解，Pompe涉及GAA與肝醣儲積；Pompe主要累及骨骼肌、呼吸肌及部分型態心肌，不能僅以肝臟受損概括。原題及教材對所有溶體儲積病皆缺水解酵素的說法也是概括，非排除其他溶體蛋白缺陷。",
+    "TCU-109-Q45": "採D：內質網→高基氏體→會和細胞膜融合的囊泡。消化酵素先進ER腔，囊泡運至Golgi，再由分泌囊泡與質膜融合釋出；新合成分泌蛋白不是先進核再轉送。",
+    "TCU-109-Q46": "採B。典型凋亡形成膜包覆小體並被清除，減少內容物外漏傷及鄰近細胞；細胞膨脹破裂大量外漏較符合壞死。Caspases是蛋白酶，可啟動下游核酸降解等事件，不等於它本身就是切DNA的核酸酶。",
+    "TCU-109-Q47": "採D亨利氏環上行支。近曲小管及下行支可藉滲透作用吸收水；上行支排鹽但不透水；集尿管水通透性受ADH及aquaporin調節，水本身仍是被動滲透，不因激素調節就變主動運輸。",
+    "TCU-109-Q48": "採B（3→2→1→5→4）：桑椹胚→囊胚→原腸胚→器官發生→心跳。原題問哺乳類，囊胚通常稱blastocyst；不能把人類、海膽或蛙的發育時數套用全部哺乳類；器官發生並非全完成才心跳，5→4代表器官形成開始早於心臟搏動。",
+    "TCU-109-Q49": "採B，釋疑PDF4維持。副甲狀腺低功能典型為低血鈣、高血磷；原B方向顛倒。A所述缺碘致低甲狀腺素、TSH上升與甲狀腺腫可成立，但不是所有甲狀腺低功能都缺碘。Addison涉及腎上腺皮質功能不足，Cushing syndrome與特指腦垂體ACTH病因的Cushing disease不宜完全混用；GH過多的巨人症與肢端肥大症需依生長板狀態區分。",
+    "TCU-109-Q50": "官方B，釋疑PDF4維持。造血幹細胞是multipotent，可形成紅血球、血小板與白血球譜系，非unipotent。原A把embryonic stem cell一概稱totipotent也不符合通常指內細胞團衍生ESC的定義；教材與NIH稱pluripotent。釋疑把更早的全能卵裂球併入胚幹細胞稱呼，與標準用語有別。成體幹細胞transdifferentiation需具體實驗條件，不是所有成體幹細胞的無條件能力；癌幹細胞是具自我更新及腫瘤細胞生成能力的功能概念，不代表每個癌細胞。"
+  }
+}

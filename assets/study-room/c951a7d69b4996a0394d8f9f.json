@@ -1,0 +1,1246 @@
+[
+  {
+    "q": 1,
+    "question_or_alternative": "中央凹與周邊視網膜、視交叉是否混淆；是否需另列神經傳導章？",
+    "evidence_used": {
+      "question_page": 27,
+      "official_question_page": 27,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1119,
+        1120,
+        1121,
+        1122,
+        1123
+      ],
+      "catalog_ids": [
+        "L3364"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "核對1122–1123連續段落，題問視錐密度而非動作電位或視覺中樞，50.3視覺最小條目足夠，答案D一致。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 2,
+    "question_or_alternative": "官方引用第7章是否可直接當本地教材頁；核膜是否因連續ER而同樣選取？",
+    "evidence_used": {
+      "question_page": 27,
+      "official_question_page": 27,
+      "answer_page": 1,
+      "clarification_pages": [
+        3
+      ],
+      "textbook_pages": [
+        104,
+        105,
+        106,
+        107,
+        108
+      ],
+      "catalog_ids": [
+        "L0349",
+        "L0343"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "本地12e107明載溶體水解酵素在粗ER製造，104–106提供ER路徑；維持C的同年釋疑已讀。核膜連續性不使題問的主要合成部位改成核膜，主溶體次ER合理，官方章號差異保留。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 3,
+    "question_or_alternative": "只計物種豐富度會得相同，能否據此選B？",
+    "evidence_used": {
+      "question_page": 27,
+      "official_question_page": 27,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1222,
+        1223
+      ],
+      "catalog_ids": [
+        "L3611"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "獨立代入兩組比例而非重用總數，甲均勻度及Shannon較低；題問多樣性，54.2 Species Diversity正中核心，無需擴增族群成長次章。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 4,
+    "question_or_alternative": "遠曲小管也受ADH作用，是否分類或採計應改為C？",
+    "evidence_used": {
+      "question_page": 27,
+      "official_question_page": 27,
+      "answer_page": 1,
+      "clarification_pages": [
+        3,
+        4
+      ],
+      "textbook_pages": [
+        987,
+        988,
+        989,
+        994,
+        995
+      ],
+      "catalog_ids": [
+        "L2987",
+        "L2974"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "釋疑跨PDF3–4明辨late distal與主要collecting duct；本地994–995亦以集尿管為主要，官方D保留。腎元結構列同章次目，並非將遠曲功能否認。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 5,
+    "question_or_alternative": "D總黑暗時數8.5小時，是否和C等效？",
+    "evidence_used": {
+      "question_page": 27,
+      "official_question_page": 27,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        859,
+        860
+      ],
+      "catalog_ids": [
+        "L2576"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "檢查原題短暫光照位於夜內；教材連續黑暗的條件排除D，C為唯一不中斷超過臨界值。分類只需光週期，不另加一般光合作用。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 6,
+    "question_or_alternative": "鮮紅／黃色與無味能否必然唯一指鳥；是否應以動物行為作主？",
+    "evidence_used": {
+      "question_page": 27,
+      "official_question_page": 27,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        825,
+        826,
+        827
+      ],
+      "catalog_ids": [
+        "L2483"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "原題用通常，且問植物授粉方式；鳥媒症候群符合所給組合，38.1主目維持。沒有把一般化特徵提升成絕對物種鑑定。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 7,
+    "question_or_alternative": "是否把蛋白純度分析都叫Proteomics，或因細胞內有helicase而改選D？",
+    "evidence_used": {
+      "question_page": 27,
+      "official_question_page": 27,
+      "answer_page": 1,
+      "clarification_pages": [
+        4
+      ],
+      "textbook_pages": [
+        368,
+        369,
+        419,
+        420,
+        422,
+        423,
+        446,
+        447
+      ],
+      "catalog_ids": [
+        "L1244",
+        "L1238",
+        "L1110",
+        "L1307"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "官方7說明質譜可作純度分析而非必然proteomics；題設操作所需與細胞內常駐機制不同。重組表現為主，限制／接合、lac誘導、蛋白體範圍三個次目都有獨立判斷作用，保留20章同章次目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 8,
+    "question_or_alternative": "寄生蟲草是消費者還是分解者，應否只選單一營養層級？",
+    "evidence_used": {
+      "question_page": 27,
+      "official_question_page": 27,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        655,
+        656,
+        667
+      ],
+      "catalog_ids": [
+        "L1966",
+        "L2018"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "依題幹先活體吸養分後宿主死而繼續生長，比對真菌營養及分解兩段，C符合兩階段。沒有以未確定物種生態取代原題條件。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 9,
+    "question_or_alternative": "150與90直接平均或只取差值，哪一個量才是MAP？",
+    "evidence_used": {
+      "question_page": 28,
+      "official_question_page": 28,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        930,
+        931,
+        932
+      ],
+      "catalog_ids": [
+        "L2789"
+      ],
+      "supplement_ids": [
+        "S01"
+      ]
+    },
+    "resolution": "分別重算120、60、110並命名為端值平均、脈壓、慣用MAP估計。公式使用界線另查，主血壓條目足夠且採C。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 10,
+    "question_or_alternative": "題目時事應主分DNA轉錄還是疫苗免疫；D無傳染性是否足以成立？",
+    "evidence_used": {
+      "question_page": 28,
+      "official_question_page": 28,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        342,
+        343,
+        344,
+        968
+      ],
+      "catalog_ids": [
+        "L2908",
+        "L1049"
+      ],
+      "supplement_ids": [
+        "S02"
+      ]
+    },
+    "resolution": "完整D另有易保存，不能只取半句；Nobel背景與Campbell轉錄對照後A明確。主免疫接種保留題意，轉錄次章補機制；本地教材未涵2023時事的限制已記。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 11,
+    "question_or_alternative": "是否ABC之外的D位置有另一解；可否把54當重組百分比？",
+    "evidence_used": {
+      "question_page": 28,
+      "official_question_page": 28,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        305,
+        306,
+        307
+      ],
+      "catalog_ids": [
+        "L0961"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "在A=0、B=7下，由AC29與BC22固定C=29，再由AD25與BD32固定D=−25；五距離一致，除鏡像外位置確定。圖距與觀測重組率分開，主連鎖圖譜無分類疑義。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 12,
+    "question_or_alternative": "端粒DNA重複序列與端粒酶內模板是哪個分子？",
+    "evidence_used": {
+      "question_page": 28,
+      "official_question_page": 28,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        328,
+        329
+      ],
+      "catalog_ids": [
+        "L1019"
+      ],
+      "supplement_ids": [
+        "S03"
+      ]
+    },
+    "resolution": "Nobel官方RNA模板證據補足本地端粒末端延長原理。反應產物為DNA而模板為RNA，D错誤確定；不把端粒病與所有衰老直接劃等號。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 13,
+    "question_or_alternative": "IgD黏膜作用與IgM十個結合位是否皆可照搬為所有形式？",
+    "evidence_used": {
+      "question_page": 28,
+      "official_question_page": 28,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        964,
+        965,
+        966
+      ],
+      "catalog_ids": [
+        "L2899"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "本地966辨認IgA黏膜及分泌IgM結構，B錯誤明確。IgM膜型與分泌型界線寫入，不再沿用前年度題目的IgD採計問題。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 14,
+    "question_or_alternative": "官方B之外D的RF敘述是否科學正確；要不要改官方答案？",
+    "evidence_used": {
+      "question_page": 28,
+      "official_question_page": 28,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        970,
+        971
+      ],
+      "catalog_ids": [
+        "L2924"
+      ],
+      "supplement_ids": [
+        "S04"
+      ]
+    },
+    "resolution": "重新看完整Q14，D確寫針對RF產生抗體；原始研究RF定義否定這種單因敘述。本題未列取得釋疑，採計仍B，來源衝突明記。主自體免疫條目即使有兩處題文問題仍可確定。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 15,
+    "question_or_alternative": "A的鈉少是血漿濃度、管腔負荷或容量；其他選項能否上調腎素？",
+    "evidence_used": {
+      "question_page": 28,
+      "official_question_page": 28,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        994,
+        995,
+        996
+      ],
+      "catalog_ids": [
+        "L2987"
+      ],
+      "supplement_ids": [
+        "S05"
+      ]
+    },
+    "resolution": "核對RAAS及低管腔NaCl研究，按題設典型失鹽訊號選A；原題省略部位不得補成唯一血鈉機制。分類為腎恆定，無需另加一般神經傳導次章。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 16,
+    "question_or_alternative": "屍僵是否因沒有Ca或只是沒有儲能物質？",
+    "evidence_used": {
+      "question_page": 28,
+      "official_question_page": 28,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        150,
+        151,
+        1126,
+        1127,
+        1128
+      ],
+      "catalog_ids": [
+        "L3381",
+        "L0504"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "肌球蛋白與actin解離需新ATP結合，缺乏ATP最直接，D保留。骨骼肌主目與ATP水解次章互補，並明辨結合和水解不同步驟。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 17,
+    "question_or_alternative": "第二胎敘述是否絕對；Campbell的ABO圖是否可冒當Rh專證？",
+    "evidence_used": {
+      "question_page": 29,
+      "official_question_page": 29,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        960,
+        961,
+        962,
+        969,
+        970
+      ],
+      "catalog_ids": [
+        "L2917",
+        "L2889"
+      ],
+      "supplement_ids": [
+        "S06"
+      ]
+    },
+    "resolution": "專查Rh教材的首次致敏與後續IgG反應，確認常見B而非任何第二胎必病；本地免疫排斥與記憶是分類原理，Rh實讀來源另標。兩者沒有來源範圍混用。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 18,
+    "question_or_alternative": "能否創造Brain Regions葉項或硬塞Arousal and Sleep？",
+    "evidence_used": {
+      "question_page": 29,
+      "official_question_page": 29,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1091,
+        1092,
+        1093
+      ],
+      "catalog_ids": [
+        "L3251"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "實看PDF48目錄，49.2下面最早葉項從1094睡眠開始；1091–1093各腦區為Concept正文，因此真實Concept49.2是本題最小可用目錄，B功能屬下視丘。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 19,
+    "question_or_alternative": "EGG原字是否該默改；教材泛稱醒覺腦波是否已證實alpha？",
+    "evidence_used": {
+      "question_page": 29,
+      "official_question_page": 29,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1093,
+        1094,
+        1095
+      ],
+      "catalog_ids": [
+        "L3255"
+      ],
+      "supplement_ids": [
+        "S07"
+      ]
+    },
+    "resolution": "原圖EGG保存並註正EEG；閉眼alpha使用Barry原始摘要補充，本地49.2覺醒睡眠最貼近，採C。不聲稱每位受試者或所有清醒條件均同。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 20,
+    "question_or_alternative": "去掉磷酸就是斷鍵放熱嗎；能否單靠ATP儲能口號分類？",
+    "evidence_used": {
+      "question_page": 29,
+      "official_question_page": 29,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        150,
+        151,
+        152
+      ],
+      "catalog_ids": [
+        "L0504",
+        "L0507"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "對照反應前後自由能與偶聯，C需解成整個水解淨反應，分開單鍵解離成本。8.3兩個最小條目照存而章級只算一次。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 21,
+    "question_or_alternative": "與β-glucuronidase或α-galactosidase混淆；是否需套藍白篩選全部流程？",
+    "evidence_used": {
+      "question_page": 29,
+      "official_question_page": 29,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        155,
+        156,
+        368,
+        369
+      ],
+      "catalog_ids": [
+        "L1110",
+        "L0523"
+      ],
+      "supplement_ids": [
+        "S08"
+      ]
+    },
+    "resolution": "NEB官方特定受質確認β-galactosidase，D與答案一致。主lac酵素次酵素專一性，題幹未涉及插入片段判斷，不加DNA重組次目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 22,
+    "question_or_alternative": "運輸方向與是否耗ATP可否同時滿足？",
+    "evidence_used": {
+      "question_page": 29,
+      "official_question_page": 29,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        136,
+        137
+      ],
+      "catalog_ids": [
+        "L0450"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "逐項讀A–D，只有C同時Na外K內及主動；教材泵循環圖與方向吻合。主動運輸最小目足夠，不因神經常用就主分神經系統。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 23,
+    "question_or_alternative": "QRS電性事件可否直接等同心室收縮？",
+    "evidence_used": {
+      "question_page": 29,
+      "official_question_page": 29,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        928,
+        929
+      ],
+      "catalog_ids": [
+        "L2776"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "本地心臟電傳導圖示提供去極化先於收縮，題目A是採計概括，兩者差異保留。目錄原Rhythms與PDF Rhythmic Beat已核對，無另造ECG目錄。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 24,
+    "question_or_alternative": "三循環差是3、6還是8倍；是總量還是校正後相對量？",
+    "evidence_used": {
+      "question_page": 29,
+      "official_question_page": 29,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        420,
+        421,
+        423,
+        424,
+        425
+      ],
+      "catalog_ids": [
+        "L1251",
+        "L1241"
+      ],
+      "supplement_ids": [
+        "S09"
+      ]
+    },
+    "resolution": "獨立用2^23/2^20=8交叉核算，樣本1相對較多；ΔCt含參考校正時需明列假設。20.2基因表現分析主、20.1PCR次符合最小題目，未把抽象數學作教材章。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 25,
+    "question_or_alternative": "原英文minute ventilation與無效腔資料造成兩種答案，如何分欄？",
+    "evidence_used": {
+      "question_page": 29,
+      "official_question_page": 29,
+      "answer_page": 1,
+      "clarification_pages": [
+        4
+      ],
+      "textbook_pages": [
+        945,
+        946
+      ],
+      "catalog_ids": [
+        "L2840"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "重看Q25完整原圖，釋疑結果確為A/B。分別計算總4000、肺泡3040、死腔960且後兩項加回總量；官方採計與專有名詞差別都保留，分類仍為通氣機制。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 26,
+    "question_or_alternative": "粒線體也有膜，是否就屬內膜系統；核膜雙層是否構成反例？",
+    "evidence_used": {
+      "question_page": 29,
+      "official_question_page": 29,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        108,
+        109,
+        110
+      ],
+      "catalog_ids": [
+        "L0355",
+        "L0365"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "內膜系統按功能聯繫定義而非膜數，D排除粒線體；本地6.4總覽與6.5粒線體主次配對，其他選項有明確內膜身分。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 27,
+    "question_or_alternative": "B的單元是肌纖維細胞還是肌小節，A兩類肌絲是否都錨在Z線？",
+    "evidence_used": {
+      "question_page": 30,
+      "official_question_page": 30,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1126,
+        1127
+      ],
+      "catalog_ids": [
+        "L3381"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "教材Z線界定sarcomere並錨定細肌絲，B按此理解可採。原題不精確稱謂保留，未將Z線說成細胞膜或讓myosin直接錨在Z線。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 28,
+    "question_or_alternative": "氫鍵吸熱與蒸發散熱的方向有無相反？",
+    "evidence_used": {
+      "question_page": 30,
+      "official_question_page": 30,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        45,
+        46,
+        47,
+        48,
+        51
+      ],
+      "catalog_ids": [
+        "L0159"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "完整四選項與47蒸發冷卻比對：D把蒸發放熱顛倒，A–C為題設基礎。主目集中決定錯項的溫度調節，未把所有選項都堆入次目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 29,
+    "question_or_alternative": "器官類型應主分類免疫細胞成熟或淋巴循環？",
+    "evidence_used": {
+      "question_page": 30,
+      "official_question_page": 30,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        957,
+        958,
+        960,
+        961
+      ],
+      "catalog_ids": [
+        "L2889"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "骨髓與胸腺提供B/T細胞成熟與耐受，958與961跨頁證據相互支持。淋巴結／脾反應位置為對照而非本題成熟主題，B確定且無須新增循環次章。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 30,
+    "question_or_alternative": "只有O2是產物，或ATP與NADPH也在問題範圍？",
+    "evidence_used": {
+      "question_page": 30,
+      "official_question_page": 30,
+      "answer_page": 1,
+      "clarification_pages": [
+        4,
+        5
+      ],
+      "textbook_pages": [
+        195,
+        196,
+        197,
+        198,
+        199,
+        200
+      ],
+      "catalog_ids": [
+        "L0656",
+        "L0662"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "重看完整Q30化學下標、官方跨PDF4–5理由與結果。按未限直接間接的光反應範圍採B/C/D；線性電子流及chemiosmosis同章次目皆需保存，光能激發電子的物理界線另註。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 31,
+    "question_or_alternative": "嗅球內也有granule cells，是否使D成同義？",
+    "evidence_used": {
+      "question_page": 30,
+      "official_question_page": 30,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1124,
+        1125
+      ],
+      "catalog_ids": [
+        "L3374"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "嗅球是結構層級的主要中繼，顆粒細胞為局部迴路細胞，非同義。教材嗅覺通路支持A，感覺受器比較不需要加視覺或聽覺次目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 32,
+    "question_or_alternative": "下視丘控制ACTH是否代表ACTH由下視丘分泌？",
+    "evidence_used": {
+      "question_page": 30,
+      "official_question_page": 30,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1006,
+        1007,
+        1008,
+        1009,
+        1012,
+        1013
+      ],
+      "catalog_ids": [
+        "L3023",
+        "L3039"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "逐核四種激素與hypothalamus／anterior pituitary分工，ACTH在前葉且連結adrenal cortex；D明確。主神經內分泌協調與次腎上腺皆位於45章，最小次目保存。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 33,
+    "question_or_alternative": "genome是genes總集還是全DNA；官方21章如何映射本地目錄？",
+    "evidence_used": {
+      "question_page": 30,
+      "official_question_page": 30,
+      "answer_page": 1,
+      "clarification_pages": [
+        5
+      ],
+      "textbook_pages": [
+        6,
+        7,
+        8,
+        449,
+        450,
+        451
+      ],
+      "catalog_ids": [
+        "L0012",
+        "L1320"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "同年釋疑維持B，1章定義支持主目，21.3非編碼DNA直接排除D。初稿泛用genomics改採精確Gene Density and Noncoding DNA次目，完整來源差異不掩蓋。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 34,
+    "question_or_alternative": "第一詞種名／屬名混淆，第二詞是否單獨是完整學名？",
+    "evidence_used": {
+      "question_page": 30,
+      "official_question_page": 30,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        554,
+        555
+      ],
+      "catalog_ids": [
+        "L1627"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "對照二名法段落，B把屬名誤稱種名；第二詞種小名不可獨立當完整學名。26.1 Binomial Nomenclature是現存最小條目，無需泛列整章系統分類。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 35,
+    "question_or_alternative": "C絕對寫法與教材almost all不同，D是否忽略單細胞真核？",
+    "evidence_used": {
+      "question_page": 30,
+      "official_question_page": 30,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        97,
+        98,
+        99
+      ],
+      "catalog_ids": [
+        "L0323"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "教材原核與真核比較支持典型C並保留非絕對限定，A/B方向顛倒，D錯誤。分類定錨比較細胞條目，沒有因題文概括而隱藏此題。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 36,
+    "question_or_alternative": "題寫神經元中Aβ plaque，與正文outside neurons是否衝突？",
+    "evidence_used": {
+      "question_page": 30,
+      "official_question_page": 30,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1103,
+        1104
+      ],
+      "catalog_ids": [
+        "L3312"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "再次看原圖確認「中」字，1104把Aβ斑塊定位細胞外、tau纏結在內；科學差異已具體解決為位置錯述並保留官方C。疾病最小條目確定，不靠改狀態消除衝突。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 37,
+    "question_or_alternative": "DNA研究的智人起源能否換成所有人屬遷移或唯一地點？",
+    "evidence_used": {
+      "question_page": 31,
+      "official_question_page": 31,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        753,
+        754,
+        755
+      ],
+      "catalog_ids": [
+        "L2265"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "只按題目的洲級對比及Homo sapiens正文選非洲C；未外推單一發源點，主目Homo sapiens合適且無其他最小次項必要。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 38,
+    "question_or_alternative": "教材沒有外胚乳詳解，是否能直接把C判為不存在？",
+    "evidence_used": {
+      "question_page": 31,
+      "official_question_page": 31,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        828,
+        829,
+        830
+      ],
+      "catalog_ids": [
+        "L2495"
+      ],
+      "supplement_ids": [
+        "S10"
+      ]
+    },
+    "resolution": "藜麥原始研究證實perisperm儲藏澱粉，C可供萌發；B按成熟種子主要功能為保護。Campbell與課外物種證據分開，種皮絕不含營養的過度表述保留界線。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 39,
+    "question_or_alternative": "Na鹽害也會關氣孔，C能否被概括成完全無作用？",
+    "evidence_used": {
+      "question_page": 31,
+      "official_question_page": 31,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        797,
+        798,
+        799
+      ],
+      "catalog_ids": [
+        "L2397",
+        "L2394"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "題問主要因素，教材刺激段與K+滲透機制支持C為相對不典型；未否認鹽逆境。36.4兩個最小葉項分存，章級每題36只計一次。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 40,
+    "question_or_alternative": "中央細胞、卵、輔細胞與反足細胞的命運是否對應正確？",
+    "evidence_used": {
+      "question_page": 31,
+      "official_question_page": 31,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        826,
+        827,
+        828
+      ],
+      "catalog_ids": [
+        "L2489",
+        "L2495"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "826胚囊結構與827圖核對，另一精核入中央細胞，828胚乳發育延續。主雌配子體、次種子發育有各自證據；不把正文Double Fertilization小標冒作TOC最小條目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 41,
+    "question_or_alternative": "尿酸濃度高可否直接等同每人有症狀，與草酸鈣混淆？",
+    "evidence_used": {
+      "question_page": 31,
+      "official_question_page": 31,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        982,
+        983
+      ],
+      "catalog_ids": [
+        "L2957"
+      ],
+      "supplement_ids": [
+        "S11"
+      ]
+    },
+    "resolution": "NIAMS指出尿酸鹽晶體與發炎且高尿酸未必痛風，A採計及科學邊界相容。主含氮廢物，教材未載疾病細節的限制已記，不新增虛構Gout目錄。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 42,
+    "question_or_alternative": "邦克列酸標的是否ATP合成酶；是否把ANT當耗ATP的主動泵？",
+    "evidence_used": {
+      "question_page": 31,
+      "official_question_page": 31,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        110,
+        175,
+        176,
+        177,
+        178
+      ],
+      "catalog_ids": [
+        "L0588",
+        "L0365"
+      ],
+      "supplement_ids": [
+        "S12"
+      ]
+    },
+    "resolution": "原始Cell摘要直接寫bongkrekic acid鎖ADP/ATP carrier，確定C。改以粒線體構造作次目，排除初稿一般ATP驅動泵的錯誤暗示；主9.4產額條目有ATP輸出成本，毒素特異性只由補充研究承擔。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 43,
+    "question_or_alternative": "松果體在端腦還是間腦，官方廣義大腦和科學定義如何並存？",
+    "evidence_used": {
+      "question_page": 31,
+      "official_question_page": 31,
+      "answer_page": 1,
+      "clarification_pages": [
+        5
+      ],
+      "textbook_pages": [
+        1015,
+        1016,
+        1091,
+        1092,
+        1093,
+        1094
+      ],
+      "catalog_ids": [
+        "L3045",
+        "L3251"
+      ],
+      "supplement_ids": [
+        "S13"
+      ]
+    },
+    "resolution": "釋疑43主動說明泛稱與精確部位，採B而正文保留間腦上視丘。2023食藥署條目核對D，未將睡眠治療題首概括當成療效保證；主節律次真實49.2定位。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 44,
+    "question_or_alternative": "NO可在受體下游產生，是否能說它永非第二訊息？",
+    "evidence_used": {
+      "question_page": 31,
+      "official_question_page": 31,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        217,
+        218,
+        223,
+        224,
+        225,
+        1000,
+        1001
+      ],
+      "catalog_ids": [
+        "L0724",
+        "L2998"
+      ],
+      "supplement_ids": [
+        "S14"
+      ]
+    },
+    "resolution": "重看Q44關鍵字「常見」，Campbell標準列舉與NO→cGMP框架可解官方B；1989原始研究確立NO的實際受體下游角色，故保留定義／情境界線。分類11.3與45.1各有證據，並未篡改答案。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 45,
+    "question_or_alternative": "原題問物質卻列受器功能，要不要改成平衡石成分？",
+    "evidence_used": {
+      "question_page": 31,
+      "official_question_page": 31,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1110,
+        1111,
+        1112
+      ],
+      "catalog_ids": [
+        "L3348"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "按完整A–D比較的是感覺類型而非化學組成，statocyst機械感受重力支持A。保持原文，最小重力感覺條目足夠。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 46,
+    "question_or_alternative": "中樞最主要抑制介質是否意味其他介質皆興奮？",
+    "evidence_used": {
+      "question_page": 31,
+      "official_question_page": 31,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1080,
+        1081,
+        1082
+      ],
+      "catalog_ids": [
+        "L3231"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "GABA在選項中最符合，脊髓glycine及其他介質的受器依賴性保留。48.4 Neurotransmitters主目直接命中，不誤掛特定藥理處方。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 47,
+    "question_or_alternative": "補體也能辨病原，是否需否定其先天功能才能選C？",
+    "evidence_used": {
+      "question_page": 31,
+      "official_question_page": 31,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        954,
+        955,
+        956
+      ],
+      "catalog_ids": [
+        "L2870"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "原題哺乳細胞對PAMP辨識的標準受器為TLR；補體有辨識和效應角色但不取代TLR作此題最佳答案。43.1先天免疫條目包含對比，分類無待解部分。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 48,
+    "question_or_alternative": "原題立刻是否符合LH至排卵延遲，FSH可否同樣觸發？",
+    "evidence_used": {
+      "question_page": 32,
+      "official_question_page": 32,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1032,
+        1033,
+        1034
+      ],
+      "catalog_ids": [
+        "L3104"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "1033明列LH surge後約一天排卵，故B代表最直接觸發不是零延遲；成熟卵泡前提保留。46.4週期調節為最小合格條目，沒有擴張成實際動物操作指引。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 49,
+    "question_or_alternative": "視網膜成像與水晶體聚焦、大腦視知覺是否混成一個部位？",
+    "evidence_used": {
+      "question_page": 32,
+      "official_question_page": 32,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1119,
+        1120,
+        1121
+      ],
+      "catalog_ids": [
+        "L3364"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "比較眼球層次及光路，最內感光層為視網膜B；水晶體與中樞作用在不同階段。50.3視覺條目足夠，與Q1同條目不代表重複題目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 50,
+    "question_or_alternative": "A是否唯一IAA合成處，表39.1的前置頁能否寫成葉項起始頁？",
+    "evidence_used": {
+      "question_page": 32,
+      "official_question_page": 32,
+      "answer_page": 1,
+      "clarification_pages": [],
+      "textbook_pages": [
+        846,
+        847,
+        848,
+        849
+      ],
+      "catalog_ids": [
+        "L2557"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "重看已去空白的完整Q50，846表載主要芽尖幼葉及根尖例外，847–848Auxin正文續證。條目起始847與證據846分欄保存，原圖全部A–D仍在；分類已明確。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  }
+]

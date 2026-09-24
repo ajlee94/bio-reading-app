@@ -1,0 +1,174 @@
+[
+  {
+    "id": "S05",
+    "title": "NIDDK：成人與兒童eGFR計算",
+    "finding": "肌酸酐可供估算GFR，eGFR不等同精確測量。",
+    "read_scope": "官方網頁eGFR估算限制與成人計算說明，非個案診斷。",
+    "urls": [
+      "https://www.niddk.nih.gov/health-information/professionals/clinical-tools-patient-management/kidney-disease/laboratory-evaluation/estimated-gfr-calculators/adults-pediatrics"
+    ],
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU115官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "4b0724c50ee640ac5d5e130111fca077a03f4547b5e5000e7496898e550a6ec9"
+  },
+  {
+    "id": "S06",
+    "title": "Purves等：Second Messengers（Neuroscience 2e）",
+    "finding": "NO可被作者列作非典型第二傳訊者，其角色依訊號路徑與命名範圍而定。",
+    "read_scope": "作者教材章節，NO及cGMP相關段落；非Campbell原書。",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK10794/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU115官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "cf022bd48ad91f08a9137c6e95920fcc8729d9ad2f34370953b36be861a1ae74"
+  },
+  {
+    "id": "S10",
+    "title": "台江與陽明山國家公園：四草紅樹林及夢幻湖",
+    "finding": "四草具五梨跤、欖李、海茄苳與人工復育水筆仔；臺灣水韭野生棲地為夢幻湖。",
+    "read_scope": "台江PDF1印刷54完整地點樹種段落；陽明山夢幻湖介紹實讀，不宣稱現場調查。",
+    "urls": [
+      "https://ws.moi.gov.tw/001/Upload/OldFile_TJNP/Encyclopedias/20131129161219979284.pdf",
+      "https://www.ymsnp.gov.tw/ch/sglarticle/menghuan-lake-ecological-protection-area"
+    ],
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU115官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "045f5f80a77996ccdf24ac0ca9b01c27a55f23c38ea101c1e4f7b7550060be5d"
+  },
+  {
+    "id": "S15",
+    "title": "NCI：CAR T Cells: Engineering Immune Cells to Treat Cancer",
+    "finding": "自體T細胞被取出、體外改造與擴增後回輸。",
+    "read_scope": "官方說明A living drug製程段落及後續研究範圍。",
+    "urls": [
+      "https://www.cancer.gov/about-cancer/treatment/research/car-t-cells"
+    ],
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU115官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "3ff12e615ba6706deaa57d05fc36bb609a6d6f33d5a1a7bc3dc0552721b03172"
+  },
+  {
+    "id": "S16",
+    "title": "Dong等1996 AAV包裝研究；FDA AAVrh74肝衰竭公告",
+    "finding": "AAV包裝容量有限，研究所用載體最佳範圍約4.1–4.9kb；安全性不能以相對低免疫原性概括保證。",
+    "read_scope": "Dong原始研究PubMed摘要；FDA 2025-07-18安全公告的特定AAVrh74治療肝衰竭訊息，未讀所有載體臨床試驗。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/8934224/",
+      "https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/fda-investigating-deaths-due-acute-liver-failure-following-treatment-sareptas-aavrh74-gene-therapies"
+    ],
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU115官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "8dade4baa492ef7c39f82dfcb83fd9731e430624e589b4c0d1cadf1658f48a95"
+  },
+  {
+    "id": "S21",
+    "title": "FDA WEGOVY 2026-02說明書",
+    "finding": "GLP-1受體作用與食慾相關腦區及延緩胃排空有關。",
+    "read_scope": "56頁PDF之第21頁12.1–12.2；只用於題目機制查證，不提供用藥指示。",
+    "urls": [
+      "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/215256s033lbl.pdf"
+    ],
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU115官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "2bd39f4743e209050c922b683f3a837968606d76e16e9afc53f5722c967d9255"
+  },
+  {
+    "id": "S24",
+    "title": "CDC：Using Tandem Mass Spectrometry for Metabolic Disease Screening Among Newborns",
+    "finding": "乾血點MS/MS分析胺基酸與醯基肉鹼等代謝物。",
+    "read_scope": "MMWR報告Introduction、Background及Laboratory Practice的分析物段落；歷史技術資料，不當成2026年完整篩檢政策。",
+    "urls": [
+      "https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5003a1.htm"
+    ],
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU115官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "ca81a35ee11dec3619f3329adb2b1b1deaa32fbecc841568f7a3561539f310c1"
+  },
+  {
+    "id": "S25",
+    "title": "Buffie等：Precision microbiome reconstitution restores bile acid mediated resistance to Clostridium difficile",
+    "finding": "共生菌及次級膽汁酸代謝可提供定殖抗性，支援菌群重建的生態功能。",
+    "read_scope": "Nature原始研究摘要，涉及人類資料與小鼠模型；未取得付費全文，不將特定菌作用泛化為所有FMT效應。",
+    "urls": [
+      "https://www.nature.com/articles/nature13828"
+    ],
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU115官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "aaf2903c75d12faa8ae00057e959e2691267db9895aba96b1cd50f0c3c925201"
+  },
+  {
+    "id": "S28",
+    "title": "Snell等1993 Huntington重複序列研究；GeneReviews Huntington Disease",
+    "finding": "CAG重複數與發病年齡呈負相關；生殖系重複擴增可造成早發現象。",
+    "read_scope": "Snell原始研究PubMed摘要；作者GeneReviews Anticipation段落。Huntington為機制實例，不指定原題未給的疾病名稱。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/8401588/",
+      "https://www.ncbi.nlm.nih.gov/books/NBK1305/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU115官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "2411a30a5c90740f510775ae940dc544b7d465e9cd9295d9aed05982007c794f"
+  },
+  {
+    "id": "S29",
+    "title": "Sugiura等：Newly born peroxisomes are a hybrid of mitochondrial and ER-derived pre-peroxisomes",
+    "finding": "特定人類纖維母細胞模型的新生過氧化體可結合粒線體與ER來源前體。",
+    "read_scope": "Nature原始研究摘要；不將模型結果寫成所有細胞唯一生合成路徑。",
+    "urls": [
+      "https://www.nature.com/articles/nature21375"
+    ],
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU115官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "e00fd57138176c7ab07906a8ba8497340c75dc8d3493d0e91a331060093948ff"
+  },
+  {
+    "id": "S33",
+    "title": "Hirata等：Evolution of Complex RNA Polymerases: The Complete Archaeal RNA Polymerase Structure",
+    "finding": "古菌的一種多次單元RNA聚合酶與真核核RNA聚合酶具結構相似性，酵素種類與次單元數目須區別。",
+    "read_scope": "PMC原始結構研究摘要與Introduction的古菌一種、真核三種核RNA聚合酶比較。",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC2675907/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU115官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "8d7d7f02c1ccc23b4eaa6d4cad6e4c4c4413da835f366ca8e1dca897e62ea9af"
+  },
+  {
+    "id": "S48",
+    "title": "Gilbert：Developmental Biology 6e，The Activation of Egg Metabolism",
+    "finding": "卵內注射EGTA可抑制海膽皮質反應；不能等同未交代處理位置的卵外EDTA。",
+    "read_scope": "作者教材The Early Responses段落及鈣注射實驗敘述；與Campbell鈣波和皮質反應對照。",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK10029/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU115官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "a82082f19144a81c93b72f529c40c9b07fbc955979d6aa95f08300d9046a1bbf"
+  },
+  {
+    "id": "S50",
+    "title": "Dall’Era等：Adoptive Regulatory T Cell Therapy in a Patient with Systemic Lupus Erythematosus",
+    "finding": "早期自體Treg回輸研究使用體外擴增且Foxp3穩定的細胞，支援策略可行性但非普遍療效證明。",
+    "read_scope": "PMC原始研究個案、方法及細胞表型段落；單一SLE參與者，非RA常規治療證據。",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6447289/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU115官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "01360f4d6ad2c620681527397279d5e5adbf8d56dae6c0ceb1905fec743f6cb7"
+  }
+]

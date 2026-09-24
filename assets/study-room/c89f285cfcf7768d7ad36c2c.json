@@ -1,0 +1,268 @@
+[
+  {
+    "id": "S01",
+    "title": "Termites and subsocial roaches inherited many bacterial-borne CAZymes (2024)",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11541852/"
+    ],
+    "finding": "白蟻基因組自身有纖維素酶，消化仍大幅倚賴共生微生物。",
+    "read_scope": "摘要與引言纖維素酶、菌群範圍段；本地HTML文字擷取窗口",
+    "limits": "研究195白蟻及一Cryptocercus腸道資料，非所有白蟻普查；非全文逐字讀。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU107官方採計",
+    "captures": [
+      {
+        "id": "S01-termite",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11541852/",
+        "accessed_at": "2026-09-10T18:42:58.704376+08:00",
+        "http_status": 200,
+        "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11541852/",
+        "content_type": "text/html; charset=utf-8",
+        "path": "審查紀錄/annual_review/TCU-107/downloads/S01-termite.html",
+        "sha256": "7a49d0241c1aee31843947d25ad33921b516c8dc6f480c4335c5ef7b4a678b6a",
+        "bytes": 210593,
+        "status": "HTML_CAPTURED_CONTENT_REQUIRES_INSPECTION"
+      }
+    ],
+    "capture_content_checks": [
+      {
+        "id": "S01-termite",
+        "title": "\n            Termites and subsocial roaches inherited many bacterial-borne carbohydrate-active enzymes (CAZymes) from their common ancestor - PMC\n        ",
+        "content_checked": true,
+        "read_windows": [
+          "licenses/by-nc-nd/4.0/ . PMC Copyright notice PMCID: PMC11541852 PMID: 39506101 Abstract Termites digest wood using Carbohydrate-Active Enzymes (CAZymes) produced by gut bacteria with whom they have cospeciated at geological timescales. Whether CAZymes were encoded in the genomes of their ancestor’s gut bacteria and transmitted to modern termites or acquired more recently from bacteria not associated with termites is unclear. We used gut metagenomes from 195 termites and one Cryptocercus , the sister group of termites, to investigate the evolution of termite gut bacterial CAZymes. We found 420 termite-specific clusters in 81 bacterial CAZyme gene trees, including 404 clusters showing strong cophylogenetic patterns with termites. Of the 420 clusters, 131 included at least one bacterial CAZyme sequence associated with Cryptocercus or Mastotermes , the sister group of all other termites. Our results suggest many bacterial CAZymes have been encoded in the genomes of termite gut bacteria since termite origin, indicating termites rely upon many bacterial CAZymes endemic to their guts to digest wood. Subject terms: Coevolution, Phylogenetics The phylogenetic trees of prokaryotic CAZymes found in termite gut mirror the termite phylogeny, suggesting termites rely on many CAZymes that were already encoded in the genomes of the ancestors of their gut prokaryotes. Introduction Termites, the oldest lineage of social insects with a fossil record dating back ~130 million years ago 1 , are best known for their xylophagous habits. They descend from a wood-feeding cockroach ancestor 2 , 3 , a diet many species have retained, except in the Termitidae, which include many species feeding on highly decomposed wood or soil 4 , 5 . Although termite genomes encode a few cell",
+          "on highly decomposed wood or soil 4 , 5 . Although termite genomes encode a few cellulase genes 6 , 7 , the ability of termites to digest and metabolize the wood lignocellulose largely depends on their symbiotic gut microbes, including bacteria, archaea, and lignocellulolytic protists present in all termite families but the Termitidae 8 , 9 . In addition to these gut microbes, the termitid subfamily Macrotermitinae is associated with the lignocellulolytic fungus Termitomyces they cultivate inside their nest 10 . Lignocellulose is a recalcitrant biopolymer composed of cellulose, hemicellulose, lignin, and a variety of minor components 11 . Cellulose is a linear chain of glucose, hemicellulose is composed of various sugars linked by networks of bonds, and lignin is a biopolymer composed of cross-linked phenolic compounds 12 . The degradation of the cellulose, hemicellulose, and lignin composing lignocellulose requires the action of distinct cocktails of Carbohydrate-Activate Enzymes (CAZymes) attacking various bonds of the polymer. CAZymes are enzymes that biosynthesize, break down, modify, or bind carbohydrates and glycoconjugates 13 , 14 . They are divided into six classes based on their properties: Glycosyl Transferases (GTs) catalyze the formation of glycosidic bonds 15 ; Glycoside Hydrolases (GHs), Polysaccharide Lyases (PLs), and Carbohydrate Esterases (CEs) cleave or rearrange glycosidic bonds 16 , 17 ; enzymes with Auxiliary Activities (AAs) act in conjunction with CAZymes, helping GH, PL, and CE gaining access to carbohydrates, for example by degrading lignin 18 ; and enzymes of the Carbohydrate-Binding Modules class (CBMs) bind to carbohydrates and are associated with catalytic modules 19 . Therefore, GH, PL, CE, and AA are the classes of CAZ"
+        ]
+      }
+    ],
+    "authored_evidence_record_sha256": "7303a12ae1920f14bc1eb3643fb0a499a60dbb4bf6a38ea1a12c11018b036c94"
+  },
+  {
+    "id": "S02",
+    "title": "Single-cell RNA-seq uncovers novel metabolic functions of Schwann cells beyond myelination (2023)",
+    "urls": [
+      "https://onlinelibrary.wiley.com/doi/10.1111/jnc.15877"
+    ],
+    "finding": "非髓鞘Schwann細胞有營養支持相關細胞間訊號。",
+    "read_scope": "web取得摘要，區分髓鞘與非髓鞘群的結果",
+    "limits": "本地HTTP403未獲頁面檔，僅作者研究摘要實讀與自寫紀錄；小鼠糖尿病情境不等於每個神經元定量實驗。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU107官方採計",
+    "captures": [
+      {
+        "id": "S02-schwann",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111/jnc.15877",
+        "accessed_at": "2026-09-10T18:42:58.704376+08:00",
+        "status": "DOWNLOAD_FAILED",
+        "error": "<HTTPError 403: 'Forbidden'>"
+      }
+    ],
+    "capture_content_checks": [],
+    "authored_evidence_record_sha256": "eb2e9abd8c86856d350f9024a377e929062eb70eb090ff30ec6dd2f0eee2173c"
+  },
+  {
+    "id": "S03",
+    "title": "Major bacterial lineages are essentially devoid of CRISPR-Cas viral defence systems (2016)",
+    "urls": [
+      "https://www.nature.com/articles/ncomms10613"
+    ],
+    "finding": "完整細菌基因組樣本約40.6%，且類群分布不均，不能無條件稱多數。",
+    "read_scope": "摘要、引言與results系統分布段；本地HTML檢查",
+    "limits": "2740完整基因組及特定未培養採樣有年代、環境偏差，非全體現生細菌比例。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU107官方採計",
+    "captures": [
+      {
+        "id": "S03-crispr",
+        "url": "https://www.nature.com/articles/ncomms10613",
+        "accessed_at": "2026-09-10T18:42:58.704376+08:00",
+        "http_status": 200,
+        "final_url": "https://www.nature.com/articles/ncomms10613?error=cookies_not_supported&code=1d50418d-cc2d-4786-b852-ab6e3b9aced6",
+        "content_type": "text/html; charset=utf-8",
+        "path": "審查紀錄/annual_review/TCU-107/downloads/S03-crispr.html",
+        "sha256": "8ff719911f0f0b1dea40fb3fe37ed6bd69c2dbc39ca2b0dfbe8e75b8aa7c3c31",
+        "bytes": 465914,
+        "status": "HTML_CAPTURED_CONTENT_REQUIRES_INSPECTION"
+      }
+    ],
+    "capture_content_checks": [
+      {
+        "id": "S03-crispr",
+        "title": "Major bacterial lineages are essentially devoid of CRISPR-Cas viral defence systems | Nature Communications",
+        "content_checked": true,
+        "read_windows": [
+          "ssentially devoid of CRISPR-Cas viral defence systems Download PDF Download PDF Abstract Current understanding of microorganism–virus interactions, which shape the evolution and functioning of Earth’s ecosystems, is based primarily on cultivated organisms. Here we investigate thousands of viral and microbial genomes recovered using a cultivation-independent approach to study the frequency, variety and taxonomic distribution of viral defence mechanisms. CRISPR-Cas systems that confer microorganisms with immunity to viruses are present in only 10% of 1,724 sampled microorganisms, compared with previous reports of 40% occurrence in bacteria and 81% in archaea. We attribute this large difference to the lack of CRISPR-Cas systems across major bacterial lineages that have no cultivated representatives. We correlate absence of CRISPR-Cas with lack of nucleotide biosynthesis capacity and a symbiotic lifestyle. Restriction systems are well represented in these lineages and might provide both non-specific viral defence and access to nucleotides. Similar content being viewed by others CRISPR–Cas therapies targeting bacteria Article 13 May 2025 The defensome of complex bacterial communities Article Open access 08 March 2024 Alternative functions of CRISPR–Cas systems in the evolutionary arms race Article 06 January 2022 Explore related subjects Discover the latest articles and news in related subjects. Viral genetics Virus structures Introduction Microorganisms play fundamental roles in the functioning of the biosphere, yet their existence depends on their ability to resist viral predation. CRISPR ( c lustered r egularly i nterspaced s hort p alindromic r epeats) -Cas ( C RISPR as sociated) systems are common defence mechanisms that confer bacteria and archaea w",
+          "he incidence of CRISPR-Cas systems. The analysis indicated an incidence rate of 40.6% for bacterial genomes and 79.4% for archaeal genomes ( Supplementary Data 6 ), in agreement with previous reports 3 , 7 . Interestingly, we did not detect any cas operons or CRISPR arrays in the Chlamydiae phylum. It has been previously reported that Chlamydiae have no type II CRISPR-Cas systems 13 , but here we report that all 105 complete genomes from organisms representing this phylum lack any type of CRISPR-Cas system. This finding reinforces the conclusion that these defence systems can be essentially absent from entire bacterial lineages. Overall, our analyses suggest that the distribution of the CRISPR-Cas immune system is highly uneven across the different branches of the bacterial tree. Evidence for horizontal transfer of CRISPR-Cas across phyla The near-absence of CRISPR-Case across entire phyla is intriguing given the evidence that these systems are readily transferred between microbes, potentially even across phylum boundaries 14 , 15 , 16 , 17 , 18 . In support of cross-phyla transfer, we find that the phylogeny of Cas1 proteins is inconsistent at the phylum level with the taxonomy of the organisms that contain the system ( Fig. 2 ). The results for Cas1 and repeat sequences are congruent, as expected if simultaneous transfer of both locus components is required to maintain CRISPR-Cas function. Analyses of both Cas1 and the repeats suggest that CRISPR-Cas was transferred to CPR organisms, but in most cases selected against, as indicated by partial cas operons ( Supplementary Data 3 ) and the restricted distribution of the system among these organisms. Notably, we identified 100% identical repeat sequences in organisms from three different bacterial phyl"
+        ]
+      }
+    ],
+    "authored_evidence_record_sha256": "72fe2ccdab5b90ff2e3d187dd436cf0db9de39bb1af5ca9a7f015a5cdf8dd6f0"
+  },
+  {
+    "id": "S04",
+    "title": "A functional origin of transfer (oriT) on the conjugative transposon Tn916 (1995)",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC177520/"
+    ],
+    "finding": "Tn916的oriT片段與染色體轉位子作用可動員質體嵌合體。",
+    "read_scope": "完整摘要；466bp及pWM401實驗敘述",
+    "limits": "僅此系統的原始實驗，不代表所有轉位子都可接合；未宣稱下載或讀完付費全文。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU107官方採計",
+    "captures": [
+      {
+        "id": "S04-transposon",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC177520/",
+        "accessed_at": "2026-09-10T18:42:58.845585+08:00",
+        "http_status": 200,
+        "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC177520/",
+        "content_type": "text/html; charset=utf-8",
+        "path": "審查紀錄/annual_review/TCU-107/downloads/S04-transposon.html",
+        "sha256": "46a6e9cbb2819ec2dcb419c9f52560bec1a4ac525c6fb077f14526c3d17af83b",
+        "bytes": 128885,
+        "status": "HTML_CAPTURED_CONTENT_REQUIRES_INSPECTION"
+      }
+    ],
+    "capture_content_checks": [
+      {
+        "id": "S04-transposon",
+        "title": "\n            A functional origin of transfer (oriT) on the conjugative transposon Tn916 - PMC\n        ",
+        "content_checked": true,
+        "read_windows": [
+          "igan, Ann Arbor 48109, USA. PMC Copyright notice PMCID: PMC177520 PMID: 7592445 Abstract The origin of transfer (oriT) of the 18-kb conjugative transposon Tn916 has been localized to a 466-bp region which spans nucleotides 15215 to 15681 on the transposon map. The oriT lies within an intercistronic region between open reading frames ORF20 and ORF21 that contains six sets of inverted repeats ranging from 10 to 20 bp in size. The segment contains three sequences showing identity in 9 of 12 bp to the consensus nicking site (nic) of the IncP family of conjugative plasmids found in gram-negative bacteria. Overlapping one of these sequences is a region similar to the nic site of the F plasmid. Functionality was based on the ability of the oriT-containing sequence to provide a cis-acting mobilization of chimeras involving the shuttle vector pWM401 in response to activation in trans by an intact chromosome-borne transposon Tn916 delta E. Cloned segments of 466 or 376 nucleotides resulted in unselected cotransfer of the plasmid at levels of about 40% when selection was for Tn916 delta E, whereas a 110-bp segment resulted in cotransfer at a frequency of about 7%. Mobilization was specific in that gram-positive plasmids, such as pAD1 and pAM beta 1, and the gram-negative plasmids pOX38 (a derivative of F) and RP1 did not mobilize oriT-containing chimeras. Full Text The Full Text of this article is available as a PDF (261.5 KB). Selected References These references are in PubMed. This may not be the complete list of references from this article. Boyd A. C., Archer J. A., Sherratt D. J. Characterization of the ColE1 mobilization region and its protein products. Mol Gen Genet. 1989 Jun;217(2-3):488–498. doi: 10.1007/BF02464922. [ DOI ] [ PubMed ] [ Google Scholar ",
+          "ansfer (oriT) of the 18-kb conjugative transposon Tn916 has been localized to a 466-bp region which spans nucleotides 15215 to 15681 on the transposon map. The oriT lies within an intercistronic region between open reading frames ORF20 and ORF21 that contains six sets of inverted repeats ranging from 10 to 20 bp in size. The segment contains three sequences showing identity in 9 of 12 bp to the consensus nicking site (nic) of the IncP family of conjugative plasmids found in gram-negative bacteria. Overlapping one of these sequences is a region similar to the nic site of the F plasmid. Functionality was based on the ability of the oriT-containing sequence to provide a cis-acting mobilization of chimeras involving the shuttle vector pWM401 in response to activation in trans by an intact chromosome-borne transposon Tn916 delta E. Cloned segments of 466 or 376 nucleotides resulted in unselected cotransfer of the plasmid at levels of about 40% when selection was for Tn916 delta E, whereas a 110-bp segment resulted in cotransfer at a frequency of about 7%. Mobilization was specific in that gram-positive plasmids, such as pAD1 and pAM beta 1, and the gram-negative plasmids pOX38 (a derivative of F) and RP1 did not mobilize oriT-containing chimeras. Full Text The Full Text of this article is available as a PDF (261.5 KB). Selected References These references are in PubMed. This may not be the complete list of references from this article. Boyd A. C., Archer J. A., Sherratt D. J. Characterization of the ColE1 mobilization region and its protein products. Mol Gen Genet. 1989 Jun;217(2-3):488–498. doi: 10.1007/BF02464922. [ DOI ] [ PubMed ] [ Google Scholar ] Caillaud F., Carlier C., Courvalin P. Physical analysis of the conjugative shuttle transposon Tn1545. P"
+        ]
+      }
+    ],
+    "authored_evidence_record_sha256": "434a55b4bad7ded12ae4d733f3bc613ad40d0c7bec73e553b049ca93243068d4"
+  },
+  {
+    "id": "S05",
+    "title": "A cellulase gene of termite origin (1998)",
+    "urls": [
+      "https://www.nature.com/articles/28527"
+    ],
+    "finding": "Reticulitermes speratus自身RsEG編碼內切β-1,4-glucanase，反駁動物絕无纖維素酶。",
+    "read_scope": "本地取得之Nature摘要預覽完整段",
+    "limits": "訂閱全文未取得，未把預覽當全文；不抹除共生者協助消化。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU107官方採計",
+    "captures": [
+      {
+        "id": "S05-termite-original",
+        "url": "https://www.nature.com/articles/28527",
+        "accessed_at": "2026-09-10T18:42:59.032272+08:00",
+        "http_status": 200,
+        "final_url": "https://www.nature.com/articles/28527?error=cookies_not_supported&code=ae66223d-863b-400c-baf8-eef44fe563bd",
+        "content_type": "text/html; charset=utf-8",
+        "path": "審查紀錄/annual_review/TCU-107/downloads/S05-termite-original.html",
+        "sha256": "d64ac97d1a217792c389f718a55a0b55464c183fd97f1a129c554406bd508f75",
+        "bytes": 238950,
+        "status": "HTML_CAPTURED_CONTENT_REQUIRES_INSPECTION"
+      }
+    ],
+    "capture_content_checks": [
+      {
+        "id": "S05-termite-original",
+        "title": "A cellulase gene of termite origin | Nature",
+        "content_checked": true,
+        "read_windows": [
+          "upport, we are displaying the site without styles and JavaScript. Advertisement Abstract The traditional view of cellulose digestion in animals is that they cannot produce their own cellulase, and so rely on gut microorganisms to hydrolyse cellulose. A classic example of this symbiosis is that between phylogenetically lower termites and the unicellular organisms (protists) that colonize their hindguts: cellulose fermented to acetate by the protists can be used as an energy source by the termite 1 . There is evidence for the production of endogenous cellulase components by termites and other wood-feeding insects 2 ; however, an unambiguous origin for such enzymes 1 has not been established, to our knowledge, until now. Here we describe the first insect cellulase-endoding gene to be identified, RsEG , which encodes an endo-β-1,4-glucanase (EC 3.2.1.4) in the termite Reticulitermes speratus . This is a preview of subscription content, access via your institution Access options Access through your institution Subscribe to this journal Receive 52 print issues and online access 185,98 € per year only 3,58 € per issue Learn more Buy this article Purchase on SpringerLink Instant access to the full article PDF. 39,95 € Prices may be subject to local taxes which are calculated during checkout Figure 1: Predicted RsEG amino-acid sequence aligned with bacterial ( Cellulomonas fimi CenB), protist ( Dictyostelium discoideum CelA) and plant ( Phaseolus vulgaris bean abscission cellulase (BAC)) members of GHF9. References Breznak, J. A. & Brune, A. Annu. Rev. Entomol. 39 , 453–487 (1994). Google Scholar Slaytor, M. Comp. Biochem. Physiol. B 103 , 775–784 (1992). Google Scholar Watanabe, H. et al. Insect Biochem. Mol. Biol. 27 , 305–313 (1997). Google Scholar Henriss",
+          " as an energy source by the termite 1 . There is evidence for the production of endogenous cellulase components by termites and other wood-feeding insects 2 ; however, an unambiguous origin for such enzymes 1 has not been established, to our knowledge, until now. Here we describe the first insect cellulase-endoding gene to be identified, RsEG , which encodes an endo-β-1,4-glucanase (EC 3.2.1.4) in the termite Reticulitermes speratus . This is a preview of subscription content, access via your institution Access options Access through your institution Subscribe to this journal Receive 52 print issues and online access 185,98 € per year only 3,58 € per issue Learn more Buy this article Purchase on SpringerLink Instant access to the full article PDF. 39,95 € Prices may be subject to local taxes which are calculated during checkout Figure 1: Predicted RsEG amino-acid sequence aligned with bacterial ( Cellulomonas fimi CenB), protist ( Dictyostelium discoideum CelA) and plant ( Phaseolus vulgaris bean abscission cellulase (BAC)) members of GHF9. References Breznak, J. A. & Brune, A. Annu. Rev. Entomol. 39 , 453–487 (1994). Google Scholar Slaytor, M. Comp. Biochem. Physiol. B 103 , 775–784 (1992). Google Scholar Watanabe, H. et al. Insect Biochem. Mol. Biol. 27 , 305–313 (1997). Google Scholar Henrissat, B. & Bairoch, A. Biochem. J. 293 , 781–788 (1993). Google Scholar Brummell, D. A., Lashbrook, C. C. & Bennett, A. B. Am. Chem. Soc. Symp. Ser. 566 , 100–129 (1994). Google Scholar Béguin, P. & Aubert, J. FEMS Microbiol. Rev. 13 , 25–58 (1994). Google Scholar Tomme, P., Warren, R. A. J. & Gilkes, N. R. Adv. Microbiol. Physiol. 37 , 1–81 (1995). Google Scholar Tomme, P., Kwan, E., Gilkes, N. R., Kilburn, D. G. & Warren, R. A. J. J. Bacteriol. 178 , 4216–4223"
+        ]
+      }
+    ],
+    "authored_evidence_record_sha256": "ec66e451d60bb18e8766d3696a94c5d01dfbb06e5d3d896b12879cef98166d13"
+  },
+  {
+    "id": "S06",
+    "title": "Molecular Nature of Spemann’s Organizer: the Role of Xenopus goosecoid (1991)",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3102583/"
+    ],
+    "finding": "組織者基因表現及擾動和體軸誘導相关，結果依處理而異。",
+    "read_scope": "web引言及goosecoid Expression Correlates with Amount of Organizer、UV/LiCl、secondary axes段",
+    "limits": "非本題未指定動物的全部切除實驗；不以外推擅改B。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU107官方採計",
+    "captures": [],
+    "capture_content_checks": [],
+    "authored_evidence_record_sha256": "b62bbc46d773e35012d75bd4a7aa15feb57420263ab88708e4f11add01c6363a"
+  },
+  {
+    "id": "S07",
+    "title": "Crystal structure of mammalian poly(A) polymerase in complex with ATP analog (2000)",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC302044",
+      "https://pubmed.ncbi.nlm.nih.gov/10944102/"
+    ],
+    "finding": "PAP為不需模板的RNA聚合酶，仍需受體RNA及ATP。",
+    "read_scope": "web原研究結構、催化與結論段；PubMed摘要",
+    "limits": "牛酵素結構研究；部分直接PMC開啟曾返回captcha，研究文字由web搜尋索引取得，無冒充完整HTTP原始檔。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU107官方採計",
+    "captures": [],
+    "capture_content_checks": [],
+    "authored_evidence_record_sha256": "beae2ea2f79f8b273cd0e9515b9e8a567441281fdc717a9ddbf8d8a2f8f9172d"
+  },
+  {
+    "id": "S08",
+    "title": "Impulse conduction in multiple sclerosis: theoretical basis (1974)",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/4362242/"
+    ],
+    "finding": "去髓鞘數值模型可出現傳導阻斷，不限於減慢。",
+    "read_scope": "PubMed原研究完整摘要",
+    "limits": "模型與溫度條件相關，不推定所有患者皆阻斷，無臨床用藥建議。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU107官方採計",
+    "captures": [],
+    "capture_content_checks": [],
+    "authored_evidence_record_sha256": "7e8b06a23da4880fd124df2d15898f4835a9774a43b7e1264fc67cdc6501bd11"
+  },
+  {
+    "id": "S09",
+    "title": "Astrocyte-mediated induction of tight junctions in brain capillary endothelium (1987)",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/3676853/"
+    ],
+    "finding": "星狀膠細胞條件培養液及適當細胞外基質可促腦微血管內皮緊密連結。",
+    "read_scope": "PubMed原研究完整摘要",
+    "limits": "大鼠內皮體外培養，不宣稱單一因子可完全再現人體血腦障壁。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU107官方採計",
+    "captures": [],
+    "capture_content_checks": [],
+    "authored_evidence_record_sha256": "09b90b1cb7702a4390dcbdb4a56f237e820ec8a2b8458c622021943134b3c8ab"
+  },
+  {
+    "id": "S10",
+    "title": "A fungal-responsive MAPK cascade regulates phytoalexin biosynthesis in Arabidopsis (2008)",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC2291085/"
+    ],
+    "finding": "真菌誘發的MPK3/MPK6調節camalexin合成，支持誘導抗菌次級代謝物。",
+    "read_scope": "web原研究摘要及引言最後研究總結段",
+    "limits": "阿拉伯芥與Botrytis cinerea結果，非所有植物同一物質；直接PMC開啟曾captcha，無本地HTTP全文宣稱。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU107官方採計",
+    "captures": [],
+    "capture_content_checks": [],
+    "authored_evidence_record_sha256": "063f13f359bd197204a89e2b6b4a247da4ca551e3101eb212186e4e9de56eda6"
+  },
+  {
+    "id": "S11",
+    "title": "Expression of bacterial genes in plant cells (1983)",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/6308651/"
+    ],
+    "finding": "改造Ti質體將抗生素抗性嵌合基因導入矮牽牛及菸草細胞并測表現。",
+    "read_scope": "PubMed原研究完整摘要",
+    "limits": "具體細胞轉殖實驗，不把T-DNA轉移說成整Ti質體必然全部整合。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU107官方採計",
+    "captures": [],
+    "capture_content_checks": [],
+    "authored_evidence_record_sha256": "6a9f9b22aa4915f4ba5ccf817ec75e4cd2b45b858a3ff132fad8ad78a659a29a"
+  }
+]

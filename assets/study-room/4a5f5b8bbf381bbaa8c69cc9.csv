@@ -1,0 +1,92 @@
+﻿mode,chapter_number,chapter,count
+primary,52,Ch52 An Introduction to Ecology and the Biosphere,4
+primary,39,Ch39 Plant Responses to Internal and External Signals,3
+primary,11,Ch11 Cell Communication,2
+primary,13,Ch13 Meiosis and Sexual Life Cycles,2
+primary,20,Ch20 DNA Tools and Biotechnology,2
+primary,23,Ch23 The Evolution of Populations,2
+primary,26,Ch26 Phylogeny and the Tree of Life,2
+primary,33,Ch33 An Introduction to Invertebrates,2
+primary,35,"Ch35 Vascular Plant Structure, Growth, and Development",2
+primary,42,Ch42 Circulation and Gas Exchange,2
+primary,43,Ch43 The Immune System,2
+primary,47,Ch47 Animal Development,2
+primary,53,Ch53 Population Ecology,2
+primary,54,Ch54 Community Ecology,2
+primary,55,Ch55 Ecosystems and Restoration Ecology,2
+primary,7,Ch07 Membrane Structure and Function,1
+primary,9,Ch09 Cellular Respiration and Fermentation,1
+primary,10,Ch10 Photosynthesis,1
+primary,14,Ch14 Mendel and the Gene Idea,1
+primary,15,Ch15 The Chromosomal Basis of Inheritance,1
+primary,16,Ch16 The Molecular Basis of Inheritance,1
+primary,24,Ch24 The Origin of Species,1
+primary,25,Ch25 The History of Life on Earth,1
+primary,28,Ch28 Protists,1
+primary,29,Ch29 Plant Diversity I: How Plants Colonized Land,1
+primary,30,Ch30 Plant Diversity II: The Evolution of Seed Plants,1
+primary,37,Ch37 Soil and Plant Nutrition,1
+primary,41,Ch41 Animal Nutrition,1
+primary,44,Ch44 Osmoregulation and Excretion,1
+primary,45,Ch45 Hormones and the Endocrine System,1
+primary,49,Ch49 Nervous Systems,1
+primary,56,Ch56 Conservation Biology and Global Change,1
+secondary,14,Ch14 Mendel and the Gene Idea,2
+secondary,28,Ch28 Protists,2
+secondary,31,Ch31 Fungi,2
+secondary,33,Ch33 An Introduction to Invertebrates,2
+secondary,56,Ch56 Conservation Biology and Global Change,2
+secondary,6,Ch06 A Tour of the Cell,1
+secondary,15,Ch15 The Chromosomal Basis of Inheritance,1
+secondary,16,Ch16 The Molecular Basis of Inheritance,1
+secondary,17,Ch17 Gene Expression: From Gene to Protein,1
+secondary,18,Ch18 Regulation of Gene Expression,1
+secondary,32,Ch32 An Overview of Animal Diversity,1
+secondary,34,Ch34 The Origin and Evolution of Vertebrates,1
+secondary,35,"Ch35 Vascular Plant Structure, Growth, and Development",1
+secondary,38,Ch38 Angiosperm Reproduction and Biotechnology,1
+secondary,42,Ch42 Circulation and Gas Exchange,1
+secondary,46,Ch46 Animal Reproduction,1
+secondary,50,Ch50 Sensory and Motor Mechanisms,1
+secondary,52,Ch52 An Introduction to Ecology and the Biosphere,1
+both,52,Ch52 An Introduction to Ecology and the Biosphere,5
+both,33,Ch33 An Introduction to Invertebrates,4
+both,14,Ch14 Mendel and the Gene Idea,3
+both,28,Ch28 Protists,3
+both,35,"Ch35 Vascular Plant Structure, Growth, and Development",3
+both,39,Ch39 Plant Responses to Internal and External Signals,3
+both,42,Ch42 Circulation and Gas Exchange,3
+both,56,Ch56 Conservation Biology and Global Change,3
+both,11,Ch11 Cell Communication,2
+both,13,Ch13 Meiosis and Sexual Life Cycles,2
+both,15,Ch15 The Chromosomal Basis of Inheritance,2
+both,16,Ch16 The Molecular Basis of Inheritance,2
+both,20,Ch20 DNA Tools and Biotechnology,2
+both,23,Ch23 The Evolution of Populations,2
+both,26,Ch26 Phylogeny and the Tree of Life,2
+both,31,Ch31 Fungi,2
+both,43,Ch43 The Immune System,2
+both,47,Ch47 Animal Development,2
+both,53,Ch53 Population Ecology,2
+both,54,Ch54 Community Ecology,2
+both,55,Ch55 Ecosystems and Restoration Ecology,2
+both,6,Ch06 A Tour of the Cell,1
+both,7,Ch07 Membrane Structure and Function,1
+both,9,Ch09 Cellular Respiration and Fermentation,1
+both,10,Ch10 Photosynthesis,1
+both,17,Ch17 Gene Expression: From Gene to Protein,1
+both,18,Ch18 Regulation of Gene Expression,1
+both,24,Ch24 The Origin of Species,1
+both,25,Ch25 The History of Life on Earth,1
+both,29,Ch29 Plant Diversity I: How Plants Colonized Land,1
+both,30,Ch30 Plant Diversity II: The Evolution of Seed Plants,1
+both,32,Ch32 An Overview of Animal Diversity,1
+both,34,Ch34 The Origin and Evolution of Vertebrates,1
+both,37,Ch37 Soil and Plant Nutrition,1
+both,38,Ch38 Angiosperm Reproduction and Biotechnology,1
+both,41,Ch41 Animal Nutrition,1
+both,44,Ch44 Osmoregulation and Excretion,1
+both,45,Ch45 Hormones and the Endocrine System,1
+both,46,Ch46 Animal Reproduction,1
+both,49,Ch49 Nervous Systems,1
+both,50,Ch50 Sensory and Motor Mechanisms,1

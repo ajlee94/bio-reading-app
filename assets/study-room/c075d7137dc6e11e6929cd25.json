@@ -1,0 +1,321 @@
+[
+  {
+    "id": "S01",
+    "title": "單細胞C4原始研究：Bienertia的空間區隔",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3091117/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5853773/"
+    ],
+    "finding": "單細胞C4存在且仍需細胞內空間區隔；不等於典型雙細胞C4均在葉肉去羧化。",
+    "read_scope": "本輪web搜尋回傳原研究摘要與相關段落；未宣稱出版商PDF已下載。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU114官方採計",
+    "captures": [
+      {
+        "id": "S01",
+        "path": "審查紀錄/annual_review/TCU-114/web-readbacks/S01.json",
+        "sha256": "a9dd3955e786e98c57d861fbb2482f1167e9f9da761f29740a58048f1e525487",
+        "kind": "AUTHORED_WEB_READBACK_NOT_HTTP_BYTES"
+      }
+    ],
+    "authored_evidence_record_sha256": "9dc85c95128d0074b5362ecddc48b846ed0cdf31b1e3e69d8382f433e626bfaa"
+  },
+  {
+    "id": "S02",
+    "title": "Wagner and Flores 1994 Taxol植物病原生長試驗；NCI來源",
+    "urls": [
+      "https://www.apsnet.org/publications/phytopathology/backissues/Documents/1994Abstracts/Phyto_84_1173.htm",
+      "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/paclitaxel"
+    ],
+    "finding": "Taxol分離自Taxus；生長試驗有抑制及無抑制的物種，可能為防禦化合物，不能概括所有真菌。",
+    "read_scope": "APS完整摘要頁實讀；NCI官方藥物字典機制及來源段。未取得全部實驗全文。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU114官方採計",
+    "captures": [
+      {
+        "id": "S02",
+        "path": "審查紀錄/annual_review/TCU-114/web-readbacks/S02.json",
+        "sha256": "7898fada48632dd2f6932b1dfb5b1bb605077af374ed5e69e65adc0a08fa578c",
+        "kind": "AUTHORED_WEB_READBACK_NOT_HTTP_BYTES"
+      }
+    ],
+    "authored_evidence_record_sha256": "8cd86b45c2e856daef4268bd236183ac40bf938e2f0fd8f992acc08a502f69d9"
+  },
+  {
+    "id": "S03",
+    "title": "OpenStax Microbiology 11.5 Mutations（作者教材）",
+    "urls": [
+      "https://openstax.org/books/microbiology/pages/11-5-mutations"
+    ],
+    "finding": "正文及圖11.20支持nitrous acid使C脫氨成U；該頁表11.4寫nitrous oxide，保留其內部用詞差異，採正文機制。",
+    "read_scope": "本輪web開啟頁面，聚焦Chemical Mutagens及圖11.20，非全文逐句審訂。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU114官方採計",
+    "captures": [
+      {
+        "id": "S03",
+        "path": "審查紀錄/annual_review/TCU-114/web-readbacks/S03.json",
+        "sha256": "f95d1b51b78879556efe60c0dad9e1bce5ad3c3a2937d2b380cc302ab3d95127",
+        "kind": "AUTHORED_WEB_READBACK_NOT_HTTP_BYTES"
+      }
+    ],
+    "authored_evidence_record_sha256": "f6f53b7140c9229fa81ce5a698a024bdbcd2cdb19998c56593b945df0b945465"
+  },
+  {
+    "id": "S04",
+    "title": "NOAA ENSO資料",
+    "urls": [
+      "https://www.aoml.noaa.gov/general/enso_faq/",
+      "https://oceanservice.noaa.gov/facts/ninonina.html"
+    ],
+    "finding": "信風減弱、暖水往東及東太平洋上湧減弱；原題向秘魯流動減緩不符合標準方向敘述。",
+    "read_scope": "本輪搜尋回傳NOAA現象與機制段落，作物理機制查證，不作氣候預報。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU114官方採計",
+    "captures": [
+      {
+        "id": "S04",
+        "path": "審查紀錄/annual_review/TCU-114/web-readbacks/S04.json",
+        "sha256": "565bd14e4d7d038fb06832496d61af21af9679cb36da2e790168b81f20d37133",
+        "kind": "AUTHORED_WEB_READBACK_NOT_HTTP_BYTES"
+      }
+    ],
+    "authored_evidence_record_sha256": "ca5aa8089455ad5d469b1981c8ddc815fcbd6912c8360686acccb8cf6e87f308"
+  },
+  {
+    "id": "S05",
+    "title": "Cooper The Cell：Regulation of Programmed Cell Death",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK9922/"
+    ],
+    "finding": "粒線體cytochrome c、Apaf-1與caspase-9複合體及Bcl-2調控支持內在途徑分子細節。",
+    "read_scope": "NCBI Bookshelf作者教材相關段落，非Campbell正文引述。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU114官方採計",
+    "captures": [
+      {
+        "id": "S05",
+        "path": "審查紀錄/annual_review/TCU-114/web-readbacks/S05.json",
+        "sha256": "d635e67d76f3ea57f7d8ac2feb24c570a462d561f906f9261833f8db6cc79c3f",
+        "kind": "AUTHORED_WEB_READBACK_NOT_HTTP_BYTES"
+      }
+    ],
+    "authored_evidence_record_sha256": "4409f68ee5f9525035eb8c36872eec43349a1de6ef179727b63c2f315fc97cd1"
+  },
+  {
+    "id": "S06",
+    "title": "肌肉燃料：作者生理教材及National Academies報告",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK543780/",
+      "https://www.ncbi.nlm.nih.gov/books/n/nap4563/pdf/"
+    ],
+    "finding": "靜息骨骼肌可主要使用游離脂肪酸；飲食、荷爾蒙與底物供應改變醣脂利用。",
+    "read_scope": "本輪搜尋回傳Fuels for the Fire章節及報告印刷213摘要段，不宣稱閱讀整冊或固定比例通則。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU114官方採計",
+    "captures": [
+      {
+        "id": "S06",
+        "path": "審查紀錄/annual_review/TCU-114/web-readbacks/S06.json",
+        "sha256": "652fb09961d4e6eb8dd3014997f92ba7364d66379db6a5fcb51265ffb74c8c3b",
+        "kind": "AUTHORED_WEB_READBACK_NOT_HTTP_BYTES"
+      }
+    ],
+    "authored_evidence_record_sha256": "fd22e01fac8645130329ab15f757da199a53f827b1757687b90d8e28fd398238"
+  },
+  {
+    "id": "S07",
+    "title": "FDA與DailyMed抗病毒藥品機制資料",
+    "urls": [
+      "https://www.accessdata.fda.gov/drugsatfda_docs/label/2006/021087s033lbl.pdf",
+      "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/214787Orig1s011.pdf",
+      "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f41aa20a-8824-477e-8f04-69760ba1197e",
+      "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=eee304d0-c2ea-44f4-97d9-92a414d31b6c"
+    ],
+    "finding": "Oseltamivir抑制neuraminidase，remdesivir對RdRp，acyclovir對DNA複製；核酸相關抗病毒藥不能概括成完全相同機制。 Ribavirin為核苷類似物，有RNA病毒突變頻率及聚合酶相關作用，機制具病毒／系統差異。",
+    "read_scope": "本輪索引回傳機制段，2006／2022等歷史說明用於基礎機制，未宣稱最新處方標示或提出療法。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU114官方採計",
+    "captures": [
+      {
+        "id": "S07",
+        "path": "審查紀錄/annual_review/TCU-114/web-readbacks/S07.json",
+        "sha256": "785052a32081fc6c8e6df8db47608afa6ad39c47a6eedbd7cda547471286a073",
+        "kind": "AUTHORED_WEB_READBACK_NOT_HTTP_BYTES"
+      }
+    ],
+    "authored_evidence_record_sha256": "3c9ce2bd95aa349758dc14cae375be4ee961bfdc3562c23288ac4c2a62e31d7e"
+  },
+  {
+    "id": "S08",
+    "title": "Embryology, Umbilical Cord（作者教材）",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK557490/"
+    ],
+    "finding": "臍靜脈閉鎖成肝圓韌帶，臍動脈遠段與靜脈導管另有各自殘跡。",
+    "read_scope": "NCBI Bookshelf本輪搜尋回傳出生後遺跡段；Campbell僅提供胎盤循環脈絡。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU114官方採計",
+    "captures": [
+      {
+        "id": "S08",
+        "path": "審查紀錄/annual_review/TCU-114/web-readbacks/S08.json",
+        "sha256": "2cb517a7efc9362e34c2f52a768e05db1c3bb08db29fd301f74f9d33dbcce734",
+        "kind": "AUTHORED_WEB_READBACK_NOT_HTTP_BYTES"
+      }
+    ],
+    "authored_evidence_record_sha256": "d1e684fc2ea8df9cb552e12278a0fdd33e6f554e8eedd98995de5b0c96e7170c"
+  },
+  {
+    "id": "S09",
+    "title": "Hallbeck and Pedersen 1991 Autotrophic and mixotrophic growth of Gallionella ferruginea",
+    "urls": [
+      "https://www.microbiologyresearch.org/content/journal/micro/10.1099/00221287-137-11-2657"
+    ],
+    "finding": "原始培養研究顯示自營固定CO2及有葡萄糖時混營，反駁釋疑將其絕對歸為不能固碳的例子。",
+    "read_scope": "出版商研究摘要頁實讀；未宣稱已取得全文PDF。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU114官方採計",
+    "captures": [
+      {
+        "id": "S09",
+        "path": "審查紀錄/annual_review/TCU-114/web-readbacks/S09.json",
+        "sha256": "1663e814947f2253541de5e1999061c45143f1bd7cbd314b2b133feecb156b62",
+        "kind": "AUTHORED_WEB_READBACK_NOT_HTTP_BYTES"
+      }
+    ],
+    "authored_evidence_record_sha256": "f6f3f50893ecb46e88fe4df06e343f98c758f01b98c1bcce4897fbdfcd087edf"
+  },
+  {
+    "id": "S10",
+    "title": "NIAMS、CDC與先天rubella原始研究：感染和免疫差異",
+    "urls": [
+      "https://www.niams.nih.gov/health-topics/reactive-arthritis",
+      "https://www.cdc.gov/group-a-strep/about/rheumatic-fever.html",
+      "https://www.cdc.gov/lyme/hcp/clinical-care/lyme-arthritis.html",
+      "https://pubmed.ncbi.nlm.nih.gov/74564/"
+    ],
+    "finding": "反應性關節炎常有特定細菌前驅；風濕熱為感染後免疫反應；Lyme感染與部分持續免疫性關節炎分開；rubella與糖尿病有關聯但非通則。",
+    "read_scope": "本輪web回傳官方病因段及1978原研究摘要。只取病因與證據範圍，未使用治療表，亦不替官方釋疑未具名研究補造引用。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU114官方採計",
+    "captures": [
+      {
+        "id": "S10",
+        "path": "審查紀錄/annual_review/TCU-114/web-readbacks/S10.json",
+        "sha256": "a1bc4ddacf523791ac91d0e2c00fd5827bc963a8e7e8f118975ebb4d74d58dc6",
+        "kind": "AUTHORED_WEB_READBACK_NOT_HTTP_BYTES"
+      }
+    ],
+    "authored_evidence_record_sha256": "911bba94d86613aedef1613af6f6535562a377233373d12d53dd4908c34293e9"
+  },
+  {
+    "id": "S11",
+    "title": "Medical Microbiology：Enterobacteriaceae表面抗原",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK8035/",
+      "https://pubmed.ncbi.nlm.nih.gov/765961/"
+    ],
+    "finding": "一般K為莢膜多醣，歷史K88/K99含菌毛蛋白命名例外；Lipid A與O多醣功能不同。",
+    "read_scope": "作者教材Major Surface Antigens段及原始抗原研究摘要；並未把命名例外泛化為所有莢膜蛋白。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU114官方採計",
+    "captures": [
+      {
+        "id": "S11",
+        "path": "審查紀錄/annual_review/TCU-114/web-readbacks/S11.json",
+        "sha256": "abda703010b3ade95ba59a80b58ed2c9f6e040acde519eff7f0d7e3653e54d35",
+        "kind": "AUTHORED_WEB_READBACK_NOT_HTTP_BYTES"
+      }
+    ],
+    "authored_evidence_record_sha256": "024a7e3585d9701ebecf5b56622f379690b5e99e3a9ff88e54a2c3c5eb1fa149"
+  },
+  {
+    "id": "S12",
+    "title": "ICTV病毒基因組與分節報告",
+    "urls": [
+      "https://ictv.global/report/chapter/coronaviridae/coronaviridae",
+      "https://ictv.global/report/chapter/sedoreoviridae/sedoreoviridae/rotavirus",
+      "https://test.ictv.global/report_9th/RNAneg/Orthomyxoviridae",
+      "https://ictv.global/report/chapter/peribunyaviridae/peribunyaviridae"
+    ],
+    "finding": "題述常見冠狀病毒非分節；輪狀11、流感A/B8、orthobunyavirus3段；reassortment不等於所有重組，Campbell九段敘述需保留為差異。",
+    "read_scope": "本輪ICTV報告Nucleic acid、基因組／Summary段；流感頁明為第九版歷史報告，僅引用分節特性，非完整最新分類名錄。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU114官方採計",
+    "captures": [
+      {
+        "id": "S12",
+        "path": "審查紀錄/annual_review/TCU-114/web-readbacks/S12.json",
+        "sha256": "21a3e0426667b92e84ce838eb7de18456c2e944181bd7a3c5ecefdfa4f1cd5a3",
+        "kind": "AUTHORED_WEB_READBACK_NOT_HTTP_BYTES"
+      }
+    ],
+    "authored_evidence_record_sha256": "24bb746237ca37e50db57e4f74469f9ace98bc89683e9292083166bbbc32f540"
+  },
+  {
+    "id": "S13",
+    "title": "Orvedahl et al. 2010 Sindbis病毒與自噬原始研究",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC2860265/",
+      "https://pubmed.ncbi.nlm.nih.gov/20159618/"
+    ],
+    "finding": "Atg5／p62自噬清除病毒衣殼蛋白並促細胞存活，研究中的病毒複製量未因此改變。",
+    "read_scope": "本輪研究摘要與結果段落實讀；不能宣稱所有病毒均被自噬抑制。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU114官方採計",
+    "captures": [
+      {
+        "id": "S13",
+        "path": "審查紀錄/annual_review/TCU-114/web-readbacks/S13.json",
+        "sha256": "29cce6a4827abf8d53e068389239bdc743dd85a2055a8be9fc97419dcf893825",
+        "kind": "AUTHORED_WEB_READBACK_NOT_HTTP_BYTES"
+      }
+    ],
+    "authored_evidence_record_sha256": "c42f1338310c187c6390b0c45180f5411c9e41435857e292d97aa04e1f14931a"
+  },
+  {
+    "id": "S14",
+    "title": "AB毒素作者教材與GAS CMT原始研究",
+    "urls": [
+      "https://openstax.org/books/microbiology/pages/15-3-virulence-factors-of-bacterial-and-viral-pathogens",
+      "https://ncbi.nlm.nih.gov/books/NBK7813/?report=reader",
+      "https://www.ncbi.nlm.nih.gov/sites/books/NBK310486/pdf/Bookshelf_NBK310486.pdf",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC2868537/"
+    ],
+    "finding": "A作用與B結合／輸送區分典型AB毒素；GAS另有SLO輸送SPN的CMT機制，因此菌種未指定毒素時不宜一概而論。",
+    "read_scope": "本輪作者教材AB定義、Bordetella段、WHO炭疽報告毒素段及GAS原研究摘要／相關結果；未宣稱所有全文已下載。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU114官方採計",
+    "captures": [
+      {
+        "id": "S14",
+        "path": "審查紀錄/annual_review/TCU-114/web-readbacks/S14.json",
+        "sha256": "f96e9240a00df2ef1c3165f6c83cce907c9f1bb3429c9f12af4a5426410ed8d6",
+        "kind": "AUTHORED_WEB_READBACK_NOT_HTTP_BYTES"
+      }
+    ],
+    "authored_evidence_record_sha256": "a677b7e63e33e3e3410d6023957a7281b083062c2babee14f64e2fa2cc702bd7"
+  },
+  {
+    "id": "S15",
+    "title": "古菌archaellum結構與馬達原始研究",
+    "urls": [
+      "https://www.nature.com/articles/s41467-022-28337-1",
+      "https://www.nature.com/articles/nmicrobiol2016148"
+    ],
+    "finding": "Archaellum與細菌鞭毛結構及ATP動力不同，證明不可將原核一律視為教材典型質子驅動細菌。",
+    "read_scope": "本輪Nature原研究摘要及結構結果相關段；本文未另審全部古菌或細菌馬達種類。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU114官方採計",
+    "captures": [
+      {
+        "id": "S15",
+        "path": "審查紀錄/annual_review/TCU-114/web-readbacks/S15.json",
+        "sha256": "68cd8f68cbcbbd4a1ad922819b7ba1fb72725176437ef8a70f0dd8107cc1d00d",
+        "kind": "AUTHORED_WEB_READBACK_NOT_HTTP_BYTES"
+      }
+    ],
+    "authored_evidence_record_sha256": "04bdf370284fab600f6acb5c88f831d067b5085bfbe92dc37bf297955275fab3"
+  }
+]

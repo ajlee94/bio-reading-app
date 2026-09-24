@@ -1,0 +1,72 @@
+﻿mode,chapter_number,chapter,count
+primary,6,Ch06 A Tour of the Cell,5
+primary,39,Ch39 Plant Responses to Internal and External Signals,5
+primary,9,Ch09 Cellular Respiration and Fermentation,4
+primary,11,Ch11 Cell Communication,3
+primary,20,Ch20 DNA Tools and Biotechnology,3
+primary,23,Ch23 The Evolution of Populations,3
+primary,12,Ch12 The Cell Cycle,2
+primary,13,Ch13 Meiosis and Sexual Life Cycles,2
+primary,18,Ch18 Regulation of Gene Expression,2
+primary,43,Ch43 The Immune System,2
+primary,8,Ch08 An Introduction to Metabolism,1
+primary,10,Ch10 Photosynthesis,1
+primary,14,Ch14 Mendel and the Gene Idea,1
+primary,16,Ch16 The Molecular Basis of Inheritance,1
+primary,17,Ch17 Gene Expression: From Gene to Protein,1
+primary,24,Ch24 The Origin of Species,1
+primary,26,Ch26 Phylogeny and the Tree of Life,1
+primary,27,Ch27 Bacteria and Archaea,1
+primary,30,Ch30 Plant Diversity II: The Evolution of Seed Plants,1
+primary,31,Ch31 Fungi,1
+primary,35,"Ch35 Vascular Plant Structure, Growth, and Development",1
+primary,36,Ch36 Resource Acquisition and Transport in Vascular Plants,1
+primary,38,Ch38 Angiosperm Reproduction and Biotechnology,1
+primary,42,Ch42 Circulation and Gas Exchange,1
+primary,44,Ch44 Osmoregulation and Excretion,1
+primary,45,Ch45 Hormones and the Endocrine System,1
+primary,47,Ch47 Animal Development,1
+primary,49,Ch49 Nervous Systems,1
+primary,53,Ch53 Population Ecology,1
+secondary,6,Ch06 A Tour of the Cell,3
+secondary,10,Ch10 Photosynthesis,3
+secondary,27,Ch27 Bacteria and Archaea,3
+secondary,8,Ch08 An Introduction to Metabolism,1
+secondary,12,Ch12 The Cell Cycle,1
+secondary,14,Ch14 Mendel and the Gene Idea,1
+secondary,16,Ch16 The Molecular Basis of Inheritance,1
+secondary,18,Ch18 Regulation of Gene Expression,1
+secondary,26,Ch26 Phylogeny and the Tree of Life,1
+secondary,39,Ch39 Plant Responses to Internal and External Signals,1
+secondary,46,Ch46 Animal Reproduction,1
+secondary,47,Ch47 Animal Development,1
+both,6,Ch06 A Tour of the Cell,8
+both,39,Ch39 Plant Responses to Internal and External Signals,6
+both,9,Ch09 Cellular Respiration and Fermentation,4
+both,10,Ch10 Photosynthesis,4
+both,27,Ch27 Bacteria and Archaea,4
+both,11,Ch11 Cell Communication,3
+both,12,Ch12 The Cell Cycle,3
+both,18,Ch18 Regulation of Gene Expression,3
+both,20,Ch20 DNA Tools and Biotechnology,3
+both,23,Ch23 The Evolution of Populations,3
+both,8,Ch08 An Introduction to Metabolism,2
+both,13,Ch13 Meiosis and Sexual Life Cycles,2
+both,14,Ch14 Mendel and the Gene Idea,2
+both,16,Ch16 The Molecular Basis of Inheritance,2
+both,26,Ch26 Phylogeny and the Tree of Life,2
+both,43,Ch43 The Immune System,2
+both,47,Ch47 Animal Development,2
+both,17,Ch17 Gene Expression: From Gene to Protein,1
+both,24,Ch24 The Origin of Species,1
+both,30,Ch30 Plant Diversity II: The Evolution of Seed Plants,1
+both,31,Ch31 Fungi,1
+both,35,"Ch35 Vascular Plant Structure, Growth, and Development",1
+both,36,Ch36 Resource Acquisition and Transport in Vascular Plants,1
+both,38,Ch38 Angiosperm Reproduction and Biotechnology,1
+both,42,Ch42 Circulation and Gas Exchange,1
+both,44,Ch44 Osmoregulation and Excretion,1
+both,45,Ch45 Hormones and the Endocrine System,1
+both,46,Ch46 Animal Reproduction,1
+both,49,Ch49 Nervous Systems,1
+both,53,Ch53 Population Ecology,1

@@ -1,0 +1,78 @@
+﻿mode,chapter_number,chapter,count
+primary,9,Ch09 Cellular Respiration and Fermentation,4
+primary,35,"Ch35 Vascular Plant Structure, Growth, and Development",4
+primary,6,Ch06 A Tour of the Cell,3
+primary,39,Ch39 Plant Responses to Internal and External Signals,3
+primary,42,Ch42 Circulation and Gas Exchange,3
+primary,45,Ch45 Hormones and the Endocrine System,3
+primary,8,Ch08 An Introduction to Metabolism,2
+primary,15,Ch15 The Chromosomal Basis of Inheritance,2
+primary,17,Ch17 Gene Expression: From Gene to Protein,2
+primary,19,Ch19 Viruses,2
+primary,43,Ch43 The Immune System,2
+primary,44,Ch44 Osmoregulation and Excretion,2
+primary,54,Ch54 Community Ecology,2
+primary,56,Ch56 Conservation Biology and Global Change,2
+primary,11,Ch11 Cell Communication,1
+primary,12,Ch12 The Cell Cycle,1
+primary,16,Ch16 The Molecular Basis of Inheritance,1
+primary,18,Ch18 Regulation of Gene Expression,1
+primary,20,Ch20 DNA Tools and Biotechnology,1
+primary,21,Ch21 Genomes and Their Evolution,1
+primary,26,Ch26 Phylogeny and the Tree of Life,1
+primary,28,Ch28 Protists,1
+primary,30,Ch30 Plant Diversity II: The Evolution of Seed Plants,1
+primary,38,Ch38 Angiosperm Reproduction and Biotechnology,1
+primary,41,Ch41 Animal Nutrition,1
+primary,46,Ch46 Animal Reproduction,1
+primary,48,"Ch48 Neurons, Synapses, and Signaling",1
+primary,50,Ch50 Sensory and Motor Mechanisms,1
+secondary,6,Ch06 A Tour of the Cell,2
+secondary,11,Ch11 Cell Communication,2
+secondary,17,Ch17 Gene Expression: From Gene to Protein,2
+secondary,33,Ch33 An Introduction to Invertebrates,2
+secondary,35,"Ch35 Vascular Plant Structure, Growth, and Development",2
+secondary,8,Ch08 An Introduction to Metabolism,1
+secondary,16,Ch16 The Molecular Basis of Inheritance,1
+secondary,18,Ch18 Regulation of Gene Expression,1
+secondary,19,Ch19 Viruses,1
+secondary,27,Ch27 Bacteria and Archaea,1
+secondary,36,Ch36 Resource Acquisition and Transport in Vascular Plants,1
+secondary,42,Ch42 Circulation and Gas Exchange,1
+secondary,43,Ch43 The Immune System,1
+secondary,44,Ch44 Osmoregulation and Excretion,1
+secondary,45,Ch45 Hormones and the Endocrine System,1
+secondary,48,"Ch48 Neurons, Synapses, and Signaling",1
+secondary,50,Ch50 Sensory and Motor Mechanisms,1
+secondary,56,Ch56 Conservation Biology and Global Change,1
+both,35,"Ch35 Vascular Plant Structure, Growth, and Development",6
+both,6,Ch06 A Tour of the Cell,5
+both,9,Ch09 Cellular Respiration and Fermentation,4
+both,17,Ch17 Gene Expression: From Gene to Protein,4
+both,42,Ch42 Circulation and Gas Exchange,4
+both,45,Ch45 Hormones and the Endocrine System,4
+both,8,Ch08 An Introduction to Metabolism,3
+both,11,Ch11 Cell Communication,3
+both,19,Ch19 Viruses,3
+both,39,Ch39 Plant Responses to Internal and External Signals,3
+both,43,Ch43 The Immune System,3
+both,44,Ch44 Osmoregulation and Excretion,3
+both,56,Ch56 Conservation Biology and Global Change,3
+both,15,Ch15 The Chromosomal Basis of Inheritance,2
+both,16,Ch16 The Molecular Basis of Inheritance,2
+both,18,Ch18 Regulation of Gene Expression,2
+both,33,Ch33 An Introduction to Invertebrates,2
+both,48,"Ch48 Neurons, Synapses, and Signaling",2
+both,50,Ch50 Sensory and Motor Mechanisms,2
+both,54,Ch54 Community Ecology,2
+both,12,Ch12 The Cell Cycle,1
+both,20,Ch20 DNA Tools and Biotechnology,1
+both,21,Ch21 Genomes and Their Evolution,1
+both,26,Ch26 Phylogeny and the Tree of Life,1
+both,27,Ch27 Bacteria and Archaea,1
+both,28,Ch28 Protists,1
+both,30,Ch30 Plant Diversity II: The Evolution of Seed Plants,1
+both,36,Ch36 Resource Acquisition and Transport in Vascular Plants,1
+both,38,Ch38 Angiosperm Reproduction and Biotechnology,1
+both,41,Ch41 Animal Nutrition,1
+both,46,Ch46 Animal Reproduction,1

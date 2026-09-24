@@ -1,0 +1,372 @@
+[
+  {
+    "id": "S01",
+    "title": "NCBI Bookshelf：Respiratory Acidosis",
+    "finding": "通氣不足造成CO2滯留與pH下降；腎代償保留HCO3，與原發改變分開。",
+    "read_scope": "本輪下載正文，實讀Introduction及Etiology的酸鹼與代償段；不作個案醫療建議。",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK482430/"
+    ],
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU108官方採計",
+    "captures": [
+      {
+        "id": "S01",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK482430/",
+        "retrieved_at": "2026-09-10T00:24:25.020347+08:00",
+        "path": "source/supplemental/ISU108/science/respiratory-acidosis.html",
+        "final_url": "https://www.ncbi.nlm.nih.gov/books/NBK482430/",
+        "content_type": "text/html; charset=UTF-8",
+        "status": "CAPTURED_RESPONSE",
+        "bytes": 64175,
+        "sha256": "1d08e1e77c1c7f048e07a59895225f5c7c48d7e8965dd5592763414422de497a",
+        "text_path": "source/supplemental/ISU108/science/respiratory-acidosis.html.txt",
+        "text_sha256": "c483e28c177222c4091b64ba3c9ce6f319818db6b687fb8bd8f8564ca706c845"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "197835950cb8462263d30ab828fe3c4105796b523c30107ac1f9b9107f7d1869"
+  },
+  {
+    "id": "S02",
+    "title": "Richard E. Klabunde：Electrocardiogram",
+    "finding": "P波為心房去極化，與機械收縮分開。",
+    "read_scope": "web工具直接讀原作者頁P wave等段，行34–43；本機下載SSL過期失敗，無遠端原檔SHA。",
+    "urls": [
+      "https://cvphysiology.com/arrhythmias/a009"
+    ],
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU108官方採計",
+    "captures": [
+      {
+        "id": "S02",
+        "url": "https://cvphysiology.com/arrhythmias/a009",
+        "retrieved_at": "2026-09-10T00:24:25.020347+08:00",
+        "path": "source/supplemental/ISU108/science/ecg.html",
+        "status": "DOWNLOAD_FAILED",
+        "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "92c0fc9350e96e4e075bd2916e6c0121bdad41f936a40d4063279bea2546a53b"
+  },
+  {
+    "id": "S03",
+    "title": "Richard E. Klabunde：Systemic Vascular Resistance",
+    "finding": "SVR=(MAP−CVP)/CO；忽略CVP為題目D的近似關係。",
+    "read_scope": "web工具實讀原作者正文行30–41；來源簡式把SVR誤簡寫SV，記錄時以完整式理解。本機SSL失敗，不聲稱原檔已下載。",
+    "urls": [
+      "https://cvphysiology.com/blood-pressure/bp021"
+    ],
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU108官方採計",
+    "captures": [
+      {
+        "id": "S03",
+        "url": "https://cvphysiology.com/blood-pressure/bp021",
+        "retrieved_at": "2026-09-10T00:24:25.021346+08:00",
+        "path": "source/supplemental/ISU108/science/vascular-resistance.html",
+        "status": "DOWNLOAD_FAILED",
+        "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "62000013559dd2024193b5fbc51da90e42136cf30daaa43b4c0584d17e7646a1"
+  },
+  {
+    "id": "S04",
+    "title": "NIDDK：Cushing’s Syndrome",
+    "finding": "皮質醇過量可伴高血壓、高血糖與抗發炎效應，與HPA負回饋不矛盾。",
+    "read_scope": "下載官方PDF，實讀症狀與CRH/ACTH/皮質醇作用段；Campbell提供主要分類及回饋框架。",
+    "urls": [
+      "https://www.niddk.nih.gov/-/media/Files/Endocrine-Diseases/Cushings_Syndrome_508.pdf?la=en"
+    ],
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU108官方採計",
+    "captures": [
+      {
+        "id": "S04",
+        "url": "https://www.niddk.nih.gov/-/media/Files/Endocrine-Diseases/Cushings_Syndrome_508.pdf?la=en",
+        "retrieved_at": "2026-09-10T00:24:25.021346+08:00",
+        "path": "source/supplemental/ISU108/science/cushing.pdf",
+        "final_url": "https://www.niddk.nih.gov/-/media/Files/Endocrine-Diseases/Cushings_Syndrome_508.pdf?la=en",
+        "content_type": "application/pdf",
+        "status": "CAPTURED_RESPONSE",
+        "bytes": 219562,
+        "sha256": "569c6dc4a34a7dd97e03f48408a6ba63abfb744b509800770bb6e58582cf48ac",
+        "pdf_pages": 10,
+        "text_path": "source/supplemental/ISU108/science/cushing.pdf.txt",
+        "text_sha256": "df50551603ea5a3e236a6a470fe531c0ac18a166959a66b508cb32912204152c"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "c5f9bd28fe570b24a7b9e63a06ea887a3870eb9e2f33e3dfd7bdfc781236fecf"
+  },
+  {
+    "id": "S05",
+    "title": "Duke：Respiratory Lung Volumes",
+    "finding": "肺泡表面張力的單界面Laplace式P=2T/r，界面活性劑降低張力。",
+    "read_scope": "下載9頁教學PDF，實讀PDF8公式及兩種大小肺泡比較；公式另作獨立半球受力推導。",
+    "urls": [
+      "https://histology.oit.duke.edu/MBS/Videos/Phys/Phys%205.2%20Resp%20Lung%20Volumes/Phys%205.2%20Resp%20Lung%20Volumes.pdf"
+    ],
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU108官方採計",
+    "captures": [
+      {
+        "id": "S05",
+        "url": "https://histology.oit.duke.edu/MBS/Videos/Phys/Phys%205.2%20Resp%20Lung%20Volumes/Phys%205.2%20Resp%20Lung%20Volumes.pdf",
+        "retrieved_at": "2026-09-10T00:24:25.465088+08:00",
+        "path": "source/supplemental/ISU108/science/laplace.pdf",
+        "final_url": "https://histology.oit.duke.edu/MBS/Videos/Phys/Phys%205.2%20Resp%20Lung%20Volumes/Phys%205.2%20Resp%20Lung%20Volumes.pdf",
+        "content_type": "application/pdf",
+        "status": "CAPTURED_RESPONSE",
+        "bytes": 480679,
+        "sha256": "820a6e8ae6a6414497b316b160ceffdce8d3afa454fa3e8c829cacc6c4413ca0",
+        "pdf_pages": 9,
+        "text_path": "source/supplemental/ISU108/science/laplace.pdf.txt",
+        "text_sha256": "75ccc2d267147cab70e5b672e3fc5250da9ee5588d7cf1c36d5cb7124c17681f"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "dbb5121617c7a59aa758d736148466bc5f1cc84c9f6d82f4044c822cef3f8388"
+  },
+  {
+    "id": "S06",
+    "title": "NCI免疫檢查點與Freeman等原始研究",
+    "finding": "PD1/PDL1抑制T細胞作用，阻斷可恢復抗腫瘤反應；原始研究支持抑制淋巴球活化與增生。",
+    "read_scope": "NCI正文已下載並實讀機轉段；Freeman 2000以web取得的摘要及檢索正文段為限，未取得出版商整篇PDF，不由名稱推定壞死功能。",
+    "urls": [
+      "https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/checkpoint-inhibitors",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC2193311/"
+    ],
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU108官方採計",
+    "captures": [
+      {
+        "id": "S06",
+        "url": "https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/checkpoint-inhibitors",
+        "retrieved_at": "2026-09-10T00:24:25.466084+08:00",
+        "path": "source/supplemental/ISU108/science/checkpoint.html",
+        "final_url": "https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/checkpoint-inhibitors",
+        "content_type": "text/html; charset=UTF-8",
+        "status": "CAPTURED_RESPONSE",
+        "bytes": 54089,
+        "sha256": "0c852e0e13b9c26512f14d24f66c397c7a732f06225e4cabb8d98b2fbb322b5d",
+        "text_path": "source/supplemental/ISU108/science/checkpoint.html.txt",
+        "text_sha256": "ea893be723225e763245d9e8f4b472a9a52345f25e46100906da00dbac720bd6"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "8b099725f774aae6b655a7fecb52a2373c8b768e190fc44357c0fb5f4c2aa302"
+  },
+  {
+    "id": "S07",
+    "title": "2025年MPC原始結構與運輸研究",
+    "finding": "MPC介導丙酮酸經粒線體內膜進基質；ΔpH耦合提供次級主動運輸解釋。",
+    "read_scope": "Liang等Nature頁已下載，實讀Abstract的內膜載體範圍；Molecular basis論文的ΔpH與質子段僅實讀web搜尋索引回傳，PMC直接開啟及下載是驗證頁，未當全文。主動運輸採計另有12e171正文與108同年釋疑直接支持。",
+    "urls": [
+      "https://www.nature.com/articles/s41586-025-08873-8",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12007569/"
+    ],
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU108官方採計",
+    "captures": [
+      {
+        "id": "S07",
+        "url": "https://www.nature.com/articles/s41586-025-08873-8",
+        "retrieved_at": "2026-09-10T00:24:25.957492+08:00",
+        "path": "source/supplemental/ISU108/science/pyruvate.html",
+        "final_url": "https://www.nature.com/articles/s41586-025-08873-8?error=cookies_not_supported&code=57162c4b-31c1-4041-b5fc-c57efa6bd519",
+        "content_type": "text/html; charset=utf-8",
+        "status": "CAPTURED_RESPONSE",
+        "bytes": 451702,
+        "sha256": "3e43777ef620f3be6f65f628aae3b438b77ceca0fc8b1c12a38582a5dd0f6a85",
+        "text_path": "source/supplemental/ISU108/science/pyruvate.html.txt",
+        "text_sha256": "bc5b7e6eaa4145467f283848220382caacc24336d477bfea1f6d3ad4943b6047"
+      },
+      {
+        "id": "S07",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12007569/",
+        "retrieved_at": "2026-09-10T00:31:41.538977+08:00",
+        "path": "source/supplemental/ISU108/science/mpc-transport.html",
+        "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12007569/",
+        "content_type": "text/html; charset=utf-8",
+        "status": "CAPTURED_CHALLENGE_NOT_SOURCE",
+        "bytes": 21308,
+        "sha256": "c8dfbbab3b2b94aee265a266915919ad579c2a75f6a37b02e6cc3d493188e2c0",
+        "text_path": "source/supplemental/ISU108/science/mpc-transport.html.txt",
+        "text_sha256": "03c517d95de47711add29b76115477077ee3bfddf3e65c787873c21a05a6d26f"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "86e93995ef21ed3cd72a5c37db9110fae1b9519cd5f62e8635fc91c0d3ef0dce"
+  },
+  {
+    "id": "S08",
+    "title": "NLM MeSH：Enteropeptidase",
+    "finding": "腸肽酶為蛋白水解酶，切去trypsinogen的N端使其活化。",
+    "read_scope": "下載及實讀MeSH定義、同義名與酵素分類；不把enterokinase誤作磷酸化激酶。",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/mesh/68004765"
+    ],
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU108官方採計",
+    "captures": [
+      {
+        "id": "S08",
+        "url": "https://www.ncbi.nlm.nih.gov/mesh/68004765",
+        "retrieved_at": "2026-09-10T00:24:27.110940+08:00",
+        "path": "source/supplemental/ISU108/science/enteropeptidase.html",
+        "final_url": "https://www.ncbi.nlm.nih.gov/mesh/68004765",
+        "content_type": "text/html; charset=UTF-8",
+        "status": "CAPTURED_RESPONSE",
+        "bytes": 59740,
+        "sha256": "fb1d8af468117498505a33cbbdbbd41f4e808c143f7c133ffcdd212b1cf9b787",
+        "text_path": "source/supplemental/ISU108/science/enteropeptidase.html.txt",
+        "text_sha256": "11b59e160d8960096c7c104d8f0319a11aaf58f1a9ff4d5ba6631f734fbc8024"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "034652ae11bdf6f0dc146c09a9b9bc18d5f9d9ad34959bf7e73b18e96b208a27"
+  },
+  {
+    "id": "S09",
+    "title": "NIH ODS：Vitamin B12 Health Professional Fact Sheet",
+    "finding": "胃壁細胞內在因子支持B12在末端迴腸吸收，胃切除會影響吸收。",
+    "read_scope": "web實讀Introduction行53–54與胃腸手術風險段167–168；本機下載SSL失敗，無原頁檔案SHA。",
+    "urls": [
+      "https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/"
+    ],
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU108官方採計",
+    "captures": [
+      {
+        "id": "S09",
+        "url": "https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/",
+        "retrieved_at": "2026-09-10T00:24:27.279709+08:00",
+        "path": "source/supplemental/ISU108/science/b12.html",
+        "status": "DOWNLOAD_FAILED",
+        "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "a254c5aa6884e9e4c1019dc30ef7db36b0909aecccfa9d06497154725e38c9cb"
+  },
+  {
+    "id": "S10",
+    "title": "NIH NHLBI與MedlinePlus睡眠專家資料",
+    "finding": "N3為深睡及難喚醒；REM常見夢境及肌張力抑制，原題混合線索應保留。",
+    "read_scope": "兩份官方網頁成功下載，實讀階段條列與REM段。NINDS PDF下載403且web無全文，保留失敗紀錄，不把它當本輪全文證據。",
+    "urls": [
+      "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep",
+      "https://magazine.medlineplus.gov/article/ask-an-expert-marishka-k-brown-ph.d-director-of-the-national-center-on-sleep-disorders-research/"
+    ],
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU108官方採計",
+    "captures": [
+      {
+        "id": "S10",
+        "url": "https://www.ninds.nih.gov/sites/default/files/2025-05/understanding-sleep.pdf",
+        "retrieved_at": "2026-09-10T00:24:27.527679+08:00",
+        "path": "source/supplemental/ISU108/science/sleep.pdf",
+        "status": "DOWNLOAD_FAILED",
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "id": "S10",
+        "url": "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep",
+        "retrieved_at": "2026-09-10T00:31:37.754072+08:00",
+        "path": "source/supplemental/ISU108/science/sleep-stages.html",
+        "final_url": "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep",
+        "content_type": "text/html; charset=utf-8",
+        "status": "CAPTURED_RESPONSE",
+        "bytes": 67473,
+        "sha256": "3f3de108b32cfee8441cfa290940bd9450a1327e20a662a4dbe94550240623df",
+        "text_path": "source/supplemental/ISU108/science/sleep-stages.html.txt",
+        "text_sha256": "4de3b597d97d15e373a3d6422d46e22f6da1462205c9f6dd62d3ab13101fe07d"
+      },
+      {
+        "id": "S10",
+        "url": "https://magazine.medlineplus.gov/article/ask-an-expert-marishka-k-brown-ph.d-director-of-the-national-center-on-sleep-disorders-research/",
+        "retrieved_at": "2026-09-10T00:31:40.045567+08:00",
+        "path": "source/supplemental/ISU108/science/sleep-expert.html",
+        "final_url": "https://magazine.medlineplus.gov/article/ask-an-expert-marishka-k-brown-ph.d-director-of-the-national-center-on-sleep-disorders-research/",
+        "content_type": "text/html; charset=UTF-8",
+        "status": "CAPTURED_RESPONSE",
+        "bytes": 40776,
+        "sha256": "f87eb42ce71e9a1f045d1fbfb9d9072a9b47f5c18f792522b57bd8a921df2e32",
+        "text_path": "source/supplemental/ISU108/science/sleep-expert.html.txt",
+        "text_sha256": "e945f33c51bcdaceedd36d940ecd06986598a2952cd15f0fe21d27699a7ed127"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "7a4ab4400194d47c0149b6e9940c7e135d2c161912ae287e3872aec68a841b18"
+  },
+  {
+    "id": "S11",
+    "title": "Elsevier：Handbook of the Behavioral Neurobiology of Serotonin樣章",
+    "finding": "Serotonin Biosynthesis段指出色胺酸為血清素前驅物。",
+    "read_scope": "下載出版商22頁樣章，實讀PDF9附近Serotonin Biosynthesis段及圖4文字；不聲稱全書已讀，課本1081另有直接證據。",
+    "urls": [
+      "https://booksite.elsevier.com/samplechapters/9780123746344/9780123746344.pdf"
+    ],
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU108官方採計",
+    "captures": [
+      {
+        "id": "S11",
+        "url": "https://booksite.elsevier.com/samplechapters/9780123746344/9780123746344.pdf",
+        "retrieved_at": "2026-09-10T00:24:27.620861+08:00",
+        "path": "source/supplemental/ISU108/science/serotonin.pdf",
+        "final_url": "https://booksite.elsevier.com/samplechapters/9780123746344/9780123746344.pdf",
+        "content_type": "application/pdf",
+        "status": "CAPTURED_RESPONSE",
+        "bytes": 1941020,
+        "sha256": "9028deb5a1cee26ccfbe4f225c30eedd6287f57c9388d4af415600b9c4256d90",
+        "pdf_pages": 22,
+        "text_path": "source/supplemental/ISU108/science/serotonin.pdf.txt",
+        "text_sha256": "5bedaaadf2341922613cc1a14255730bffa2766f4cb6fc3025564d399153e944"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "67538c01d5d182f9ff18a5910a706b4302606fbcbb804287e8857c4004e0536e"
+  },
+  {
+    "id": "S12",
+    "title": "Richard E. Klabunde：Vascular Smooth Muscle Contraction and Relaxation",
+    "finding": "NO活化guanylyl cyclase並增加cGMP，與其他受器增加cAMP的路徑不同。",
+    "read_scope": "web原作者正文行38–41及題對應段實讀；本機下載SSL過期失敗，保留web讀取界線。",
+    "urls": [
+      "https://cvphysiology.com/blood-pressure/bp026"
+    ],
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU108官方採計",
+    "captures": [
+      {
+        "id": "S12",
+        "url": "https://cvphysiology.com/blood-pressure/bp026",
+        "retrieved_at": "2026-09-10T00:31:37.338942+08:00",
+        "path": "source/supplemental/ISU108/science/no-cgmp.html",
+        "status": "DOWNLOAD_FAILED",
+        "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "3a18485dd6bd1fe2ed26189ae0322012a6bef50cf552801f719f2db5d307e732"
+  },
+  {
+    "id": "S13",
+    "title": "NCBI Bookshelf：Sexual Differentiation（Endotext）",
+    "finding": "典型雄激素及AMH存在促男性生殖道，缺乏時走女性路徑；性腺發育涉及相互調控的基因網路。",
+    "read_scope": "本輪web搜尋回傳原著章節Abstract及相關段落，未下載整章；只補充Q47的典型條件與例外邊界。",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK279001/"
+    ],
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU108官方採計",
+    "captures": [],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "7fb1f6b38f7da2c01d54b108387f4150d1b2f546de05c782d9c9e810d4bd407a"
+  }
+]

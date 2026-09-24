@@ -1,0 +1,79 @@
+﻿mode,chapter_number,chapter,count
+primary,10,Ch10 Photosynthesis,7
+primary,39,Ch39 Plant Responses to Internal and External Signals,4
+primary,33,Ch33 An Introduction to Invertebrates,3
+primary,34,Ch34 The Origin and Evolution of Vertebrates,3
+primary,44,Ch44 Osmoregulation and Excretion,3
+primary,17,Ch17 Gene Expression: From Gene to Protein,2
+primary,18,Ch18 Regulation of Gene Expression,2
+primary,36,Ch36 Resource Acquisition and Transport in Vascular Plants,2
+primary,41,Ch41 Animal Nutrition,2
+primary,46,Ch46 Animal Reproduction,2
+primary,50,Ch50 Sensory and Motor Mechanisms,2
+primary,6,Ch06 A Tour of the Cell,1
+primary,7,Ch07 Membrane Structure and Function,1
+primary,8,Ch08 An Introduction to Metabolism,1
+primary,14,Ch14 Mendel and the Gene Idea,1
+primary,16,Ch16 The Molecular Basis of Inheritance,1
+primary,21,Ch21 Genomes and Their Evolution,1
+primary,22,Ch22 Descent with Modification: A Darwinian View of Life,1
+primary,23,Ch23 The Evolution of Populations,1
+primary,28,Ch28 Protists,1
+primary,30,Ch30 Plant Diversity II: The Evolution of Seed Plants,1
+primary,35,"Ch35 Vascular Plant Structure, Growth, and Development",1
+primary,37,Ch37 Soil and Plant Nutrition,1
+primary,38,Ch38 Angiosperm Reproduction and Biotechnology,1
+primary,42,Ch42 Circulation and Gas Exchange,1
+primary,45,Ch45 Hormones and the Endocrine System,1
+primary,47,Ch47 Animal Development,1
+primary,48,"Ch48 Neurons, Synapses, and Signaling",1
+primary,49,Ch49 Nervous Systems,1
+secondary,19,Ch19 Viruses,2
+secondary,27,Ch27 Bacteria and Archaea,2
+secondary,48,"Ch48 Neurons, Synapses, and Signaling",2
+secondary,49,Ch49 Nervous Systems,2
+secondary,6,Ch06 A Tour of the Cell,1
+secondary,9,Ch09 Cellular Respiration and Fermentation,1
+secondary,12,Ch12 The Cell Cycle,1
+secondary,16,Ch16 The Molecular Basis of Inheritance,1
+secondary,20,Ch20 DNA Tools and Biotechnology,1
+secondary,22,Ch22 Descent with Modification: A Darwinian View of Life,1
+secondary,28,Ch28 Protists,1
+secondary,41,Ch41 Animal Nutrition,1
+secondary,44,Ch44 Osmoregulation and Excretion,1
+secondary,46,Ch46 Animal Reproduction,1
+secondary,50,Ch50 Sensory and Motor Mechanisms,1
+both,10,Ch10 Photosynthesis,7
+both,39,Ch39 Plant Responses to Internal and External Signals,4
+both,44,Ch44 Osmoregulation and Excretion,4
+both,33,Ch33 An Introduction to Invertebrates,3
+both,34,Ch34 The Origin and Evolution of Vertebrates,3
+both,41,Ch41 Animal Nutrition,3
+both,46,Ch46 Animal Reproduction,3
+both,48,"Ch48 Neurons, Synapses, and Signaling",3
+both,49,Ch49 Nervous Systems,3
+both,50,Ch50 Sensory and Motor Mechanisms,3
+both,6,Ch06 A Tour of the Cell,2
+both,16,Ch16 The Molecular Basis of Inheritance,2
+both,17,Ch17 Gene Expression: From Gene to Protein,2
+both,18,Ch18 Regulation of Gene Expression,2
+both,19,Ch19 Viruses,2
+both,22,Ch22 Descent with Modification: A Darwinian View of Life,2
+both,27,Ch27 Bacteria and Archaea,2
+both,28,Ch28 Protists,2
+both,36,Ch36 Resource Acquisition and Transport in Vascular Plants,2
+both,7,Ch07 Membrane Structure and Function,1
+both,8,Ch08 An Introduction to Metabolism,1
+both,9,Ch09 Cellular Respiration and Fermentation,1
+both,12,Ch12 The Cell Cycle,1
+both,14,Ch14 Mendel and the Gene Idea,1
+both,20,Ch20 DNA Tools and Biotechnology,1
+both,21,Ch21 Genomes and Their Evolution,1
+both,23,Ch23 The Evolution of Populations,1
+both,30,Ch30 Plant Diversity II: The Evolution of Seed Plants,1
+both,35,"Ch35 Vascular Plant Structure, Growth, and Development",1
+both,37,Ch37 Soil and Plant Nutrition,1
+both,38,Ch38 Angiosperm Reproduction and Biotechnology,1
+both,42,Ch42 Circulation and Gas Exchange,1
+both,45,Ch45 Hormones and the Endocrine System,1
+both,47,Ch47 Animal Development,1

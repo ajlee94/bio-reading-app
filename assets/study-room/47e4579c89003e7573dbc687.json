@@ -1,0 +1,1275 @@
+[
+  {
+    "review_id": "CMU-115-R2-Q01",
+    "q": 1,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 2,
+    "original_image_reopened": true,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L0614",
+    "secondary_confirmed": [
+      "L2743"
+    ],
+    "textbook_pages_checked": [
+      183,
+      184,
+      916
+    ],
+    "alternative_checked": "一般酵素8.5或激素45",
+    "finding": "題問糖解及糖質新生相反調控，9.6是更具體代謝條目；S01補足F2,6BP，D相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q02",
+    "q": 2,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 2,
+    "original_image_reopened": true,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L2743",
+    "secondary_confirmed": [
+      "L0343"
+    ],
+    "textbook_pages_checked": [
+      915,
+      916,
+      104,
+      105
+    ],
+    "alternative_checked": "糖解9.2或糖質新生9.6",
+    "finding": "肝ER與釋糖到血液兩條件需同時保留；41.5主、6.4次涵蓋功能與位置，S02支持B。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q03",
+    "q": 3,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 2,
+    "original_image_reopened": true,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L0656",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      197,
+      198
+    ],
+    "alternative_checked": "循環電子流或呼吸鏈",
+    "finding": "光反應線性電子流以NADP+為末端受體，10.3該條目及D相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q04",
+    "q": 4,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 2,
+    "original_image_reopened": true,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L0611",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      183
+    ],
+    "alternative_checked": "檸檬酸循環",
+    "finding": "題文先限定糖質新生，OAA只是中間物；9.6 Biosynthesis加S03支持指定malate路線，B相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q05",
+    "q": 5,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 2,
+    "original_image_reopened": true,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L0343",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      104,
+      105,
+      106
+    ],
+    "alternative_checked": "高基氏體",
+    "finding": "初步醣基化在ER，後續加工可到Golgi；6.4真實葉節點支持D，無自造N-linked目錄。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q06",
+    "q": 6,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 2,
+    "original_image_reopened": true,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A或D",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L3633",
+    "secondary_confirmed": [
+      "L3564"
+    ],
+    "textbook_pages_checked": [
+      1229,
+      1230,
+      1201,
+      1202
+    ],
+    "alternative_checked": "生活史作主或因A有誤而待審",
+    "finding": "原圖A含親代照顧周全；官方第8頁仍採A或D。評分依釋疑、科學差異留註；54.3演替主、53.4生活史次已明確。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q07",
+    "q": 7,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 2,
+    "original_image_reopened": true,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L2802",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      934,
+      935,
+      936
+    ],
+    "alternative_checked": "內分泌45",
+    "finding": "42.4 p936直接包括低氧→腎EPO→紅血球，D相符，不需重複列泛用激素章。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q08",
+    "q": 8,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 2,
+    "original_image_reopened": true,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L3231",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      1080,
+      1081
+    ],
+    "alternative_checked": "骨骼肌收縮50.5",
+    "finding": "問被阻斷的神經傳遞物，48.4 Neurotransmitters最貼題，C相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q09",
+    "q": 9,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 3,
+    "original_image_reopened": true,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L2998",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      1000,
+      1001
+    ],
+    "alternative_checked": "免疫發炎43",
+    "finding": "p1001直接用aspirin說明前列腺素局部訊號；45.1主、S04補COX酵素名稱，A相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q10",
+    "q": 10,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 3,
+    "original_image_reopened": true,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L2483",
+    "secondary_confirmed": [
+      "L3601"
+    ],
+    "textbook_pages_checked": [
+      825,
+      1217,
+      1219
+    ],
+    "alternative_checked": "直接放54或自造共同演化節點",
+    "finding": "實看p825相互選汰定義位於38.1 Methods of Pollination；54.1寄生互動保留次分類。A相符，未把題目改稱植物題。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q11",
+    "q": 11,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 3,
+    "original_image_reopened": true,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L1455",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      494,
+      495
+    ],
+    "alternative_checked": "基因流",
+    "finding": "奠基族群的偶然抽樣屬23.3 Genetic Drift，C相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q12",
+    "q": 12,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 3,
+    "original_image_reopened": true,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L0789",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      244,
+      245,
+      246
+    ],
+    "alternative_checked": "M期過程12.2",
+    "finding": "問MPF控制而非核膜解體本身，12.3 Cell Cycle Control System及G2進M的D相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q13",
+    "q": 13,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 3,
+    "original_image_reopened": true,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L0268",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      78,
+      81,
+      82,
+      83
+    ],
+    "alternative_checked": "熱休克轉錄18",
+    "finding": "問蛋白功能，5.4折疊變性提供框架；S05是伴侶促復性的實驗，A相符，不偽稱課本有Hsp專項。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q14",
+    "q": 14,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 3,
+    "original_image_reopened": true,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L0698",
+    "secondary_confirmed": [
+      "L0463"
+    ],
+    "textbook_pages_checked": [
+      215,
+      216,
+      139
+    ],
+    "alternative_checked": "只列胞吐7.5",
+    "finding": "選項核心是傳訊用途，11.1主、胞吐次；S06驗證功能性RNA轉移，B相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q15",
+    "q": 15,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 4,
+    "original_image_reopened": true,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L3341",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      1110,
+      1111
+    ],
+    "alternative_checked": "聽覺50.2及Piezo1或2名稱",
+    "finding": "50.1一般機械轉導最合題；S07區分共通機制與Piezo2典型觸覺證據，保留題文差異但B與分類明確。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q16",
+    "q": 16,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 4,
+    "original_image_reopened": true,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L3036",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      1011,
+      1012
+    ],
+    "alternative_checked": "營養維生素41",
+    "finding": "45.3最小條目同時命名PTH、Vitamin D與血鈣控制，C相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q17",
+    "q": 17,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 4,
+    "original_image_reopened": true,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L3381",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      1126,
+      1127,
+      1128,
+      1129
+    ],
+    "alternative_checked": "一般鈣第二傳訊者11",
+    "finding": "Ca直接結合troponin控制肌絲，50.5骨骼肌及A相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q18",
+    "q": 18,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 4,
+    "original_image_reopened": true,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L0456",
+    "secondary_confirmed": [
+      "L0453"
+    ],
+    "textbook_pages_checked": [
+      137,
+      138
+    ],
+    "alternative_checked": "簡單擴散或NCX同向運輸",
+    "finding": "官方第8頁明列Na梯度降低使排Ca下降；7.4耦合運輸主、離子泵次。NCX為反向交換，非蔗糖同向圖，D維持。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q19",
+    "q": 19,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 4,
+    "original_image_reopened": true,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L2853",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      947,
+      948,
+      949
+    ],
+    "alternative_checked": "一般酸鹼3",
+    "finding": "42.7 Respiratory Pigments直接說明Bohr效應，A相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q20",
+    "q": 20,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 4,
+    "original_image_reopened": true,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L0595",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      180,
+      181
+    ],
+    "alternative_checked": "糖質新生作唯一去向",
+    "finding": "9.5含乳酸發酵及回到丙酮酸；C為可行去向，並未被寫成唯一清除路徑。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q21",
+    "q": 21,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 5,
+    "original_image_reopened": true,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L0436",
+    "secondary_confirmed": [
+      "L2812"
+    ],
+    "textbook_pages_checked": [
+      132,
+      133,
+      939
+    ],
+    "alternative_checked": "7.3促進性擴散子條目",
+    "finding": "題文明示不用膜蛋白，該子條目不適合；7.3概念正文是最小實際容納位置，42.5補分壓，C相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q22",
+    "q": 22,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 5,
+    "original_image_reopened": true,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L0411",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      128,
+      129
+    ],
+    "alternative_checked": "循環疾病42",
+    "finding": "判別點為cis雙鍵及膜流動性，7.1流動性支持B，保留cis條件。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q23",
+    "q": 23,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 5,
+    "original_image_reopened": true,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L1019",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      328,
+      329,
+      330
+    ],
+    "alternative_checked": "端粒癌症應用",
+    "finding": "問末端複製機制，16.2末端複製條目完整；B是錯誤敘述，已核對否定問法。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q24",
+    "q": 24,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 5,
+    "original_image_reopened": true,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L3004",
+    "secondary_confirmed": [
+      "L0711"
+    ],
+    "textbook_pages_checked": [
+      1002,
+      1003,
+      220
+    ],
+    "alternative_checked": "只列11.2一般受體",
+    "finding": "45.1有激素反應路徑比較，11.2胞內受體為分子次分類，C相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q25",
+    "q": 25,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 5,
+    "original_image_reopened": true,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L2908",
+    "secondary_confirmed": [
+      "L2870"
+    ],
+    "textbook_pages_checked": [
+      968,
+      954,
+      955
+    ],
+    "alternative_checked": "只列RNA化學5",
+    "finding": "用途是免疫接種且限制來自先天辨識；43.3主與43.1次，S08提供修飾改善表現及穩定的實驗，C相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q26",
+    "q": 26,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 5,
+    "original_image_reopened": true,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L0895",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      281,
+      282
+    ],
+    "alternative_checked": "單基因顯隱性",
+    "finding": "雙基因隱性上位作用，aa即白色且機率1/4；14.3多基因延伸比一般分離律精確，C相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q27",
+    "q": 27,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 6,
+    "original_image_reopened": true,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L2570",
+    "secondary_confirmed": [
+      "L1126"
+    ],
+    "textbook_pages_checked": [
+      857,
+      858,
+      373,
+      374
+    ],
+    "alternative_checked": "49.2中央時鐘",
+    "finding": "實看p858有clock基因自身轉錄負回饋與延遲；39.3直接支持，不強加題目沒有的SCN；18.2次，B相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q28",
+    "q": 28,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 6,
+    "original_image_reopened": true,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L3219",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      1078,
+      1079
+    ],
+    "alternative_checked": "寄生蟲動物分類33",
+    "finding": "D的判別在Cl通道與抑制性電位，48.4為主；S09無脊椎GluCl避免誤套哺乳類glutamate例子。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q29",
+    "q": 29,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 6,
+    "original_image_reopened": true,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L0371",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      112
+    ],
+    "alternative_checked": "把還原水當完整總反應",
+    "finding": "6.5過氧化體有H2O2解毒；S10確證2H2O2變2H2O和O2，D相符並保留題文簡化註記。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q30",
+    "q": 30,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 6,
+    "original_image_reopened": true,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L1113",
+    "secondary_confirmed": [
+      "L1110"
+    ],
+    "textbook_pages_checked": [
+      368,
+      369,
+      370
+    ],
+    "alternative_checked": "只計乳糖解除抑制",
+    "finding": "裁圖含共用背景；高量lac需要CRP正調控及解除抑制，18.1正調控主、可誘導操縱子次，D相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q31",
+    "q": 31,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 6,
+    "original_image_reopened": true,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L1113",
+    "secondary_confirmed": [
+      "L1110"
+    ],
+    "textbook_pages_checked": [
+      368,
+      369,
+      370
+    ],
+    "alternative_checked": "CRP壞了等於全部操縱子關閉",
+    "finding": "裁圖含共用背景；失去CRP使lac低表現，缺trp使trp解除抑制，C相符，正負調控兩條目均保留。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q32",
+    "q": 32,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 7,
+    "original_image_reopened": true,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L0792",
+    "secondary_confirmed": [
+      "L1126"
+    ],
+    "textbook_pages_checked": [
+      248,
+      249,
+      373,
+      374
+    ],
+    "alternative_checked": "只列一般轉錄因子",
+    "finding": "問腫瘤縮小的直接生理原因，p249正文血管供養支持12.3；18.2加S11補HIF→VEGF鏈，D相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q33",
+    "q": 33,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 7,
+    "original_image_reopened": true,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L0349",
+    "secondary_confirmed": [
+      "L0478"
+    ],
+    "textbook_pages_checked": [
+      107,
+      108,
+      144
+    ],
+    "alternative_checked": "高合成代謝或自噬等於凋亡",
+    "finding": "p107–108自噬回收支持溶體，8.1分解代謝次；S12驗證AMPK/mTOR方向，抑制自噬致死亡符合D。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q34",
+    "q": 34,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 7,
+    "original_image_reopened": true,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L2896",
+    "secondary_confirmed": [
+      "L2889"
+    ],
+    "textbook_pages_checked": [
+      960,
+      961,
+      962,
+      963,
+      964
+    ],
+    "alternative_checked": "泛列免疫缺陷43.4",
+    "finding": "先天正常但類別轉換及生發中心失敗指T/B協同，43.3 helper T主、43.2發育記憶次，S13支持C。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q35",
+    "q": 35,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 7,
+    "original_image_reopened": true,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L2930",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      974,
+      975
+    ],
+    "alternative_checked": "PD-1細節誤稱課本直接涵蓋",
+    "finding": "p974為病毒相關癌症免疫，p975為章摘要，沒有PD-1治療細節；修正首輪理由補S15，43.4 Cancer and Immunity框架與B維持。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q36",
+    "q": 36,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 7,
+    "original_image_reopened": true,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L0708",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      217,
+      218,
+      219
+    ],
+    "alternative_checked": "乳癌12.3",
+    "finding": "已給RTK家族且問直接分子反應，11.2膜受體中的二聚及磷酸化比癌症分類精確，A相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q37",
+    "q": 37,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 8,
+    "original_image_reopened": true,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L2870",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      954,
+      955,
+      956
+    ],
+    "alternative_checked": "RNA病毒複製19",
+    "finding": "問宿主干擾素防禦，43.1脊椎先天免疫及A相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q38",
+    "q": 38,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 8,
+    "original_image_reopened": true,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L0110",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      31,
+      32
+    ],
+    "alternative_checked": "胃消化41或一律放射性診斷",
+    "finding": "標記碳的代謝去向為判別機制，2.2同位素主；S14有13C與14C原始試驗，標記不等於放射性，B相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q39",
+    "q": 39,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 8,
+    "original_image_reopened": true,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L1085",
+    "secondary_confirmed": [
+      "L1274"
+    ],
+    "textbook_pages_checked": [
+      357,
+      358,
+      433,
+      434
+    ],
+    "alternative_checked": "所有SNP必為非同義",
+    "finding": "17.5小規模突變支持此題A，結論限於選項；20.4醫學應用保留藥物反應背景，未泛化所有SNP。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q40",
+    "q": 40,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 8,
+    "original_image_reopened": true,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L1136",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      379,
+      380
+    ],
+    "alternative_checked": "DNA轉錄抑制或剪接",
+    "finding": "miRNA配3′UTR，蛋白下降大於mRNA，18.3 miRNA/siRNA對mRNA效應最直接，C相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q41",
+    "q": 41,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 8,
+    "original_image_reopened": true,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L3611",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      1222,
+      1223
+    ],
+    "alternative_checked": "均勻度或生物量",
+    "finding": "兩群落均10種，豐富度相同；54.2 Species Diversity涵蓋豐富度與相對豐度，A相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q42",
+    "q": 42,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 9,
+    "original_image_reopened": true,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L3689",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      1242,
+      1243
+    ],
+    "alternative_checked": "藻毒素或單純遮光",
+    "finding": "p1243直接討論優養化後分解耗氧，55.2水域初級生產為實際最小條目，D相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q43",
+    "q": 43,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 9,
+    "original_image_reopened": true,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L3424",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      1144,
+      1145
+    ],
+    "alternative_checked": "自造Imprinting目錄或胚胎發育",
+    "finding": "目錄51.2最小項為Learning，正文含印痕及敏感期，C可正式定位而不用自造節點。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q44",
+    "q": 44,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 9,
+    "original_image_reopened": true,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L2924",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      970,
+      971
+    ],
+    "alternative_checked": "43.2刪除自體反應淋巴球",
+    "finding": "實看p971 Treg抑制自身抗原反應；43.4真實條目較中樞刪除機制貼題，B相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q45",
+    "q": 45,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 9,
+    "original_image_reopened": true,
+    "official_answer_checked": "C",
+    "adopted_answer_checked": "C",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L0676",
+    "secondary_confirmed": [
+      "L0679"
+    ],
+    "textbook_pages_checked": [
+      203,
+      204,
+      205,
+      206
+    ],
+    "alternative_checked": "10.4或用初級固定否定官方答案",
+    "finding": "實看目錄為10.5 C4與CAM兩條目；官方第8–9頁維持C。初級固定與整體同化分開說明，章去重但兩條目保留。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q46",
+    "q": 46,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 9,
+    "original_image_reopened": true,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L2381",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      792,
+      793,
+      794,
+      795,
+      796
+    ],
+    "alternative_checked": "根壓或活細胞滲透調節",
+    "finding": "蒸散彎液面產生負壓、內聚力拉水柱，36.3木質部整體流直接支持B，負張力解釋為負壓。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q47",
+    "q": 47,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 10,
+    "original_image_reopened": true,
+    "official_answer_checked": "D",
+    "adopted_answer_checked": "D",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L2557",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      847,
+      848,
+      849
+    ],
+    "alternative_checked": "一般膜泵7.4",
+    "finding": "問生長素促伸長完整路徑，39.2植物激素總覽含酸生長，H+泵為其中一步，D相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q48",
+    "q": 48,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 10,
+    "original_image_reopened": true,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L0595",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      180,
+      181
+    ],
+    "alternative_checked": "氧化磷酸化",
+    "finding": "無氧以pyruvate還原為lactate再生NAD+，9.5發酵類型及A相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q49",
+    "q": 49,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 10,
+    "original_image_reopened": true,
+    "official_answer_checked": "A",
+    "adopted_answer_checked": "A",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L0184",
+    "secondary_confirmed": [],
+    "textbook_pages_checked": [
+      53,
+      54
+    ],
+    "alternative_checked": "只列全球保育56",
+    "finding": "H+與碳酸根平衡在3.3海洋酸化條目直接敘述，A相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  },
+  {
+    "review_id": "CMU-115-R2-Q50",
+    "q": 50,
+    "reviewer": "Codex /root",
+    "method": "同一執行者第二輪重讀原圖之非盲覆核；另存逐題紀錄，非外部第二位審查者。",
+    "original_image_page": 10,
+    "original_image_reopened": true,
+    "official_answer_checked": "B",
+    "adopted_answer_checked": "B",
+    "clarification_pages_checked": [
+      8,
+      9
+    ],
+    "primary_confirmed": "L1741",
+    "secondary_confirmed": [
+      "L1738"
+    ],
+    "textbook_pages_checked": [
+      582,
+      583
+    ],
+    "alternative_checked": "一般氮循環55",
+    "finding": "異形細胞保護固氮酶的分工，以27.3 Metabolic Cooperation較精確；Nitrogen Metabolism為同章次項，B相符。",
+    "result": "CONFIRMED_AFTER_EVIDENCE",
+    "classification_issue_resolved": true
+  }
+]

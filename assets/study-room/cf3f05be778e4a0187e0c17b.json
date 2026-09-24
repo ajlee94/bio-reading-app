@@ -1,0 +1,1264 @@
+[
+  {
+    "q": 1,
+    "question_or_alternative": "22.3一般同源證據或26.2親緣樹證據判讀？",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        558,
+        559
+      ],
+      "catalog_ids": [
+        "L1649",
+        "L1646"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "題目要求推論親緣，558–559頁辨析同源/同功比演化證據概述更直接；rRNA同源作同章次條目，採D且不把同功當共享祖徵。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 2,
+    "question_or_alternative": "光合作用整章、單純電子流或跨胞器化學滲透？",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        197,
+        198,
+        199,
+        200,
+        175
+      ],
+      "catalog_ids": [
+        "L0662",
+        "L0656",
+        "L0585"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "197–200及175頁確認兩種胞器質子梯度/ATP合成共有機制；主掛實際比較條目，葉綠體水供電子與粒線體NADH供電子分開，保留9章次分類。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 3,
+    "question_or_alternative": "物種定義、生殖隔離或生態群聚交界？",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [
+        8
+      ],
+      "textbook_pages": [
+        507,
+        508,
+        510,
+        513,
+        515
+      ],
+      "catalog_ids": [
+        "L1488",
+        "L1501"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "507–515頁顯示生物學物種概念及同域種化直接支援判題；B目的論錯句主歸24.1，D區域比較缺條件不改掛生態章，官方維持B。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 4,
+    "question_or_alternative": "相似棲地是否等於同源構造？",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        479,
+        480
+      ],
+      "catalog_ids": [
+        "L1412"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "479–480頁同源與趨同區別確認C；水棲是棲地描述，未形成另一必要生態分類。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 5,
+    "question_or_alternative": "所有siRNA都是雙股，抑或分前體和作用階段？",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [
+        8
+      ],
+      "textbook_pages": [
+        379,
+        380,
+        381,
+        300,
+        360,
+        361
+      ],
+      "catalog_ids": [
+        "L1136",
+        "L1139",
+        "L0948",
+        "L1091"
+      ],
+      "supplement_ids": [
+        "S01"
+      ]
+    },
+    "resolution": "379–381頁與Martinez原始研究區分前體、單股guide及染色質ncRNA；XIST另對300頁，CRISPR另對360–361頁。正式採A但保留單股作用機制，主分類仍RNAi。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 6,
+    "question_or_alternative": "核仁功能還是細胞衰老/減數分裂？",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [
+        8,
+        9
+      ],
+      "textbook_pages": [
+        102,
+        103
+      ],
+      "catalog_ids": [
+        "L0333",
+        "L0336"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "102–103頁rRNA及核糖體次單元組裝直接回答，原題能觀察與釋疑最易觀察的範圍不同；以核仁功能主條目、核糖體需求次條目確認C，不虛構老化細胞一概無核仁。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 7,
+    "question_or_alternative": "主動運輸能量是否能作兩種載體的共同點？",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        132,
+        135,
+        136
+      ],
+      "catalog_ids": [
+        "L0433",
+        "L0443",
+        "L0450"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "132、135–136頁確認選擇性才是共同點；分列促進擴散與ATP能量條目，兩者同章最小次條目保留，章級不重複計數。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 8,
+    "question_or_alternative": "一般動作電位或整段骨骼肌收縮順序？",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1127,
+        1128,
+        1129
+      ],
+      "catalog_ids": [
+        "L3381"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "1127–1129頁已連續描述ACh、T管、肌漿網、Ca2+與troponin；3→7→4→1→2→5→6核對原A，不額外拆散同一收縮過程。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 9,
+    "question_or_alternative": "ATP與T管直接供能混同，或橫橋/鈣回收？",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1127,
+        1128,
+        1129,
+        1130,
+        1075
+      ],
+      "catalog_ids": [
+        "L3381",
+        "L3212"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "1075與1127–1130頁比較電訊號傳播、myosinATP循環及Ca2+回收，B混淆直接與間接能量作用。Q9題圖及文字含Q8完整背景，主50章、次48章。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 10,
+    "question_or_alternative": "視神經、神經節細胞與皮層的序列是否倒置？",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1119,
+        1120,
+        1121,
+        1122
+      ],
+      "catalog_ids": [
+        "L3364"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "1119–1122頁路徑由受器到神經節軸突、丘腦再視皮層，確認2→5→1→3→4與B；視神經相關兩敘述按題定義保留，不當成兩條腦神經。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 11,
+    "question_or_alternative": "交感神經本身或腎上腺內分泌應為主？",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1088,
+        1089,
+        1012,
+        1013
+      ],
+      "catalog_ids": [
+        "L3245",
+        "L3039"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "1088–1089頁直接列交感器官效應，1012–1013頁補燃料動員；腸胃活動增加不符，主49.1、次45.3、答案A。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 12,
+    "question_or_alternative": "節前ACh、節後NE與腎上腺血中激素何者符合題幹？",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1089,
+        1080,
+        1081
+      ],
+      "catalog_ids": [
+        "L3245",
+        "L3231"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "1089及1080–1081頁確認多數交感節後末梢用NE，答案B；保留例外及Q11背景，主周邊神經、次神經傳遞物。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 13,
+    "question_or_alternative": "病毒名詞是否足以令主分類變19章？",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        366,
+        367,
+        368,
+        403
+      ],
+      "catalog_ids": [
+        "L1107",
+        "L1199"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "366–368頁operon共同轉錄調控最切題，403頁提供噬菌體抑制背景；答案C，不把D轉錄活化因子當噬菌體完全沒有的定律。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 14,
+    "question_or_alternative": "溶酶體是否為一般蛋白分泌必經站？",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        108,
+        109,
+        107,
+        353,
+        354
+      ],
+      "catalog_ids": [
+        "L0355",
+        "L0349",
+        "L1075"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "107–109及353–354頁區分ER/Golgi分泌與溶酶體消化；C確認，以內膜系統回顧為主、消化與蛋白定位為次，不移除一般真核核內轉錄前提。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 15,
+    "question_or_alternative": "血液組成或微血管液體交換為判題核心？",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        932,
+        933,
+        934
+      ],
+      "catalog_ids": [
+        "L2792",
+        "L2802"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "932–934頁白蛋白與滲透力證據同時可核實；題問水腫機制，主Capillary Function，血液組成為次。採A，其他肝病機制並未排除。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 16,
+    "question_or_alternative": "出血時代償心搏加速能否取代原題條件？",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        927,
+        930,
+        931,
+        932
+      ],
+      "catalog_ids": [
+        "L2773",
+        "L2789"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "927、930–932頁心輸出量/搏出量及壓力框架支援B；依題幹未代償處理，主心臟功能而非自主反射。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 17,
+    "question_or_alternative": "Campbell腎元框架是否直接列全套過濾壓公式？",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [
+        9
+      ],
+      "textbook_pages": [
+        985,
+        986,
+        987,
+        988
+      ],
+      "catalog_ids": [
+        "L2967",
+        "L2974"
+      ],
+      "supplement_ids": [
+        "S02"
+      ]
+    },
+    "resolution": "985–988頁核實腎絲球、鮑氏囊與濾液流程；入球阻力及淨過濾壓以OpenStax公式另證，不冒稱全來自Campbell。113釋疑PDF9將C改A或C，雙答案照存。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 18,
+    "question_or_alternative": "逆流倍增、直小血管逆流交換與酸鹼調節何者正確？",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        989,
+        990,
+        991
+      ],
+      "catalog_ids": [
+        "L2977"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "989–991頁髓質梯度與保水直接支持D；區分Henle環建立梯度和直小血管維持梯度，主用44.4最小梯度條目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 19,
+    "question_or_alternative": "原答案C、釋疑稱原A，與呼吸性酸中毒補償是否一致？",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [
+        9
+      ],
+      "textbook_pages": [
+        946,
+        947,
+        930,
+        987,
+        988,
+        940,
+        941
+      ],
+      "catalog_ids": [
+        "L2843",
+        "L2789",
+        "L2974",
+        "L2821",
+        "L2824"
+      ],
+      "supplement_ids": [
+        "S03"
+      ]
+    },
+    "resolution": "原答案PDF4實為C，釋疑PDF9最終A或C；946–947、930、987–988、940–941頁逐項核對呼吸、脈搏、腎、鰓與氣管。OpenStax補腎性代償；主呼吸控制並保存所有必要次條目，來源衝突不抹除。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 20,
+    "question_or_alternative": "重症肌無力應主掛肌肉收縮還是免疫失衡？",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        970,
+        971,
+        1128,
+        1129
+      ],
+      "catalog_ids": [
+        "L2924",
+        "L3381"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "970–971頁自體免疫框架與1128–1129頁具名ACh受體抗體病變連接；題問病因，主免疫失衡、次骨骼肌，答案D。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 21,
+    "question_or_alternative": "肺泡功能有證據，但第二型細胞名是否出自本地正文？",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        942,
+        943
+      ],
+      "catalog_ids": [
+        "L2827"
+      ],
+      "supplement_ids": [
+        "S04"
+      ]
+    },
+    "resolution": "942–943頁surfactant降低表面張力及肺泡功能可核實；第二型細胞直接引用OpenStax，未冒稱Campbell具名。答案C、主Lungs。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 22,
+    "question_or_alternative": "LHON應主掛粒線體呼吸還是胞器遺傳？",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        311,
+        312
+      ],
+      "catalog_ids": [
+        "L0984"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "311–312頁Inheritance of Organelle Genes直接具名LHON與母系傳遞；題問缺陷遺傳來源，主15.5、答案D，不以疾病能量背景新增9章。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 23,
+    "question_or_alternative": "I類MHC展示與初始CD8細胞完整活化是否相同？",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        966,
+        967,
+        959,
+        960
+      ],
+      "catalog_ids": [
+        "L2902",
+        "L2886"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "959–960、966–967頁分開TCR識別及細胞毒作用；B是最適路徑，但協同訊號/初始活化條件保留。主細胞毒T、同章次抗原辨認。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 24,
+    "question_or_alternative": "類固醇受體是轉錄因子、翻譯因子或膜受體？",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        220,
+        221,
+        375,
+        376
+      ],
+      "catalog_ids": [
+        "L0711",
+        "L1126"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "220–221及375–376頁確認胞內受體及激素反應元件共同調控；答案A，主11.2直接受體機制、次18.2轉錄。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 25,
+    "question_or_alternative": "HbS、HbF、HbCO或MetHb的區別？",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        947,
+        948,
+        949
+      ],
+      "catalog_ids": [
+        "L2853"
+      ],
+      "supplement_ids": [
+        "S05"
+      ]
+    },
+    "resolution": "947–949頁呼吸色素攜氧框架，ATSDR另直接支持亞硝酸鹽氧化Fe2+成Fe3+；答案B，具名毒理不冒充本地正文。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 26,
+    "question_or_alternative": "正常翻譯是否等於產生可遺傳組合多樣性？",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        265,
+        266
+      ],
+      "catalog_ids": [
+        "L0850"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "265–266頁把自由組合、互換與隨機受精列入同一最小條目；答案A，未將三個正文小標假造為TOC節點。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 27,
+    "question_or_alternative": "男孩q、女孩q²/2pq與全部新生兒分母是否混淆？",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [
+        9,
+        10
+      ],
+      "textbook_pages": [
+        490,
+        491,
+        492,
+        299,
+        300
+      ],
+      "catalog_ids": [
+        "L1445",
+        "L0945"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "490–492及299–300頁核算q=10^-4、q²=10^-8、2pq=1.9998×10^-4；B及D均錯，符合113更正。主H-W方程、次X連鎖；C分母假設仍保存。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 28,
+    "question_or_alternative": "cAMP-CRP為負向抑制還是正向調控？",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        369,
+        370
+      ],
+      "catalog_ids": [
+        "L1113"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "369–370頁CAP/cAMP促RNA聚合酶起始，確認C；主Positive Gene Regulation，不把lacI與甲基化干擾選項擴成無必要主次章。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 29,
+    "question_or_alternative": "PLC生成IP3/DAG，或PKC生成IP3？",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        223,
+        224,
+        225
+      ],
+      "catalog_ids": [
+        "L0724"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "223–225頁逐步訊號鏈直接確認C錯在酵素角色；主第二傳訊物，疾病及鋰鹽療效不作分類主題或新的藥理結論。文字TOC的名稱缺Ions且連接詞不同，正式標題依實看PDF38，原文字名稱仍另存。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 30,
+    "question_or_alternative": "端粒酶缺失是末端縮短、必然癌化或一般DNA修復失能？",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        328,
+        329
+      ],
+      "catalog_ids": [
+        "L1019"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "328–329頁末端複製問題支援D；主Replicating the Ends，未外推端粒酶缺失必然癌化。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 31,
+    "question_or_alternative": "原圖兩端、cap初始招募與AUG起始密碼子的區別？",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [
+        10
+      ],
+      "textbook_pages": [
+        350,
+        351,
+        352,
+        345
+      ],
+      "catalog_ids": [
+        "L1072",
+        "L1059"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "原圖完整保留，350–352及345頁核對5′cap/3′poly-A、UTR、掃描與起始；C是最初結合位置錯誤，原圖標號4只是一段編碼區，不能排除AUG亦屬編碼序列。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 32,
+    "question_or_alternative": "線蟲一千細胞是單細胞、固定所有性別數目或命運圖譜？",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1058,
+        1059,
+        230
+      ],
+      "catalog_ids": [
+        "L3160",
+        "L0741"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "1058–1059頁具名C. elegans約959體細胞及譜系，230頁補凋亡；答案A，主Fate Mapping而非細胞數當全部生命期定數。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 33,
+    "question_or_alternative": "條目標題Female Mammals是否排除XXXY男性的X失活？",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        300,
+        301,
+        298,
+        308,
+        309
+      ],
+      "catalog_ids": [
+        "L0948",
+        "L0942",
+        "L0974"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "298、300–301、308–309頁支持一般X數減1及Y性別背景；題定條件下男性兩個Barr bodies，答案C。主X失活標題照本地原文，不虛構男性專屬條目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 34,
+    "question_or_alternative": "以45章激素概述或41.5能量儲存為主？",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [
+        10
+      ],
+      "textbook_pages": [
+        915,
+        916,
+        70,
+        71
+      ],
+      "catalog_ids": [
+        "L2743",
+        "L0242"
+      ],
+      "supplement_ids": [
+        "S16"
+      ]
+    },
+    "resolution": "915–916頁直接畫血糖與肝/肌肝醣，故修正預選45章為41.5 Regulation of Energy Storage；70–71頁支援分枝聚醣，具名教材補非還原端與G6Pase。官方D，沒有只改形式狀態。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 35,
+    "question_or_alternative": "玻尿酸用途的細胞外基質或單糖組成為核心？",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        70,
+        71,
+        72
+      ],
+      "catalog_ids": [
+        "L0242"
+      ],
+      "supplement_ids": [
+        "S06"
+      ]
+    },
+    "resolution": "70–72頁核實肝醣、纖維素與幾丁質單體，Glycobiology核實玻尿酸雙糖；主聚醣已足夠，刪除預選但不必要的ECM次條目，答案D。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 36,
+    "question_or_alternative": "裂解與溶原週期是否混同？",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        402,
+        403,
+        404
+      ],
+      "catalog_ids": [
+        "L1199"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "402–404頁λ原噬菌體、抑制蛋白及宿主同步複製核對A；主噬菌體複製最小條目，沒有用整章代替。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 37,
+    "question_or_alternative": "傳統先天/適應二分能否推出NK從無特異性記憶？",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [
+        10
+      ],
+      "textbook_pages": [
+        954,
+        955,
+        956,
+        961,
+        962,
+        971
+      ],
+      "catalog_ids": [
+        "L2870",
+        "L2889",
+        "L2924"
+      ],
+      "supplement_ids": [
+        "S07"
+      ]
+    },
+    "resolution": "954–956、961–962、971頁確認課本分類框架；Sun2009小鼠CMV Ly49H+實驗是具體反例，官方D仍採計。主先天免疫、次適應記憶與失衡，來源衝突明示而分類疑義已解。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 38,
+    "question_or_alternative": "病原逃避吞噬是否等於完全不被吞噬或完全不與溶酶體互動？",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        957,
+        958
+      ],
+      "catalog_ids": [
+        "L2873"
+      ],
+      "supplement_ids": [
+        "S08"
+      ]
+    },
+    "resolution": "957–958頁主要舉結核等逃避免疫例，沙門氏菌具名來源改由Lee及Buchmeier原始摘要；限定菌株、細胞條件，答案A，主逃避先天免疫不變。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 39,
+    "question_or_alternative": "一般PCR能否直接當RT-qPCR測mRNA？",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [
+        11
+      ],
+      "textbook_pages": [
+        423,
+        424,
+        425,
+        420
+      ],
+      "catalog_ids": [
+        "L1251",
+        "L1241"
+      ],
+      "supplement_ids": [
+        "S09"
+      ]
+    },
+    "resolution": "423–425及420頁RNA基因表現量測與DNA模板PCR分開；Alwine1977原始研究補Northern方法，官方A。主Analyzing Gene Expression，次PCR，不替原選項增加RT條件。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 40,
+    "question_or_alternative": "中文皮質素與英文ACTH會導致同一產物數嗎？",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [
+        11
+      ],
+      "textbook_pages": [
+        75,
+        1001,
+        1002,
+        1012,
+        1013,
+        908,
+        909
+      ],
+      "catalog_ids": [
+        "L0255",
+        "L3001",
+        "L3039",
+        "L2714"
+      ],
+      "supplement_ids": [
+        "S17"
+      ]
+    },
+    "resolution": "75、1001–1002、1012–1013、908–909頁核對類固醇/胜肽及膽鹽功能；LiverTox補膽固醇生成膽酸。中文3、英文2，依113釋疑C或D，主Steroids並保留名稱差異。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 41,
+    "question_or_alternative": "Bcl-2主要家族、TNF受體訊號與caspase執行層級？",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        229,
+        230,
+        231
+      ],
+      "catalog_ids": [
+        "L0744",
+        "L0741"
+      ],
+      "supplement_ids": [
+        "S10"
+      ]
+    },
+    "resolution": "229–231頁生死路徑與Ced-9模型，加Hengartner1994同源研究確認B；主Apoptotic Pathways、同章次線蟲，未說TNF受體完全不參與凋亡。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 42,
+    "question_or_alternative": "應依錯誤選項NGS歸定序，還是按蛋白互作研究目的？",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        446,
+        447,
+        416,
+        417
+      ],
+      "catalog_ids": [
+        "L1307",
+        "L1232"
+      ],
+      "supplement_ids": [
+        "S11"
+      ]
+    },
+    "resolution": "446–447頁是系統層級基因/蛋白網路，圖例是遺傳互作而非直接結合試驗；416–417頁為定序。Fields1989及FRET原始研究補直接方法，主21.2系統研究、次DNA Sequencing，限定一般直接用途。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 43,
+    "question_or_alternative": "IgE共同升高是否代表所有寄生蟲均如此？",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        970,
+        965,
+        966,
+        955
+      ],
+      "catalog_ids": [
+        "L2924",
+        "L2899"
+      ],
+      "supplement_ids": [
+        "S18"
+      ]
+    },
+    "resolution": "970、965–966、955頁核對過敏與抗寄生蠕蟲框架，另以OpenStax具名核對IgE的兩種作用，答案D；保留物種/階段條件，不推必然過敏性休克，主免疫失衡、次抗體。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 44,
+    "question_or_alternative": "全題送分是否可刪題？Wnt/β-catenin是否真在本地軸形成條目？",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [
+        11
+      ],
+      "textbook_pages": [
+        430,
+        431,
+        394,
+        119,
+        120,
+        221,
+        222
+      ],
+      "catalog_ids": [
+        "L1267",
+        "L1172",
+        "L0394",
+        "L0718"
+      ],
+      "supplement_ids": [
+        "S12"
+      ]
+    },
+    "resolution": "保留Q44完整原圖、原C及送分採計；430–431頁多能幹細胞直接解決官方爭議，394及119–120頁核對BRCA/緊密連接。未在軸形成正文查得β-catenin，改用11.3訊號框架221–222頁並引2021原始研究，不冒充課本具名內容。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 45,
+    "question_or_alternative": "感冒病毒是否必然等於流感病毒？",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [
+        12
+      ],
+      "textbook_pages": [
+        404,
+        405,
+        406,
+        574,
+        575
+      ],
+      "catalog_ids": [
+        "L1202",
+        "L1709"
+      ],
+      "supplement_ids": [
+        "S13"
+      ]
+    },
+    "resolution": "404–406頁動物病毒RNA/逆轉錄與核內步驟框架，574–575頁Gram陰性染色；CDC區分感冒流感、HRV原始研究支持細胞質複製。官方D保留，原題用詞與釋疑特指流感不強行統一。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 46,
+    "question_or_alternative": "五種激素是否可各造一個最小目錄？",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [
+        12
+      ],
+      "textbook_pages": [
+        847,
+        848,
+        849,
+        850,
+        851,
+        852,
+        853,
+        854
+      ],
+      "catalog_ids": [
+        "L2557"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "847–854頁逐一核對auxin、cytokinin、gibberellin、ABA、ethylene，1/3/4/5共4項、官方B；TOC最小只列A Survey of Plant Hormones，條目不虛構，乙烯效果限具體反應情境。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 47,
+    "question_or_alternative": "UniProt是一般基因核酸資料庫還是蛋白序列功能資源？",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [
+        12
+      ],
+      "textbook_pages": [
+        444,
+        445
+      ],
+      "catalog_ids": [
+        "L1301"
+      ],
+      "supplement_ids": [
+        "S14"
+      ]
+    },
+    "resolution": "444–445頁NCBI集中序列資源與生物資訊支援分類；UniProt官方文件/開發者論文補具名功能定位，答案B。其他資料庫可含蛋白相關資訊但不等同主要任務皆蛋白。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 48,
+    "question_or_alternative": "18碳脂肪酸beta氧化與全程完全氧化是否混成同一產物清單？",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        182,
+        183
+      ],
+      "catalog_ids": [
+        "L0608"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "182–183頁脂肪分解入乙醯CoA與還原當量，推算18/2=9乙醯CoA、9−1=8輪，每輪NADH及FADH2各1，故C。原題完全氧化措辭保留，答案列的是beta段產物，不是最終CO2/H2O。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 49,
+    "question_or_alternative": "cyclin-CDK控制系統與腫瘤細胞cyclin D1是否通常減少？",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        244,
+        245,
+        246,
+        248
+      ],
+      "catalog_ids": [
+        "L0789",
+        "L0792"
+      ],
+      "supplement_ids": [
+        "S15"
+      ]
+    },
+    "resolution": "244–246、248頁cyclin/Cdk及癌化，Nurse原始發現/講座、p16及cyclinD1研究補選項；D錯。修正預選不存在的目錄ID為實際L0789與L0792，分類以控制系統為主。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 50,
+    "question_or_alternative": "非編碼DNA是否都能製作轉位酶；1.5%是否專指蛋白？",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        449,
+        450,
+        451,
+        452,
+        459,
+        436,
+        437
+      ],
+      "catalog_ids": [
+        "L1320",
+        "L1327",
+        "L1330",
+        "L1352",
+        "L1277"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "449–452、459、436–437頁直接比較非編碼、轉位與STR；圖21.6的1.5%包含蛋白及rRNA/tRNA編碼外顯子，保留原題近似與來源範圍。A稱unique序列大多編碼蛋白且占基因體超過70%錯，但不否認部分自主轉位元件能編碼酵素。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  }
+]

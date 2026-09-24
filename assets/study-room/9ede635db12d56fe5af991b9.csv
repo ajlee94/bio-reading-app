@@ -1,0 +1,69 @@
+﻿mode,chapter_number,chapter,count
+primary,43,Ch43 The Immune System,5
+primary,16,Ch16 The Molecular Basis of Inheritance,4
+primary,6,Ch06 A Tour of the Cell,3
+primary,17,Ch17 Gene Expression: From Gene to Protein,3
+primary,18,Ch18 Regulation of Gene Expression,3
+primary,40,Ch40 Basic Principles of Animal Form and Function,3
+primary,5,Ch05 The Structure and Function of Large Biological Molecules,2
+primary,19,Ch19 Viruses,2
+primary,27,Ch27 Bacteria and Archaea,2
+primary,42,Ch42 Circulation and Gas Exchange,2
+primary,2,Ch02 The Chemical Context of Life,1
+primary,7,Ch07 Membrane Structure and Function,1
+primary,9,Ch09 Cellular Respiration and Fermentation,1
+primary,10,Ch10 Photosynthesis,1
+primary,11,Ch11 Cell Communication,1
+primary,13,Ch13 Meiosis and Sexual Life Cycles,1
+primary,14,Ch14 Mendel and the Gene Idea,1
+primary,15,Ch15 The Chromosomal Basis of Inheritance,1
+primary,20,Ch20 DNA Tools and Biotechnology,1
+primary,21,Ch21 Genomes and Their Evolution,1
+primary,23,Ch23 The Evolution of Populations,1
+primary,24,Ch24 The Origin of Species,1
+primary,25,Ch25 The History of Life on Earth,1
+primary,28,Ch28 Protists,1
+primary,31,Ch31 Fungi,1
+primary,33,Ch33 An Introduction to Invertebrates,1
+primary,34,Ch34 The Origin and Evolution of Vertebrates,1
+primary,39,Ch39 Plant Responses to Internal and External Signals,1
+primary,47,Ch47 Animal Development,1
+primary,49,Ch49 Nervous Systems,1
+primary,50,Ch50 Sensory and Motor Mechanisms,1
+secondary,6,Ch06 A Tour of the Cell,2
+secondary,17,Ch17 Gene Expression: From Gene to Protein,2
+secondary,11,Ch11 Cell Communication,1
+secondary,18,Ch18 Regulation of Gene Expression,1
+secondary,19,Ch19 Viruses,1
+secondary,20,Ch20 DNA Tools and Biotechnology,1
+both,6,Ch06 A Tour of the Cell,5
+both,17,Ch17 Gene Expression: From Gene to Protein,5
+both,43,Ch43 The Immune System,5
+both,16,Ch16 The Molecular Basis of Inheritance,4
+both,18,Ch18 Regulation of Gene Expression,4
+both,19,Ch19 Viruses,3
+both,40,Ch40 Basic Principles of Animal Form and Function,3
+both,5,Ch05 The Structure and Function of Large Biological Molecules,2
+both,11,Ch11 Cell Communication,2
+both,20,Ch20 DNA Tools and Biotechnology,2
+both,27,Ch27 Bacteria and Archaea,2
+both,42,Ch42 Circulation and Gas Exchange,2
+both,2,Ch02 The Chemical Context of Life,1
+both,7,Ch07 Membrane Structure and Function,1
+both,9,Ch09 Cellular Respiration and Fermentation,1
+both,10,Ch10 Photosynthesis,1
+both,13,Ch13 Meiosis and Sexual Life Cycles,1
+both,14,Ch14 Mendel and the Gene Idea,1
+both,15,Ch15 The Chromosomal Basis of Inheritance,1
+both,21,Ch21 Genomes and Their Evolution,1
+both,23,Ch23 The Evolution of Populations,1
+both,24,Ch24 The Origin of Species,1
+both,25,Ch25 The History of Life on Earth,1
+both,28,Ch28 Protists,1
+both,31,Ch31 Fungi,1
+both,33,Ch33 An Introduction to Invertebrates,1
+both,34,Ch34 The Origin and Evolution of Vertebrates,1
+both,39,Ch39 Plant Responses to Internal and External Signals,1
+both,47,Ch47 Animal Development,1
+both,49,Ch49 Nervous Systems,1
+both,50,Ch50 Sensory and Motor Mechanisms,1

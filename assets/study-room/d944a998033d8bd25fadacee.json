@@ -1,0 +1,442 @@
+[
+  {
+    "id": "S07",
+    "title": "Alberts et al. Molecular Biology of the Cell 4e: Studying Gene Expression and Function",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK26818/"
+    ],
+    "finding": "兩隱性功能缺失突變在不同基因時通常互補恢復表型；同基因通常不互補。題設未寫適用條件，不能當所有突變的絕對規則。",
+    "read_scope": "本輪網頁互補測試專節及基因功能導論；非全書",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU109官方採計",
+    "captures": [
+      {
+        "id": "S07",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK26818/",
+        "accessed_at": "2026-09-09T22:24:27.860309+08:00",
+        "final_url": "https://www.ncbi.nlm.nih.gov/books/NBK26818/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "審查紀錄/annual_review/ISU-109/supplements/S07-1.html",
+        "sha256": "66d992c93920482d723c0499de5972450b1f476ee8e0a3125c17c3bf7d3238ce",
+        "bytes": 148534,
+        "status": "CAPTURED_RESPONSE"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "65f6fa6b80c746858daf0cf106433b9c6de90077752cd89101f8ab7bc787b460"
+  },
+  {
+    "id": "S17",
+    "title": "GeneReviews: Maple Syrup Urine Disease",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK1319/"
+    ],
+    "finding": "疾病是支鏈胺基酸及其酮酸代謝障礙，涉及BCKD複合體；常染色體隱性。苯丙胺酸不是該病的主要障礙底物。",
+    "read_scope": "網頁臨床摘要及遺傳諮詢段，未宣稱閱全章",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU109官方採計",
+    "captures": [
+      {
+        "id": "S17",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1319/",
+        "accessed_at": "2026-09-09T22:24:27.862309+08:00",
+        "final_url": "https://www.ncbi.nlm.nih.gov/books/NBK1319/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "審查紀錄/annual_review/ISU-109/supplements/S17-1.html",
+        "sha256": "6d421f64113a604a99fc861bd088af58d434b69fff0040409dd09e99c961c61e",
+        "bytes": 271175,
+        "status": "CAPTURED_RESPONSE"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "a411a91f89f362194cb0e224529d21187a5050ff86055263d5fd7cfd99994f76"
+  },
+  {
+    "id": "S19",
+    "title": "Biochemistry, Cholesterol: HMG-CoA reductase",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK513326/"
+    ],
+    "finding": "HMG-CoA還原成mevalonate是膽固醇生合成經典限速步驟；不把合成酶與還原酶混同。",
+    "read_scope": "NCBI Bookshelf公開生化教材機制段，非原始實驗研究",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU109官方採計",
+    "captures": [
+      {
+        "id": "S19",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK513326/",
+        "accessed_at": "2026-09-09T22:24:27.863371+08:00",
+        "final_url": "https://www.ncbi.nlm.nih.gov/books/NBK513326/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "審查紀錄/annual_review/ISU-109/supplements/S19-1.html",
+        "sha256": "67c18d6fd10c5cb94bd2f1b0b6933ecc2d63ae3b3d410a53064f1f36fa034935",
+        "bytes": 67365,
+        "status": "CAPTURED_RESPONSE"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "a03427cf65e1408a6ea32b5f48a3b26a3a3a279959c7ad513d6dd05837f75433"
+  },
+  {
+    "id": "S20",
+    "title": "IUBMB enzyme nomenclature EC1.13.11.5",
+    "urls": [
+      "https://iubmb.qmul.ac.uk/enzyme/EC1/13/11/5.html"
+    ],
+    "finding": "Homogentisate 1,2-dioxygenase以氧參與開環反應，屬酪胺酸分解途徑；oxygenase不是一般用氧呼吸的泛稱。",
+    "read_scope": "官方酵素命名頁反應式及與tyrosine metabolism相關書目",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU109官方採計",
+    "captures": [
+      {
+        "id": "S20",
+        "url": "https://iubmb.qmul.ac.uk/enzyme/EC1/13/11/5.html",
+        "accessed_at": "2026-09-09T22:24:27.863371+08:00",
+        "final_url": "https://iubmb.qmul.ac.uk/enzyme/EC1/13/11/5.html",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "審查紀錄/annual_review/ISU-109/supplements/S20-1.html",
+        "sha256": "a8c9bf16618860b81c19f405fc2f20b62add1555f680b7743a04f7ed6ba9bea0",
+        "bytes": 3099,
+        "status": "CAPTURED_RESPONSE"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "57c6b2faf16c7feacda76cc6f080fe3ef5dfe912c78b786fa56308070892249b"
+  },
+  {
+    "id": "S23",
+    "title": "The pituitary gland, Endocrinology",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK27/"
+    ],
+    "finding": "下視丘多巴胺經門脈抑制泌乳激素；其減少會解除抑制。",
+    "read_scope": "網頁Prolactin段；不同於官方所引Vander15e全書",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU109官方採計",
+    "captures": [
+      {
+        "id": "S23",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK27/",
+        "accessed_at": "2026-09-09T22:24:29.108071+08:00",
+        "final_url": "https://www.ncbi.nlm.nih.gov/books/NBK27/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "審查紀錄/annual_review/ISU-109/supplements/S23-1.html",
+        "sha256": "17e5ff72400badcfe41af5d7b45c1f12d50213516414bbbf4494673b9a3216ec",
+        "bytes": 162545,
+        "status": "CAPTURED_RESPONSE"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "28086dcea2f939669dd5f54f718db702e0201ee985b4e30b749b6a37c0846aff"
+  },
+  {
+    "id": "S24",
+    "title": "Wolff 1988 author account of Wolff and Perry 1974 sister chromatid staining",
+    "urls": [
+      "https://garfield.library.upenn.edu/classics1988/A1988M089700002.pdf",
+      "https://www.nature.com/articles/251156a0"
+    ],
+    "finding": "BrdU差別染色讓姐妹染色分體交換形成深淺交替，可直接辨認SCE；不是非姐妹間的減數分裂交換。",
+    "read_scope": "作者回顧PDF一頁正文及原論文可取得摘要；web開啟曾失敗，另以直接下載取得Nature HTML。未聲稱讀原論文完整付費全文。",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU109官方採計",
+    "captures": [
+      {
+        "id": "S24",
+        "url": "https://garfield.library.upenn.edu/classics1988/A1988M089700002.pdf",
+        "accessed_at": "2026-09-09T22:24:29.624442+08:00",
+        "final_url": "https://garfield.library.upenn.edu/classics1988/A1988M089700002.pdf",
+        "content_type": "application/pdf",
+        "path": "審查紀錄/annual_review/ISU-109/supplements/S24-1.pdf",
+        "sha256": "beba1d293e998688c3d732fa6c3ba4222a36507830e107cac54142157e98390d",
+        "bytes": 252399,
+        "status": "CAPTURED_RESPONSE"
+      },
+      {
+        "id": "S24",
+        "url": "https://www.nature.com/articles/251156a0",
+        "accessed_at": "2026-09-09T22:24:29.816117+08:00",
+        "final_url": "https://www.nature.com/articles/251156a0?error=cookies_not_supported&code=b0b8c8f4-33c4-45cb-9960-fc58b8f217e5",
+        "content_type": "text/html; charset=utf-8",
+        "path": "審查紀錄/annual_review/ISU-109/supplements/S24-2.html",
+        "sha256": "29c71270d643dd559ebd6b94d871bbed6b579e973ac61ee1d737521c766e6fc1",
+        "bytes": 236806,
+        "status": "CAPTURED_RESPONSE"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "acf065821e3dc4a841b5f0a333c933f284a6f5982f7b3cc105ebb1ced2393166"
+  },
+  {
+    "id": "S25",
+    "title": "Characterization of SARS-CoV-2 replication complex elongation and proofreading activity",
+    "urls": [
+      "https://www.nature.com/articles/s41598-022-13380-1"
+    ],
+    "finding": "原始生化研究辨認nsp10-nsp14校對功能，冠狀病毒是RNA病毒通常缺少校對的例外。",
+    "read_scope": "本輪直接下載原作者完整HTML，實讀摘要及校對實驗聚焦段；web直接開啟失敗與後續成功下載分開記錄，未宣稱逐段讀完整篇。",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU109官方採計",
+    "captures": [
+      {
+        "id": "S25",
+        "url": "https://www.nature.com/articles/s41598-022-13380-1",
+        "accessed_at": "2026-09-09T22:24:29.848090+08:00",
+        "final_url": "https://www.nature.com/articles/s41598-022-13380-1?error=cookies_not_supported&code=c6a5e364-55f4-4837-8331-fe7830fb46ce",
+        "content_type": "text/html; charset=utf-8",
+        "path": "審查紀錄/annual_review/ISU-109/supplements/S25-1.html",
+        "sha256": "4255372a463591078f9515a17b1017b71ff1ad4efd0aea467344ce36015daf83",
+        "bytes": 410784,
+        "status": "CAPTURED_RESPONSE"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "4f59ad22d702621ada42cc34a12f83588a6b2ba969cb2acf2a1555ffe39f2a4c"
+  },
+  {
+    "id": "S26",
+    "title": "Alberts et al. Transport from the Trans Golgi Network to Lysosomes; Cooper Endocytosis",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK26844/",
+      "https://www.ncbi.nlm.nih.gov/books/NBK9831/"
+    ],
+    "finding": "胞吞囊泡先進內體，晚期內體可已開始水解並成熟為溶酶體；不能把所有降解起始強定在成熟溶酶體之後。",
+    "read_scope": "前者Multiple Pathways及M6P段；後者早晚內體運輸段",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU109官方採計",
+    "captures": [
+      {
+        "id": "S26",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK26844/",
+        "accessed_at": "2026-09-09T22:24:30.536464+08:00",
+        "final_url": "https://www.ncbi.nlm.nih.gov/books/NBK26844/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "審查紀錄/annual_review/ISU-109/supplements/S26-1.html",
+        "sha256": "18cd3655a661027f2477debf7650071a0fa84965f2f0f71baa488cd69753da1c",
+        "bytes": 74143,
+        "status": "CAPTURED_RESPONSE"
+      },
+      {
+        "id": "S26",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK9831/",
+        "accessed_at": "2026-09-09T22:24:30.823236+08:00",
+        "final_url": "https://www.ncbi.nlm.nih.gov/books/NBK9831/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "審查紀錄/annual_review/ISU-109/supplements/S26-2.html",
+        "sha256": "13f105b15affa330e0369ea28a36cddcfe92f17e500ae2f57505dba340699a2a",
+        "bytes": 67764,
+        "status": "CAPTURED_RESPONSE"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "391bc1a2cd0e18da042e7ca832cb232354e7ef19d78d6db836a84300e8736b1f"
+  },
+  {
+    "id": "S28",
+    "title": "Elsevier sample chapter ISBN9780723434290, chapter2 nervous system",
+    "urls": [
+      "https://booksite.elsevier.com/samplechapters/9780723434290/9780723434290.pdf"
+    ],
+    "finding": "鉀通道關閉較慢導致過極化，造成相對不反應期，需較強刺激；鈉通道失活是絕對不反應期的重要原因。",
+    "read_scope": "出版社公開樣章PDF5相對不反應期段；不宣稱取得整本書",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU109官方採計",
+    "captures": [
+      {
+        "id": "S28",
+        "url": "https://booksite.elsevier.com/samplechapters/9780723434290/9780723434290.pdf",
+        "accessed_at": "2026-09-09T22:24:31.665991+08:00",
+        "final_url": "https://booksite.elsevier.com/samplechapters/9780723434290/9780723434290.pdf",
+        "content_type": "application/pdf",
+        "path": "審查紀錄/annual_review/ISU-109/supplements/S28-1.pdf",
+        "sha256": "d5d5ffe66ac601706cc31b37a0f05697c2391b274955c078e39598c7979e27cb",
+        "bytes": 903063,
+        "status": "CAPTURED_RESPONSE"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "f253d7abec0482f1a23c3f57de7176ff58b050233e12fbfbc9a6c844eac09b83"
+  },
+  {
+    "id": "S31",
+    "title": "Richard E. Klabunde, Systemic Circulation",
+    "urls": [
+      "https://cvphysiology.com/blood-pressure/bp019"
+    ],
+    "finding": "靜脈系統是主要容量血管，容納循環血量最多；這是存量，不是截面積或流速。",
+    "read_scope": "作者教材Distribution of Pressures and Volumes及容量血管段",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU109官方採計",
+    "captures": [
+      {
+        "id": "S31",
+        "url": "https://cvphysiology.com/blood-pressure/bp019",
+        "accessed_at": "2026-09-09T22:24:31.971997+08:00",
+        "status": "DOWNLOAD_FAILED",
+        "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "e28f2e807e76ff1a799c465b1db301cdf3e22664b97cde9d28a83823837a6551"
+  },
+  {
+    "id": "S32",
+    "title": "Histology, White Blood Cell",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK563148/"
+    ],
+    "finding": "一般成人周邊血的嗜中性球約占白血球50–70%，為最多類型。",
+    "read_scope": "NCBI Bookshelf公開組織學教材嗜中性球段；一般成人範圍",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU109官方採計",
+    "captures": [
+      {
+        "id": "S32",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK563148/",
+        "accessed_at": "2026-09-09T22:24:32.329102+08:00",
+        "final_url": "https://www.ncbi.nlm.nih.gov/books/NBK563148/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "審查紀錄/annual_review/ISU-109/supplements/S32-1.html",
+        "sha256": "630abc9d2966ca4ef0b09fbead879238f8b18c9a4a300aaa6be30908e702ea0a",
+        "bytes": 62695,
+        "status": "CAPTURED_RESPONSE"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "93887340d98ca9e3fd369e77a24c2b50b2deaeeb67084a5821c5326fd4ead531"
+  },
+  {
+    "id": "S34",
+    "title": "Richard E. Klabunde, Isovolumetric Contraction",
+    "urls": [
+      "https://cvphysiology.com/heart-disease/hd002b"
+    ],
+    "finding": "等容收縮早期的壓力上升率達最大；壓力峰值本身與最大dP/dt不同。",
+    "read_scope": "作者教材Phase2正文及圖說，頁面修訂2023-11-04",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU109官方採計",
+    "captures": [
+      {
+        "id": "S34",
+        "url": "https://cvphysiology.com/heart-disease/hd002b",
+        "accessed_at": "2026-09-09T22:24:32.665475+08:00",
+        "status": "DOWNLOAD_FAILED",
+        "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "5303509a361b1bc784de18f99af20a65e21f46c167b55ad3f6ec591fd51eb2f7"
+  },
+  {
+    "id": "S37",
+    "title": "Neuroanatomy, Cranial Nerve 9 (Glossopharyngeal)",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK539877/"
+    ],
+    "finding": "頸動脈體是周邊化學受器，傳入以舌咽神經頸動脈竇支為主要路徑；不把主路徑寫成迷走神經。",
+    "read_scope": "NCBI Bookshelf公開神經解剖教材分支功能段",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU109官方採計",
+    "captures": [
+      {
+        "id": "S37",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK539877/",
+        "accessed_at": "2026-09-09T22:24:33.021115+08:00",
+        "final_url": "https://www.ncbi.nlm.nih.gov/books/NBK539877/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "審查紀錄/annual_review/ISU-109/supplements/S37-1.html",
+        "sha256": "11b4a6d0a120b07a6586114f30b6aa67a2c5e0077731c59dd25f232ecb632bb0",
+        "bytes": 66861,
+        "status": "CAPTURED_RESPONSE"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "584cd1279869775ac28049070a0633c93be5e5b73656fb4b7bccdfed8839eb6a"
+  },
+  {
+    "id": "S40",
+    "title": "The Metabolic Responses to Stress and Physical Activity",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK209038/"
+    ],
+    "finding": "運動時胰島素可因腎上腺素性抑制而下降，肌肉收縮仍可促進葡萄糖攝取；長時間運動與訓練後靜息不可混同。",
+    "read_scope": "作者會議章節的運動內分泌及葡萄糖轉運段",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU109官方採計",
+    "captures": [
+      {
+        "id": "S40",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK209038/",
+        "accessed_at": "2026-09-09T22:24:33.232166+08:00",
+        "final_url": "https://www.ncbi.nlm.nih.gov/books/NBK209038/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "審查紀錄/annual_review/ISU-109/supplements/S40-1.html",
+        "sha256": "1c369137fb16fdb396783a117e3a1cedf416fe1b6ea5f7211c4e6a32e5a1d8d7",
+        "bytes": 71484,
+        "status": "CAPTURED_RESPONSE"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "e3597c701980700531b33f9bfc01db589847bcf5f40b667aa30eeffbda43868a"
+  },
+  {
+    "id": "S45",
+    "title": "Shelton and Burggren 1976 author archive; NOAA attempted source",
+    "urls": [
+      "https://itservices.cas.unt.edu/~burggren/PDFs/1976/6_Shelton_Burggren_JEBCardiovascular%20dynamics%20of%20the%20Chelonia%20during%20apnoea%20and%20lung%20ventilation.pdf",
+      "https://repository.library.noaa.gov/view/noaa/8502/noaa_8502_DS1.pdf"
+    ],
+    "finding": "龜類體動脈由cavum venosum流出，肺旁路為右至左。1976研究為Pseudemys及Testudo，非綠蠵龜直接實驗。NOAA海龜PDF未取得，不作已讀佐證。",
+    "read_scope": "1976原作者存檔PDF1–2及5–6聚焦段與腔室圖說；NOAA下載失敗，沒有實讀頁面。",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU109官方採計",
+    "captures": [
+      {
+        "id": "S45",
+        "url": "https://itservices.cas.unt.edu/~burggren/PDFs/1976/6_Shelton_Burggren_JEBCardiovascular%20dynamics%20of%20the%20Chelonia%20during%20apnoea%20and%20lung%20ventilation.pdf",
+        "accessed_at": "2026-09-09T22:24:33.939673+08:00",
+        "final_url": "https://sites.itservices.cas.unt.edu/~burggren/PDFs/1976/6_Shelton_Burggren_JEBCardiovascular%20dynamics%20of%20the%20Chelonia%20during%20apnoea%20and%20lung%20ventilation.pdf",
+        "content_type": "application/pdf",
+        "path": "審查紀錄/annual_review/ISU-109/supplements/S45-1.pdf",
+        "sha256": "9728b5e756b74c69e446c6ec4291cc3a2071b1806a810ec56db3bd6d841ed487",
+        "bytes": 2543944,
+        "status": "CAPTURED_RESPONSE"
+      },
+      {
+        "id": "S45",
+        "url": "https://repository.library.noaa.gov/view/noaa/8502/noaa_8502_DS1.pdf",
+        "accessed_at": "2026-09-09T22:24:34.272590+08:00",
+        "status": "DOWNLOAD_FAILED",
+        "error": "HTTP Error 403: Forbidden"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "6b55a0ceeddace4ace3f96aed5296b891e34f596f597cc8cac36823d7a36435f"
+  },
+  {
+    "id": "S47",
+    "title": "Clinical Methods: Creatine Kinase",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK352/"
+    ],
+    "finding": "心肌受損可釋出CK及CK-MB，文獻典型上升約3–6小時；CK不是心肌專一，也不是所有生物標記中最早。",
+    "read_scope": "Basic Science的來源及時間段；歷史教材不作現行臨床診斷流程",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU109官方採計",
+    "captures": [
+      {
+        "id": "S47",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK352/",
+        "accessed_at": "2026-09-09T22:24:34.430138+08:00",
+        "final_url": "https://www.ncbi.nlm.nih.gov/books/NBK352/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "審查紀錄/annual_review/ISU-109/supplements/S47-1.html",
+        "sha256": "5d88fe1ab7ce2ce4549a64c79f7f357f0e3d4b2d5df10c06707e76edd994c5ff",
+        "bytes": 64670,
+        "status": "CAPTURED_RESPONSE"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "de281fdc4318a1942d83492849d6ffd8c9496e10643645c4a9d6e68fd7b04dcc"
+  }
+]

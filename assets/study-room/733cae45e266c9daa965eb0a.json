@@ -1,0 +1,1257 @@
+[
+  {
+    "q": 1,
+    "question_or_alternative": "一般能量預算還是陸域NPP環境限制？",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [
+        7,
+        8
+      ],
+      "textbook_pages": [
+        1241,
+        1242,
+        1243,
+        1244
+      ],
+      "catalog_ids": [
+        "L3692"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "1243–1244頁直接討論溫度降水，主條目應縮到陸域初級生產；CO₂干擾選項的情境限制另留，無未決分類。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 2,
+    "question_or_alternative": "性擇是否應取代分裂選擇作主分類？",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        497,
+        498,
+        499
+      ],
+      "catalog_ids": [
+        "L1465",
+        "L1471"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "題目要求選擇模式，497–498頁兩端有利圖符合；499頁性擇為造成模式的機制，主次層級確認。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 3,
+    "question_or_alternative": "族群成長曲線還是生活史權衡？",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1200,
+        1201,
+        1202
+      ],
+      "catalog_ids": [
+        "L3564",
+        "L3561"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "後代數、成熟時間與照顧投入是生活史策略，1201–1202頁直接涵蓋K選擇；未要求解成長模型，不改歸族群增長。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 4,
+    "question_or_alternative": "只歸初級生產是否漏掉分解因果？",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [
+        8
+      ],
+      "textbook_pages": [
+        1243,
+        1248,
+        1249
+      ],
+      "catalog_ids": [
+        "L3709",
+        "L3692"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "1248頁直接連結分解速率與养分回流，故主分解、次NPP；官方D與教材機制一致。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 5,
+    "question_or_alternative": "互利共生還是群落多樣性與穩定？",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [
+        8,
+        9
+      ],
+      "textbook_pages": [
+        1220,
+        1221,
+        1223
+      ],
+      "catalog_ids": [
+        "L3614",
+        "L3604"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "1223頁直接有多樣性生產力實驗；1220頁正向作用僅提供機制，不以單一物種關係取代群落主題。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 6,
+    "question_or_alternative": "退化構造能否當独立目錄節點？",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        479,
+        480
+      ],
+      "catalog_ids": [
+        "L1412"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "479–480頁置於Homology而本地目錄無更小退化構造條目；採真實最小項，不沿用自造標題。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 7,
+    "question_or_alternative": "B區頻率起伏可否排除漂變？",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [
+        9,
+        10
+      ],
+      "textbook_pages": [
+        494,
+        497,
+        498
+      ],
+      "catalog_ids": [
+        "L1452",
+        "L1465"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "原表終點回到起點，不能唯一確認負選擇。主題仍是題設自然選擇效應；答案D的推論限制和備選漂變已記錄，並非未解的目錄歸屬。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 8,
+    "question_or_alternative": "是否有證據特指雜合子優勢？",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [
+        10
+      ],
+      "textbook_pages": [
+        494,
+        500,
+        501
+      ],
+      "catalog_ids": [
+        "L1474",
+        "L1452"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "500–501頁平衡選擇涵蓋多機制；題表無基因型適存度，故停在真實最小Balancing Selection，不添加未證實的子機制。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 9,
+    "question_or_alternative": "保護區面積與廊道如何取主次？",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [
+        10,
+        11
+      ],
+      "textbook_pages": [
+        1270,
+        1271,
+        1272
+      ],
+      "catalog_ids": [
+        "L3768",
+        "L3771"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "1270–1272頁景觀結構直接涵蓋破碎與廊道，保護區設計為次。釋疑新增不可擴核心假設與原題差異已明示。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 10,
+    "question_or_alternative": "需要兩個植物條目還是只列生殖總論？",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        624,
+        625,
+        629,
+        630
+      ],
+      "catalog_ids": [
+        "L1877",
+        "L1890"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "624–625及630頁分別核對苔蘚與蕨生活史，兩個最小條目均保留，避免僅凭共享「需水」漏掉比較類群。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 11,
+    "question_or_alternative": "達爾文推論是否屬一般研究方法？",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        474,
+        475,
+        476
+      ],
+      "catalog_ids": [
+        "L1399",
+        "L1402"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "474–476頁逐項支持可遺傳變異和差異繁殖；不是实验設計題，主22.2的物種起源思想。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 12,
+    "question_or_alternative": "免疫分類與染色質調節競爭？",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [
+        11,
+        12
+      ],
+      "textbook_pages": [
+        371,
+        372,
+        373
+      ],
+      "catalog_ids": [
+        "L1123"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "題幹免疫只是被調控的基因例子；371–373頁甲基化及表觀遺傳直接支持18.2。細胞世代與個體跨代界線保留。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 13,
+    "question_or_alternative": "遺傳漂變還是移民造成頻率改變？",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        490,
+        496
+      ],
+      "catalog_ids": [
+        "L1458",
+        "L1442"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "題文明确給迁移比例，不需隨機抽樣模型；496頁Gene Flow加490頁頻率定義完成0.74計算。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 14,
+    "question_or_alternative": "遷移計算應否仍為主分類？",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        490,
+        491,
+        492,
+        493,
+        496
+      ],
+      "catalog_ids": [
+        "L1445",
+        "L1458"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "本題輸出為同型合子比例，必用HW平方而不是只算混合；主方程次基因流，0.5476核算一致。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 15,
+    "question_or_alternative": "官方B是否能科學上完全排除葡萄糖？",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        132,
+        135,
+        136
+      ],
+      "catalog_ids": [
+        "L0443",
+        "L0430"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "132及135–136頁載有葡萄糖載體，不能全面排除C。分類可確定為促進性擴散，單選的限定不足另存不抹除。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 16,
+    "question_or_alternative": "把壓流全部列為主動運輸是否合理？",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        764,
+        765,
+        799,
+        800
+      ],
+      "catalog_ids": [
+        "L2289",
+        "L2410"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "765頁篩管伴細胞分工是主問題；799–800頁區分裝載和長距離壓流，已修清能量使用範圍。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 17,
+    "question_or_alternative": "題表乳酸降低能否說有氧完全不發酵？",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        171,
+        172,
+        181,
+        183
+      ],
+      "catalog_ids": [
+        "L0598",
+        "L0572"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "171與181頁是兩種代謝去向比較，不是全稱禁止。維持比較發酵有氧呼吸為主並保留細胞能力假設。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 18,
+    "question_or_alternative": "乳酸濃度與糖解速率可否直接比較成LDH通量？",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [
+        12
+      ],
+      "textbook_pages": [
+        157,
+        158,
+        180,
+        181
+      ],
+      "catalog_ids": [
+        "L0595",
+        "L0529"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "單位、累積與時間資訊不同，不能唯一反推酵素通量；157及180–181頁可確定酵素pH與乳酸發酵的主次歸屬，官方D另以採計欄保存。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 19,
+    "question_or_alternative": "C₄與CAM是同章能否省略次條目？",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [
+        12,
+        13
+      ],
+      "textbook_pages": [
+        203,
+        204,
+        205
+      ],
+      "catalog_ids": [
+        "L0676",
+        "L0679"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "203–205頁支持空間/時間分隔；兩個真實最小項均保存。依12–13頁釋疑更正D，章級僅計第10章一次。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 20,
+    "question_or_alternative": "連鎖相位矛盾與雄蠅無重組是否改變分類？",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        301,
+        302,
+        303,
+        305,
+        306
+      ],
+      "catalog_ids": [
+        "L0961",
+        "L0958"
+      ],
+      "supplement_ids": [
+        "S10"
+      ]
+    },
+    "resolution": "303、305–306頁圖距原理不受親型標記交換影響；10%須通常可重組的雌蠅條件。原始雄蠅研究补足性別界線，分類仍為圖距計算。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 21,
+    "question_or_alternative": "0.735是精確結果還是選項近似？",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        490,
+        491,
+        497,
+        498
+      ],
+      "catalog_ids": [
+        "L1465",
+        "L1445"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "獨立按基因型權重算得0.7364425；B為最接近值，不能改數據使其精確。HW初始假設明列後，選擇與HW主次確定。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 22,
+    "question_or_alternative": "卡方範例在第15章是否代表題目歸連鎖？",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        271,
+        272,
+        273,
+        304
+      ],
+      "catalog_ids": [
+        "L0872"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "測試的虛無假說為3:1分離，應歸14.1；χ²2.94、df1計算確認。304頁真實技能練習僅作方法證據，不充當虛構TOC節點。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 23,
+    "question_or_alternative": "負水勢最小值與負壓是否混淆？",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        788,
+        789,
+        790,
+        793,
+        794,
+        795
+      ],
+      "catalog_ids": [
+        "L2381",
+        "L2365"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "788–790頁水勢定義與793–795頁凝聚張力共同支持，主木質部運輸、次跨膜水移動；完整日間表數值保留。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 24,
+    "question_or_alternative": "吐水能否讓夜間全部水勢讀值自洽？",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        788,
+        793
+      ],
+      "catalog_ids": [
+        "L2381",
+        "L2365"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "−0.4至−0.3的總水勢梯度不能推出穩態上行。根壓仍是已給吐水現象的直接機制，資料限制與分類結論分開保存。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 25,
+    "question_or_alternative": "NO₃⁻是否排除NH₄⁺吸收？",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [
+        13
+      ],
+      "textbook_pages": [
+        810,
+        814,
+        815
+      ],
+      "catalog_ids": [
+        "L2463"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "815頁兩者可用；採B時保留常見土壤情境，不加「唯一」字眼。直接歸植物营養相關細菌條目足夠。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 26,
+    "question_or_alternative": "應歸源庫還是正壓流？",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        799,
+        800,
+        801
+      ],
+      "catalog_ids": [
+        "L2413",
+        "L2410"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "题目所求長距離移動受壓差驅動，800頁正壓流最直接；799頁裝卸是上游條件。未给實測資料不能認定普遍限速步驟。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 27,
+    "question_or_alternative": "生合成連接是否等於所有糖解反應可逆？",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [
+        13
+      ],
+      "textbook_pages": [
+        170,
+        182,
+        183,
+        184
+      ],
+      "catalog_ids": [
+        "L0611",
+        "L0564"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "183–184頁顯示碳骨架連接與調控，170頁提供糖解框架；排除「皆可逆」過度延伸，主生合成次糖解確定。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 28,
+    "question_or_alternative": "毒素是否直接阻斷ETC複合體？",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        177,
+        178,
+        588
+      ],
+      "catalog_ids": [
+        "L0588",
+        "L1774"
+      ],
+      "supplement_ids": [
+        "S01"
+      ]
+    },
+    "resolution": "原始細胞實驗摘要指出ANT ADP/ATP交換抑制，與ETC成員不同。教材ATP框架與病原毒素背景分列，具名機制不偽稱出自Campbell。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 29,
+    "question_or_alternative": "梯度形成與ATP偶聯誰是主題？",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [
+        13
+      ],
+      "textbook_pages": [
+        174,
+        175,
+        176,
+        177
+      ],
+      "catalog_ids": [
+        "L0585",
+        "L0582"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "題問H⁺跨膜作用於ATP，175–177頁化學滲透直接回答；174頁電子傳遞為建立梯度的次機制。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 30,
+    "question_or_alternative": "短期碳循環可否直接當零生命週期排放？",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1249,
+        1250,
+        1251,
+        1278,
+        1279,
+        1280
+      ],
+      "catalog_ids": [
+        "L3712",
+        "L3787"
+      ],
+      "supplement_ids": [
+        "S08"
+      ]
+    },
+    "resolution": "教材碳循環只支持碳來源比較；原始土地利用模型反例阻止零排放概括。主55.4與次56.4的範圍確認。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 31,
+    "question_or_alternative": "相似性可否直接表示近親？",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        558,
+        559
+      ],
+      "catalog_ids": [
+        "L1649"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "558–559頁直接區分同功同源，趨同為反例；真實最小條目可完整容納判別，不再加無實際作用次章。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 32,
+    "question_or_alternative": "廣義原生動物是否是可與真菌並列的單系群？",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [
+        13
+      ],
+      "textbook_pages": [
+        613,
+        659,
+        675,
+        676
+      ],
+      "catalog_ids": [
+        "L1840",
+        "L2048"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "613及675–676頁領鞭毛蟲與動物關係直接顯示分類尺度問題。保留官方C，同時採後鞭毛生物與動物起源兩個真實節點。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 33,
+    "question_or_alternative": "是否只能用25.3的廣義多細胞起源？",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        535,
+        536,
+        675,
+        676
+      ],
+      "catalog_ids": [
+        "L2048",
+        "L1573"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "675–676頁直接提黏附及訊息基因，比535頁一般背景更近考點，故主32.2、次25.3。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 34,
+    "question_or_alternative": "異營、分解者與菌絲能否互換？",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [
+        13
+      ],
+      "textbook_pages": [
+        655,
+        656
+      ],
+      "catalog_ids": [
+        "L1966"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "655–656頁區分異營共同性與多樣生態、形態；更正B有直接教材依據，C菌絲並非所有真菌皆有。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 35,
+    "question_or_alternative": "STEC抗菌藥證據能否泛用全部E. coli？",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [
+        13
+      ],
+      "textbook_pages": [
+        579,
+        580,
+        588
+      ],
+      "catalog_ids": [
+        "L1774",
+        "L1728"
+      ],
+      "supplement_ids": [
+        "S02"
+      ]
+    },
+    "resolution": "CDC指向STEC及HUS風險，範圍限定與本題一致；噬菌體水平轉移是獨立次機制。官方D保持且未延伸成通用醫療建議。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 36,
+    "question_or_alternative": "同一地點各物種可否仍稱族群？",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1191,
+        1192
+      ],
+      "catalog_ids": [
+        "L3531"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "1191頁定義需同種且共同區域，A符合，其他尺度排除；不因發現新蛙種背景改歸分類學。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 37,
+    "question_or_alternative": "需白胺酸且耐藥的交集是否為3、9？",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        336,
+        337,
+        338,
+        588
+      ],
+      "catalog_ids": [
+        "L1036",
+        "L1777"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "3、9不需補白胺酸，應排除；4、8缺補充時不長、兩者皆加時生長。四培養條件逐格比較後交集4、8確認，營養缺陷與抗性分列。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 38,
+    "question_or_alternative": "是否能把Ti步驟直接標為課本原文？",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [
+        13
+      ],
+      "textbook_pages": [
+        836,
+        837
+      ],
+      "catalog_ids": [
+        "L2527"
+      ],
+      "supplement_ids": [
+        "S09"
+      ]
+    },
+    "resolution": "837頁僅給植物基因工程框架；Fraley1983摘要直接報導Ti載體與農桿菌共培養轉殖。主38.3有依據，具體流程的外部來源明確標示。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 39,
+    "question_or_alternative": "耐藥是分解藥物還是作用靶點改變？",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [
+        13
+      ],
+      "textbook_pages": [
+        588,
+        589
+      ],
+      "catalog_ids": [
+        "L1777"
+      ],
+      "supplement_ids": [
+        "S03"
+      ]
+    },
+    "resolution": "CDC mecA/PBP2a資料與588–589頁抗性框架一致，支持B靶蛋白低親和力；未誤判成所有抗性均由同一機制。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 40,
+    "question_or_alternative": "官方D植物病是否真為Koch原則例外？",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 4,
+      "clarification_pages": [
+        13
+      ],
+      "textbook_pages": [
+        17,
+        18,
+        588
+      ],
+      "catalog_ids": [
+        "L1774",
+        "L0044"
+      ],
+      "supplement_ids": [
+        "S04"
+      ]
+    },
+    "resolution": "APS植物接種再分離教學直接構成反例，不能科學認同D的一般斷言。分類根據感染致病因果已解決；另明標SOURCE_CONFLICT_RETAINED，不偽稱官方與科學一致。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 41,
+    "question_or_alternative": "urease與urea是否混用？",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        588
+      ],
+      "catalog_ids": [
+        "L1774"
+      ],
+      "supplement_ids": [
+        "S05"
+      ]
+    },
+    "resolution": "尿素酶原始研究支持利用尿素產氨而非分泌尿素。另查感染DNA損傷研究，未把DNA損傷等同唯一直接毒素靶點；主病原細菌確定。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 42,
+    "question_or_alternative": "指紋是否完全不含演化資訊？",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 4,
+      "clarification_pages": [
+        13
+      ],
+      "textbook_pages": [
+        436,
+        437,
+        558,
+        559
+      ],
+      "catalog_ids": [
+        "L1277",
+        "L1652"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "436頁個體識別與559頁分子同源比較區分資料用途；本題B是相對適合度，保留尺度限制而非绝對否定。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 43,
+    "question_or_alternative": "接受F因子是否自動成為Hfr？",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 4,
+      "clarification_pages": [
+        13,
+        14
+      ],
+      "textbook_pages": [
+        579,
+        580,
+        581
+      ],
+      "catalog_ids": [
+        "L1728"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "580–581頁明確區分質體F⁺與整合染色體Hfr，釋疑混用需註記；C供體傳送遺傳物質符合核心，分類仍在27.2最小項。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 44,
+    "question_or_alternative": "獨立生長單倍體是否等於自由生活？",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 4,
+      "clarification_pages": [
+        14
+      ],
+      "textbook_pages": [
+        258,
+        259,
+        604,
+        605,
+        606,
+        610,
+        611,
+        612,
+        613,
+        624,
+        625,
+        629,
+        630
+      ],
+      "catalog_ids": [
+        "L0830",
+        "L1817",
+        "L1837",
+        "L1830",
+        "L1877",
+        "L1890"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "各類群正文與生活史顯示單倍體可增殖；瘧原蟲寄生界線不能刪。13.2作比較主軸，五個分類對應條目保留且章級去重。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 45,
+    "question_or_alternative": "運動後隔日痠痛是否為乳酸殘留？",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 4,
+      "clarification_pages": [
+        14
+      ],
+      "textbook_pages": [
+        174,
+        175,
+        180,
+        181
+      ],
+      "catalog_ids": [
+        "L0582",
+        "L0595"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "181頁明確指較可能為損傷與發炎；174–175頁氧作末端受體支持D。釋疑乳糖字樣及痠痛簡化另列，不影響呼吸主分類。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 46,
+    "question_or_alternative": "報償系統是否等同所有藥物同一突觸機制？",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 4,
+      "clarification_pages": [
+        14
+      ],
+      "textbook_pages": [
+        1103,
+        1104
+      ],
+      "catalog_ids": [
+        "L3309"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "1103頁支持共同增強多巴胺途徑而藥物種類多樣；更正D成立，將「產生」精確區分為釋放，不宣稱一律抑制回收。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 47,
+    "question_or_alternative": "固氮者是否只限Bacteria？",
+    "evidence_used": {
+      "question_page": 10,
+      "answer_page": 4,
+      "clarification_pages": [
+        14
+      ],
+      "textbook_pages": [
+        582,
+        583,
+        1250,
+        1251
+      ],
+      "catalog_ids": [
+        "L1738",
+        "L3712"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "582頁明載部分methanogens古菌固氮；官方A的細菌通稱不可當域級排他命題。氮代謝主類與氮循環次類有直接依據。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 48,
+    "question_or_alternative": "配對型是否所有真菌皆不可缺？",
+    "evidence_used": {
+      "question_page": 10,
+      "answer_page": 4,
+      "clarification_pages": [
+        14
+      ],
+      "textbook_pages": [
+        657,
+        658,
+        659,
+        663,
+        664,
+        665,
+        666
+      ],
+      "catalog_ids": [
+        "L1979",
+        "L1982"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "658–659頁有無性與無已知有性期，已可排除全稱C；663–666頁比較核相與孢子過程，不把雙核與任何多核完全等同。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 49,
+    "question_or_alternative": "植物微管只能在核膜組裝嗎？",
+    "evidence_used": {
+      "question_page": 10,
+      "answer_page": 4,
+      "clarification_pages": [
+        14,
+        15
+      ],
+      "textbook_pages": [
+        113,
+        114,
+        115,
+        238,
+        239,
+        240,
+        241
+      ],
+      "catalog_ids": [
+        "L0381",
+        "L0773"
+      ],
+      "supplement_ids": [
+        "S06"
+      ]
+    },
+    "resolution": "本地114與240頁只否定典型中心粒中心體的普遍性；原始GCP2/3定位同時見核膜與細胞膜，排除釋疑絕對排他說法。骨架及紡錘體主次仍可確定。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 50,
+    "question_or_alternative": "12e正文是否直接寫褪黑激素全面抑制SCN？",
+    "evidence_used": {
+      "question_page": 10,
+      "answer_page": 4,
+      "clarification_pages": [
+        15
+      ],
+      "textbook_pages": [
+        1015,
+        1094,
+        1095
+      ],
+      "catalog_ids": [
+        "L3045",
+        "L3258"
+      ],
+      "supplement_ids": [
+        "S07"
+      ]
+    },
+    "resolution": "1015頁僅稱影響活性，抑制方向由特定SCN原始實驗補足；1094頁生物鐘框架相符。限定物種與實驗條件，官方D與來源涵蓋範圍分開保留。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  }
+]

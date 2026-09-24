@@ -1,0 +1,361 @@
+{
+  "question": {
+    "path": "c5e46f328578684616d08ba3.pdf",
+    "sha256": "6942022f78c73a63759a96b21a0596e12c6ded83fcb87b493bc64e53537a11bf",
+    "pdf_pages": 5,
+    "inventory_category": "biology_question",
+    "scope_status": "ALL_FIVE_FULL_PAGES_VISUALLY_READ",
+    "subject": "生物學（含生理學）",
+    "biology_pdf_pages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "printed_pages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "official_pdf_pages": [
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "question_count": 50,
+    "exam_date": "2020-06-21"
+  },
+  "answer": {
+    "path": "5a6983825b323c326702a954.pdf",
+    "sha256": "c7a83ac0f10b643f27633e48e99ae17656eded737734b6f71bffc24d51d79aa1",
+    "pdf_pages": 1,
+    "inventory_category": "combined_answer",
+    "scope_status": "ALL_50_VISUALLY_READ",
+    "biology_pdf_pages": [
+      1
+    ],
+    "official_pdf_page": 24,
+    "biology_region": "最下方第四張生物表；前三科答案排除"
+  },
+  "combined_question": {
+    "path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/schools/ISU/files/其他試題_非生物或待查/ISU_109_combined_question__109義守大學__109學年度義守大學學士後中醫學系招生考試試題公告.pdf",
+    "sha256": "616ec96b995ee7d364c454dac89dd215efe1fafbf7e8585394f286b5753efb5b",
+    "pdf_pages": 23,
+    "inventory_category": "combined_question",
+    "scope_status": "SCOPE_FROM_PDF_CONTENT_ONLY; NOT_USED_AS_ANSWER_OR_CLARIFICATION",
+    "scope": {
+      "chemistry": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "Chinese": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "English": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "biology": [
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  "combined_candidate": {
+    "path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/schools/ISU/files/其他試題_非生物或待查/ISU_109_combined_exam_archive__109學年度學士後中醫學系招生考試考古題公告.pdf",
+    "sha256": "1caea0c7ae02c0b3b4084add2c6c66d851febd321809d41c1521c32cb6296942",
+    "pdf_pages": 29,
+    "inventory_category": "combined_exam_archive",
+    "scope_status": "HASH_IDENTICAL_TO_FRESH_OFFICIAL_MEMBER",
+    "official_sha256_match": true
+  },
+  "textbook": {
+    "path": "Campbell Biology 12e.pdf（教材參考，全文未公開）",
+    "sha256": "de7c28b93a1c853c0c58d53cd658848d08cf033cde7c2071c062bfdd25b5dc73"
+  },
+  "toc": {
+    "path": "Campbell toc.txt（教材參考，全文未公開）",
+    "sha256": "472c94c03d3e7f107284b4e59ba744b406faee99580f5d940e0c2dab3d0c3dc7"
+  },
+  "official_archive": {
+    "path": "source/supplemental/ISU109/official-historical-exams.zip",
+    "url": "https://www.isu.edu.tw/storage/files/9crd3xNNj7FiMlpyB92xu98jBE5cQrUWvqPB0ZfK.zip",
+    "final_url": "https://www.isu.edu.tw/storage/files/9crd3xNNj7FiMlpyB92xu98jBE5cQrUWvqPB0ZfK.zip",
+    "sha256": "3245682ef6e3375ef8696b35feb1b3ea0b45fe8343f5a42b4c12d81611c32953",
+    "bytes": 26604484,
+    "retrieved_at": "2026-09-09T22:14:08.635711+08:00",
+    "source_type": "OFFICIAL_DIRECT"
+  },
+  "archive_notice": {
+    "path": "source/supplemental/ISU109/archive-notice.html",
+    "url": "https://www.isu.edu.tw/admissions/30?category=7&year=115",
+    "final_url": "https://www.isu.edu.tw/admissions/30?category=7&year=115",
+    "sha256": "4a49e7fee10cc944cb32260c7195b7aeeec87a23cfc79e345e39b86c7ba3725b",
+    "bytes": 439450,
+    "retrieved_at": "2026-09-09T22:14:10.019589+08:00",
+    "source_type": "OFFICIAL_DIRECT"
+  },
+  "official_combined": {
+    "path": "23747e25402e45d5bab50d74.pdf",
+    "sha256": "1caea0c7ae02c0b3b4084add2c6c66d851febd321809d41c1521c32cb6296942",
+    "bytes": 1094765,
+    "pdf_pages": 29,
+    "member": "109學年度學士後中醫學系招生考試考古題公告.pdf",
+    "archive_sha256": "3245682ef6e3375ef8696b35feb1b3ea0b45fe8343f5a42b4c12d81611c32953",
+    "url": "https://www.isu.edu.tw/storage/files/9crd3xNNj7FiMlpyB92xu98jBE5cQrUWvqPB0ZfK.zip",
+    "scope_status": "BIOLOGY_19_23_AND_ANSWER24_TEXT_AND_PIXELS_MATCH; CLARIFICATION28_29_VISUALLY_READ",
+    "scope": {
+      "國文": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "化學": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "英文": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "生物題本": [
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "混科答案": [
+        24
+      ],
+      "混科釋疑": [
+        25,
+        26,
+        27,
+        28,
+        29
+      ]
+    }
+  },
+  "official_question": {
+    "path": "23747e25402e45d5bab50d74.pdf",
+    "sha256": "1caea0c7ae02c0b3b4084add2c6c66d851febd321809d41c1521c32cb6296942",
+    "bytes": 1094765,
+    "pdf_pages": 29,
+    "member": "109學年度學士後中醫學系招生考試考古題公告.pdf",
+    "archive_sha256": "3245682ef6e3375ef8696b35feb1b3ea0b45fe8343f5a42b4c12d81611c32953",
+    "url": "https://www.isu.edu.tw/storage/files/9crd3xNNj7FiMlpyB92xu98jBE5cQrUWvqPB0ZfK.zip",
+    "scope_status": "BIOLOGY19_23_TEXT_AND_PIXELS_MATCH_LOCAL1_5",
+    "scope": {
+      "國文": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "化學": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "英文": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "生物題本": [
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "混科答案": [
+        24
+      ],
+      "混科釋疑": [
+        25,
+        26,
+        27,
+        28,
+        29
+      ]
+    }
+  },
+  "clarification": {
+    "path": "23747e25402e45d5bab50d74.pdf",
+    "sha256": "1caea0c7ae02c0b3b4084add2c6c66d851febd321809d41c1521c32cb6296942",
+    "bytes": 1094765,
+    "pdf_pages": 29,
+    "member": "109學年度學士後中醫學系招生考試考古題公告.pdf",
+    "archive_sha256": "3245682ef6e3375ef8696b35feb1b3ea0b45fe8343f5a42b4c12d81611c32953",
+    "url": "https://www.isu.edu.tw/storage/files/9crd3xNNj7FiMlpyB92xu98jBE5cQrUWvqPB0ZfK.zip",
+    "scope_status": "BOTH_BIOLOGY_PAGES_FULLY_VISUALLY_READ",
+    "scope": {
+      "國文": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "化學": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "英文": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "生物題本": [
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "混科答案": [
+        24
+      ],
+      "混科釋疑": [
+        25,
+        26,
+        27,
+        28,
+        29
+      ]
+    },
+    "biology_pdf_pages": [
+      28,
+      29
+    ],
+    "biology_questions": {
+      "3": [
+        28
+      ],
+      "23": [
+        28,
+        29
+      ],
+      "36": [
+        29
+      ],
+      "44": [
+        29
+      ],
+      "46": [
+        29
+      ]
+    },
+    "official_corrections": {},
+    "meeting_date": "2020-07-01",
+    "publication_date": "NOT_INDEPENDENTLY_VERIFIED",
+    "excluded": "PDF25–27非生物；PDF29頁首是Q23跨頁續文。其餘45題未列本輪取得公告，不宣稱無其他公告。"
+  },
+  "source_differences": {
+    "archive_inventory": "原清單釋疑missing；本輪在同年官方組合檔PDF28–29取得生物5題釋疑。原清單不覆寫，補充下載清單另存。",
+    "question_order": "23頁原混卷先化學再國文；官方29頁組合檔先國文再化學。生物均PDF19–23。",
+    "archive_page": "現行115招生頁的歷屆ZIP；109年度依ZIP成員及PDF內容確認。2025-12-12不是109釋疑日期。"
+  },
+  "question_scientific_differences": {
+    "ISU-109-Q01": "B。枯草桿菌為細菌，無粒線體；青黴菌、酵母菌及海葵均為真核生物。題目只需細胞構造判準，未另列真菌或動物分類條目。",
+    "ISU-109-Q02": "D。原腸腔成為消化道管腔，內胚層構成相關上皮；不能把腔與包圍腔的胚層混為一物，亦非原有囊胚腔。",
+    "ISU-109-Q03": "D。絲胺酸經PLP相關脫水去胺形成丙酮酸與銨；官方PDF28的Stryer圖正面支持此反應並維持D。甘胺酸裂解、脯胺酸氧化及丙胺酸轉胺不可等同本題直接去胺。Campbell未細列該酵素，官方所引Stryer7e印刷708僅實讀公告內圖文，未冒稱取得該書；公告的lanine拼字照存。",
+    "ISU-109-Q04": "A。典型被子植物的胚乳為3n；子房、花藥母體組織及種皮通常為2n。花藥含有單倍體花粉不代表花藥本身是3n。保留題設「典型」，不泛化到所有胚囊型。",
+    "ISU-109-Q05": "A。印刷855明述茉莉酸調控對食草動物及病原體的防禦。水楊酸亦參與抗病，但不在選项中；「最重要」限此題選項，非所有病原及情境皆以茉莉酸為唯一核心。",
+    "ISU-109-Q06": "C。教材印刷539描述晚古生代約2.5億年前大陸會合，四選項以二疊紀符合。題文「僅有」是地史簡化，不把全年代每個陸塊皆完全合一當精確古地理命題。",
+    "ISU-109-Q07": "C。通常將兩個隱性功能缺失突變置於可檢驗互補的系統：不同基因可彼此提供功能，同基因通常不能。Campbell提供功能鑑定框架，Alberts互補專節支持實驗判讀；此規則有適用條件，不能套用所有顯性突變。",
+    "ISU-109-Q08": "B。色胺酸結合trp repressor後，使其可結合operator阻斷轉錄。不是色胺酸不結合，也不是與乳糖操作子結合；不混淆operator與promoter。",
+    "ISU-109-Q09": "B。典型XXY個體有一條不活化X；正常XY及唐氏症XY男性、典型XO透納氏症不具有一個Barr body。此為通常的核型判讀，不保證每個細胞切片都可見清楚小體；「休止期」按間期語境。",
+    "ISU-109-Q10": "C。取a=0、b=10，因ac=8且bc=18得c=-8；ad=30且bd=20得d=30，順序c-a-b-d，反向等價。依題設以頻率近似圖距；長距離雙交換會低估距離，不能把任意實際重組率視作嚴格可加。",
+    "ISU-109-Q11": "B。總數100；B頻率=(2×32+50)/(2×100)=0.57，灰鼠頻率=50/100=50%。直接計數，不須假設Hardy–Weinberg平衡，也不以0.57平方推估已觀察基因型。",
+    "ISU-109-Q12": "B。正常二倍體減數分裂前期I有23個二價體，每個含四條染色分體；46條染色體及92條染色分體不是四分體數。男性性染色體在可配對區聯會，不代表X與Y全長同源。",
+    "ISU-109-Q13": "B。高cAMP且有乳糖可同時具CAP活化與解除抑制。直接結合抑制子的誘導物為異乳糖，原題以乳糖作培養條件；不能僅有cAMP而忽略抑制子。",
+    "ISU-109-Q14": "C。Calvin循環位於葉綠體基質；印刷191–192概覽圖文與201–202循環一致。類囊體膜進行光反應，不是碳固定循環的位置。",
+    "ISU-109-Q15": "A。葉枕由運動細胞構成，離子與水移動改變膨壓使葉片迅速運動；不是生長素造成的緩慢生長向性，也不把整個葉柄視為特化膨大部位。",
+    "ISU-109-Q16": "A。面積縮小及破碎化增加邊緣相對核心比例，改變微氣候與物種互動。廊道可緩和隔離，但題幹問面積縮小伴隨的問題；「最大」為考題選項判讀，不主張所有保育場域排序相同。",
+    "ISU-109-Q17": "A為錯誤敘述。楓糖尿症涉及支鏈α-酮酸脫氫酶複合體，使亮胺酸、異亮胺酸、纈胺酸及其酮酸代謝受阻；苯丙胺酸代謝障礙是典型PKU線索。GeneReviews補足Campbell未列的具體疾病；完整原題英文確為maple syrup urine disease。",
+    "ISU-109-Q18": "C為最直接後果。突變可提高、降低或不明顯改變轉錄率，非必然完全停止。啟動子定義有時涵蓋起始點附近，故不把B寫成在任何情況絕不可能；題設未提供變異位置，不能直接推論轉譯或剪接缺陷。",
+    "ISU-109-Q19": "B。HMG-CoA reductase將HMG-CoA還原為mevalonate，是經典限速步驟；不等同HMG-CoA synthase。Campbell只有上位生合成框架，具體反應由公開生化教材支持；C選項Pamitoly-CoA拼字原樣保留。",
+    "ISU-109-Q20": "C。酪胺酸分解中的homogentisate 1,2-dioxygenase以O2參與芳環開環，IUBMB EC1.13.11.5反應式可核查。Campbell不逐列此路徑；不將oxygenase等同氧化磷酸化的末端氧受體。原題「酪胺酸」與通常「酪胺酸」用字差異保留。",
+    "ISU-109-Q21": "B。Epistasis是不同基因座互動造成表型遮蔽；顯性與隱性通常描述同基因座等位基因關係，共顯性亦非本題機制。",
+    "ISU-109-Q22": "B。可適應寬廣鹽度稱euryhaline；海淡水遷移時調整鰓與腎臟離子水分處理，不表示體液直接隨外界任意改變。",
+    "ISU-109-Q23": "D。下視丘多巴胺抑制泌乳激素；減少即解除抑制。官方PDF28–29跨頁Vander圖文與回覆均維持D。Campbell提及PRH的刺激不能排除主要的多巴胺抑制調控；另由公開內分泌教材補足。不冒稱讀取Vander全書。",
+    "ISU-109-Q24": "D。BrdU差別染色使姐妹染色分體交換呈深淺交替。Campbell該主條目主要講減數分裂非姐妹交換，不能充作SCE直接證明；直接判讀依Wolff作者回顧及Perry/Wolff原論文摘要。SCE通常不產生不同等位基因的新組合，故C的meiotic recombinant不是同義詞。",
+    "ISU-109-Q25": "D為教材一般規則。多數RNA病毒複製缺少有效校對，但冠狀病毒nsp10–nsp14具有校對外切酶功能，原作者生化實驗支持此例外。因此保留原選項，不把「RNA病毒缺乏」改寫成毫無例外的普遍定律。",
+    "ISU-109-Q26": "官方B：甲丁戊乙丙，是四選項中合理的簡化順序。晚期內體已可開始水解，成熟內體／溶酶體為連續路徑，不強稱降解只能等成熟溶酶體才開始。C將水解置於形成內體之前，也不能因上述差異改採C。原題胞飲(endocytosis)中英範圍不等同，endocytosis為較廣義胞吞。",
+    "ISU-109-Q27": "C。小腸頂端SGLT與基底外側Na+/K+幫浦位於同細胞不同側；葡萄糖可逆濃度梯度進入。Campbell印刷139寫glucose moving down its concentration gradient，與印刷910的against concentration gradients及耦合原理有措辭差異；原教材不改寫，依910及梯度供能判讀，不因139否認逆梯度能力。",
+    "ISU-109-Q28": "C。鉀通道延遲關閉、鉀導度仍高，使膜較難達閾值，需較強刺激；鈉通道失活主要解釋絕對不反應期，恢復尚未完全亦可參與相對期。原選項「更多」按相對靜息狀態理解，不意指整段相對期開啟數持續增加。",
+    "ISU-109-Q29": "A。再生動作電位所需的電壓閘控Na+通道集中於郎氏結；題目泛稱「離子通道」較粗略，並非所有種類通道都只存在結上，亦非髓鞘下完全沒有通道。",
+    "ISU-109-Q30": "B。平滑肌Ca2+結合calmodulin後活化MLCK，調控肌球蛋白；骨骼肌／心肌收縮的主要直接開關為troponin。其他肌細胞仍有calmodulin參與其他過程，原題「不需要」限收縮直接調控路徑；旋轉素／攜鈣素為原題用語。",
+    "ISU-109-Q31": "D。體靜脈系統容納最多循環血量；作者生理教材給典型靜脈容量約60–80%的範圍，不視為每人固定值。血量存量不同於總截面積、流速或心輸出量。",
+    "ISU-109-Q32": "D。一般成人周邊血嗜中性球比例最高，公開組織學教材約50–70%。Campbell列白血球類型，細分類比例由補充教材支持；兒童年齡差異及疾病變動不可混入題設「正常人」的通常成人判讀。",
+    "ISU-109-Q33": "A。每搏量=125−65=60 mL；若心輸出量4.2 L/min，心率=4200/60=70次/min。原題只印4.2 L，缺每分鐘單位；依心輸出量的流量定義及問每分鐘心跳理解，原圖與原題文字不補字。",
+    "ISU-109-Q34": "B。等容收縮期間四瓣關閉、心室壓快速上升；最大dP/dt是壓力上升速率，不是射血期較高的壓力峰值。Campbell支援週期框架，作者生理教材直接支持最大上升率所在階段。",
+    "ISU-109-Q35": "A。Thrombin催化fibrinogen轉為fibrin；prothrombin是前驅物，肝素為抗凝而非此轉換酵素。",
+    "ISU-109-Q36": "A。2,3-DPG增加使血紅素較不易結氧，官方PDF29引用Vander15e印刷468維持A。單純低PO2降低飽和度不等於在相同PO2下親和力下降；慢性缺氧可間接提高DPG，須區分即時自變項及適應。原題二磷甘油酯用詞照存，現亦稱2,3-BPG。",
+    "ISU-109-Q37": "C。低PaO2刺激頸動脈體，亦可反應CO2與H+。頸動脈體傳入主要經舌咽神經而非B的迷走神經；主動脈體才主要走迷走。頸動脈竇壓力受器與頸動脈體化學受器不混同。",
+    "ISU-109-Q38": "C。澱粉酶可直接以活性形式分泌；pepsin、trypsin及chymotrypsin通常先以相應酵素原分泌以避免自我消化。選項列活化酵素名稱，不代表它們的分泌型也是活化型。",
+    "ISU-109-Q39": "D。腹側被蓋區投射到伏隔核等邊緣區的多巴胺迴路與獎賞／濫藥相關。黑質紋狀體主要關聯動作調控；其他選項可能參與行為，但不是此題最直接路徑。",
+    "ISU-109-Q40": "C。持續運動時交感及腎上腺素性作用可抑制胰島素分泌，肌肉仍可因收縮增加葡萄糖攝取；脂肪酸可供能。此為典型持續運動條件，不混同訓練後靜息或任意進食／補糖情境。",
+    "ISU-109-Q41": "D。Campbell印刷1093的延髓功能包含吞嚥。橋腦可參與相關網絡，但題目問典型吞嚥中樞定位。最小目錄採Concept 49.2，不虛構正文圖說為目錄小目。",
+    "ISU-109-Q42": "A。LDL相對HDL增加是教材列出的風險關係；是群體風險指標，非單一比值足以診斷，亦不把HDL一律視為因果性保護保證。",
+    "ISU-109-Q43": "D。正常生理條件下，單一肌纖維動作電位幅度近全有全無，張力以頻率、招募及纖維大小調節。不可擴張為任何病理性膜電位或離子改變都不影響收縮。",
+    "ISU-109-Q44": "B。端粒酶以自身RNA為模板，向既有DNA的3′端加核苷酸，合成方向仍為5′→3′；互補股由其他複製酵素補上，不是端粒酶直接同時延長兩股。官方PDF29所引Weaver3e印刷735維持B，引用頁限公告內內容。",
+    "ISU-109-Q45": "C。龜類有兩心房及未完全隔開的心室；體動脈流出途徑由cavum venosum通向主動脈，略過肺為右至左分流，非D的左至右。cavum venosum名稱不代表其中永遠僅有缺氧血。Campbell圖文支援龜類框架；1976原研究對象為Pseudemys與Testudo，支持一般龜類腔室機制，不冒稱綠蠵龜直接實驗。NOAA海龜PDF取得失敗，未作已讀證據。",
+    "ISU-109-Q46": "A。瘤胃是主要共生發酵場所，官方PDF29引用Sherwood2e印刷655，稱容量最大且為纖維消化主場所，維持A。不是其他胃室沒有細菌，也不將「最多」偷換成經測量各部位每毫升密度；引用書頁僅讀公告圖文。",
+    "ISU-109-Q47": "C。依原題四種酵素，CK是心肌受損後早期上升的典型指標，補充教材列約3–6小時。CK原本就可在血中測得，應理解為受損後增高，不是首次從無到有；總CK非心肌專一，CK-MB也不等同總CK，不主張其為所有現行生物標記中最早。",
+    "ISU-109-Q48": "C。尿素分子小，可自由濾過；紅血球及多數大分子蛋白被完整濾過屏障限制。題幹只寫內皮窗孔較簡化，實際屏障還有基底膜及足細胞裂隙；不把單一窗孔說成全部選擇性的唯一來源。",
+    "ISU-109-Q49": "B。典型低鈉攝入刺激保鈉反應，使醛固酮增加、腎鈉重吸收增加。尿鈉排出量與濃度須區分，濃度亦受水量影響。原題腎素英文rennin應為renin，rennin另指凝乳酶用語；原題照存。",
+    "ISU-109-Q50": "B。菠菜是C3植物，關閉氣孔使葉內CO2低而相對O2高，較易光呼吸；玉米C4、鳳梨及仙人掌CAM具有濃縮／保存CO2策略。比較限題設典型條件，不說CAM或C4絕無光呼吸。"
+  }
+}

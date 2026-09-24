@@ -1,0 +1,200 @@
+{
+  "question": {
+    "path": "3049b06d28ef787d8956be0d.pdf",
+    "sha256": "1e3770b10952e9e6d624559d08e289255eb566e8d3338677d8539b7ab14147e1",
+    "pdf_pages": 8,
+    "inventory_category": "biology_question",
+    "scope_status": "ALL_EIGHT_FULL_PAGES_VISUALLY_READ",
+    "subject": "生物學",
+    "question_count": 50,
+    "cover_pdf_page": 1,
+    "biology_pdf_pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "printed_pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "shared_questions": [],
+    "figures": "Q6光週期圖；Q12 STR圖；50題均無跨頁",
+    "original_official_url": "https://admissions.tcu.edu.tw/wp-content/uploads/2025/04/114後中醫_生物學試題-公告版.pdf",
+    "local_acquisition": {
+      "provider": "backup_5138 mirror of official TCU114 document",
+      "reference_page": "https://www.5138.com.tw/exam/exam-8340.html",
+      "mirror_url": "https://drive.google.com/file/d/1If9A8WfjDV-mMqJAYDLAzLfIZkFhJVJR/view?usp=share_link",
+      "inventory_manifest": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/download_manifest_additional.csv",
+      "verification": "本輪查看完整PDF之TCU114題本／答案／釋疑內容，且核對本年來源索引；非其他年度文件。"
+    },
+    "current_official_access": {
+      "status": "DIRECT_PDF_UNAVAILABLE_REDIRECTS_TO_HOME",
+      "log": "official-download-manifest.json",
+      "note": "本輪官方舊網址HTTP200但重導至首頁HTML，未下載到新的官方PDF，不能宣稱遠端與本地hash相同。題本與答案搜尋索引內容與本地可核對；釋疑依已存完整官方格式公告鏡像。"
+    }
+  },
+  "answer": {
+    "path": "a6dd343ae3bbcdf29e6e37ef.pdf",
+    "sha256": "e1043bf46c15bee3c1c9d59a30c2b6f2845246cb7c21dc0d3e49a9526849645a",
+    "pdf_pages": 1,
+    "inventory_category": "biology_answer",
+    "scope_status": "ALL_50_ANSWERS_VISUALLY_READ",
+    "biology_pdf_pages": [
+      1
+    ],
+    "original_official_url": "https://admissions.tcu.edu.tw/wp-content/uploads/2025/04/114後中醫_生物學參考答案-公告版.pdf",
+    "local_acquisition": {
+      "provider": "backup_5138 mirror of official TCU114 document",
+      "reference_page": "https://www.5138.com.tw/exam/exam-8340.html",
+      "mirror_url": "https://drive.google.com/file/d/1z7HLV4xsCUhWqITUn1euU7amtMihmPPp/view?usp=share_link",
+      "inventory_manifest": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/download_manifest_additional.csv",
+      "verification": "本輪查看完整PDF之TCU114題本／答案／釋疑內容，且核對本年來源索引；非其他年度文件。"
+    },
+    "current_official_access": {
+      "status": "DIRECT_PDF_UNAVAILABLE_REDIRECTS_TO_HOME",
+      "log": "official-download-manifest.json",
+      "note": "本輪官方舊網址HTTP200但重導至首頁HTML，未下載到新的官方PDF，不能宣稱遠端與本地hash相同。題本與答案搜尋索引內容與本地可核對；釋疑依已存完整官方格式公告鏡像。"
+    }
+  },
+  "clarification": {
+    "path": "070a0c7d79ada18d1138c463.pdf",
+    "sha256": "d2d5bcb1c0596a2fbf5d5ee81095d4e9d2bae37c2d92d628a31bcd4e80cd466a",
+    "pdf_pages": 9,
+    "inventory_category": "clarification",
+    "scope_status": "ALL_NINE_PAGES_VISUALLY_READ",
+    "biology_pdf_pages": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "biology_questions": {
+      "3": [
+        4,
+        5
+      ],
+      "12": [
+        5
+      ],
+      "17": [
+        6
+      ],
+      "29": [
+        6
+      ],
+      "36": [
+        7
+      ],
+      "46": [
+        7,
+        8
+      ],
+      "47": [
+        8,
+        9
+      ]
+    },
+    "official_corrections": {
+      "29": {
+        "original": "C",
+        "adopted": "B"
+      }
+    },
+    "dispositions": {
+      "3": "A",
+      "12": "C",
+      "17": "B",
+      "29": "B",
+      "36": "B",
+      "46": "B",
+      "47": "A"
+    },
+    "excluded": "PDF1國文與化學；PDF2化學；PDF3化學與英文；PDF4上方英文Q50，生物從下方Q3開始。化學8/12/27/40/47更正或送分不套用生物。",
+    "scope_note": "已取得釋疑列生物7題；另43題未列本輪取得公告，不宣稱沒有其他未取得公告。",
+    "original_official_url": "https://admissions.tcu.edu.tw/wp-content/uploads/2025/04/114學士後中醫-釋疑公告.pdf",
+    "local_acquisition": {
+      "provider": "backup_5138 mirror of official TCU114 document",
+      "reference_page": "https://www.5138.com.tw/exam/exam-8340.html",
+      "mirror_url": "https://drive.google.com/file/d/1nzhW-Fk5fCvpKTyFo6z0AJkqy-7iEx0E/view?usp=share_link",
+      "inventory_manifest": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/download_manifest_additional.csv",
+      "verification": "本輪查看完整PDF之TCU114題本／答案／釋疑內容，且核對本年來源索引；非其他年度文件。"
+    },
+    "current_official_access": {
+      "status": "DIRECT_PDF_UNAVAILABLE_REDIRECTS_TO_HOME",
+      "log": "official-download-manifest.json",
+      "note": "本輪官方舊網址HTTP200但重導至首頁HTML，未下載到新的官方PDF，不能宣稱遠端與本地hash相同。題本與答案搜尋索引內容與本地可核對；釋疑依已存完整官方格式公告鏡像。"
+    }
+  },
+  "textbook": {
+    "path": "Campbell Biology 12e.pdf（教材參考，全文未公開）",
+    "sha256": "de7c28b93a1c853c0c58d53cd658848d08cf033cde7c2071c062bfdd25b5dc73"
+  },
+  "toc": {
+    "path": "Campbell toc.txt（教材參考，全文未公開）",
+    "sha256": "472c94c03d3e7f107284b4e59ba744b406faee99580f5d940e0c2dab3d0c3dc7"
+  },
+  "source_scope_conclusion": "本地三份TCU114文件齊備；已看全部8/1/9頁。科目與年份由內容確認。現有鏡像、官方網址及重導失敗分开記錄，不用他年文件補缺。",
+  "question_scientific_differences": {
+    "TCU-114-Q01": "採A，重點是缺乏真正維管束。原題中文「蘚類」與英文 liverworts（苔類）不一致，兩者均屬非維管植物；部分蘚類具有較簡單輸導細胞，不能將所有苔蘚描述為完全沒有任何輸導構造。根、種子不是本群高度限制的適切選項。",
+    "TCU-114-Q02": "採D。K+參與氣孔運作；Mg是葉綠素成分及多種酵素的輔因子，Fe參與電子傳遞等，Zn參與多種酵素。原選項將鎂稱為酵素抑制劑、鐵稱為葉綠素主要成分均不合本題元素功能配對。",
+    "TCU-114-Q03": "官方及同年釋疑採A。教材圖10.19（印刷204／PDF253）典型双細胞C4在葉肉固定，再於維管束鞘去羧化；D寫葉肉不符合此圖。釋疑援引單細胞C4，Bienertia研究確實支持同細胞內區隔的存在，但不能把單細胞例外與C的雙細胞運送同時當作同一模式。保留此限定差異，A混用CAM仍是官方採計。",
+    "TCU-114-Q04": "採D。教材850–851說明Gibberella感染及其赤黴素造成稻苗過度伸長。ABA、乙烯、茉莉酸各有其他調節作用。Gibberellins為正文小標，未擅自建立不存在的更小目錄ID。",
+    "TCU-114-Q05": "採A。Taxol為紫杉來源的taxane二萜類衍生物；橡膠為聚異戊二烯，cannabinoids不是生物鹼，咖啡因是生物鹼。Wagner與Flores的生長試驗支持Taxol抑制部分病原，包含卵菌及Rhizoctonia，但若干受試真菌不敏感；屬選擇性抑制及可能的植物防禦作用，不能擴大成殺死所有真菌。",
+    "TCU-114-Q06": "採C。上方在最後照FR的2、4處理開花，是長夜／短日型；下方反向，是短夜／長日型。FR可逆轉R中斷長夜的效果；C的「造成黑夜生理時鐘」只能理解為夜訊號反應的恢復，不是光從無創造內在時鐘。D的cytochrome應區分於phytochrome。",
+    "TCU-114-Q07": "官方採D。典型胚囊由大孢子母細胞減數分裂後，一個功能性大孢子再三次有絲分裂形成；故只有一次減數分裂不足。整顆胚珠還含母體2n組織，不能全視為單倍體。B的成熟花粉三細胞型並非所有被子植物通則；教材827示生成細胞在花粉管內再分裂，部分物種則散粉前完成。此範圍差異另存，不改官方採計。",
+    "TCU-114-Q08": "採D。教材868敘述揮發性訊號可被邻近植物感知，誘發相同防禦反應；此功能不以已開花為必要條件，也不是草食動物釋放植物防禦素或植物與動物辨識同種基因。",
+    "TCU-114-Q09": "採B。亞硝酸使C脫氨成U，複製後可能固定為鹼基替換。UV典型作用為嘧啶二聚體，EMS屬烷基化劑，5-bromouracil是鹼基類似物。Campbell360支援化學突變原理；亞硝酸專名以OpenStax正文與圖11.20补足，不沿用其表格內將nitrous acid誤寫nitrous oxide的文字。",
+    "TCU-114-Q10": "採C。真核細胞成熟mRNA常具5′帽及poly-A尾，並經其他加工；細菌mRNA及轉錄調控方式不同。A忽略無壁細菌及真菌細胞壁，B把典型染色體形式顛倒且過度絕對化，D忽略起始因子與辨識差別；原核包含古菌，不把所有原核視為完全相同。",
+    "TCU-114-Q11": "採B。逐個反向互補檢算：TTAGCACGTGCTAA等於自身的反向互補序列；A僅呈字串左右對稱等表面形式，並非DNA定義。實際目錄與正文含Recombinant DNA Plasmid，本地文字目錄漏DNA，年度紀錄保留二者差異。",
+    "TCU-114-Q12": "同年釋疑維持C。完整圖可見A–C約7、B–C約7、A–B約5條對齊，但C第1及第5條（由上數）均不對應A或B；圖未標位點，無法執行每位點父母各一等位基因的嚴格檢验。釋疑先說全部可解釋，後承認兩條例外並推測重組。一般位點間重組不會自動創造新STR長度，不能據此證明這兩條來自雙親或精算各50%。保留官方C及圖譜限制，分類仍確定為STR親緣分析。",
+    "TCU-114-Q13": "採B。按教材表25.1由早到晚為奧陶紀、泥盆紀、三疊紀、白堊紀。題目只比年代先後，不是問某次大滅絕或特定類群起源，故不擴列相關演化事件。",
+    "TCU-114-Q14": "採B。先有食物引起唾液，再經配對使哨音成為制約刺激。操作制約著重行為結果的增強或懲罰，印痕有特定學習時期，非關聯性學習則不以兩刺激建立聯結。",
+    "TCU-114-Q15": "採B。典型情況為一個n精細胞與含兩個n極核的中央細胞結合，產生3n胚乳；另一精細胞與卵形成2n合子。不能稱3n合子，也不是兩精細胞共同與中央細胞受精。Double Fertilization是正文小標，不冒充最小目錄。",
+    "TCU-114-Q16": "採D。相較蚜蟲、蟑螂、蒲公英，椰子樹長壽、較晚成熟且每個種子投入大，較接近K端。教材1202明確指出r／K為相對描述與取捨，不能視為所有物種不可變的兩個類別。",
+    "TCU-114-Q17": "採B；同年釋疑一致。按5′所示編碼股由首個ATG讀為ATG/AGC/GAC/CAC/CCA/TTC/TGC/CTC/GGG/GAA/TGA，產物MSDHPFCLGE共10個胺基酸。前方ACTGC及後方ATCC不計，TGA是終止不算第11個。另以程式反向互補與六讀框檢算，保留輸入及結果。",
+    "TCU-114-Q18": "採B。教材把自我複製RNA及核酶視為早期生命演化的可行路徑；此為科學假說及支持證據，不表示已直接觀測地球第一個細胞，更非證明其他有機分子不重要。",
+    "TCU-114-Q19": "採C。典型可動纖毛／真核鞭毛為9組雙微管加中央2條；基體及中心粒是9組三微管，典型不動初級纖毛為9+0。題幹有「典型」限定，不能將9+2當所有纖毛的絕對定義。",
+    "TCU-114-Q20": "採A。木質部／韌皮部不構成題述把空氣熱能循環運到地下的散熱回路。教材列蒸散散熱、熱休克蛋白、抗凍溶質、氣孔關閉及淹水時乙烯誘導根皮層細胞死亡形成通氣空間。不同耐逆能力有物種差異。",
+    "TCU-114-Q21": "採C。每個葡萄糖形成2丙酮酸；細胞質液進行，淨2ATP（先用2、後產4）及2NADH。Hexokinase形成glucose-6-phosphate，非第4碳磷酸化，也不產淨3ATP。",
+    "TCU-114-Q22": "官方採C聖嬰。NOAA所述為東風信風減弱、暖水往東移，秘魯附近上湧及營養供應減弱；原題「向秘魯、厄瓜多流動減緩」與此方向敘述不合，trade wind通常譯信風而非季風。保留原文；不能用此錯置方向重定義ENSO。沒有另列水域分帶，因為題目不考垂直或沿岸分帶。",
+    "TCU-114-Q23": "採A。微管約25nm最大，中間絲約8–12nm、微絲約7nm；微絲主要actin，細胞運動及有絲分裂均有骨架參與。這是粗細大小與成分判斷，不另列有絲分裂階段。",
+    "TCU-114-Q24": "採B。胺基酸去胺後的碳骨架可變成α-ketoglutarate直接進入循環；pyruvate先轉acetyl-CoA，脂肪酸需β氧化。D的ADP可參與能量轉移，但題目以「代謝產物直接參與」意指碳骨架入口；若逐字泛指所有反應底物，ADP也相關，應保留用語範圍。",
+    "TCU-114-Q25": "採A。膠原與含chondroitin sulfate的蛋白聚醣屬ECM，廣義也包括植物細胞壁纖維素；cadherins為跨膜細胞黏附蛋白，不能當分泌到間質中的纖維材料。Cadherin會連結細胞與內部骨架，仍與間質成分有別。",
+    "TCU-114-Q26": "採D。自噬可移除蛋白聚集、受損粒線體及部分病原成分；不是依單一鹼基錯誤定點修復DNA的路徑。Sindbis研究支持清除病毒蛋白並保護神經細胞，未降低所測病毒複製；不能把「清除入侵病毒」普遍化為所有病毒皆受抑制，也不宣稱任何DNA永遠不可能成為自噬材料。",
+    "TCU-114-Q27": "採A。死亡受體起始通常稱外在路徑；內在路徑可由嚴重DNA損傷啟動，cytochrome c與Apaf-1、procaspase-9組裝凋亡小體。Bcl-2及Bcl-xL可抑制細胞色素c釋出；不代表Bcl-2家族所有成員均抗凋亡。命名分子由The Cell作者教材補足，Campbell支援內外訊號與凋亡原理。",
+    "TCU-114-Q28": "官方採A。ADH調整遠端腎元特別是集尿管水通透性；RAAS促進Na+、水保留，主要維持血容量與血壓。A把RAAS作用統称維持滲透壓較不精確，不可等同ADH主要感測血漿滲透濃度。B拮抗、C兩者均刺激醛固酮且作用膀胱、D都在近端小管受體均不合教材。",
+    "TCU-114-Q29": "原答案C，114釋疑PDF6正式改採B，照此記錄。教材987–991顯示降支水流出使管內液體濃縮，升支移鹽不移水；只增加降支水通透性，不能無條件推論最終尿液更稀。釋疑「髓質被過多稀釋」屬附加整體假設，尚需流量、鹽運輸、ADH與梯度條件；不將此敘述冒充教材定理，也不私改另一採計答案。分類依尿濃縮机制確定。",
+    "TCU-114-Q30": "採C。骨細胞若缺IGF-1受體，即使GH存在仍可能無法正常回應促生長訊號。肝臟主要接收GH後產IGF，並非選項B的邏輯；體抑素不足不直接解釋生長被抑制。本題為機制推論，單次正常GH檢驗不能取代實際臨床診斷。",
+    "TCU-114-Q31": "採B（甲丁戊）。線蟲有神經、完整消化及生殖系統，沒有專門循環及呼吸系統；氣體交換與體內物質分布不必然仰賴題列那兩套專門器官。不能把無循環系統等同沒有任何體液或物質運輸。",
+    "TCU-114-Q32": "採A。順序為末端去極化→Ca2+通道開啟及內流→小泡融合／釋放→突觸後反應。C配體門控通道不負責讓神經傳導物質離开小泡。選48.4是有正文定位的最小可用概念，不任意套用突觸後條目。",
+    "TCU-114-Q33": "採D。教材圖45.14列兩微血管床由門脈連接；後葉主要為下視丘神經分泌細胞軸突末梢釋放激素，不能與前葉的門脈路徑混同。",
+    "TCU-114-Q34": "官方採A。外液激素結合膜受體啟動G蛋白、adenylyl cyclase、cAMP及PKA級聯；外液cAMP或把該激素注入細胞質不能等同此完整啟動。D活性PKA可直接作用下游，但未指定注入量與反應指標，無法無條件保證A的絕對最大值；採計按完整cAMP系統與訊號放大理解。",
+    "TCU-114-Q35": "採D。棕色脂肪含豐富粒線體，非顫抖產熱時燃料氧化與質子梯度可用來產熱；非骨骼肌顫抖。教材印刷178直接解釋uncoupling protein，887說明棕脂與體温。適應或休眠可能相關，但不是本題直接機制。",
+    "TCU-114-Q36": "同年釋疑維持B。初級精母細胞減數分裂產4精細胞，後再分化；一初級卵母細胞若完成減數分裂，功能性卵1個、極體最多3個（首極體未必再分裂），不是固定1個。A稱全程卵巢完成不精確，減數分裂II在受精時才完成，通常於輸卵管。C為前期I停滯；D在本地教材圖46.11印刷1028標示精原至初級精母細胞為mitotic divisions，已開圖確認，未把精細胞到精子的分化箭頭混淆。",
+    "TCU-114-Q37": "採A。一般休息／餐間骨骼肌可主要氧化脂肪酸；ATP是直接能量貨幣，題目問的是燃料來源。Campbell肌肉段不直接量化休息燃料比例，作者生理教材補充脂肪與醣利用受飲食、胰島素、底物及活動影響，不能推論任何休息狀態都只用脂肪酸。",
+    "TCU-114-Q38": "採D。維持低細胞質Ca2+及回收至ER等依賴Ca2+-ATPase等運輸，所需能量不是cGMP→GMP。B把胞器膜幫浦與送往細胞外混写：胞器膜泵送入該胞器，向外排主要跨質膜。教材1045圖為海膽，原題說人類；不可將海膽影像直接視為人類實測，保留物種與鈣波／振盪範圍。",
+    "TCU-114-Q39": "採B。Oseltamivir活性代謝物抑制流感neuraminidase而影響病毒釋出，與其餘核苷／核苷酸類抗病毒藥的核酸相關作用分開。Remdesivir作用RNA聚合酶；acyclovir作用DNA聚合酶；ribavirin作用較多，不能概括其餘三種只抑制同一酵素。採FDA藥品說明的機制段，未作使用或劑量建議；題目Remdesvivir拼字照原圖保留。",
+    "TCU-114-Q40": "採C。左臍靜脈出生後閉鎖成肝圓韌帶；靜脈導管另成靜脈韌帶，臍動脈遠端成臍內側韌帶，下腔靜脈保留。Campbell1035支援胎盤血流，特定殘跡名稱由胚胎學作者教材補足，不假稱書中直接列此答案。",
+    "TCU-114-Q41": "採C。細菌鞭毛細絲不是由微管組成；原題把microtubules譯「維管」也保留為文字差異。典型細菌以離子動力馬達旋轉，真核鞭毛以微管與dynein彎曲。D的「原核全靠質子」過廣：古菌archaellum與某些細菌離子來源不同，因此本題按教材典型細菌比較，未當全原核的無例外定理。",
+    "TCU-114-Q42": "採B。Metagenome sequencing可直接從環境樣本的多物種DNA分析微生物群，不需先逐種培養。PCR常針對已選標記，microarray依既有探針，CRISPR主要是操作工具。初步候選21.2系統層級條目未直接覆蓋此定義，回查正文後改定位21.1並保留修正理由。",
+    "TCU-114-Q43": "採C。Ascospores、basidiospores及zygospores是題述有性生活史相關結構；conidia通常無性形成。教材664也提conidia可與異交配型菌絲融合而參與後續性循環，不等於conidia本身由減數分裂形成的有性孢子。",
+    "TCU-114-Q44": "採D。Isocitrate→α-ketoglutarate及α-ketoglutarate→succinyl-CoA均釋CO2並還原NAD+為NADH；FADH2在succinate→fumarate產生，不伴此步CO2。每圈3NADH，但僅2次釋CO2，不誤寫每個NADH都伴CO2。",
+    "TCU-114-Q45": "官方採D。孢子通常含n核，但原題問「細胞核中僅有單套染色體」，而典型双核菌絲及菌柄中的每一個核也各為n；n+n不是一個2n核。教材圖31.20印刷666明示子實體及菌絲雙核、核配才成2n。故逐字理解A／B並非一概錯誤，不能捏造香菇整個菌柄每核二倍體來讓D唯一。此屬題意粒度差異，分類確定。",
+    "TCU-114-Q46": "同年釋疑採B。按題設化學氧化取能、必須有機碳建材，為化學異營；若明確無機電子供體，可再稱化能無機異營。原題未列鐵氧化態，釋疑解讀為Fe2+→Fe3+。但釋疑把Gallionella ferruginea說成不能固定CO2且必需葡萄糖，與Hallbeck及Pedersen原始研究顯示自營／混營生長不符；保留此錯例，不拿錯例改寫營養定義。",
+    "TCU-114-Q47": "同年釋疑維持A。反應性關節炎常見腸道／泌尿生殖細菌感染誘發，Coxsackie B不是題述經典配對。GAS與風濕熱免疫反應相符；先天性rubella與糖尿病有關聯，但不能據相關性宣稱所有第一型糖尿病都由該病毒造成。Lyme是Borrelia感染，部分持續關節炎可能由免疫因素驅動，不能把所有Lyme病直接定義為自體免疫病；原釋疑之因果擴張另存。",
+    "TCU-114-Q48": "官方採A，常用分型為O／K／H而非Lipid A。O為LPS的多醣部分，H為鞭毛蛋白；C的「莢膜K蛋白」不精確，一般莢膜K抗原是多醣。歷史K88／K99名稱曾用於菌毛蛋白，是命名例外，不足以把一般莢膜說成蛋白。保留C化學成分錯置與A官方答案，不能偷偷把題文改成K多醣。",
+    "TCU-114-Q49": "官方採D。霍亂毒素、百日咳毒素及炭疽PA配EF／LF是典型A作用／B結合或輸送系統；GAS典型外毒素可為超抗原或溶血素等。原題未指明每種菌的哪個毒素，不能擴大成GAS絕無酵素毒素輸送：原始研究確有SLO協助NADase進入宿主的CMT機制，須與題目的傳統AB分類分開。",
+    "TCU-114-Q50": "採A。題述冠狀病毒通常指非分節正股RNA的orthocoronaviruses；其可發生重組，不等於分節交換的reassortment。輪狀病毒11段dsRNA、流感A／B型8段負股RNA、California encephalitis所屬orthobunyavirus3段負股RNA。教材410誤寫流感九段，ICTV與此不符，保留教材原文並明列正確範圍；流感C型段數不同，不將8段泛指所有型。"
+  }
+}

@@ -1,0 +1,522 @@
+[
+  {
+    "id": "S01",
+    "title": "MedlinePlus：Amino acids",
+    "urls": [
+      "https://medlineplus.gov/ency/article/002222.htm"
+    ],
+    "finding": "現列9種必需胺基酸含methionine與histidine，記錄與本地12版成人8種的差異。",
+    "read_scope": "實讀Essential與Nonessential amino acids小節；只取分類，不作個人營養建議。",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU110官方採計",
+    "captures": [
+      {
+        "id": "S01",
+        "url": "https://medlineplus.gov/ency/article/002222.htm",
+        "retrieved_at": "2026-09-09T21:11:52.617758+08:00",
+        "read_scope": "See supplemental-sources.json; downloaded bytes do not imply full source read",
+        "final_url": "https://medlineplus.gov/ency/article/002222.htm",
+        "http_status": 200,
+        "content_type": "text/html",
+        "path": "source/supplemental/ISU110/science/S01-1.html",
+        "sha256": "fd456d876a7849541d832490791704b161cc6ded4f51c2f7e3a294cf6b8f036b",
+        "bytes": 25677,
+        "status": "CAPTURED"
+      }
+    ],
+    "hash_scope": "CAPTURED為實際回應檔雜湊；CHALLENGE及失敗不作原文雜湊。另存證據摘要雜湊僅識別本輪作者摘要，非遠端原檔。",
+    "authored_evidence_record_sha256": "28c6f68dc49cd95064e68105b041e820bccf763e48cad97ad3ef70a9087a8319"
+  },
+  {
+    "id": "S02",
+    "title": "GeneReviews：Phenylalanine Hydroxylase Deficiency",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK1504/"
+    ],
+    "finding": "PKU新生兒篩檢使用乾血點Phe與Tyr，Phe異常須確認。",
+    "read_scope": "實讀Diagnosis與Newborn screening相关段落，不宣稱完成整章臨床指引審查。",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU110官方採計",
+    "captures": [
+      {
+        "id": "S02",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1504/",
+        "retrieved_at": "2026-09-09T21:11:52.618758+08:00",
+        "read_scope": "See supplemental-sources.json; downloaded bytes do not imply full source read",
+        "final_url": "https://www.ncbi.nlm.nih.gov/books/NBK1504/",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source/supplemental/ISU110/science/S02-1.html",
+        "sha256": "96d25cc069c2b30d8213c3cb2466fdc31b948bfb6d2826e5b42df303295b9fd8",
+        "bytes": 217098,
+        "status": "CAPTURED"
+      }
+    ],
+    "hash_scope": "CAPTURED為實際回應檔雜湊；CHALLENGE及失敗不作原文雜湊。另存證據摘要雜湊僅識別本輪作者摘要，非遠端原檔。",
+    "authored_evidence_record_sha256": "d210eef310daa905f028d84adf0aaf83f0cdb7dd1ec0f7bcd66b0609e8610268"
+  },
+  {
+    "id": "S03",
+    "title": "FDA：Prozac label，2011",
+    "urls": [
+      "https://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021235s017lbl.pdf"
+    ],
+    "finding": "FDA標示fluoxetine為選擇性血清素再吸收抑制劑，與Q11機制一致。",
+    "read_scope": "實讀標示首張摘要的SSRI分類；檔為2011歷史標示，不作現行劑量或安全性建議。",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU110官方採計",
+    "captures": [
+      {
+        "id": "S03",
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021235s017lbl.pdf",
+        "retrieved_at": "2026-09-09T21:11:52.618758+08:00",
+        "read_scope": "See supplemental-sources.json; downloaded bytes do not imply full source read",
+        "final_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021235s017lbl.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "path": "source/supplemental/ISU110/science/S03-1.pdf",
+        "sha256": "981d2b588748920f84bff5848bd3a4079994b963c4f7d0a7ce3c6e178073273f",
+        "bytes": 1091281,
+        "status": "CAPTURED"
+      }
+    ],
+    "hash_scope": "CAPTURED為實際回應檔雜湊；CHALLENGE及失敗不作原文雜湊。另存證據摘要雜湊僅識別本輪作者摘要，非遠端原檔。",
+    "authored_evidence_record_sha256": "f92375b65c8941395412ea10e6127612da59bb2ed656fcc9bc2aab80d1147041"
+  },
+  {
+    "id": "S04",
+    "title": "Alberts血球形成章；Hashimoto等，Immunity2013",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK26919/",
+      "https://pubmed.ncbi.nlm.nih.gov/23601688/"
+    ],
+    "finding": "單核球可成熟為巨噬細胞；組織常駐巨噬細胞來源與維持不應一律歸成人單核球。",
+    "read_scope": "實讀Alberts Three Main Categories of White Blood Cells段；Hashimoto原研究PubMed可取得摘要/標題，限制為小鼠追蹤證據，未宣稱閱讀出版商全文。",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU110官方採計",
+    "captures": [
+      {
+        "id": "S04",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK26919/",
+        "retrieved_at": "2026-09-09T21:11:52.618758+08:00",
+        "read_scope": "See supplemental-sources.json; downloaded bytes do not imply full source read",
+        "final_url": "https://www.ncbi.nlm.nih.gov/books/NBK26919/",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source/supplemental/ISU110/science/S04-1.html",
+        "sha256": "278c1b9e6e2c4f1b38c3b0998396ed772de29f6662430233c19f69e451435aad",
+        "bytes": 99377,
+        "status": "CAPTURED"
+      },
+      {
+        "id": "S04",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23601688/",
+        "retrieved_at": "2026-09-09T21:11:53.081737+08:00",
+        "read_scope": "See supplemental-sources.json; downloaded bytes do not imply full source read",
+        "final_url": "https://pubmed.ncbi.nlm.nih.gov/23601688/",
+        "http_status": 203,
+        "content_type": "text/html; charset=utf-8",
+        "path": "source/supplemental/ISU110/science/S04-2.html",
+        "sha256": "48683fa936d3c7a8b3f07aef0e0a31e3f4e436b3c88b18bebff3dbf2022bf698",
+        "bytes": 5565,
+        "status": "CHALLENGE_CAPTURE_NOT_SOURCE",
+        "scope_note": "僅驗證頁；不當作文章檔案雜湊。文章實讀由web工具返回摘要。"
+      }
+    ],
+    "hash_scope": "CAPTURED為實際回應檔雜湊；CHALLENGE及失敗不作原文雜湊。另存證據摘要雜湊僅識別本輪作者摘要，非遠端原檔。",
+    "authored_evidence_record_sha256": "e565c053b6f52b4bcd6b66554d94ec1f4d7362d9121885df98e77010c9299df2"
+  },
+  {
+    "id": "S05",
+    "title": "Bevan1984：Binary Agrobacterium vectors for plant transformation",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/6095209/"
+    ],
+    "finding": "Ti vir基因可促進T-DNA邊界內序列轉入植物核基因組，支持載體機制。",
+    "read_scope": "PubMed原研究摘要及書目；Nucleic Acids Research12:8711–8721，doi10.1093/nar/12.22.8711；未把摘要當成全文。",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU110官方採計",
+    "captures": [
+      {
+        "id": "S05",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6095209/",
+        "retrieved_at": "2026-09-09T21:11:53.479046+08:00",
+        "read_scope": "See supplemental-sources.json; downloaded bytes do not imply full source read",
+        "final_url": "https://pubmed.ncbi.nlm.nih.gov/6095209/",
+        "http_status": 203,
+        "content_type": "text/html; charset=utf-8",
+        "path": "source/supplemental/ISU110/science/S05-1.html",
+        "sha256": "c87aa477381d69dc302070211e4a8148ae83e8fafd15a307c25b838fbeb11973",
+        "bytes": 5565,
+        "status": "CHALLENGE_CAPTURE_NOT_SOURCE",
+        "scope_note": "僅驗證頁；不當作文章檔案雜湊。文章實讀由web工具返回摘要。"
+      }
+    ],
+    "hash_scope": "CAPTURED為實際回應檔雜湊；CHALLENGE及失敗不作原文雜湊。另存證據摘要雜湊僅識別本輪作者摘要，非遠端原檔。",
+    "authored_evidence_record_sha256": "0b8e512d868860fa19591c596c0dc5da87327cc0cddae2d2794f85eb480f175b"
+  },
+  {
+    "id": "S06",
+    "title": "Richard Klabunde：Cardiac action potentials",
+    "urls": [
+      "https://cvphysiology.com/arrhythmias/a010",
+      "https://cvphysiology.com/arrhythmias/a006"
+    ],
+    "finding": "心肌動作電位約200–400ms量級及平台期，補足Campbell定性敘述。",
+    "read_scope": "實讀動作電位時長比較段及non-pacemaker action potentials平台期段；数值非固定個體常數。",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU110官方採計",
+    "captures": [
+      {
+        "id": "S06",
+        "url": "https://cvphysiology.com/arrhythmias/a010",
+        "retrieved_at": "2026-09-09T21:11:53.545880+08:00",
+        "read_scope": "See supplemental-sources.json; downloaded bytes do not imply full source read",
+        "status": "DOWNLOAD_FAILED",
+        "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+      },
+      {
+        "id": "S06",
+        "url": "https://cvphysiology.com/arrhythmias/a006",
+        "retrieved_at": "2026-09-09T21:11:54.108440+08:00",
+        "read_scope": "See supplemental-sources.json; downloaded bytes do not imply full source read",
+        "status": "DOWNLOAD_FAILED",
+        "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+      }
+    ],
+    "hash_scope": "CAPTURED為實際回應檔雜湊；CHALLENGE及失敗不作原文雜湊。另存證據摘要雜湊僅識別本輪作者摘要，非遠端原檔。",
+    "authored_evidence_record_sha256": "a7745ac356869bde720ac93091e3cd82d30f1bc9fe58b2445059d28218ba8ad8"
+  },
+  {
+    "id": "S07",
+    "title": "Richard Klabunde：Ejection Fraction",
+    "urls": [
+      "https://cvphysiology.com/cardiac-function/cf012"
+    ],
+    "finding": "EF等於SV/EDV，SV等於EDV減ESV。",
+    "read_scope": "實讀定義與公式段；只取公式與單位，不延伸疾病診斷。",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU110官方採計",
+    "captures": [
+      {
+        "id": "S07",
+        "url": "https://cvphysiology.com/cardiac-function/cf012",
+        "retrieved_at": "2026-09-09T21:11:54.198371+08:00",
+        "read_scope": "See supplemental-sources.json; downloaded bytes do not imply full source read",
+        "status": "DOWNLOAD_FAILED",
+        "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+      }
+    ],
+    "hash_scope": "CAPTURED為實際回應檔雜湊；CHALLENGE及失敗不作原文雜湊。另存證據摘要雜湊僅識別本輪作者摘要，非遠端原檔。",
+    "authored_evidence_record_sha256": "a58f4718f2dc5ffaa68faa11804cfc63a00cb03d90f3194277e97df959020481"
+  },
+  {
+    "id": "S08",
+    "title": "Richard Klabunde：Cardiac excitation-contraction coupling",
+    "urls": [
+      "https://cvphysiology.com/cardiac-function/cf022"
+    ],
+    "finding": "β腎上腺素刺激可增cAMP及PKA訊號，支持Q33A。",
+    "read_scope": "實讀β受體、cAMP與PKA段；不宣稱Campbell直接寫出題文特殊受體拼法。",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU110官方採計",
+    "captures": [
+      {
+        "id": "S08",
+        "url": "https://cvphysiology.com/cardiac-function/cf022",
+        "retrieved_at": "2026-09-09T21:11:54.478148+08:00",
+        "read_scope": "See supplemental-sources.json; downloaded bytes do not imply full source read",
+        "status": "DOWNLOAD_FAILED",
+        "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+      }
+    ],
+    "hash_scope": "CAPTURED為實際回應檔雜湊；CHALLENGE及失敗不作原文雜湊。另存證據摘要雜湊僅識別本輪作者摘要，非遠端原檔。",
+    "authored_evidence_record_sha256": "942b00be782ae227b0880988122505644b81463bdf89cce9f1550b3ad64b90a2"
+  },
+  {
+    "id": "S09",
+    "title": "Janeway Immunobiology5e：The mucosal immune system",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK27169/"
+    ],
+    "finding": "派爾斑、M細胞轉運與黏膜適應免疫有關，非蛋白消化器官。",
+    "read_scope": "實讀10-13相關文字與圖說；M細胞轉運和下方APCs角色分開。",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU110官方採計",
+    "captures": [
+      {
+        "id": "S09",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK27169/",
+        "retrieved_at": "2026-09-09T21:11:54.551933+08:00",
+        "read_scope": "See supplemental-sources.json; downloaded bytes do not imply full source read",
+        "final_url": "https://www.ncbi.nlm.nih.gov/books/NBK27169/",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source/supplemental/ISU110/science/S09-1.html",
+        "sha256": "495bb97369228fe441840348beda2583c7bda0dd1b84721a921d609c7e75f0fc",
+        "bytes": 89407,
+        "status": "CAPTURED"
+      }
+    ],
+    "hash_scope": "CAPTURED為實際回應檔雜湊；CHALLENGE及失敗不作原文雜湊。另存證據摘要雜湊僅識別本輪作者摘要，非遠端原檔。",
+    "authored_evidence_record_sha256": "7e75725d80be0239fdb88422988a2ffd7c3c046522788aab98ebdc1d5f2f4dcd"
+  },
+  {
+    "id": "S10",
+    "title": "Ganong Medical Physiology Examination & Board Review2e：Hypothalamic Regulation of Hormonal Functions，Chapter17",
+    "urls": [
+      "https://accessmedicine.mhmedical.com/content.aspx?bookid=3413&sectionid=286078364"
+    ],
+    "finding": "下視丘與邊緣系統作為功能單位調節情緒及本能性行為。",
+    "read_scope": "實讀出版社可公開Introduction段；此為Examination & Board Review2e，非官方釋疑引的Review of Medical Physiology26e，未取得後者全文。",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU110官方採計",
+    "captures": [
+      {
+        "id": "S10",
+        "url": "https://accessmedicine.mhmedical.com/content.aspx?bookid=3413&sectionid=286078364",
+        "retrieved_at": "2026-09-09T21:11:54.561851+08:00",
+        "read_scope": "See supplemental-sources.json; downloaded bytes do not imply full source read",
+        "status": "DOWNLOAD_FAILED",
+        "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+      }
+    ],
+    "hash_scope": "CAPTURED為實際回應檔雜湊；CHALLENGE及失敗不作原文雜湊。另存證據摘要雜湊僅識別本輪作者摘要，非遠端原檔。",
+    "authored_evidence_record_sha256": "ec4537220c1f7831a52feb2a8b4156f83e03ae5ce266c28cec0e919ae205cd94"
+  },
+  {
+    "id": "S11",
+    "title": "Sela等2009：Spared and impaired olfactory abilities after thalamic lesions",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/19793964/"
+    ],
+    "finding": "初級嗅皮質前不需丘腦中繼，但丘腦病灶可影響嗅覺辨識及愉悅度。",
+    "read_scope": "實讀PubMed原研究摘要，17位單側丘腦病灶患者與對照；不宣稱整篇全文。",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU110官方採計",
+    "captures": [
+      {
+        "id": "S11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19793964/",
+        "retrieved_at": "2026-09-09T21:11:54.608867+08:00",
+        "read_scope": "See supplemental-sources.json; downloaded bytes do not imply full source read",
+        "final_url": "https://pubmed.ncbi.nlm.nih.gov/19793964/",
+        "http_status": 203,
+        "content_type": "text/html; charset=utf-8",
+        "path": "source/supplemental/ISU110/science/S11-1.html",
+        "sha256": "276ba44fe6f3490a84abedb323dcdafc942036ec300c6ec1637a549ea1af529c",
+        "bytes": 5565,
+        "status": "CHALLENGE_CAPTURE_NOT_SOURCE",
+        "scope_note": "僅驗證頁；不當作文章檔案雜湊。文章實讀由web工具返回摘要。"
+      }
+    ],
+    "hash_scope": "CAPTURED為實際回應檔雜湊；CHALLENGE及失敗不作原文雜湊。另存證據摘要雜湊僅識別本輪作者摘要，非遠端原檔。",
+    "authored_evidence_record_sha256": "66ba23eaf1d10e64a0f26d8c669318633ee959a7c6269c5505f8d4adff3282c7"
+  },
+  {
+    "id": "S12",
+    "title": "NIDDK：CKD礦物骨病、貧血及併發症",
+    "urls": [
+      "https://www.niddk.nih.gov/health-information/kidney-disease/mineral-bone-disorder",
+      "https://www.niddk.nih.gov/health-information/kidney-disease/anemia",
+      "https://www.niddk.nih.gov/health-information/professionals/clinical-tools-patient-management/kidney-disease/identify-manage-patients/manage-ckd/treat-complications-comorbidities"
+    ],
+    "finding": "CKD影響EPO與維生素D、鈣磷及PTH；血鈣可低正常或高，題中必然大增不成立。",
+    "read_scope": "實讀各頁病因與礦物骨病/貧血機制段；不將疾病一般知識當個人醫療建議。",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU110官方採計",
+    "captures": [
+      {
+        "id": "S12",
+        "url": "https://www.niddk.nih.gov/health-information/kidney-disease/mineral-bone-disorder",
+        "retrieved_at": "2026-09-09T21:11:54.840093+08:00",
+        "read_scope": "See supplemental-sources.json; downloaded bytes do not imply full source read",
+        "final_url": "https://www.niddk.nih.gov/health-information/kidney-disease/mineral-bone-disorder",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "path": "source/supplemental/ISU110/science/S12-1.html",
+        "sha256": "d9166183ac1ecf42bf12a8af472e4a27cbc5126ed7096eb5c72bfdff52b9f63e",
+        "bytes": 64467,
+        "status": "CAPTURED"
+      },
+      {
+        "id": "S12",
+        "url": "https://www.niddk.nih.gov/health-information/kidney-disease/anemia",
+        "retrieved_at": "2026-09-09T21:11:54.909122+08:00",
+        "read_scope": "See supplemental-sources.json; downloaded bytes do not imply full source read",
+        "final_url": "https://www.niddk.nih.gov/health-information/kidney-disease/anemia",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "path": "source/supplemental/ISU110/science/S12-2.html",
+        "sha256": "2c11fa9e17f5fefc597443b44024d9ad110cebd283c149b06477be06f8094dc5",
+        "bytes": 63098,
+        "status": "CAPTURED"
+      },
+      {
+        "id": "S12",
+        "url": "https://www.niddk.nih.gov/health-information/professionals/clinical-tools-patient-management/kidney-disease/identify-manage-patients/manage-ckd/treat-complications-comorbidities",
+        "retrieved_at": "2026-09-09T21:11:55.690574+08:00",
+        "read_scope": "See supplemental-sources.json; downloaded bytes do not imply full source read",
+        "final_url": "https://www.niddk.nih.gov/health-information/professionals/clinical-tools-patient-management/kidney-disease/identify-manage-patients/manage-ckd/treat-complications-comorbidities",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "path": "source/supplemental/ISU110/science/S12-3.html",
+        "sha256": "80fd2ea429d616a6b868bf048569ff490455279ccbeb7f8f67a66f112ca6b097",
+        "bytes": 50186,
+        "status": "CAPTURED"
+      }
+    ],
+    "hash_scope": "CAPTURED為實際回應檔雜湊；CHALLENGE及失敗不作原文雜湊。另存證據摘要雜湊僅識別本輪作者摘要，非遠端原檔。",
+    "authored_evidence_record_sha256": "21f021dd52463ea9cd6e86ea33fce647ed6d3b86a0385eb5282e1064ff7fd584"
+  },
+  {
+    "id": "S13",
+    "title": "Richard Klabunde：Pulmonary Capillary Wedge Pressure",
+    "urls": [
+      "https://cvphysiology.com/heart-failure/hf008"
+    ],
+    "finding": "肺動脈壓在導管量測路徑示意約25/10mmHg；不是一般肱動脈壓脈帶直接讀值。",
+    "read_scope": "實讀導管路徑與右心室/肺動脈壓段及圖說；不把肺動脈壓與楔壓混為一值。",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU110官方採計",
+    "captures": [
+      {
+        "id": "S13",
+        "url": "https://cvphysiology.com/heart-failure/hf008",
+        "retrieved_at": "2026-09-09T21:11:56.327254+08:00",
+        "read_scope": "See supplemental-sources.json; downloaded bytes do not imply full source read",
+        "status": "DOWNLOAD_FAILED",
+        "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+      }
+    ],
+    "hash_scope": "CAPTURED為實際回應檔雜湊；CHALLENGE及失敗不作原文雜湊。另存證據摘要雜湊僅識別本輪作者摘要，非遠端原檔。",
+    "authored_evidence_record_sha256": "4996a3636c121643f93c82d240a550ff76ef2bccafe05ffc08f94a1fbb2e452a"
+  },
+  {
+    "id": "S14",
+    "title": "Alberts Molecular Biology of the Cell4e：Endocytosis",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK26870/"
+    ],
+    "finding": "胞膜小窩屬富膽固醇區域形成的膜內陷，與clathrin包被小窩區別。",
+    "read_scope": "實讀Not All Pinocytic Vesicles Are Clathrin-coated段與相鄰圖說；不將舊版所有脂筏推測當成現行完整模型。",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU110官方採計",
+    "captures": [
+      {
+        "id": "S14",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK26870/",
+        "retrieved_at": "2026-09-09T21:11:56.511023+08:00",
+        "read_scope": "See supplemental-sources.json; downloaded bytes do not imply full source read",
+        "final_url": "https://www.ncbi.nlm.nih.gov/books/NBK26870/",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source/supplemental/ISU110/science/S14-1.html",
+        "sha256": "6798ed7dde99cde5db539b1dd8b225320278521999b41587837b4bee0f7023a1",
+        "bytes": 102576,
+        "status": "CAPTURED"
+      }
+    ],
+    "hash_scope": "CAPTURED為實際回應檔雜湊；CHALLENGE及失敗不作原文雜湊。另存證據摘要雜湊僅識別本輪作者摘要，非遠端原檔。",
+    "authored_evidence_record_sha256": "722baa0b44af22a9790d87e4c9832f46d02c491aa625f49dd293286bc7185bb7"
+  },
+  {
+    "id": "S15",
+    "title": "UniProtKB reviewed P68871：Hemoglobin subunit beta",
+    "urls": [
+      "https://rest.uniprot.org/uniprotkb/P68871.txt"
+    ],
+    "finding": "序列147AA，成熟CHAIN2..147為146AA；原题141與此不符。",
+    "read_scope": "實讀ID行、INIT_MET移除註記與CHAIN2..147；未由此宣稱查得原題172長度特定變異。",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU110官方採計",
+    "captures": [
+      {
+        "id": "S15",
+        "url": "https://rest.uniprot.org/uniprotkb/P68871.txt",
+        "retrieved_at": "2026-09-09T21:11:56.534082+08:00",
+        "read_scope": "See supplemental-sources.json; downloaded bytes do not imply full source read",
+        "final_url": "https://rest.uniprot.org/uniprotkb/P68871.txt",
+        "http_status": 200,
+        "content_type": "text/plain;format=flatfile",
+        "path": "source/supplemental/ISU110/science/S15-1.txt",
+        "sha256": "a06987aa26e01250a5f191b9b4010e1b48b422042e61ac809c5f2c6cfdce4b10",
+        "bytes": 157249,
+        "status": "CAPTURED"
+      }
+    ],
+    "hash_scope": "CAPTURED為實際回應檔雜湊；CHALLENGE及失敗不作原文雜湊。另存證據摘要雜湊僅識別本輪作者摘要，非遠端原檔。",
+    "authored_evidence_record_sha256": "6290e52cbf38b354936d51f80dfd450a475ab993df7ce6daadb1fa842986a0bc"
+  },
+  {
+    "id": "S16",
+    "title": "González-Gualda等：A guide to assessing cellular senescence in vitro and in vivo，2021（2020線上）",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/32961620/"
+    ],
+    "finding": "senescence為受損或壓力後穩定細胞週期停滯，伴相關分泌表型；非細胞死亡同義詞。",
+    "read_scope": "PubMed原作者指南摘要定義段，未宣稱全文實讀或所有細胞老化的單一診斷標記。",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU110官方採計",
+    "captures": [
+      {
+        "id": "S16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32961620/",
+        "retrieved_at": "2026-09-09T21:11:56.711924+08:00",
+        "read_scope": "See supplemental-sources.json; downloaded bytes do not imply full source read",
+        "final_url": "https://pubmed.ncbi.nlm.nih.gov/32961620/",
+        "http_status": 203,
+        "content_type": "text/html; charset=utf-8",
+        "path": "source/supplemental/ISU110/science/S16-1.html",
+        "sha256": "90b0ae7d58326707e6f9038ea8e759f94c0f82b311f7d78f9a9de3f3ef3713b2",
+        "bytes": 5565,
+        "status": "CHALLENGE_CAPTURE_NOT_SOURCE",
+        "scope_note": "僅驗證頁；不當作文章檔案雜湊。文章實讀由web工具返回摘要。"
+      }
+    ],
+    "hash_scope": "CAPTURED為實際回應檔雜湊；CHALLENGE及失敗不作原文雜湊。另存證據摘要雜湊僅識別本輪作者摘要，非遠端原檔。",
+    "authored_evidence_record_sha256": "ec2d207737ad71a9db4035e00c65ce569ab32bffef33011b3010e804c75b928c"
+  },
+  {
+    "id": "S17",
+    "title": "Janeway Immunobiology機制分類；Dean Blood Groups and Red Cell Antigens，Blood transfusions",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK10759/",
+      "https://www.ncbi.nlm.nih.gov/sites/books/NBK2265/"
+    ],
+    "finding": "依細胞表面抗原與抗體破壞機制判為第二型，區別IgE及可溶性免疫複合物。",
+    "read_scope": "實讀Glossary hypersensitivity條目與Dean2005輸血章免疫反應段；ABO抗體可含IgM，不能把Glossary的IgG簡述當排除IgM。",
+    "access_date": "2026-09-09",
+    "role": "科學補充；不取代ISU110官方採計",
+    "captures": [
+      {
+        "id": "S17",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK10759/",
+        "retrieved_at": "2026-09-09T21:11:57.008018+08:00",
+        "read_scope": "See supplemental-sources.json; downloaded bytes do not imply full source read",
+        "final_url": "https://www.ncbi.nlm.nih.gov/books/NBK10759/",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source/supplemental/ISU110/science/S17-1.html",
+        "sha256": "496a53c5172c82f4aba834517a44fd5bcd89021b5261d76135585f3ef3da80a8",
+        "bytes": 340953,
+        "status": "CAPTURED"
+      },
+      {
+        "id": "S17",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK2265/",
+        "retrieved_at": "2026-09-09T21:11:57.156169+08:00",
+        "read_scope": "See supplemental-sources.json; downloaded bytes do not imply full source read",
+        "final_url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK2265/",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source/supplemental/ISU110/science/S17-2.html",
+        "sha256": "6d3e67ae99fa7a6017964a7aaf58e0fe9698ffb64e4fa97b15a99d9e0c3b92ad",
+        "bytes": 61389,
+        "status": "CAPTURED"
+      }
+    ],
+    "hash_scope": "CAPTURED為實際回應檔雜湊；CHALLENGE及失敗不作原文雜湊。另存證據摘要雜湊僅識別本輪作者摘要，非遠端原檔。",
+    "authored_evidence_record_sha256": "ca15eff0952044261728902bf05f4316b0ef88a19d92510a750ca0f86352414b"
+  }
+]

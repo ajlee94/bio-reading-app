@@ -1,0 +1,83 @@
+﻿mode,chapter_number,chapter,count
+primary,31,Ch31 Fungi,3
+primary,7,Ch07 Membrane Structure and Function,2
+primary,8,Ch08 An Introduction to Metabolism,2
+primary,10,Ch10 Photosynthesis,2
+primary,11,Ch11 Cell Communication,2
+primary,14,Ch14 Mendel and the Gene Idea,2
+primary,16,Ch16 The Molecular Basis of Inheritance,2
+primary,17,Ch17 Gene Expression: From Gene to Protein,2
+primary,18,Ch18 Regulation of Gene Expression,2
+primary,29,Ch29 Plant Diversity I: How Plants Colonized Land,2
+primary,41,Ch41 Animal Nutrition,2
+primary,43,Ch43 The Immune System,2
+primary,45,Ch45 Hormones and the Endocrine System,2
+primary,47,Ch47 Animal Development,2
+primary,3,Ch03 Water and Life,1
+primary,4,Ch04 Carbon and the Molecular Diversity of Life,1
+primary,6,Ch06 A Tour of the Cell,1
+primary,9,Ch09 Cellular Respiration and Fermentation,1
+primary,12,Ch12 The Cell Cycle,1
+primary,19,Ch19 Viruses,1
+primary,21,Ch21 Genomes and Their Evolution,1
+primary,23,Ch23 The Evolution of Populations,1
+primary,26,Ch26 Phylogeny and the Tree of Life,1
+primary,28,Ch28 Protists,1
+primary,30,Ch30 Plant Diversity II: The Evolution of Seed Plants,1
+primary,32,Ch32 An Overview of Animal Diversity,1
+primary,33,Ch33 An Introduction to Invertebrates,1
+primary,35,"Ch35 Vascular Plant Structure, Growth, and Development",1
+primary,36,Ch36 Resource Acquisition and Transport in Vascular Plants,1
+primary,38,Ch38 Angiosperm Reproduction and Biotechnology,1
+primary,40,Ch40 Basic Principles of Animal Form and Function,1
+primary,42,Ch42 Circulation and Gas Exchange,1
+primary,53,Ch53 Population Ecology,1
+primary,54,Ch54 Community Ecology,1
+primary,55,Ch55 Ecosystems and Restoration Ecology,1
+secondary,9,Ch09 Cellular Respiration and Fermentation,1
+secondary,14,Ch14 Mendel and the Gene Idea,1
+secondary,17,Ch17 Gene Expression: From Gene to Protein,1
+secondary,24,Ch24 The Origin of Species,1
+secondary,30,Ch30 Plant Diversity II: The Evolution of Seed Plants,1
+secondary,34,Ch34 The Origin and Evolution of Vertebrates,1
+secondary,39,Ch39 Plant Responses to Internal and External Signals,1
+secondary,50,Ch50 Sensory and Motor Mechanisms,1
+both,14,Ch14 Mendel and the Gene Idea,3
+both,17,Ch17 Gene Expression: From Gene to Protein,3
+both,31,Ch31 Fungi,3
+both,7,Ch07 Membrane Structure and Function,2
+both,8,Ch08 An Introduction to Metabolism,2
+both,9,Ch09 Cellular Respiration and Fermentation,2
+both,10,Ch10 Photosynthesis,2
+both,11,Ch11 Cell Communication,2
+both,16,Ch16 The Molecular Basis of Inheritance,2
+both,18,Ch18 Regulation of Gene Expression,2
+both,29,Ch29 Plant Diversity I: How Plants Colonized Land,2
+both,30,Ch30 Plant Diversity II: The Evolution of Seed Plants,2
+both,41,Ch41 Animal Nutrition,2
+both,43,Ch43 The Immune System,2
+both,45,Ch45 Hormones and the Endocrine System,2
+both,47,Ch47 Animal Development,2
+both,3,Ch03 Water and Life,1
+both,4,Ch04 Carbon and the Molecular Diversity of Life,1
+both,6,Ch06 A Tour of the Cell,1
+both,12,Ch12 The Cell Cycle,1
+both,19,Ch19 Viruses,1
+both,21,Ch21 Genomes and Their Evolution,1
+both,23,Ch23 The Evolution of Populations,1
+both,24,Ch24 The Origin of Species,1
+both,26,Ch26 Phylogeny and the Tree of Life,1
+both,28,Ch28 Protists,1
+both,32,Ch32 An Overview of Animal Diversity,1
+both,33,Ch33 An Introduction to Invertebrates,1
+both,34,Ch34 The Origin and Evolution of Vertebrates,1
+both,35,"Ch35 Vascular Plant Structure, Growth, and Development",1
+both,36,Ch36 Resource Acquisition and Transport in Vascular Plants,1
+both,38,Ch38 Angiosperm Reproduction and Biotechnology,1
+both,39,Ch39 Plant Responses to Internal and External Signals,1
+both,40,Ch40 Basic Principles of Animal Form and Function,1
+both,42,Ch42 Circulation and Gas Exchange,1
+both,50,Ch50 Sensory and Motor Mechanisms,1
+both,53,Ch53 Population Ecology,1
+both,54,Ch54 Community Ecology,1
+both,55,Ch55 Ecosystems and Restoration Ecology,1

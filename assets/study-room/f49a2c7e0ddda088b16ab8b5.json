@@ -1,0 +1,386 @@
+[
+  {
+    "id": "S06",
+    "title": "Vane與Botting：Aspirin作用機制",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/9561441/",
+      "https://pubmed.ncbi.nlm.nih.gov/5284360/"
+    ],
+    "finding": "Aspirin抑制cyclooxygenase及前列腺素生成，支援酵素抑制劑分類。",
+    "read_scope": "web讀取1998作者文獻摘要及1971原研究書目；未讀1971全文。下載回應與閱讀範圍分開記錄。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU109官方採計",
+    "captures": [
+      {
+        "id": "S06",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9561441/",
+        "checked_at": "2026-09-10T16:18:07.643599+08:00",
+        "final_url": "https://pubmed.ncbi.nlm.nih.gov/9561441/",
+        "http_status": 203,
+        "content_type": "text/html; charset=utf-8",
+        "status": "FETCHED_HTML",
+        "path": "審查紀錄/annual_review/TCU-109/downloads/S06-dde26ee9117d.html",
+        "sha256": "dde26ee9117d5203fe367d85f610c4f0363048d16138116c7c52b22862564e99",
+        "bytes": 5565
+      }
+    ],
+    "authored_evidence_record_sha256": "1ff752121c9ea42cd4f2e7d7a4242e244707d7835e35238ae3bc54ab605a9b86"
+  },
+  {
+    "id": "S14",
+    "title": "FDA BAM Media M70實驗配方",
+    "urls": [
+      "https://www.fda.gov/food/laboratory-methods-food/bam-media-m70-kings-basal-medium"
+    ],
+    "finding": "FDA此培養基方法使用0.22µm膜過濾，支援題目一般去菌孔徑，不推論可移除所有病毒或毒素。",
+    "read_scope": "web實讀配方過濾步驟，另保存成功取得的HTML及雜湊。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU109官方採計",
+    "captures": [
+      {
+        "id": "S14",
+        "url": "https://www.fda.gov/food/laboratory-methods-food/bam-media-m70-kings-basal-medium",
+        "checked_at": "2026-09-10T16:18:07.642598+08:00",
+        "final_url": "https://www.fda.gov/food/laboratory-methods-food/bam-media-m70-kings-basal-medium",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "status": "FETCHED_HTML",
+        "path": "審查紀錄/annual_review/TCU-109/downloads/S14-193a2c8bc622.html",
+        "sha256": "193a2c8bc622e4905b95681c4629d0ca5061ede8c4b8d9b21ab6702db9ba10a4",
+        "bytes": 32444
+      }
+    ],
+    "authored_evidence_record_sha256": "a81d1b12668b49e2ae8cd7fa07074bc5c342f67101e8abed51a9b57331c5673f"
+  },
+  {
+    "id": "S15",
+    "title": "Ornish等2008生活方式與端粒酶試驗",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/18799354/"
+    ],
+    "finding": "30位低風險前列腺癌男性參與，24位有配對資料；三個月生活方式介入與端粒酶活性增加相關，非已證明普遍延緩老化。",
+    "read_scope": "web實讀作者摘要的Methods、Findings、Interpretation；本地203回應為檢查頁，不宣稱下載研究全文。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU109官方採計",
+    "captures": [
+      {
+        "id": "S15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18799354/",
+        "checked_at": "2026-09-10T16:16:02.092223+08:00",
+        "status": "FETCH_FAILED",
+        "error": "<urlopen error [WinError 10013] 嘗試存取通訊端被拒絕，因為存取權限不足。>"
+      },
+      {
+        "id": "S15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18799354/",
+        "checked_at": "2026-09-10T16:16:26.751184+08:00",
+        "final_url": "https://pubmed.ncbi.nlm.nih.gov/18799354/",
+        "http_status": 203,
+        "content_type": "text/html; charset=utf-8",
+        "status": "FETCHED_HTML",
+        "path": "審查紀錄/annual_review/TCU-109/downloads/S15-708fa29539bb.html",
+        "sha256": "708fa29539bb14d788849e8afcb4f4208ab715e8382632c71ef16dc006bb6374",
+        "bytes": 5565
+      }
+    ],
+    "authored_evidence_record_sha256": "d6b48d0fb227144fc5c26d8147ad519bfd9ef4aba8bb22f099255fbf831c856b"
+  },
+  {
+    "id": "S25",
+    "title": "Wu等2022 Ophiocordyceps入侵Thitarodes研究",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/36118238/"
+    ],
+    "finding": "標記菌株觀察支持O. sinensis寄生蛾幼蟲的关系，補足Campbell未列的冬蟲夏草專名。",
+    "read_scope": "web實讀作者完整摘要；僅取宿主與寄生關係，不評估藥效。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU109官方採計",
+    "captures": [
+      {
+        "id": "S25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36118238/",
+        "checked_at": "2026-09-10T16:39:26.635689+08:00",
+        "final_url": "https://pubmed.ncbi.nlm.nih.gov/36118238/",
+        "http_status": 203,
+        "content_type": "text/html; charset=utf-8",
+        "status": "FETCHED_HTML",
+        "path": "審查紀錄/annual_review/TCU-109/downloads/S25-92cdb9e7a866.html",
+        "sha256": "92cdb9e7a866aecccd82354f7f2bd4549850a5ed47e875ffa8ece7a34079ee83",
+        "bytes": 5565
+      }
+    ],
+    "authored_evidence_record_sha256": "386324cfd55cd412fef4b199e48e7d2438b4fd8e9a115849d9588eb25485ec0f"
+  },
+  {
+    "id": "S28",
+    "title": "Critchfield 1970 Ginkgo葉形研究",
+    "urls": [
+      "https://www.fs.usda.gov/psw/publications/critchfield/psw_1970_critchfield002.pdf"
+    ],
+    "finding": "作者原研究描述Ginkgo的dichotomous venation，指出題幹平行葉脈用語限制。",
+    "read_scope": "web搜尋返回原PDF p159的二歧葉脈段；開啟PDF失敗，未宣稱全文或圖像視讀。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU109官方採計",
+    "captures": [
+      {
+        "id": "S28",
+        "url": "https://www.fs.usda.gov/psw/publications/critchfield/psw_1970_critchfield002.pdf",
+        "checked_at": "2026-09-10T16:39:26.636691+08:00",
+        "status": "FETCH_FAILED",
+        "error": "HTTP Error 403: Forbidden"
+      }
+    ],
+    "authored_evidence_record_sha256": "6ce2ff100e92a0f4532aa262dc0c63905b31c70cf6ce6b111b5e4d4c05d19770"
+  },
+  {
+    "id": "S31",
+    "title": "Besserer等2006 strigolactone研究",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/16787107/"
+    ],
+    "finding": "Strigolactones刺激叢枝菌根真菌的前共生生長與能量代謝；種子萌發的敘述限定某些寄生植物，不能推廣全部種子。",
+    "read_scope": "web實讀作者摘要，未閱讀完整PDF。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU109官方採計",
+    "captures": [
+      {
+        "id": "S31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16787107/",
+        "checked_at": "2026-09-10T16:39:26.637689+08:00",
+        "final_url": "https://pubmed.ncbi.nlm.nih.gov/16787107/",
+        "http_status": 203,
+        "content_type": "text/html; charset=utf-8",
+        "status": "FETCHED_HTML",
+        "path": "審查紀錄/annual_review/TCU-109/downloads/S31-54e20a2c0fd9.html",
+        "sha256": "54e20a2c0fd9626ff8f7db0eea0ef237904ef3f2b303710fefe64a552465e63a",
+        "bytes": 5565
+      }
+    ],
+    "authored_evidence_record_sha256": "98439e19e4a68b579d0b200714fd0179b37f8acd6ef98ac069ed7f4d80ca339b"
+  },
+  {
+    "id": "S32",
+    "title": "Martin與Lester等1999豌豆GA 2-oxidase原研究",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/10557225/",
+      "https://pubmed.ncbi.nlm.nih.gov/10417727/"
+    ],
+    "finding": "SLN與GA失活酵素有關，突變造成slender；酵素對GA20、GA1及不同組織具有差異。題圖用簡化路徑，答案依其模型重算。",
+    "read_scope": "web實讀兩篇作者摘要；本地203檢查頁不算研究全文。NA、LE等題圖特定對應以原題共享圖表為直接證據。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU109官方採計",
+    "captures": [
+      {
+        "id": "S32",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10557225/",
+        "checked_at": "2026-09-10T16:18:07.643599+08:00",
+        "final_url": "https://pubmed.ncbi.nlm.nih.gov/10557225/",
+        "http_status": 203,
+        "content_type": "text/html; charset=utf-8",
+        "status": "FETCHED_HTML",
+        "path": "審查紀錄/annual_review/TCU-109/downloads/S32-f7cee81c9b3c.html",
+        "sha256": "f7cee81c9b3c65c860de060ecdb346906656a4099b55d8d70eaf92ea7cc91ef9",
+        "bytes": 5565
+      },
+      {
+        "id": "S32-Lester",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10417727/",
+        "checked_at": "2026-09-10T16:39:26.638688+08:00",
+        "final_url": "https://pubmed.ncbi.nlm.nih.gov/10417727/",
+        "http_status": 203,
+        "content_type": "text/html; charset=utf-8",
+        "status": "FETCHED_HTML",
+        "path": "審查紀錄/annual_review/TCU-109/downloads/S32-Lester-d14ad62cebe3.html",
+        "sha256": "d14ad62cebe32234b58017804ecf6b3a6debe04e2dc719126105a5d13913c9e1",
+        "bytes": 5565
+      }
+    ],
+    "authored_evidence_record_sha256": "f85dbdf13d3a9722fcbd515a6c9bf733b1b56bf4356eddf295ca093c236c1c15"
+  },
+  {
+    "id": "S35",
+    "title": "Park等2007 MeSA系統抗性研究",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/17916738/"
+    ],
+    "finding": "在煙草嫁接、基因沉默及酵素處理條件下，MeSA與轉回SA的作用支持系統抗性訊號；正名為methyl salicylate。",
+    "read_scope": "web實讀作者摘要；不把煙草結論推為所有植物唯一訊號。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU109官方採計",
+    "captures": [
+      {
+        "id": "S35",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17916738/",
+        "checked_at": "2026-09-10T16:39:26.638688+08:00",
+        "final_url": "https://pubmed.ncbi.nlm.nih.gov/17916738/",
+        "http_status": 203,
+        "content_type": "text/html; charset=utf-8",
+        "status": "FETCHED_HTML",
+        "path": "審查紀錄/annual_review/TCU-109/downloads/S35-6087afb150a1.html",
+        "sha256": "6087afb150a16ee2b845a6124baf61186d922d7443ffd49e6056b1626dd278af",
+        "bytes": 5565
+      }
+    ],
+    "authored_evidence_record_sha256": "eae41780d748c5053cefbfbf59d38619802155a92ea3599104ae898578148854"
+  },
+  {
+    "id": "S37",
+    "title": "Li等1993擬南芥類黃酮突變體UV-B研究",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/12271060/"
+    ],
+    "finding": "低類黃酮突變體更易受UV-B損傷，支持UV保護機制；其他酚類及條件仍有作用，非高山全部花色的直接證明。",
+    "read_scope": "web實讀作者摘要，未宣稱全篇圖表覆核。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU109官方採計",
+    "captures": [
+      {
+        "id": "S37",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12271060/",
+        "checked_at": "2026-09-10T16:39:27.038207+08:00",
+        "final_url": "https://pubmed.ncbi.nlm.nih.gov/12271060/",
+        "http_status": 203,
+        "content_type": "text/html; charset=utf-8",
+        "status": "FETCHED_HTML",
+        "path": "審查紀錄/annual_review/TCU-109/downloads/S37-2f16150b4d66.html",
+        "sha256": "2f16150b4d66d0a55ab549f5b4eb5b5e82fb4501aa33cb2d5a6a9d1b03b83822",
+        "bytes": 5565
+      }
+    ],
+    "authored_evidence_record_sha256": "b81e0c5b2350d37f705a292f918a4208d76e1cca812c8592c75224088ac916ed"
+  },
+  {
+    "id": "S39",
+    "title": "CDC歷史抗體檢測說明",
+    "urls": [
+      "https://archive.cdc.gov/www_cdc_gov/coronavirus/2019-ncov/hcp/testing/antibody-tests-guidelines.html",
+      "https://stacks.cdc.gov/view/cdc/91381/cdc_91381_DS1.pdf"
+    ],
+    "finding": "IgM與IgG可能近同時出現，抗體一般在感染後1–3週可檢出；不能以IgM/IgG單獨判定急性感染或痊癒。",
+    "read_scope": "web實讀封存官方頁抗體時序及檢測限制；頁面標為2022更新的歷史資料。成功保存HTML；2020PDF下載403保留，不宣稱其全文已讀。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU109官方採計",
+    "captures": [
+      {
+        "id": "S39",
+        "url": "https://stacks.cdc.gov/view/cdc/91381/cdc_91381_DS1.pdf",
+        "checked_at": "2026-09-10T16:16:02.093223+08:00",
+        "status": "FETCH_FAILED",
+        "error": "<urlopen error [WinError 10013] 嘗試存取通訊端被拒絕，因為存取權限不足。>"
+      },
+      {
+        "id": "S39",
+        "url": "https://stacks.cdc.gov/view/cdc/91381/cdc_91381_DS1.pdf",
+        "checked_at": "2026-09-10T16:16:26.752186+08:00",
+        "status": "FETCH_FAILED",
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "id": "S39-web",
+        "url": "https://archive.cdc.gov/www_cdc_gov/coronavirus/2019-ncov/hcp/testing/antibody-tests-guidelines.html",
+        "checked_at": "2026-09-10T16:18:07.644601+08:00",
+        "final_url": "https://archive.cdc.gov/www_cdc_gov/coronavirus/2019-ncov/hcp/testing/antibody-tests-guidelines.html",
+        "http_status": 200,
+        "content_type": "text/html",
+        "status": "FETCHED_HTML",
+        "path": "審查紀錄/annual_review/TCU-109/downloads/S39-web-93f42d62b5aa.html",
+        "sha256": "93f42d62b5aaf5c2e76ea259b45c2b39832cf18acd2b31443eb81144dbf8a726",
+        "bytes": 153751
+      }
+    ],
+    "authored_evidence_record_sha256": "239494bdae22a9e40a9f33aac6c32105c0dfd8fac7649ffa046b689f410a80e7"
+  },
+  {
+    "id": "S44",
+    "title": "NIH MedlinePlus ALD與Pompe資料",
+    "urls": [
+      "https://medlineplus.gov/genetics/condition/x-linked-adrenoleukodystrophy/",
+      "https://medlineplus.gov/genetics/condition/pompe-disease/"
+    ],
+    "finding": "ABCD1影響VLCFA進入過氧化體；Pompe涉及GAA與肝醣，主要肌肉及特定型態心臟受影響。",
+    "read_scope": "web實讀ALD Causes與Pompe Description和Causes相關段落；僅供題目科學範圍核查。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU109官方採計",
+    "captures": [
+      {
+        "id": "S44",
+        "url": "https://medlineplus.gov/genetics/condition/x-linked-adrenoleukodystrophy/",
+        "checked_at": "2026-09-10T16:39:27.064410+08:00",
+        "final_url": "https://medlineplus.gov/genetics/condition/x-linked-adrenoleukodystrophy/",
+        "http_status": 200,
+        "content_type": "text/html",
+        "status": "FETCHED_HTML",
+        "path": "審查紀錄/annual_review/TCU-109/downloads/S44-77aff1fe8df8.html",
+        "sha256": "77aff1fe8df86f1889ed39670ae0e96c1e137c3fedd3193b553c2c834b3f043c",
+        "bytes": 40351
+      },
+      {
+        "id": "S44-Pompe",
+        "url": "https://medlineplus.gov/genetics/condition/pompe-disease/",
+        "checked_at": "2026-09-10T16:39:27.076918+08:00",
+        "final_url": "https://medlineplus.gov/genetics/condition/pompe-disease/",
+        "http_status": 200,
+        "content_type": "text/html",
+        "status": "FETCHED_HTML",
+        "path": "審查紀錄/annual_review/TCU-109/downloads/S44-Pompe-d9e6f5ca7fd3.html",
+        "sha256": "d9e6f5ca7fd33c99344bc62746b84be319de651fa1856d4ff07f2333b1d96869",
+        "bytes": 35453
+      }
+    ],
+    "authored_evidence_record_sha256": "6bea7eeffc3f0a54a3dccb68cffd9e171c88c0a4da56d988efe1c030b90bf1d2"
+  },
+  {
+    "id": "S49",
+    "title": "NIH MedlinePlus血磷檢測原理",
+    "urls": [
+      "https://medlineplus.gov/lab-tests/phosphate-in-blood/"
+    ],
+    "finding": "低PTH對應低鈣高磷，支援B方向錯置；不將此單項指標用來臨床診斷。",
+    "read_scope": "web實讀What do the results mean的PTH、calcium、phosphate方向段落。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU109官方採計",
+    "captures": [
+      {
+        "id": "S49",
+        "url": "https://medlineplus.gov/lab-tests/phosphate-in-blood/",
+        "checked_at": "2026-09-10T16:39:27.227252+08:00",
+        "final_url": "https://medlineplus.gov/lab-tests/phosphate-in-blood/",
+        "http_status": 200,
+        "content_type": "text/html",
+        "status": "FETCHED_HTML",
+        "path": "審查紀錄/annual_review/TCU-109/downloads/S49-15a7ada0973d.html",
+        "sha256": "15a7ada0973d5f400346cb34227728b5bdc954b3d3bdfe5433790da98d6d922b",
+        "bytes": 41994
+      }
+    ],
+    "authored_evidence_record_sha256": "0950a4b4d67948aeae93da05627399f314db181e367beac3c646698c1ac5e894"
+  },
+  {
+    "id": "S50",
+    "title": "NIH Stem Cell Basics",
+    "urls": [
+      "https://stemcells.nih.gov/node/16"
+    ],
+    "finding": "內細胞團衍生ESC為pluripotent，與早期全能卵裂球不同，成體幹細胞分化範圍受限。",
+    "read_scope": "web實讀Introduction與potency相關段；本地連線憑證失敗保留；未宣稱NIH全文成功下載。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU109官方採計",
+    "captures": [
+      {
+        "id": "S50",
+        "url": "https://stemcells.nih.gov/node/16",
+        "checked_at": "2026-09-10T16:16:02.093223+08:00",
+        "status": "FETCH_FAILED",
+        "error": "<urlopen error [WinError 10013] 嘗試存取通訊端被拒絕，因為存取權限不足。>"
+      },
+      {
+        "id": "S50",
+        "url": "https://stemcells.nih.gov/node/16",
+        "checked_at": "2026-09-10T16:16:26.752186+08:00",
+        "status": "FETCH_FAILED",
+        "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+      }
+    ],
+    "authored_evidence_record_sha256": "ddcc8414f7e2c95118f6c2f7ebece918057c7b03590b8d4628a49f08d51d2796"
+  }
+]

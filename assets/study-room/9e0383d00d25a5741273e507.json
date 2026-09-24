@@ -1,0 +1,234 @@
+{
+  "question": {
+    "path": "21134a240397b1c0bde2b81a.pdf",
+    "sha256": "e1ddbca3a766aa4504f3c31f01fcf236268597601063e17bdf19867ad0a2370c",
+    "pdf_pages": 9,
+    "inventory_category": "biology_question",
+    "scope_status": "ALL_NINE_FULL_PAGES_VISUALLY_READ",
+    "subject": "生物學",
+    "question_count": 50,
+    "cover_pdf_page": 1,
+    "biology_pdf_pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "printed_pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "text_layer": true,
+    "cross_page_questions": {},
+    "shared_questions": [],
+    "figure_questions": [
+      4,
+      7,
+      48
+    ],
+    "scope_note": "本輪逐頁實看全部9頁；PDF2–9連續Q1–50，皆為生物。圖題Q4 BMI、Q7蜈蚣氣體交換、Q48類囊體膜。沒有跨頁或共享題幹。Q48的1/2及圖中字母以圖像為準。",
+    "local_acquisition": {
+      "source_type": "5138備份入口之同年官方格式PDF封存轉存本，本輪非官網直接下載",
+      "package_path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/schools/TCU/packages/TCU_107_biology_archive.rar",
+      "package_sha256": "af9d7067d9eb66bc4e79a56e4a34423b2cc7234719e418a7db61f567a44a1a83",
+      "package_url": "https://drive.google.com/open?id=1HV9_YjSavRvLsAlPZdA58H-e2AnZwWY6",
+      "inventory_path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/extracted_packages_inventory.csv",
+      "inventory_sha256": "280d2bc8f91ec869bda3500a48c733e0ab0fb17f821cdc03e7b5f29751096347"
+    },
+    "current_official_access": {
+      "status": "CURRENT_OFFICIAL_PDF_NOT_LOCATED_IN_SEARCH",
+      "scope": "本輪搜尋慈濟招生官方107後中題本、答案、釋疑；只定位107招生簡章，未據此假定題本或公告內容。採本地同年封存官方格式PDF；非本輪官網直接下載。"
+    }
+  },
+  "answer": {
+    "path": "4fc6c6622d189afc869615d1.pdf",
+    "sha256": "d56adc89bd91c410e8ef6b29d7459d7fce2d8517fad028dba09826f72f488613",
+    "pdf_pages": 1,
+    "inventory_category": "biology_answer",
+    "scope_status": "ALL_50_ANSWERS_VISUALLY_READ",
+    "biology_pdf_pages": [
+      1
+    ],
+    "local_acquisition": {
+      "source_type": "5138備份入口之同年官方格式PDF封存轉存本，本輪非官網直接下載",
+      "package_path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/schools/TCU/packages/TCU_107_biology_archive.rar",
+      "package_sha256": "af9d7067d9eb66bc4e79a56e4a34423b2cc7234719e418a7db61f567a44a1a83",
+      "package_url": "https://drive.google.com/open?id=1HV9_YjSavRvLsAlPZdA58H-e2AnZwWY6",
+      "inventory_path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/extracted_packages_inventory.csv",
+      "inventory_sha256": "280d2bc8f91ec869bda3500a48c733e0ab0fb17f821cdc03e7b5f29751096347"
+    },
+    "current_official_access": {
+      "status": "CURRENT_OFFICIAL_PDF_NOT_LOCATED_IN_SEARCH",
+      "scope": "本輪搜尋慈濟招生官方107後中題本、答案、釋疑；只定位107招生簡章，未據此假定題本或公告內容。採本地同年封存官方格式PDF；非本輪官網直接下載。"
+    }
+  },
+  "clarification": {
+    "path": "f2c8e9775a04825d2593ab6b.pdf",
+    "sha256": "a88f51acbc455d0789b45634ada217438f236d5c6c2bb20dbbc2640c99f451ac",
+    "pdf_pages": 4,
+    "inventory_category": "clarification",
+    "scope_status": "ALL_FOUR_FULL_PAGES_VISUALLY_READ",
+    "source_type": "ARCHIVED_MIRROR_OF_OFFICIAL_NOTICE",
+    "biology_pdf_pages": [
+      2,
+      3,
+      4
+    ],
+    "biology_questions": {
+      "10": [
+        2
+      ],
+      "18": [
+        3
+      ],
+      "22": [
+        3
+      ],
+      "24": [
+        3
+      ],
+      "36": [
+        3
+      ],
+      "40": [
+        4
+      ],
+      "44": [
+        4
+      ]
+    },
+    "official_corrections": {},
+    "dispositions": {
+      "10": "維持原答案B",
+      "18": "維持原答案D",
+      "22": "維持原答案B",
+      "24": "維持原答案C",
+      "36": "維持原答案C",
+      "40": "維持原答案D",
+      "44": "維持原答案A"
+    },
+    "excluded": "PDF1國文7/26、化學18/28；PDF2英文13/22，均排除。相同題號不跨科套用。",
+    "notice_date": null,
+    "scope_note": "完整4頁為同年混科公告，僅7筆生物釋疑。其餘43題不宣稱沒有其他未取得公告。公告字母與原表一致，科學理由瑕疵另記。",
+    "local_acquisition": {
+      "source_type": "5138備份入口之同年官方格式PDF封存轉存本，本輪非官網直接下載",
+      "package_path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/schools/TCU/packages/TCU_107_biology_archive.rar",
+      "package_sha256": "af9d7067d9eb66bc4e79a56e4a34423b2cc7234719e418a7db61f567a44a1a83",
+      "package_url": "https://drive.google.com/open?id=1HV9_YjSavRvLsAlPZdA58H-e2AnZwWY6",
+      "inventory_path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/extracted_packages_inventory.csv",
+      "inventory_sha256": "280d2bc8f91ec869bda3500a48c733e0ab0fb17f821cdc03e7b5f29751096347"
+    },
+    "current_official_access": {
+      "status": "CURRENT_OFFICIAL_PDF_NOT_LOCATED_IN_SEARCH",
+      "scope": "本輪搜尋慈濟招生官方107後中題本、答案、釋疑；只定位107招生簡章，未據此假定題本或公告內容。採本地同年封存官方格式PDF；非本輪官網直接下載。"
+    }
+  },
+  "textbook": {
+    "path": "Campbell Biology 12e.pdf（教材參考，全文未公開）",
+    "sha256": "de7c28b93a1c853c0c58d53cd658848d08cf033cde7c2071c062bfdd25b5dc73",
+    "edition": "Campbell Biology 12e",
+    "printed_to_pdf_offset": 49
+  },
+  "toc": {
+    "path": "Campbell toc.txt（教材參考，全文未公開）",
+    "sha256": "472c94c03d3e7f107284b4e59ba744b406faee99580f5d940e0c2dab3d0c3dc7"
+  },
+  "official_scoring_conflicts": {},
+  "external_crosscheck": {
+    "answer_mirror": {
+      "id": "mirror-answers",
+      "biology_pdf_page": 3,
+      "excluded_pages": [
+        1,
+        2,
+        4
+      ],
+      "all_50_visually_agree": true,
+      "byte_identical_to_local": false
+    },
+    "rejected_candidate": {
+      "id": "mirror-question-notice",
+      "reason": "實際為化學題本PDF1–10、化學答案11、非生物釋疑12；整份排除，不作TCU107生物佐證",
+      "visually_checked_pages": [
+        1,
+        12
+      ],
+      "text_scope_checked_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    }
+  },
+  "question_scientific_differences": {
+    "TCU-107-Q01": "原表A。海星可將胃伸入微開的貝殼消化軟體；殼完整不能推出未被捕食。題幹限定腹足類為草食者，不把所有腹足類都說成草食。",
+    "TCU-107-Q02": "原表A：成對鰭→上下顎→魚鰾→羊膜卵→四腔心。教材728指出鰾由肺演化而來，不能反推肺由鰾產生；這是題列特徵順序，不是所有現生類群排成直線，四腔心可在不同支系演化。",
+    "TCU-107-Q03": "原表C。教材915先列肝糖原，再動用肌糖原與脂肪；它未把肌糖原與脂肪寫成絕不重疊的兩階段。原題嚴格順序是簡化，肌糖原主要供肌肉自身使用，不等於直接釋出血糖。",
+    "TCU-107-Q04": "原表A。完整圖中美國Pima男女BMI皆較墨西哥兩組高，支持生活環境與肥胖、糖尿病風險的關聯；不是環境唯一因果證明，BMI正常仍可能罹病，橫斷圖不能推出逐年上升。圖的男女圖例及誤差棒均保留。",
+    "TCU-107-Q05": "原表B。共生藻的光合色素是本題預期來源；不能把珊瑚所有顏色都歸於藻而排除宿主色素，也不能由顏色單獨推定共生者種類。",
+    "TCU-107-Q06": "原表D。共生微生物協助分解纖維素；但題幹「動物不能產生纖維素分解酵素」不是通則。1998原始研究已辨白蟻自身RsEG基因；2024研究區分細菌、古菌及部分白蟻的原生生物。不能泛稱全部白蟻只靠原生生物。",
+    "TCU-107-Q07": "原表D。左圖Cormocephalus morsitans為間歇交換，右Scutigerina weberi較連續；左橫軸hours、右minutes，不直接比尖峰高度推總代謝。減少氣門開啟可降低水分流失，較乾棲地是可檢驗假說，單圖不能證實實際棲地或排除其他交換調節因素。",
+    "TCU-107-Q08": "原表B。不同組織的受體、調控蛋白和基因表現背景使甲狀腺激素造成蝌蚪尾退化或四肢生長；不是激素本身每次換成另一種。脂溶性甲狀腺激素可經細胞內受體作用，不能強制解讀為只經膜受體。",
+    "TCU-107-Q09": "原表D，僅III「均導致生殖細胞產生配子」共同。卵生成的不對稱胞質分裂只產一大卵及極體；題幹泛稱脊椎動物，不能把人類胎兒卵母細胞開始減數分裂的時序套用到所有物種。",
+    "TCU-107-Q10": "原表B，已得釋疑亦維持B。教材1062的移植實驗支持誘導體軸及原腸運動，不直接證明任何動物、任何切除範圍都使全部原腸形成停止。goosecoid研究的誘導及擾動結果也具物種、時期及處理範圍，保留原題概括過廣限制。",
+    "TCU-107-Q11": "原表C。LH是選項中最直接促排卵訊號；FSH先促濾泡生長，雌激素正回饋位在上游。題意是生理機制比較，不從題目產生動物用藥劑量。",
+    "TCU-107-Q12": "原表B。抑制骨骼肌乙醯膽鹼受體會降低終板去極化、鈣釋放及收縮，可致麻痺；不是抑制乙醯膽鹼酯酶造成持續刺激，不能推論神經軸突的動作電位本身被直接阻止。",
+    "TCU-107-Q13": "原表B。成對肉質鰭內骨骼、肌肉與四足類肢的同源性支持關係；現生肉鰭魚不是現生四足動物的直接祖先，也不能把肺魚的空氣呼吸概括為所有現生肉鰭類完全相同。",
+    "TCU-107-Q14": "原表C。朝前雙眼的視野重疊可支持立體視覺和距離判斷。不是單眼焦距變化的同義詞，也不把所有哺乳類都視為朝前雙眼。",
+    "TCU-107-Q15": "原表B，2→4→3→1→5：葉肉光合產糖→葉片細胞間轉糖→主動裝入篩管→水滲入→沿莖下移。沿莖向下只適用本題源庫配置；不同篩管可向不同庫運輸，並非所有植物所有裝載均必須主動耗ATP。",
+    "TCU-107-Q16": "原表A。種子與卵生皆可在保護構造內提供胚營養，但此為功能類比，非同源器官。種子受精在母株，不可因此說所有卵生動物都體外受精。",
+    "TCU-107-Q17": "原表B。原圖D中文寫鈉通道而英文為potassium channel，兩者不一致，原圖照存。光活化色素後cGMP下降，陽離子通道關閉，視桿細胞超極化並減少麩胺酸釋放；不是照光讓鈉通道打開，視桿受體電位亦非自己產生的全有全無動作電位。",
+    "TCU-107-Q18": "原表D，釋疑維持D。腎元濾液來自血液，蚯蚓後腎管由腎口接受體腔液；兩者都可配合血管進行選擇性再吸收。公告稱腎元在皮質是簡略說法，部分亨利氏環深入髓質。",
+    "TCU-107-Q19": "原表D。DNA甲基化、組蛋白修飾等可在不改DNA鹼基序列下調節表現；選項D的選擇性表現只是寬泛描述，並非所有瞬時轉錄變化都必然屬可遺傳表觀遺傳。",
+    "TCU-107-Q20": "原表B。poly(A)聚合酶以ATP在RNA的3′端添A，不需核酸模板，但仍需受體RNA的3′OH。端粒酶有RNA模板，反轉錄酶及一般轉錄RNA聚合酶亦使用模板。",
+    "TCU-107-Q21": "原表A。教材1090支持星狀膠細胞促進訊息傳遞；B混淆中樞與周邊，C混淆免疫防禦。但D所述Schwann細胞也可提供支持並非一般科學錯誤：2023研究顯示非髓鞘Schwann細胞的營養支持訊號。現有公告未列Q21，記錄答案唯一性的疑慮而不自行改採D。",
+    "TCU-107-Q22": "原表B且公告維持，指II速度減慢。嚴重去髓鞘也可能造成傳導阻斷（III），原研究模型支持此限制；I所述在軸突相反方向移動並非去髓鞘的必然後果。分類已確定，不把科學上的III可能性冒充官方新增採計。",
+    "TCU-107-Q23": "原表A。緊密連結位在內皮細胞間；星狀膠細胞可誘導、維持其功能，寡樹突膠細胞主要形成中樞髓鞘。教材1090只概述膠細胞參與，1987內皮培養研究補充實際連結位置，勿把障壁完全等同星狀膠細胞本身。",
+    "TCU-107-Q24": "原表C，公告維持C。CRISPR指基因組DNA重複與間隔序列區域，不等同導引RNA；題文guild RNA拼字保留於原圖。A「多數細菌」也過廣，2016研究完整細菌基因組樣本約40.6%有系統，特定未培養樣本更少；這些比例有年代與採樣限制，非全部當代細菌普查。",
+    "TCU-107-Q25": "原表A。終產物A累積時抑制X→Y，降低整條路徑通量。題目只給抑制關係，不能額外判定必然競爭活性位或確定特定結合位點。",
+    "TCU-107-Q26": "原表D：內切核酸酶→DNA polymerase I→DNA ligase。這是細菌核苷酸切除修復簡化排序，未列全部解旋、切除複合體；不能把Pol I當作所有真核生物的同名主要修復酶。",
+    "TCU-107-Q27": "原表B。但選項「可以協助質體由一細菌到另一細菌」不能以「轉位子絕不參與接合」排除：1995 Tn916 oriT研究實測可動員質體嵌合體。基礎教材將轉位與F質體接合分述，進階存在接合型轉位子；C能主導所需蛋白也須限於具功能編碼的自主轉位子；非自主元件可依賴其他元件。保留原表與概括過強的差異，不自行宣告官方改答案。",
+    "TCU-107-Q28": "原表D。F1為AaBbCcDd，Aa×Aa得到Aa為1/2、BB為1/4、cc為1/4、Dd為1/2，AaBBccDd合為1/64。另以16×16配子組合枚舉核算4/256；不把異合型機率當1/4。",
+    "TCU-107-Q29": "原表B。proto-oncogene本為調節生長、分裂的正常基因，突變或過度表現可成致癌因素；不是所有正常基因都致癌，也不是必然由病毒首次帶入。",
+    "TCU-107-Q30": "原表D。海綿具有內外細胞層及膠狀中膠層，非只有單層細胞；教材分類下沒有真正組織，領細胞驅動水流。部分海綿淡水生，不能一律海生。",
+    "TCU-107-Q31": "原表C。鯊魚尿素與TMAO等使總滲透濃度接近或略高海水，不是血中NaCl與海水相同，也不由水通道直接偵測環境。題幹「相同」是近似。",
+    "TCU-107-Q32": "原表A。單側光後背光側伸長較多使莖彎向光；C把胚芽鞘頂端與頂端分生組織用語混在一起，不能因此把生長素向下運輸機制一概否認。此為莖，根對濃度的伸長反應可能不同。",
+    "TCU-107-Q33": "原表D。乙烯促進相關成熟、脫落反應並和auxin交互作用；IAA就是一種auxin，A與C不是獨立激素大類。不能說所有果實成熟都同樣依賴乙烯躍變。",
+    "TCU-107-Q34": "原表C。較多近髓質腎元與長環有助建立高滲梯度、濃縮尿液；環的長短是可受選擇的差異，不是個體因需要而目的性長出。正文989對Australian hopping mice誤稱小有袋類不沿用，991的哺乳類腎臟比較為本題依據。",
+    "TCU-107-Q35": "原表A。Calvin循環酵素主要在葉綠體基質；類囊體膜為光反應電子傳遞與ATP合成相關結構，不是Calvin循環所在地。",
+    "TCU-107-Q36": "原表C且釋疑維持C。PEP carboxylase先在葉肉細胞固定CO2形成四碳產物，再到維管束鞘釋出CO2供Rubisco。公告將初始固定寫在維管束鞘，與教材204圖10.19不符；原題為「無明顯光呼吸」，公告說不會進行且稱為消耗過多光反應產物；教材以Rubisco氧合及濃縮CO2解釋，不作目的性推論。答案C保留，錯誤理由不沿用。",
+    "TCU-107-Q37": "原表C。光呼吸消耗O2，回收流程需能量並釋CO2，不能說它產生ATP以驅動Calvin循環。C4及CAM減少此損失而非使所有狀況絕對歸零。",
+    "TCU-107-Q38": "原表C。五個三碳G3P共15C重排成三個五碳RuBP共15C，並消耗3 ATP；不是再生ATP。淨出一G3P的整輪成本另為9 ATP與6 NADPH，不能混為此單一步驟。",
+    "TCU-107-Q39": "原表C。細胞壁使整體吞噬大型食物顆粒困難；不等於有細胞壁就不能進行任何內吞，小囊泡胞吞、載體運輸與滲透不可混同。",
+    "TCU-107-Q40": "原表D且公告維持D。教材859分清日間短暫黑暗和夜間短暫照光；長日植物通常是短夜植物。公告以夜間照光的結論回答日間中斷，推論方向不符，典型夜長模型可容許B。實驗物種與中斷時長未充分指定，不把教材模型當成所有物種B的證明，也不擅改官方D。",
+    "TCU-107-Q41": "原表C。phytoalexins是受誘導累積的抗菌次級代謝物，例如阿拉伯芥camalexin；題文中文「植物防禦素」不應混同蛋白質defensins。教材866–869涵蓋誘導防禦，未直接詳述此專名，以原始camalexin研究補充。",
+    "TCU-107-Q42": "原表B。根瘤菌感染與分化形成互利根瘤供氮，非正常情形使植物死亡；不要把感染一詞等同致病。",
+    "TCU-107-Q43": "原表B。電子傳遞、質子動力勢與ATP合成酶是共通點；光反應用光能和水供電子，呼吸鏈常用還原型輔酶，不能說全部電子來源相同。不是受質層次磷酸化。",
+    "TCU-107-Q44": "原表A，公告維持A。兩個族群分別有40個XaXa個體及25個XAXA個體，呈分歧固定（a/A為原圖X的上標）；距離遠支持基因流少但不證明為零，相同棲地也不排除一切選擇。題意問最可能，不沿用公告「僅可能」為唯一機制證明；X基因座不必是X染色體。",
+    "TCU-107-Q45": "原表D。原有或複製時產生的耐藥變異受藥物篩選，敏感株下降而耐藥株相對增加；不是病毒因需要而定向突變，不必假設重新感染。教材提供抗藥選擇及HIV機制，不冒稱所列段直接測試本題病人的AZT。",
+    "TCU-107-Q46": "原表C。根毛是一表皮細胞的延伸，非多細胞側根；側根起自內鞘，不能互換。",
+    "TCU-107-Q47": "原表A。葉肉細胞壁的水蒸發形成張力、降低水勢，水沿梯度補入；原題的「葉肉為負壓」需區分細胞壁質外體負壓與活細胞通常正膨壓。水分充足只是條件，沒有完整阻力與梯度數值不能算絕對最大流量。",
+    "TCU-107-Q48": "原表A。A處H2O→1/2 O2+2H+ +2e−，E處ADP+Pi合成ATP；B為中間電子鏈，C為PSI，D是類囊體腔。原圖分數1/2、A–E位置完整保留，不能只看文字層辨反應。",
+    "TCU-107-Q49": "原表C。ATP提供能量，NADPH提供還原力並被氧化為NADP+；直接淨產物是G3P，之後可形成葡萄糖等，不是整個循環一步直接排出葡萄糖。",
+    "TCU-107-Q50": "原表D。Agrobacterium的Ti質體/T-DNA系統可將外源基因導入植物細胞；本地教材837談農桿菌天然水平轉移但未細列Ti系統。1983原研究以改造Ti質體導入矮牽牛與菸草細胞補足直接機制，不把整個Ti質體都說成必然完整整合。"
+  }
+}

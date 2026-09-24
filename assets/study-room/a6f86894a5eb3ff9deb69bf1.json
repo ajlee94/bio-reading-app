@@ -1,0 +1,1339 @@
+[
+  {
+    "q": 1,
+    "question_or_alternative": "遺傳重組機制或圖距計算哪個作主分類？",
+    "evidence_used": {
+      "question_page": 1,
+      "official_question_page": 18,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        302,
+        303,
+        304,
+        305,
+        306
+      ],
+      "catalog_ids": [
+        "L0961",
+        "L0958"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "完整題文問cM定義，故定位圖距條目為主、重組為次；303–306連接1%重組及距離估算，A與條目一致，不另掛一般孟德爾分離。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 2,
+    "question_or_alternative": "僅膽固醇或包含脂肪酸／類固醇？",
+    "evidence_used": {
+      "question_page": 1,
+      "official_question_page": 18,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [
+        26
+      ],
+      "textbook_pages": [
+        75,
+        128,
+        129
+      ],
+      "catalog_ids": [
+        "L0411",
+        "L0414",
+        "L0255"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "重新核對原圖四選項及釋疑26，A/B/D是採計變更而非本輪自行判多選；128–129膜流動性為主，75類固醇與同章脂質適應作次，類別重疊如實保存。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 3,
+    "question_or_alternative": "以多醣代謝或溶小體儲積疾病為主？",
+    "evidence_used": {
+      "question_page": 1,
+      "official_question_page": 18,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [
+        26
+      ],
+      "textbook_pages": [
+        70,
+        107,
+        108
+      ],
+      "catalog_ids": [
+        "L0349",
+        "L0242"
+      ],
+      "supplement_ids": [
+        "S03"
+      ]
+    },
+    "resolution": "題目定位酵素缺失的胞器，108溶小體為主，70肝糖為次；官方26與GAA病因核實一致，Pumpe拼字保留且不移植其他儲積疾病機制。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 4,
+    "question_or_alternative": "隱性遺傳疾病或跨膜通道何者較直接？",
+    "evidence_used": {
+      "question_page": 1,
+      "official_question_page": 18,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        135,
+        285,
+        286
+      ],
+      "catalog_ids": [
+        "L0443",
+        "L0911"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "題目沒有要求遺傳比例，而是辨別Cl−通道；135便利擴散為主、285–286具名疾病為次，厚痰不能誘導誤選水通道。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 5,
+    "question_or_alternative": "糖解與檸檬酸循環之邊界是否混淆？",
+    "evidence_used": {
+      "question_page": 1,
+      "official_question_page": 18,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        171,
+        172,
+        173,
+        174
+      ],
+      "catalog_ids": [
+        "L0575",
+        "L0572"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "逐項對照171–174，α-ketoglutarate是循環中間物，pyruvate在進入循環前；循環為主、丙酮酸氧化作同章次目，不將A當循環產物。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 6,
+    "question_or_alternative": "雙層膜是否被誤讀成脂質雙層？",
+    "evidence_used": {
+      "question_page": 1,
+      "official_question_page": 18,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        109,
+        110
+      ],
+      "catalog_ids": [
+        "L0365"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "109–110粒線體兩層各自的膜與三個單膜胞器可清楚區別，C確認；題目未問呼吸能量機制，無需額外掛能量代謝次目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 7,
+    "question_or_alternative": "植物生技應用或真核DNA導入方法為主？",
+    "evidence_used": {
+      "question_page": 1,
+      "official_question_page": 18,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [
+        26
+      ],
+      "textbook_pages": [
+        422,
+        423,
+        437,
+        438,
+        837,
+        838
+      ],
+      "catalog_ids": [
+        "L1244",
+        "L2527"
+      ],
+      "supplement_ids": [
+        "S07"
+      ]
+    },
+    "resolution": "422–423列真核DNA導入及細胞壁問題，與題問方法最直接，837–838植物工程補足應用。官方26保留脂質體並採A；原論文未取得的界線不阻礙已具官方與教材證據的分類。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 8,
+    "question_or_alternative": "跨膜運輸章或胞間連接條目？",
+    "evidence_used": {
+      "question_page": 1,
+      "official_question_page": 18,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        119,
+        120,
+        121
+      ],
+      "catalog_ids": [
+        "L0394"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "原圖問相鄰植物細胞聯繫，119–121的Cell Junctions比較plasmodesmata與gap junction，直接收於6.7，不因通道一詞擴列7章。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 9,
+    "question_or_alternative": "把RNA polymerase一概當作轉錄專屬會否誤判D？",
+    "evidence_used": {
+      "question_page": 1,
+      "official_question_page": 18,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [
+        27
+      ],
+      "textbook_pages": [
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        342,
+        343,
+        344
+      ],
+      "catalog_ids": [
+        "L1010",
+        "L1052"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "讀回322–327的primase RNA引子與342–344轉錄，並核對官方27，sigma factor選A；複製為主、轉錄為次以明示兩種RNA合成角色。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 10,
+    "question_or_alternative": "基因工程載體或原核抗藥質體何者較貼題？",
+    "evidence_used": {
+      "question_page": 1,
+      "official_question_page": 18,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        577,
+        579,
+        580,
+        581
+      ],
+      "catalog_ids": [
+        "L1728",
+        "L1715"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "原題未使用克隆操作，577及579–581原核DNA、R質體直接支援，保留同章主次；不能把獨立複製解成不需宿主酵素。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 11,
+    "question_or_alternative": "末端接受電子與初級受體是否混成同一分子？",
+    "evidence_used": {
+      "question_page": 1,
+      "official_question_page": 18,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        197,
+        198
+      ],
+      "catalog_ids": [
+        "L0656"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "197–198線性流末端NADP+還原，選B；原圖只有電子接受者，未加primary，故不需為題目補字，也無需次掛呼吸的NAD+。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 12,
+    "question_or_alternative": "中央受器偵測H+或血液CO2／氧分壓？",
+    "evidence_used": {
+      "question_page": 1,
+      "official_question_page": 18,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        946,
+        947
+      ],
+      "catalog_ids": [
+        "L2843"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "946–947界定腦脊髓液pH及延腦呼吸控制，C確認；同一最小條目已完整涵蓋，無需將一般腎臟酸鹼調節掛入。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 13,
+    "question_or_alternative": "耳蝸器官還是毛細胞受器？",
+    "evidence_used": {
+      "question_page": 1,
+      "official_question_page": 18,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [
+        27
+      ],
+      "textbook_pages": [
+        1110,
+        1112,
+        1113,
+        1114,
+        1115
+      ],
+      "catalog_ids": [
+        "L3351",
+        "L3341"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "原圖及官方27明分感覺细胞與器官，1112–1115毛細胞支持D，1110機械受器作次；不因耳蝸位置而把B當細胞答案。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 14,
+    "question_or_alternative": "PEP先形成及維管素誤植是否都列官方更正？",
+    "evidence_used": {
+      "question_page": 2,
+      "official_question_page": 19,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [
+        27
+      ],
+      "textbook_pages": [
+        201,
+        202,
+        203,
+        204,
+        205
+      ],
+      "catalog_ids": [
+        "L0676",
+        "L0665"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "重開Q14完整圖，官方27確為B/C；201–205支持OAA初產物及bundle-sheath。主C4最小葉、次Calvin概念完整保存，未悄改C原文字。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 15,
+    "question_or_alternative": "左移代表親和力提高或氧釋放提高？",
+    "evidence_used": {
+      "question_page": 2,
+      "official_question_page": 19,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        947,
+        948,
+        949
+      ],
+      "catalog_ids": [
+        "L2853"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "947–949以Bohr效應核對pH，C使親和力提高而較不易放氧；選定Respiratory Pigments即可涵蓋，不另把pH當獨立酸鹼章題。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 16,
+    "question_or_alternative": "教材是否真的寫出glutamine，或僅說氨緩衝？",
+    "evidence_used": {
+      "question_page": 2,
+      "official_question_page": 19,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [
+        27
+      ],
+      "textbook_pages": [
+        987,
+        988
+      ],
+      "catalog_ids": [
+        "L2974"
+      ],
+      "supplement_ids": [
+        "S16"
+      ]
+    },
+    "resolution": "988實文支持腎小管NH3/H+，具名胺基酸由官方27及腎綜述可見段補足，未冒用未取得Vander。分類是腎元排酸而非蛋白質食物消化，C保持。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 17,
+    "question_or_alternative": "CCK與secretin、gastrin的分泌位置和效應是否混用？",
+    "evidence_used": {
+      "question_page": 2,
+      "official_question_page": 19,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        908,
+        909,
+        915,
+        916,
+        1004
+      ],
+      "catalog_ids": [
+        "L2740",
+        "L2714"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "908–909及915–916分別核對胰酵素與消化調節，B確定；主41.5及次41.3均保留，不將膽囊誤作CCK製造器官。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 18,
+    "question_or_alternative": "心肌答案能否被擴張成任何平滑肌都較短？",
+    "evidence_used": {
+      "question_page": 2,
+      "official_question_page": 19,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1073,
+        1074,
+        1131
+      ],
+      "catalog_ids": [
+        "L3384",
+        "L3209"
+      ],
+      "supplement_ids": [
+        "S18"
+      ]
+    },
+    "resolution": "重開原圖及教材1131、神經1073–1074，心肌比較為主，神經AP為次；輸尿管300–800ms來源與更正公告保留反例範圍。官方B不變，分類已定而題文普遍性差異不抹除。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 19,
+    "question_or_alternative": "形成cAMP的酵素或被cAMP活化的PKA？",
+    "evidence_used": {
+      "question_page": 2,
+      "official_question_page": 19,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        223,
+        224,
+        225
+      ],
+      "catalog_ids": [
+        "L0724"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "223–225的因果方向支持C：cyclase生成、PKA下游。實看PDF38目錄為Small Molecules and Ions as Second Messengers，文字目錄省略Ions as另記；此最小條目已足夠，不因enzyme再泛列催化章。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 20,
+    "question_or_alternative": "Golgi／ECM組合與ER的醣化角色能否兼容？",
+    "evidence_used": {
+      "question_page": 2,
+      "official_question_page": 19,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        105,
+        106,
+        107,
+        118,
+        119
+      ],
+      "catalog_ids": [
+        "L0346",
+        "L0391"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "105–107及118–119分別支持蛋白加工、ECM成分，C為題列最佳組合；主Golgi次ECM，保留ER亦參與，未將單選結果改寫成排他生理定律。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 21,
+    "question_or_alternative": "lysin作用於wall還是membrane，dsRNA噬菌體是否存在？",
+    "evidence_used": {
+      "question_page": 2,
+      "official_question_page": 19,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [
+        27
+      ],
+      "textbook_pages": [
+        399,
+        400,
+        401,
+        402,
+        403,
+        404
+      ],
+      "catalog_ids": [
+        "L1199",
+        "L1189"
+      ],
+      "supplement_ids": [
+        "S21"
+      ]
+    },
+    "resolution": "官方27、399–404及原始研究逐项核對：D的直接靶標錯，A/B有實例。噬菌體複製週期為主，病毒結構為次，不以常見dsDNA印象否定RNA病毒。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 22,
+    "question_or_alternative": "非活性位點抑制應歸異位調控或直接歸負回饋？",
+    "evidence_used": {
+      "question_page": 2,
+      "official_question_page": 19,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        160,
+        161,
+        183,
+        184
+      ],
+      "catalog_ids": [
+        "L0539",
+        "L0614"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "題幹給定結合位置，160–161的allostery為主，183–184 PFК呼吸回饋作次；B與機制一致，未把D正回饋偷換成負回饋。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 23,
+    "question_or_alternative": "修正採C/D後，A四聚體是否仍需保留科學差異？",
+    "evidence_used": {
+      "question_page": 2,
+      "official_question_page": 19,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [
+        27
+      ],
+      "textbook_pages": [
+        136,
+        137,
+        138
+      ],
+      "catalog_ids": [
+        "L0450",
+        "L0456"
+      ],
+      "supplement_ids": [
+        "S23"
+      ]
+    },
+    "resolution": "完整原圖與官方27、教材137圖7.16及138同運核對，採計C/D。2022結構說明αβFXYD及E1內向，A的現代組成差異保留而不自行增採；同章同運次目不丟失。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 24,
+    "question_or_alternative": "缺PSII測O2與PSI循環流是否重複分類？",
+    "evidence_used": {
+      "question_page": 3,
+      "official_question_page": 20,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        197,
+        198,
+        199
+      ],
+      "catalog_ids": [
+        "L0656",
+        "L0659"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "197–199比較水裂解放氧與循環流，D是題列最適方法；Linear與Cyclic兩個真實最小葉都保留，章級去重。無氧輸出不是唯一診斷的限制另列。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 25,
+    "question_or_alternative": "端帽位置、mRNA保護與轉譯效率是否一致？",
+    "evidence_used": {
+      "question_page": 3,
+      "official_question_page": 20,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [
+        27
+      ],
+      "textbook_pages": [
+        345,
+        346,
+        377,
+        378,
+        379
+      ],
+      "catalog_ids": [
+        "L1059",
+        "L1129"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "官方27保留D；重新核對印刷345正文與Figure17.11，正文3′ end與圖示5′cap矛盾明記。主mRNA端點加工、次後轉錄調控，不能把教材誤字傳入科學說明。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 26,
+    "question_or_alternative": "MPF失活是cyclin或Cdk降解？",
+    "evidence_used": {
+      "question_page": 3,
+      "official_question_page": 20,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        244,
+        245,
+        246,
+        247,
+        248
+      ],
+      "catalog_ids": [
+        "L0789"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "244–248控制系統顯示cyclin週期性消長及Cdk持續，A確認；題目不考染色體移動，沒有多掛分裂步驟次目的理由。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 27,
+    "question_or_alternative": "廣義細胞分裂過程與狹義M期是否產生文字歧義？",
+    "evidence_used": {
+      "question_page": 3,
+      "official_question_page": 20,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [
+        27
+      ],
+      "textbook_pages": [
+        237,
+        238,
+        239,
+        240,
+        262,
+        263,
+        264
+      ],
+      "catalog_ids": [
+        "L0843",
+        "L0840",
+        "L0770"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "重開Q27及官方27，B確實缺動詞，A複製在間期；仍依官方C辨別減數聯會。主分裂比較、次聯會機制與細胞週期，將兩種邊界一併保存。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 28,
+    "question_or_alternative": "已給男性條件還要乘性別機率嗎？",
+    "evidence_used": {
+      "question_page": 3,
+      "official_question_page": 20,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [
+        27
+      ],
+      "textbook_pages": [
+        277,
+        287,
+        299,
+        300
+      ],
+      "catalog_ids": [
+        "L0945",
+        "L0914",
+        "L0882"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "完整原圖與官方27都指定男性下一代中；Dd×dd給1/2正常、Xc母使兒子皆色盲，條件答案B。主X連鎖、次顯性疾病與乘法規則，1/4只屬全體出生事件。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 29,
+    "question_or_alternative": "缺F是否足以在所有細菌情境排除全部接合？",
+    "evidence_used": {
+      "question_page": 3,
+      "official_question_page": 20,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        579,
+        580,
+        581
+      ],
+      "catalog_ids": [
+        "L1728"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "579–581的三種基因交換機制支持題設D，但保留感受態和其他接合系統界線；同一Genetic Recombination條目已包含完整比較，沒有必要重掛病毒章。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 30,
+    "question_or_alternative": "chaperonin助折疊是否等於指定三級結構？",
+    "evidence_used": {
+      "question_page": 3,
+      "official_question_page": 20,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [
+        27
+      ],
+      "textbook_pages": [
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84
+      ],
+      "catalog_ids": [
+        "L0268"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "完整題文、官方27及教材83均按序列提供結構資訊區分B，主5.4最小葉確認；正文未具名chaperonin及HSP的缺口明示，未以不存在的小標製造目錄條目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 31,
+    "question_or_alternative": "ATP胺醯化與GTP轉位的能源是否被混用？",
+    "evidence_used": {
+      "question_page": 3,
+      "official_question_page": 20,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        350,
+        351,
+        352,
+        353
+      ],
+      "catalog_ids": [
+        "L1072"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "350–353延長圖及文字核對核糖體轉位，A為GTP水解；Building a Polypeptide足以涵蓋，不額外把一般ATP章當次分類。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 32,
+    "question_or_alternative": "PTH對骨鈣、腎保鈣與維生素E選項的關係？",
+    "evidence_used": {
+      "question_page": 4,
+      "official_question_page": 21,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1011,
+        1012
+      ],
+      "catalog_ids": [
+        "L3036"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "1011–1012專節直接支持血鈣上升C且活化D非E；骨再吸收的用字差異保留，主45.3精確葉已涵蓋各作用器官，無需散列一般腎章。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 33,
+    "question_or_alternative": "0.4為a頻率或aa基因型頻率？",
+    "evidence_used": {
+      "question_page": 4,
+      "official_question_page": 21,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        490,
+        491,
+        492,
+        493
+      ],
+      "catalog_ids": [
+        "L1445"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "題文清楚給a，重算p=0.6、2pq=0.48並檢查總基因型0.36+0.48+0.16=1，A確定；只用哈溫方程的真實最小條目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 34,
+    "question_or_alternative": "周細胞是否足以把微血管視為有平滑肌層？",
+    "evidence_used": {
+      "question_page": 4,
+      "official_question_page": 21,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        929,
+        930,
+        931
+      ],
+      "catalog_ids": [
+        "L2783"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "929–931血管壁比較支持D，內皮及基底膜無一般血管肌層；將周細胞界線放科學註，不因支持細胞存在而改變血管構造分類。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 35,
+    "question_or_alternative": "解析度增加是折射率、波長還是黏滯度？",
+    "evidence_used": {
+      "question_page": 4,
+      "official_question_page": 21,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        94,
+        95,
+        96
+      ],
+      "catalog_ids": [
+        "L0313"
+      ],
+      "supplement_ids": [
+        "S35"
+      ]
+    },
+    "resolution": "94–96給解析度框架，Nikon官方油鏡頁直接說明高折射率介質，A確認；油鏡細節外部補足，主6.1 Microscopy不捏造教材未列oil immersion葉。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 36,
+    "question_or_alternative": "可否只以Nematodes或Arthropods取代共同蛻皮概念？",
+    "evidence_used": {
+      "question_page": 4,
+      "official_question_page": 21,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        705,
+        706,
+        707
+      ],
+      "catalog_ids": [
+        "L2126",
+        "L2130",
+        "L2133"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "705–707及完整目錄PDF44顯示兩葉並列，蛻皮為33.4概念導言；主概念加兩個同章次目確認，共同C不以任一類群替代另一類群。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 37,
+    "question_or_alternative": "環列維管束能否排除有可能為草本的C？",
+    "evidence_used": {
+      "question_page": 4,
+      "official_question_page": 21,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        762,
+        769,
+        770,
+        771,
+        772
+      ],
+      "catalog_ids": [
+        "L2303",
+        "L2286"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "原圖確為可能語氣，教材770圖中的真雙子葉初生莖並不排除草本。官方A照採，歧義照存；主35.3 Primary Growth of Shoots而非正文限定的小標，次35.1組織系统。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 38,
+    "question_or_alternative": "Auxin是否真實目錄葉，正向光性是否屬純運輸題？",
+    "evidence_used": {
+      "question_page": 4,
+      "official_question_page": 21,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        846,
+        847,
+        848,
+        849,
+        855,
+        856
+      ],
+      "catalog_ids": [
+        "L2557",
+        "L2564"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "PDF45目錄只有A Survey of Plant Hormones，847–849正文包含auxin與背光分布，855–856藍光受器次之；D確認，未創造Auxin目錄葉也未把apoplast簡述當主機制。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 39,
+    "question_or_alternative": "排乳與泌乳合成是否互相替代？",
+    "evidence_used": {
+      "question_page": 4,
+      "official_question_page": 21,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1005,
+        1006,
+        1036,
+        1037
+      ],
+      "catalog_ids": [
+        "L3017",
+        "L3114"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "1005–1006神經內分泌迴路及1036–1037哺乳段區分oxytocin與prolactin，B確認；主45.2、次46.5保留兩章，但不把reproduction泛章取代實際最小目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 40,
+    "question_or_alternative": "種皮32與胚乳48是否把母体组织誤當胚組織？",
+    "evidence_used": {
+      "question_page": 4,
+      "official_question_page": 21,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        826,
+        827,
+        828,
+        829
+      ],
+      "catalog_ids": [
+        "L2495",
+        "L2486"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "826–829依生活史重算精子16、葉莖與合子32、種皮32、胚乳48，只有IV/V；主種子結構，次生活史，同章照存，典型被子植物假設明示。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 41,
+    "question_or_alternative": "葉酸例子位於Essential Nutrients還是Assessing Nutritional Needs？",
+    "evidence_used": {
+      "question_page": 5,
+      "official_question_page": 22,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        899,
+        900,
+        901,
+        902,
+        903,
+        1054,
+        1055
+      ],
+      "catalog_ids": [
+        "L2694",
+        "L3150"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "重新全頁視讀902及目錄確認例子已位於Assessing Nutritional Needs，主41.1此葉；1054–1055器官發生為次。C與兩處證據對應，沒有僅憑維生素關鍵字提早截到另一葉。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 42,
+    "question_or_alternative": "釋疑反駁微鹼性是否等於聲稱分泌物pH恆為7？",
+    "evidence_used": {
+      "question_page": 5,
+      "official_question_page": 22,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [
+        28
+      ],
+      "textbook_pages": [
+        954,
+        955,
+        956
+      ],
+      "catalog_ids": [
+        "L2870"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "官方28與954–956核對lysozyme屏障支持D，保留分泌物實際pH可變及未取得原測量文獻；分類確為脊椎先天免疫，不將pH争議改成化學酸鹼題。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 43,
+    "question_or_alternative": "僅比較氨尿素性質或解釋環境適應何者為主？",
+    "evidence_used": {
+      "question_page": 5,
+      "official_question_page": 22,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        982,
+        983
+      ],
+      "catalog_ids": [
+        "L2960",
+        "L2957"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "982–983同時有毒性需水與環境切換，题幹強調不流動小水池優勢，環境影響為主、廢物形式為次；B確認並保留尿素耗能及物種狀態範圍。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 44,
+    "question_or_alternative": "P顆粒屬性腺所有細胞还是生殖系前驅？",
+    "evidence_used": {
+      "question_page": 5,
+      "official_question_page": 22,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        382,
+        383,
+        1058,
+        1059,
+        1060,
+        1061
+      ],
+      "catalog_ids": [
+        "L3160",
+        "L1149"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "重開原圖與1059全頁，P顆粒追蹤germ cell lineage，Fate Mapping為主、382–383胞質決定因子為次。D最具體，原題gonadal過寬及A母源蛋白層級重疊如實留存。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 45,
+    "question_or_alternative": "作用於卵的鈣螯合與精子頂體反應是否被混為一談？",
+    "evidence_used": {
+      "question_page": 5,
+      "official_question_page": 22,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1044,
+        1045,
+        1046
+      ],
+      "catalog_ids": [
+        "L3134"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "1044–1046圖文支持皮質胞吐和套膜形成，D最直接；螯合部位及物種未指定的邊界保留，主Fertilization已涵蓋快慢阻擋，不加無關肌肉鈣訊號次目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 46,
+    "question_or_alternative": "直接CD4–MHCII結合與下游CTL活化是否可區分？",
+    "evidence_used": {
+      "question_page": 5,
+      "official_question_page": 22,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [
+        28
+      ],
+      "textbook_pages": [
+        959,
+        960,
+        963,
+        964
+      ],
+      "catalog_ids": [
+        "L2896",
+        "L2886"
+      ],
+      "supplement_ids": [
+        "S46"
+      ]
+    },
+    "resolution": "重開原圖、官方28與963–964，D是直接分子功能，C可間接受影響；主helper活化次T細胞抗原辨認，同章保留。另核實CTLA-4抑制性質，避免照釋疑簡述把共訊號都當共刺激。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 47,
+    "question_or_alternative": "泛神經傳遞或骨骼肌具名疾病位置何者更精確？",
+    "evidence_used": {
+      "question_page": 5,
+      "official_question_page": 22,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1080,
+        1081,
+        1126,
+        1127,
+        1128,
+        1129
+      ],
+      "catalog_ids": [
+        "L3381",
+        "L3231"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "1129完整頁直接說myasthenia gravis與ACh受器，將50.5骨骼肌定主，1080–1081 Neurotransmitters作次；A確認，不以疾病名任意改掛未實讀臨床分類。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 48,
+    "question_or_alternative": "星狀細胞答案是否掩蓋內皮構成屏障？",
+    "evidence_used": {
+      "question_page": 5,
+      "official_question_page": 22,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1090,
+        1091
+      ],
+      "catalog_ids": [
+        "L3248"
+      ],
+      "supplement_ids": [
+        "S48"
+      ]
+    },
+    "resolution": "1090–1091的Glia與綜述可見段落可並存：題列C，屏障內皮緊密連接為主要物理基礎。分類確定，對最重要措辭保持範圍，不因課外細節把主分類改成微血管解剖。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 49,
+    "question_or_alternative": "陰離子交換介質的電荷方向與His在pH8的狀態？",
+    "evidence_used": {
+      "question_page": 6,
+      "official_question_page": 23,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        75,
+        76,
+        77,
+        78
+      ],
+      "catalog_ids": [
+        "L0262"
+      ],
+      "supplement_ids": [
+        "S49"
+      ]
+    },
+    "resolution": "重開Q49後從75–78側鏈化學及Cytiva介質原理逐項比較，正電介質吸負電Glu，A確認；His不照中性pH列表概括正電。主5.4胺基酸葉，未造出教材不存在的離子交換層析葉。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 50,
+    "question_or_alternative": "hypervariable是較具體的結合位置，A/B是否真的含只字？",
+    "evidence_used": {
+      "question_page": 6,
+      "official_question_page": 23,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        958,
+        959
+      ],
+      "catalog_ids": [
+        "L2883"
+      ],
+      "supplement_ids": [
+        "S50"
+      ]
+    },
+    "resolution": "完整原圖確認A/B只寫輕鏈與重鏈；958–959及作者教材顯示兩鏈共同V區/CDR結合。官方C不變，重疊選項不篡改，主43.2抗體抗原辨認的最小葉確定。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  }
+]

@@ -1,0 +1,244 @@
+{
+  "question": {
+    "path": "d6ed43bd972d1981ab2047ce.pdf",
+    "sha256": "69673b17cafd09e84fd8d3d7eddbe6862022711badd3768cff1d94c12decd9f8",
+    "pdf_pages": 8,
+    "inventory_category": "biology_question",
+    "scope_status": "ALL_EIGHT_FULL_PAGES_VISUALLY_READ",
+    "subject": "生物學",
+    "question_count": 50,
+    "cover_pdf_page": 1,
+    "biology_pdf_pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "printed_pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "text_layer": true,
+    "cross_page_questions": {},
+    "shared_questions": [],
+    "figure_questions": [
+      2,
+      12
+    ],
+    "scope_note": "首輪實看題本全部8頁，PDF2–8連續Q1–50；Q2密碼表及Q12神經放電圖完整保留，無跨頁或共享題幹。原頁頁邊與題文錯字均保留。",
+    "local_acquisition": {
+      "school": "TCU",
+      "year": "110",
+      "kind": "question",
+      "status": "verified_pdf",
+      "bytes": "787887",
+      "file": "schools/TCU/downloads/TCU_110_biology_question.pdf",
+      "source": "backup_5138",
+      "url": "https://drive.google.com/file/d/1uAqPfq-Gj3HrAQivsXMzTZFeWWymOL5H/view?usp=sharing",
+      "note": "position 4 subject link",
+      "header": "%PDF-1.5"
+    },
+    "current_official_access": {
+      "status": "OFFICIAL_OLD_PDF_URL_REDIRECTED_TO_HTML",
+      "url": "https://admissions.tcu.edu.tw/wp-content/uploads/2021/08/110%E5%BE%8C%E4%B8%AD%E9%86%AB_%E7%94%9F%E7%89%A9%E5%AD%B8%E8%A9%A6%E9%A1%8C.pdf",
+      "final_url": "https://admissions.tcu.edu.tw/",
+      "download_path": "審查紀錄/annual_review/TCU-110/downloads/official-question.html",
+      "sha256": "e0d58e2bab11e0e0fe89bd7c88dd87fd3cde484e5ff499aa34e81b7b525a9e08",
+      "matches_local": false,
+      "checked_at": "2026-09-10T15:07:07.059489+08:00"
+    }
+  },
+  "answer": {
+    "path": "decc3d96527127248e9f61f9.pdf",
+    "sha256": "e7c0e3e3c50222f9cb2dfa4011f5a1208e7105a8fed29998b73517389ab940eb",
+    "pdf_pages": 1,
+    "inventory_category": "biology_answer",
+    "scope_status": "ALL_50_ANSWERS_VISUALLY_READ",
+    "biology_pdf_pages": [
+      1
+    ],
+    "local_acquisition": {
+      "school": "TCU",
+      "year": "110",
+      "kind": "answer",
+      "status": "verified_pdf",
+      "bytes": "62456",
+      "file": "schools/TCU/downloads/TCU_110_biology_answer.pdf",
+      "source": "backup_5138",
+      "url": "https://drive.google.com/file/d/1535FlGqTv8_UQgtYTUSDgiJ5EYiXn-F6/view?usp=sharing",
+      "note": "position 8 answer link",
+      "header": "%PDF-1.5"
+    },
+    "current_official_access": {
+      "status": "OFFICIAL_PDF_DOWNLOADED_IDENTICAL",
+      "url": "https://admissions.tcu.edu.tw/wp-content/uploads/2021/08/110%E5%8F%83%E8%80%83%E7%AD%94%E6%A1%88_%E7%94%9F%E7%89%A9%E5%AD%B8.pdf",
+      "final_url": "https://admissions.tcu.edu.tw/wp-content/uploads/2021/08/110%E5%8F%83%E8%80%83%E7%AD%94%E6%A1%88_%E7%94%9F%E7%89%A9%E5%AD%B8.pdf",
+      "download_path": "審查紀錄/annual_review/TCU-110/downloads/official-answer.pdf",
+      "sha256": "e7c0e3e3c50222f9cb2dfa4011f5a1208e7105a8fed29998b73517389ab940eb",
+      "matches_local": true,
+      "checked_at": "2026-09-10T15:07:07.061035+08:00"
+    }
+  },
+  "clarification": {
+    "path": "23345ef5848b85f9635d80b2.pdf",
+    "sha256": "e5f46c67845e5e12126f0e2984ca2667d1b720ea564ecb02a67230de89de5a7e",
+    "pdf_pages": 3,
+    "inventory_category": "clarification",
+    "scope_status": "ALL_THREE_PAGES_VISUALLY_READ",
+    "biology_pdf_pages": [
+      2,
+      3
+    ],
+    "biology_questions": {
+      "14": [
+        2
+      ],
+      "26": [
+        2
+      ],
+      "27": [
+        2
+      ],
+      "29": [
+        2
+      ],
+      "30": [
+        2,
+        3
+      ],
+      "32": [
+        3
+      ],
+      "39": [
+        3
+      ],
+      "40": [
+        3
+      ],
+      "43": [
+        3
+      ],
+      "44": [
+        3
+      ],
+      "45": [
+        3
+      ]
+    },
+    "official_corrections": {},
+    "dispositions": {
+      "14": "維持原答案",
+      "26": "維持原答案",
+      "27": "維持原答案",
+      "29": "維持原答案",
+      "30": "維持原答案",
+      "32": "維持原答案",
+      "39": "維持原答案",
+      "40": "維持原答案",
+      "43": "維持原答案",
+      "44": "維持原答案",
+      "45": "維持原答案"
+    },
+    "excluded": "PDF1國文及化學全排除；PDF2英文19排除，後為生物；PDF3頁首為Q30引用DOI續行。",
+    "scope_note": "生物11題均標維持，Q30文字卻稱原D而同年答案表B，保留來源衝突；另39題未列已取得公告，不宣稱不存在其他公告。",
+    "answer_conflicts": {
+      "30": {
+        "answer_table": "B",
+        "notice_letter": "D",
+        "notice_disposition": "維持原答案",
+        "final_scoring": "UNRESOLVED_OFFICIAL_CONFLICT",
+        "classification_pending": false
+      }
+    },
+    "local_acquisition": {
+      "school": "TCU",
+      "year": "110",
+      "kind": "clarification",
+      "status": "verified_pdf",
+      "bytes": "214066",
+      "file": "schools/TCU/downloads/TCU_110_biology_clarification.pdf",
+      "source": "backup_5138",
+      "url": "https://drive.google.com/file/d/1gnz9x8Jq8mB7ZuKxHs0R6ab2Lu5CJSsH/view?usp=sharing",
+      "note": "position 9 clarification link",
+      "header": "%PDF-1.5"
+    },
+    "current_official_access": {
+      "status": "OFFICIAL_PDF_DOWNLOADED_IDENTICAL",
+      "url": "https://admissions.tcu.edu.tw/wp-content/uploads/2021/08/110%E9%87%8B%E7%96%91%E7%B5%90%E6%9E%9C%EF%BC%88%E5%85%AC%E5%91%8A%E7%89%88%EF%BC%89.pdf",
+      "final_url": "https://admissions.tcu.edu.tw/wp-content/uploads/2021/08/110%E9%87%8B%E7%96%91%E7%B5%90%E6%9E%9C%EF%BC%88%E5%85%AC%E5%91%8A%E7%89%88%EF%BC%89.pdf",
+      "download_path": "審查紀錄/annual_review/TCU-110/downloads/official-clarification.pdf",
+      "sha256": "e5f46c67845e5e12126f0e2984ca2667d1b720ea564ecb02a67230de89de5a7e",
+      "matches_local": true,
+      "checked_at": "2026-09-10T15:06:19.436268+08:00"
+    }
+  },
+  "textbook": {
+    "path": "Campbell Biology 12e.pdf（教材參考，全文未公開）",
+    "sha256": "de7c28b93a1c853c0c58d53cd658848d08cf033cde7c2071c062bfdd25b5dc73"
+  },
+  "toc": {
+    "path": "Campbell toc.txt（教材參考，全文未公開）",
+    "sha256": "472c94c03d3e7f107284b4e59ba744b406faee99580f5d940e0c2dab3d0c3dc7"
+  },
+  "review_boundary": "TCU110 50題分類；Q30官方採計未定與分類pending分开記錄。原题题文以完整原圖為準。",
+  "question_scientific_differences": {
+    "TCU-110-Q01": "D。胸腺嘧啶可標記核、粒線體及葉綠體DNA。以題目所設具有葉綠體的植物細胞為範圍，不推論每種植物細胞均含葉綠體。",
+    "TCU-110-Q02": "A。AUG-GGC-ACU-CAU-GGG-ACA-UAA編碼Met、Gly、Thr、His、Gly、Thr，UAA終止；共有4種胺基酸，標準教科書模型需4種相應合成酶。不能把6個胺基酸位置或不同同義密碼子當作6種酶。",
+    "TCU-110-Q03": "B。草醯乙酸接受來自麩胺酸的胺基成為天門冬胺酸，同時生成α-酮戊二酸，反應可逆。原A中文寫「檸檬酸」而英文是pyruvate（丙酮酸），是原題中英不一致，未偷偷修正文句；兩種解讀皆不改B的碳骨架判斷。",
+    "TCU-110-Q04": "A。節肢動物的已描述物種數多於題列其他動物門；原題為相對比較，不把課本歷史估計數當作2026年精確普查。",
+    "TCU-110-Q05": "D的脊索與背側中空神經索，是脊椎動物與海鞘在生活史某一階段共同具備；神經嵴是脊椎動物的重要特徵，不能列為所有脊索動物必有。海鞘成體會失去部分幼體脊索特徵；「共有」不等於每一成體均保留。",
+    "TCU-110-Q06": "C。典型人類發育中，SRY啟動睪丸分化的上游基因調控，睪固酮是下游產物。此為題設的一般模型，不宣稱SRY或XX/XY狀態單獨涵蓋所有性別發育差異。",
+    "TCU-110-Q07": "C。課本廣義interneurons整合中樞資訊且數量龐大；感覺神經元傳入、運動神經元傳出。此處不是僅指現代神經迴路研究中較狹義的局部抑制性中間神經元。",
+    "TCU-110-Q08": "C。異染色質較凝縮，一般轉錄活性較低；真染色質較鬆散、較易接近轉錄機器。不把所有異染色質說成永久完全不轉錄，也不將正文小標另造目錄條目。",
+    "TCU-110-Q09": "A。前列腺素屬局部調節分子；課本p1001將此類止痛藥與抑制前列腺素合成相連。題目是生理訊息辨認，不涉及用藥建議。",
+    "TCU-110-Q10": "A。Sanger定序利用缺乏3′-OH的ddNTP使延長鏈停止；DNA聚合需可繼續形成磷酸二酯鍵的3′-OH。PCR擴增通常不使用鏈終止ddNTP；微陣列比較雜交訊號，BiFC觀察蛋白互作，皆不是此定序原理。",
+    "TCU-110-Q11": "B。一般核基因編碼真核tRNA需端點加工、鹼基修飾及3′端CCA形成；帶內含子的pre-tRNA由專用內切與連接機制加工，不能說由spliceosome剪接。細胞器tRNA與CCA是否基因編碼有例外，答案按題目一般真核模型解讀。",
+    "TCU-110-Q12": "A。完整曲線先密後疏，再密再疏，各尖峰振幅大致不變，對應音量交替變化。音高主要依耳蝸受刺激位置及時間資訊，不能僅將此單一放電疏密圖當聲波頻率。",
+    "TCU-110-Q13": "D。原題是大腸桿菌lac啟動子換成真核基因的啟動子；依題設的一般模型，細菌RNA聚合酶不能正確辨識而不表現。缺葡萄糖、有乳糖的有利誘導条件不能補救此起始障礙；不是翻譯效率變差。",
+    "TCU-110-Q14": "C。3′→5′外切酶可移除新生鏈末端錯配核苷酸，與5′→3′合成及移除引子不同。同年釋疑維持C；「每次複製必須」是教學概括，並非每種DNA聚合酶均具有校讀外切酶。",
+    "TCU-110-Q15": "D。毒素切割SNARE相關蛋白，使含ACh囊泡不能正常融合並胞吐；不是原A無法合成、B無法在Golgi加工或C無法裝入囊泡。",
+    "TCU-110-Q16": "C。BbSs×bbSs：B_與bb各1/2，S_為3/4、ss為1/4；四類依B_S_、B_ss、bbS_、bbss為3/8、1/8、3/8、1/8，即3:1:3:1。另存逐配子重算；不套9:3:3:1。",
+    "TCU-110-Q17": "D（甲、丙）。甲生產的伸展—催產素—收縮增強原刺激。丙吸吮減少多巴胺性PIH而解除對泌乳素的抑制，屬題設維持泌乳的正向反應；不能見「降低PIH」便判負回饋。乳汁合成的prolactin與射乳的oxytocin須分開，完整內分泌網路另有負回饋。",
+    "TCU-110-Q18": "A。leptin作用於腦部後，可經交感神經—脂肪組織連結促進脂解。2015年研究以小鼠成像、光遺傳及消融支持此路徑；不是人類減重臨床療效證明。",
+    "TCU-110-Q19": "D錯。感光細胞光照後過極化而降低glutamate釋放；ON與OFF雙極細胞的受體與反應方向不同，因此「所有」雙極細胞都依同一方向反應不成立。",
+    "TCU-110-Q20": "C。特定轉錄因子及其組合影響基因表現；不同分化細胞多具有相同DNA，不能以不同細胞必有不同啟動子序列或不同基因集解釋通常的差異表現。",
+    "TCU-110-Q21": "C。線蟲與節肢動物都有外層覆蓋並需蛻皮；線蟲cuticle與節肢動物含幾丁質外骨骼不可等同。題中「芽孢孔」原字保留，胚胎判準應是原口（blastopore）的命運。",
+    "TCU-110-Q22": "D。氣門連接氣管進行氣體交換；馬氏管處理含氮廢物及水鹽。通常不以開放循環的血淋巴承擔昆蟲主要供氧。",
+    "TCU-110-Q23": "B。章魚屬軟體動物、原口動物；海鞘為脊索動物，海星為棘皮動物，鯨為哺乳類，均列後口動物。不是所有動物都在這兩類內，海綿與刺絲胞動物不屬兩側對稱動物的這一分組。",
+    "TCU-110-Q24": "C（8渦蟲、9條蟲、12肝吸蟲）。扁形動物具有中胚層且為三胚層，無體腔並不表示少一胚層；胚層、體腔與消化道開口數是不同判準，不可混同。",
+    "TCU-110-Q25": "B。q²=0.09得q=0.3，p=0.7，異型合子2pq=0.42，即42%；9%不是q，亦不能以1−9%當異型合子比例。依題目族群平衡模型計算。",
+    "TCU-110-Q26": "B，同年釋疑維持。原題明寫「沒有隨機交配」，未改成隨機交配。單獨非隨機交配可改基因型頻率，若無選擇、突變、遷移且忽略漂變，並不必然改等位基因頻率；故以基因庫等位基因穩定解讀B。不能由此宣稱仍滿足p²:2pq:q²的HW基因型平衡。",
+    "TCU-110-Q27": "D，同年釋疑維持。PIN2上側減少及下側相對增加有助形成auxin不對稱與根彎曲；釋疑另說需上下兩面協同。其引用2021綜述Figure1說下側PIN2暫增可能來自內吞與周轉減少，不能直接等同「合成增加」；保留公告與論文機制措辭的差異。",
+    "TCU-110-Q28": "B。Nod factors引起根毛Ca²⁺變化；菜豆研究觀察到局部胞質升高與外源流入，支持其參與分泌、細胞壁重塑，先於變形與捲曲。B為最直接早期反應，感染絲可受下游影響，並非宣稱缺鈣絕不影響C。此證據不把核周鈣振盪、尖端流入及所有下游反應當作同一事件；Fe對leghemoglobin的作用不是本題捲曲機制。",
+    "TCU-110-Q29": "D，同年釋疑維持。水分充足、較酸性葉片質外體可使ABA進入葉肉細胞；水分逆境提高質外體pH會讓ABA較多留於胞外並作用於保衛細胞。引文亦討論葉源ABA經韌皮部向根、再循木質部回流，不能據此宣稱成熟葉到另一葉全程只走木質部。保留題目對運輸路徑的簡化。",
+    "TCU-110-Q30": "官方來源衝突未定：答案表B，釋疑正文卻寫「維持原標準答案(D)」，結果欄寫維持原答案；不是明示B改D，不能自行決定最終採計。科學上單泛素化可改變蛋白活性、定位與互作，B有支持；它亦可促進受體內吞，不能從「不降解」推出D「抑制囊泡形成」。本題主次分類可確定，官方採計衝突仍另列UNRESOLVED_OFFICIAL_CONFLICT。",
+    "TCU-110-Q31": "C。典型GPCR有七個跨膜α螺旋；G蛋白使用GTP/GDP而非ATP，異三聚體活化不是三個亞基各自完全分離。植物G蛋白存在，但典型動物式GPCR及候選植物受體的功能認定有爭議，不以未限定的「植物一定不存在／一定相同」作簡化結論。",
+    "TCU-110-Q32": "B（II、III、IV），釋疑維持。一般真核有性生活史包含減數分裂、配子結合受精；不全有多細胞世代交替或孢子。酵母交配細胞可功能性充當配子，不能要求均有動物精卵形態。本輪未閱讀公告所列酵母論文全文。",
+    "TCU-110-Q33": "D。H⁺-ATPase用ATP建立電化學梯度，胺基酸可隨H⁺共運輸進入；能量消耗是泵的上游作用，不能說每個共運輸載體直接水解ATP。",
+    "TCU-110-Q34": "A。膜脂可快速側向移動，兩層間自發flip-flop罕見，酵素可促進；疏水尾朝內、親水頭向水相，膜蛋白並非全都固定不動。",
+    "TCU-110-Q35": "C。核心假設之一是標記與未標記個體有相同捕獲機會，並應適度混合；還需短期封閉族群、標記不脫落且不影響存活或捕獲等条件。不是原D所稱必須再捕超過50%的標記個體，也不能將C視為唯一充分條件。",
+    "TCU-110-Q36": "A。總體基因體學針對環境群集中多種生物的DNA共同取樣、定序與分析，可避免逐種培養。它不等於某個體全基因體，亦不等於只定序單一16S標記；原暫列21.2系統層級已依實際正文改正。",
+    "TCU-110-Q37": "D。核苷酸序列改變可形成新等位基因；重組主要重排既有等位基因。突變可能中性或同義，不保證每一個等位基因改變都改變可見表型或適應度。",
+    "TCU-110-Q38": "C。生殖隔離限制基因流；地理相隔與外形不同本身不是充分判準。生物學物種概念不適於所有無性生殖生物或化石，近緣種亦可能有部分雜交，不能擴成絕對零基因流。",
+    "TCU-110-Q39": "C，同年釋疑維持。一般phytochrome由Pr經紅光轉Pfr，Pfr可促進對光敏感種子萌芽；若題設令活性型持續存在，便減少對紅光轉換的需求。仍須水分、溫度等適宜，不保證任何種子任何環境都立即發芽。",
+    "TCU-110-Q40": "B，同年釋疑維持。原題藥名Ametryne保留；公告維持B，而B選項指出影響光系統II，教材p197–198呈現PSII→Pq→細胞色素→Pc→PSI次序。課本未逐項列此除草劑藥理，不能把正文當成藥名直接證據。",
+    "TCU-110-Q41": "A，原中文管胞而英文tracheary element廣指水分輸導細胞。管胞與導管分子成熟後失去活細胞內容，留下輸水管壁；篩管分子成熟時仍活著但失去細胞核，依賴伴細胞。去核不等於細胞死亡。",
+    "TCU-110-Q42": "D。課本Figure35.30中表皮細胞鄰接兩皮層細胞時GLABRA-2不表現而形成根毛；鄰接一個皮層細胞時表現而無毛。這是教材模型的定位訊息，不宣稱所有維管束植物皆用完全相同排布。",
+    "TCU-110-Q43": "B，同年釋疑維持。公告以中央區相對緩慢分裂及選項不夠明確維持B；科學上慢分裂不等於無法長期維持幹細胞群。不定生長是器官／組織持續供細胞，並非每一細胞無限、無調控分裂。莖高亦受節間伸長等影響，不能只由頂端細胞數決定。",
+    "TCU-110-Q44": "A，同年釋疑維持。NCBI表11質體內部密碼配置同標準碼，起始密碼子仍有差異；特殊質體也有例外，不能把A擴成所有質體的絕對通則。部分粒線體遺傳密碼不同於標準碼，因此不能保證所有細胞器解碼完全一致；葉綠體多沿用標準碼。二者各有細菌內共生來源，不是同一支祖先；基因組大小、序列與RNA編輯也不能以「相似」一概而論。",
+    "TCU-110-Q45": "B，同年釋疑維持。malate可對PEPC回饋抑制；C4光期與CAM夜期的磷酸化調節使酵素較不敏感。C4典型空間分隔、CAM時間分隔，不是兩者所有調控皆相同。課本支援路徑，抑制與磷酸化細節另引Jiao與Chollet的摘要。",
+    "TCU-110-Q46": "B。FT在葉產生後運至莖頂分生組織，非主要在莖頂才合成。FT屬PEBP（phosphatidylethanolamine-binding protein）家族，原A漏binding，保留用詞差異。FT/Hd3a可與14-3-3、FD形成花成活化複合體；FT自身不是典型DNA結合型轉錄因子。",
+    "TCU-110-Q47": "B。蘚苔孢子體依附親代配子體；幼孢子體仍可有光合作用，不能寫成完全不光合。游動精子、配子囊或角質層並非只存在蘚苔的唯一特徵。",
+    "TCU-110-Q48": "A。植物沒有動物式專門內分泌腺系統，激素可由多處組織產生；但動物也有腸胃、脂肪等兼具其他功能的內分泌組織，不是所有激素皆由單一專職腺體分泌。受體亦不全在細胞外表面。",
+    "TCU-110-Q49": "D為同年答案表採計：維管束植物大體呈孢子體增大、配子體縮小趨勢。原A「凡行有性生殖之植物」若植物限指陸生植物，其世代交替敘述亦可成立；若廣義納入藻類則不全成立。原題未清楚限定，且已取得釋疑未列Q49，故保留A/D範圍歧義，不宣稱A在所有定義下一定錯。分類仍可確定為植物生活史演化。",
+    "TCU-110-Q50": "A，依題設未列顯隱性關係的教材共顯性模型。供粉S1S2對受粉S1S3，GSI的S2花粉可伸長、比例1/2；共顯性SSI則因共享S1拒絕。對S1S2受粉者兩型皆拒絕。配子體型看單一花粉自身S基因；孢子體型看供粉親本的二倍體S表型。逐個花粉與受粉柱頭比對，不以花粉S基因單獨解釋孢子體型。真實SSI可有花粉／柱頭不同顯隱性，未給關係時不能任意指定。"
+  }
+}

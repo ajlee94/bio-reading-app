@@ -1,0 +1,74 @@
+﻿mode,chapter_number,chapter,count
+primary,42,Ch42 Circulation and Gas Exchange,4
+primary,14,Ch14 Mendel and the Gene Idea,3
+primary,16,Ch16 The Molecular Basis of Inheritance,3
+primary,38,Ch38 Angiosperm Reproduction and Biotechnology,3
+primary,39,Ch39 Plant Responses to Internal and External Signals,3
+primary,56,Ch56 Conservation Biology and Global Change,3
+primary,7,Ch07 Membrane Structure and Function,2
+primary,18,Ch18 Regulation of Gene Expression,2
+primary,20,Ch20 DNA Tools and Biotechnology,2
+primary,41,Ch41 Animal Nutrition,2
+primary,43,Ch43 The Immune System,2
+primary,49,Ch49 Nervous Systems,2
+primary,6,Ch06 A Tour of the Cell,1
+primary,8,Ch08 An Introduction to Metabolism,1
+primary,9,Ch09 Cellular Respiration and Fermentation,1
+primary,10,Ch10 Photosynthesis,1
+primary,13,Ch13 Meiosis and Sexual Life Cycles,1
+primary,19,Ch19 Viruses,1
+primary,22,Ch22 Descent with Modification: A Darwinian View of Life,1
+primary,24,Ch24 The Origin of Species,1
+primary,27,Ch27 Bacteria and Archaea,1
+primary,36,Ch36 Resource Acquisition and Transport in Vascular Plants,1
+primary,37,Ch37 Soil and Plant Nutrition,1
+primary,44,Ch44 Osmoregulation and Excretion,1
+primary,45,Ch45 Hormones and the Endocrine System,1
+primary,46,Ch46 Animal Reproduction,1
+primary,48,"Ch48 Neurons, Synapses, and Signaling",1
+primary,50,Ch50 Sensory and Motor Mechanisms,1
+primary,51,Ch51 Animal Behavior,1
+primary,52,Ch52 An Introduction to Ecology and the Biosphere,1
+primary,54,Ch54 Community Ecology,1
+secondary,39,Ch39 Plant Responses to Internal and External Signals,4
+secondary,6,Ch06 A Tour of the Cell,1
+secondary,9,Ch09 Cellular Respiration and Fermentation,1
+secondary,14,Ch14 Mendel and the Gene Idea,1
+secondary,17,Ch17 Gene Expression: From Gene to Protein,1
+secondary,37,Ch37 Soil and Plant Nutrition,1
+secondary,43,Ch43 The Immune System,1
+secondary,45,Ch45 Hormones and the Endocrine System,1
+secondary,46,Ch46 Animal Reproduction,1
+secondary,54,Ch54 Community Ecology,1
+both,39,Ch39 Plant Responses to Internal and External Signals,7
+both,14,Ch14 Mendel and the Gene Idea,4
+both,42,Ch42 Circulation and Gas Exchange,4
+both,16,Ch16 The Molecular Basis of Inheritance,3
+both,38,Ch38 Angiosperm Reproduction and Biotechnology,3
+both,43,Ch43 The Immune System,3
+both,56,Ch56 Conservation Biology and Global Change,3
+both,6,Ch06 A Tour of the Cell,2
+both,7,Ch07 Membrane Structure and Function,2
+both,9,Ch09 Cellular Respiration and Fermentation,2
+both,18,Ch18 Regulation of Gene Expression,2
+both,20,Ch20 DNA Tools and Biotechnology,2
+both,37,Ch37 Soil and Plant Nutrition,2
+both,41,Ch41 Animal Nutrition,2
+both,45,Ch45 Hormones and the Endocrine System,2
+both,46,Ch46 Animal Reproduction,2
+both,49,Ch49 Nervous Systems,2
+both,54,Ch54 Community Ecology,2
+both,8,Ch08 An Introduction to Metabolism,1
+both,10,Ch10 Photosynthesis,1
+both,13,Ch13 Meiosis and Sexual Life Cycles,1
+both,17,Ch17 Gene Expression: From Gene to Protein,1
+both,19,Ch19 Viruses,1
+both,22,Ch22 Descent with Modification: A Darwinian View of Life,1
+both,24,Ch24 The Origin of Species,1
+both,27,Ch27 Bacteria and Archaea,1
+both,36,Ch36 Resource Acquisition and Transport in Vascular Plants,1
+both,44,Ch44 Osmoregulation and Excretion,1
+both,48,"Ch48 Neurons, Synapses, and Signaling",1
+both,50,Ch50 Sensory and Motor Mechanisms,1
+both,51,Ch51 Animal Behavior,1
+both,52,Ch52 An Introduction to Ecology and the Biosphere,1

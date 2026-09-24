@@ -1,0 +1,231 @@
+[
+  {
+    "id": "S01",
+    "title": "Penn State：Red Tides（Bralower與Bice教材）",
+    "urls": [
+      "https://courses.ems.psu.edu/earth103/node/689",
+      "https://www.e-education.psu.edu/earth103/node/689"
+    ],
+    "finding": "赤潮常由渦鞭藻大量繁生引起，矽藻亦有少見案例。與本年度Q8釋疑引用的教材一致，不能將Campbell舉例改寫成只有渦鞭藻才可能造成赤潮。",
+    "read_scope": "本輪搜尋所呈現作者教材相關段落；不是所有課程內容實讀。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU112官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "1e69db26d63d269af554f13423eaf468178a6c94abb466edd58557b9648b86e1"
+  },
+  {
+    "id": "S02",
+    "title": "John H. McDonald：Myths of Human Genetics — Tongue Rolling",
+    "urls": [
+      "https://udel.edu/~mcdonald/mythtongueroll.html"
+    ],
+    "finding": "作者整理家族與雙胞胎證據，捲舌並非可靠的單基因顯隱性人類性狀例子。Q16的1/4只能在題設孟德爾模型下成立。",
+    "read_scope": "本輪作者網站搜尋返回的家族、雙胞胎與結論段落；未取得所引各研究全文。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU112官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "e545b8aa3c4289cb126b12d52d8e4d600fdfa03a49bc4f408b19f573b7e90ff0"
+  },
+  {
+    "id": "S03",
+    "title": "CDC Pink Book：Human Papillomavirus疫苗組成",
+    "urls": [
+      "https://www.cdc.gov/pinkbook/hcp/table-of-contents/chapter-11-human-papillomavirus.html"
+    ],
+    "finding": "HPV疫苗以重組L1蛋白構成病毒樣顆粒，九價製劑涵蓋多種型別，接種對象包含男性與女性。癌症預防用途不等同治療已成立的癌症。",
+    "read_scope": "本輪CDC疫苗特性及性別適用段落；用於概念辨識，不提供個人接種時程或宣稱本地2023產品清單。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU112官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "d83ebd4047ba0cfe9f756f1af610c9b1baa66f6fe445985be2cbee74e0425ed2"
+  },
+  {
+    "id": "S04",
+    "title": "Gu等2020：Rapid pathogen detection by metagenomic next-generation sequencing of infected body fluids",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/33169017/"
+    ],
+    "finding": "2020原始研究已以Illumina及nanopore對臨床體液進行病原檢測。因此Q24釋疑對當時國內常規快速檢驗的採計口徑，不能泛化成NGS不能作臨床病原鑑定。研究中的nanopore快速結果須與第三代定序概念分開。",
+    "read_scope": "本輪PubMed完整摘要及Figure 1圖說文字；未讀出版商全文，不以研究中的nanopore時間代表所有第二代平台。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU112官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "cd1c0b939ffb477329bf479845850500a3b78af27ad1634343861ea095e90340"
+  },
+  {
+    "id": "S05",
+    "title": "FDA 2007：Diagnostic Tests Statistical Guidance",
+    "urls": [
+      "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/statistical-guidance-reporting-results-studies-evaluating-diagnostic-tests-guidance-industry-and-fda"
+    ],
+    "finding": "敏感度TP/(TP+FN)、特異度TN/(FP+TN)、陽性預測值TP/(TP+FP)的分母不同。假陽性率為1減特異度；固定敏感度與特異度時，盛行率影響陽性預測值。",
+    "read_scope": "本輪官方HTML詞彙表與比較方法段落；只採用診斷表定義，未引用其似然比條目。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU112官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "0e44dd7d64f5d18fe002898164b055a37dcdd4e28c830948d63955959c25cef6"
+  },
+  {
+    "id": "S06",
+    "title": "Tsao、Wu與Liu 1989：Transcription-driven supercoiling of DNA",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/2535966/"
+    ],
+    "finding": "原始體外實驗支持移動RNA聚合酶前方產生正超螺旋、後方負超螺旋的雙區域模型。Q29的兩旁都旋得更緊不是精確描述，拓樸異構酶解除拓樸應力的分類仍成立。",
+    "read_scope": "本輪PubMed完整摘要；未讀期刊全文。DOI 10.1016/0092-8674(89)90989-6。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU112官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "c8f5f0db3af9b9f94377f43080fd09785e024765c9efc470446cf572d0ef7d30"
+  },
+  {
+    "id": "S07",
+    "title": "Guirouilh-Barbat等與Mao等：NHEJ準確度的條件界線",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/18093953/",
+      "https://pubmed.ncbi.nlm.nih.gov/18675941/"
+    ],
+    "finding": "非同源末端接合不依賴長同源模板，處理受損末端可產生插入或缺失；但相容末端也能精確接合，不能把所有NHEJ事件視為必定錯誤。",
+    "read_scope": "本輪兩篇原始研究PubMed摘要，分別核對KU80/XRCC4背景及NHEJ與HR比較；未讀全文。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU112官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "b481391f6af18858ede0a96d4c59288689bc936190877e38bf3d7902efe4e983"
+  },
+  {
+    "id": "S08",
+    "title": "Adamczyk等2008、2010：刺絲囊小型膠原與軟骨素支架",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/18206162/",
+      "https://pubmed.ncbi.nlm.nih.gov/20538610/"
+    ],
+    "finding": "小型膠原參與刺絲管結構；Hydra及Nematostella研究亦發現成熟前的軟骨素支架。囊泡腔在拓樸上不是自由細胞質，不能將Q32的簡化多醣描述視為完整結構，也不能反向宣稱絲管完全不含醣。",
+    "read_scope": "本輪兩篇PubMed原始研究摘要；PMC2919125直接開啟遇驗證頁，未取得該PMC全文。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU112官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "e190be6f8cb35c6677e762b9ef8ff8348f282f74f2a00c4fd9c2a459938950b3"
+  },
+  {
+    "id": "S09",
+    "title": "Frisch與Francis 1994：Disruption of epithelial cell-matrix interactions induces apoptosis",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/8106557/"
+    ],
+    "finding": "原始上皮細胞研究顯示失去基質接觸可誘發anoikis，支持ECM依賴的存活效應；效應依細胞型態而異。Q35「可以保護細胞免於凋亡」存在成立情境，官方B採計與科學判斷須分開。",
+    "read_scope": "本輪PubMed完整摘要；未取得全文。DOI 10.1083/jcb.124.4.619。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU112官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "92f71f6b3195c29b931f57ff177efd99f33befe147d8a878267ff33599608b3a"
+  },
+  {
+    "id": "S10",
+    "title": "Nobel Prize：1969生理學或醫學獎官方得主名單",
+    "urls": [
+      "https://www.nobelprize.org/nobel_prizes/medicine/laureates/1969/"
+    ],
+    "finding": "1969年得主為Max Delbrück、Alfred D. Hershey及Salvador E. Luria，不含Martha Chase；Q40官方釋疑的Chase得獎說法有誤。",
+    "read_scope": "本輪官方網域搜尋呈現的得主名單；新版summary頁直接開啟出錯，不宣稱該頁全文讀取成功。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU112官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "63575067506494445efd9a95c4d63bf80d482d6746057b497c94d82eb339d643"
+  },
+  {
+    "id": "S11",
+    "title": "NHGRI Western Blot與NCI Immunohistochemistry定義",
+    "urls": [
+      "https://www.genome.gov/genetics-glossary/Western-Blot",
+      "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/immunohistochemistry"
+    ],
+    "finding": "Western blot以抗體辨識分離後的蛋白質，IHC以抗體偵測組織抗原。它們和ELISA可評估蛋白質，與Northern或經逆轉錄的RNA分析不同；IHC染色強度不是未經校準的絕對定量。",
+    "read_scope": "本輪官方詞彙定義與Western blot解說段落；ELISA判斷另核對本年度Q41官方釋疑，不宣稱這兩頁列出全部三種方法。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU112官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "f64434e1da4eec2e943fcf47f6fcfc2a980b83d2da5b3ed97eec844630609394"
+  },
+  {
+    "id": "S12",
+    "title": "EMBL-EBI：Mass spectrometry與Proteomics bioinformatics課程資料",
+    "urls": [
+      "https://www.ebi.ac.uk/training/online/courses/metabolomics-introduction/designing-a-metabolomics-study/mass-spectrometry/",
+      "https://www.ebi.ac.uk/training/events/proteomics-bioinformatics-2026/"
+    ],
+    "finding": "代謝體質譜偵測離子質荷比、強度及時間；蛋白體流程可由質譜譜圖辨識與定量胜肽進而分析蛋白質，故Q42質譜涵蓋兩者。",
+    "read_scope": "本輪EMBL-EBI質譜教學頁正文與蛋白體課程概述；未參與課程或操作質譜儀。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU112官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "f994faf4e1f95141e4003c7de8ad9365c99c873b9bb143b9c98ea64585dd42d5"
+  },
+  {
+    "id": "S13",
+    "title": "2017 anti-CD27臨床研究與1997／2002 AC133研究",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/28463630/",
+      "https://pubmed.ncbi.nlm.nih.gov/9389720/",
+      "https://pubmed.ncbi.nlm.nih.gov/12042327/",
+      "https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/checkpoint-inhibitors"
+    ],
+    "finding": "CD27具有T細胞共同刺激角色；AC133/CD133研究以造血幹／前驅細胞表面標記描述。Q43釋疑採含刺激與抑制的廣義檢查點，故D與其餘選項區分。",
+    "read_scope": "本輪三篇原始研究PubMed摘要；未讀全文。另實讀NCI檢查點說明與圖說以核對PD-L1細胞表面配體及CTLA4；Campbell974僅支援癌症與免疫關係，未逐一列出這些蛋白。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU112官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "4025ccb25a6d6e1b0699f4d611711a78e5770b6496c94691c2573a4c38e512a9"
+  },
+  {
+    "id": "S14",
+    "title": "2004：Histone H4 histidine kinase activity in human fetal liver and hepatocellular carcinoma",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/15240507/"
+    ],
+    "finding": "研究已檢出H4組胺酸激酶活性，故不能將Q44採D解釋成histidine絕不可能磷酸化。本題2023釋疑限於列為關鍵基因調控機制的修飾。",
+    "read_scope": "本輪PubMed搜尋索引呈現的原始研究摘要；直接開啟遇驗證頁，未取得全文。未聲稱2026所有histidine讀取蛋白均不存在。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU112官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "d45f4c6617bf590d6037e8c38c6b93c4f26023c3ae7f4afad496838ac73e1f24"
+  },
+  {
+    "id": "S15",
+    "title": "Tam等2008：Pseudogene-derived small interfering RNAs regulate gene expression in mouse oocytes",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/18404147/"
+    ],
+    "finding": "小鼠卵母細胞存在內源性siRNA及相關基因調控，反例早於112考試。siRNA不能普遍定義為外源性，且內源性證據不限Arabidopsis；Campbell以兩類前驅物結構差異辨識。",
+    "read_scope": "本輪PubMed完整摘要與相關圖說文字；未讀期刊全文。DOI 10.1038/nature06904。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU112官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "dbdd02204d5889076a51803e715621ca50b216e63d4b5d4f467f9886b7a8d8cf"
+  },
+  {
+    "id": "S16",
+    "title": "Kim等2020：The Architecture of SARS-CoV-2 Transcriptome",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7179501/"
+    ],
+    "finding": "冠狀病毒基因體RNA首先轉譯複製相關蛋白，較短的次基因體RNA編碼S等結構蛋白。Q26針對棘蛋白的轉譯步驟，不應將病毒RNA複製所需聚合酶與宿主轉譯機制混同。",
+    "read_scope": "本輪PMC原始論文搜尋索引呈現的Introduction與Figure 1文字；直接開啟遇驗證頁，未讀完整PMC全文。DOI 10.1016/j.cell.2020.04.011。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU112官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "f6e383824feae329374cdc7ce09e2259017251c87c327c04dacdd4b6f5450ca4"
+  },
+  {
+    "id": "S17",
+    "title": "1995：Isolation and characterisation of plant defensins from seeds",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/7628617/"
+    ],
+    "finding": "原始研究將plant defensins辨識為植物抗真菌蛋白。Q50中文「植物防禦素」依括號phytoalexins讀解，不可因中文近似而直接等同另一類defensins蛋白。",
+    "read_scope": "本輪PubMed搜尋索引摘要；直接開啟遇驗證頁，未取得全文。Phytoalexins功能另由本地Campbell印刷866支持。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU112官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "2f247af4bc29adc07ca1894cd95587475dbaa35af804bc152406e6ccad2b19cf"
+  }
+]

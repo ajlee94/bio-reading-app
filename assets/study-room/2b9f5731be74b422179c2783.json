@@ -1,0 +1,4045 @@
+[
+  {
+    "id": "CMU-115-Q01",
+    "school": "CMU",
+    "year": 115,
+    "q": 1,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 1,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "regions": [
+        [
+          40,
+          85.85199999999998,
+          560.32,
+          201.0519999999999
+        ]
+      ],
+      "image": "questions/Q01.png",
+      "sha256": "bc1ad459f0c0a280f09c5b3a7daa20f2bbdd55e548b3b695d48a9d32232178b9",
+      "width": 1041,
+      "height": 230,
+      "question_text": "1. 在肝臟細胞中，當升糖素（Glucagon）濃度升高時，下列哪種異位調控分子會減少，進而\n抑制糖解作用並活化糖質新生？\n(A) 檸檬酸（Citrate）\n(B) 三磷酸腺苷（ATP）\n(C) 乙醯輔酶A（Acetyl-CoA）\n(D) 果糖-2,6-雙磷酸（Fructose-2,6-bisphosphate）",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L0614",
+      "toc_line": 614,
+      "chapter": 9,
+      "concept": "9.6",
+      "title": "Regulation of Cellular Respiration via Feedback Mechanisms",
+      "printed_page": 183,
+      "body_pdf_page": 232,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        37
+      ],
+      "chapter_label": "Ch09 Cellular Respiration and Fermentation"
+    },
+    "secondary": [
+      {
+        "id": "L2743",
+        "toc_line": 2743,
+        "chapter": 41,
+        "concept": "41.5",
+        "title": "Regulation of Energy Storage",
+        "printed_page": 915,
+        "body_pdf_page": 964,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          46
+        ],
+        "chapter_label": "Ch41 Animal Nutrition"
+      }
+    ],
+    "primary_reason": "核心是以異位效應物調節糖解及糖質新生的代謝流量，採9.6酵素回饋調節最小條目。",
+    "secondary_reason": "41.5補充升糖素促進肝臟釋糖的生理調控，不將激素名稱直接當主分類。",
+    "answer_analysis": "D；F2,6BP下降使PFK-1活化減少、FBPase-1抑制解除。Campbell只提供調節框架，分子細節由原始研究補足。",
+    "textbook_evidence": [
+      {
+        "printed_page": 183,
+        "pdf_page": 232,
+        "text_file": "textbook_evidence/pdf-0232.txt",
+        "sha256": "e0e164e1bd6e9f4f1a8604dfa0b89bbb60492486e6a5a6597ba430818884aaf7"
+      },
+      {
+        "printed_page": 184,
+        "pdf_page": 233,
+        "text_file": "textbook_evidence/pdf-0233.txt",
+        "sha256": "a24a1c9c84e20b4ace23cbd7e06c6a3d71b6f6ccfabbc27b772442156b11ffd9"
+      },
+      {
+        "printed_page": 916,
+        "pdf_page": 965,
+        "text_file": "textbook_evidence/pdf-0965.txt",
+        "sha256": "d153f211471595d3817b8b8adbe5434434f9d4a15ce1ee0a32d61ba594c6cf32"
+      }
+    ],
+    "supplement_ids": [
+      "S01"
+    ],
+    "coverage_note": "Campbell提供分類與核心框架；具名分子、應用細節或措辭校正另由列示來源補足。",
+    "second_review_id": "CMU-115-R2-Q01",
+    "issue_resolution_index": 0
+  },
+  {
+    "id": "CMU-115-Q02",
+    "school": "CMU",
+    "year": 115,
+    "q": 2,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 2,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "regions": [
+        [
+          40,
+          201.0519999999999,
+          560.32,
+          316.2819999999999
+        ]
+      ],
+      "image": "questions/Q02.png",
+      "sha256": "df8e0402b609a7ae61a319e3dccc840f7cc19153a12023e95613a33192d7c793",
+      "width": 1041,
+      "height": 231,
+      "question_text": "2. 下列何種酵素存在於肝臟內質網中，能讓肝臟將葡萄糖釋放至血液，但肌肉組織則缺乏此\n酵素？\n(A) 己糖激酶（Hexokinase）\n(B) 葡萄糖-6-磷酸酶（Glucose-6-phosphatase）\n(C) 磷酸果糖激酶1（Phosphofructokinase-1）\n(D) 丙酮酸激酶（Pyruvate kinase）",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L2743",
+      "toc_line": 2743,
+      "chapter": 41,
+      "concept": "41.5",
+      "title": "Regulation of Energy Storage",
+      "printed_page": 915,
+      "body_pdf_page": 964,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch41 Animal Nutrition"
+    },
+    "secondary": [
+      {
+        "id": "L0343",
+        "toc_line": 343,
+        "chapter": 6,
+        "concept": "6.4",
+        "title": "The Endoplasmic Reticulum: Biosynthetic Factory",
+        "printed_page": 104,
+        "body_pdf_page": 153,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          36
+        ],
+        "chapter_label": "Ch06 A Tour of the Cell"
+      }
+    ],
+    "primary_reason": "考肝臟能向血液輸出葡萄糖的組織特性；41.5血糖恆定內容位於Regulation of Energy Storage之下，較單限糖解或糖質新生精確。",
+    "secondary_reason": "6.4內質網條目保留題目指定的酵素膜系統位置；不是憑內質網一詞取代血糖功能主軸。",
+    "answer_analysis": "B；肝臟G6Pase系統位於ER，催化產生游離葡萄糖。骨骼肌缺乏支撐淨釋糖的肝型系統；勿擴大為所有G6Pase同功型均不存在。",
+    "textbook_evidence": [
+      {
+        "printed_page": 915,
+        "pdf_page": 964,
+        "text_file": "textbook_evidence/pdf-0964.txt",
+        "sha256": "ea29e08d83b858bdaf063849870592412ee08d84e6bc84fdfbb45f89df73033e"
+      },
+      {
+        "printed_page": 916,
+        "pdf_page": 965,
+        "text_file": "textbook_evidence/pdf-0965.txt",
+        "sha256": "d153f211471595d3817b8b8adbe5434434f9d4a15ce1ee0a32d61ba594c6cf32"
+      },
+      {
+        "printed_page": 104,
+        "pdf_page": 153,
+        "text_file": "textbook_evidence/pdf-0153.txt",
+        "sha256": "28f54efc6014c231d064754c6e6c87392167c3dabbd0b99b094a095fdc00f1e0"
+      },
+      {
+        "printed_page": 105,
+        "pdf_page": 154,
+        "text_file": "textbook_evidence/pdf-0154.txt",
+        "sha256": "80c7dfc003db4dea3b7e6d94aacf6a48816e4a6df7a3457209cd7f2cdb908c03"
+      }
+    ],
+    "supplement_ids": [
+      "S02"
+    ],
+    "coverage_note": "Campbell提供分類與核心框架；具名分子、應用細節或措辭校正另由列示來源補足。",
+    "second_review_id": "CMU-115-R2-Q02",
+    "issue_resolution_index": 1
+  },
+  {
+    "id": "CMU-115-Q03",
+    "school": "CMU",
+    "year": 115,
+    "q": 3,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 3,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "regions": [
+        [
+          40,
+          316.2819999999999,
+          560.32,
+          377.48199999999997
+        ]
+      ],
+      "image": "questions/Q03.png",
+      "sha256": "33bc92e4d58c081dbfa9066f7fae0c5e05a5c823e8783c344dca4e7ad644c1b9",
+      "width": 1041,
+      "height": 122,
+      "question_text": "3. 在植物光反應中，電子傳遞鏈的最終電子受體是？\n(A) 氧O (B) 水H O\n2 2\n(C) 二氧化碳CO (D) 菸鹼醯胺腺嘌呤二核苷酸磷酸(NADP+)\n2",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L0656",
+      "toc_line": 656,
+      "chapter": 10,
+      "concept": "10.3",
+      "title": "Linear Electron Flow",
+      "printed_page": 197,
+      "body_pdf_page": 246,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        37
+      ],
+      "chapter_label": "Ch10 Photosynthesis"
+    },
+    "secondary": [],
+    "primary_reason": "NADP+是線性電子流末端受體；循環電子流不產NADPH，故選Linear Electron Flow。",
+    "secondary_reason": "不增加呼吸電子傳遞章；本題明確限定植物光反應。",
+    "answer_analysis": "D；電子經PSI、ferredoxin及NADP+ reductase轉至NADP+形成NADPH。",
+    "textbook_evidence": [
+      {
+        "printed_page": 197,
+        "pdf_page": 246,
+        "text_file": "textbook_evidence/pdf-0246.txt",
+        "sha256": "16d5d01548d2dccdbcfd4ab7f0ac2e702e72f6bfcf91e46ea6c1450ec3e74db2"
+      },
+      {
+        "printed_page": 198,
+        "pdf_page": 247,
+        "text_file": "textbook_evidence/pdf-0247.txt",
+        "sha256": "9f08bb6603f4bfe02406f0bed8181bb043d0104ec355b3a529dd3e6133fe6be2"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q03",
+    "issue_resolution_index": 2
+  },
+  {
+    "id": "CMU-115-Q04",
+    "school": "CMU",
+    "year": 115,
+    "q": 4,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 4,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "regions": [
+        [
+          40,
+          377.48199999999997,
+          560.32,
+          456.70199999999994
+        ]
+      ],
+      "image": "questions/Q04.png",
+      "sha256": "c8113bbff41247e26c425d2df5f305ccd0bdbed770a45ee9a91ff58b0ecda0a5",
+      "width": 1041,
+      "height": 158,
+      "question_text": "4. 關於糖質新生（Gluconeogenesis）的起始步驟，丙酮酸必須先進入粒線體轉化為哪種分子\n後，再轉為蘋果酸輸出至細胞質？\n(A) 乙醯輔酶A（Acetyl-CoA） (B) 草醯乙酸（Oxaloacetate）\n(C) 檸檬酸（Citrate） (D) 丙二醯輔酶A（Malonyl-CoA）",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L0611",
+      "toc_line": 611,
+      "chapter": 9,
+      "concept": "9.6",
+      "title": "Biosynthesis (Anabolic Pathways)",
+      "printed_page": 183,
+      "body_pdf_page": 232,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        37
+      ],
+      "chapter_label": "Ch09 Cellular Respiration and Fermentation"
+    },
+    "secondary": [],
+    "primary_reason": "題目是從丙酮酸合成葡萄糖的同化途徑；Biosynthesis直接提到由pyruvate製造glucose，不能因oxaloacetate而誤列TCA主分類。",
+    "secondary_reason": "粒線體只是反應區室，不另計細胞構造章。",
+    "answer_analysis": "B；題目指定的malate輸出路線為pyruvate→oxaloacetate→malate。這是其中一條輸出路線，並非所有糖質新生均必經malate。",
+    "textbook_evidence": [
+      {
+        "printed_page": 183,
+        "pdf_page": 232,
+        "text_file": "textbook_evidence/pdf-0232.txt",
+        "sha256": "e0e164e1bd6e9f4f1a8604dfa0b89bbb60492486e6a5a6597ba430818884aaf7"
+      }
+    ],
+    "supplement_ids": [
+      "S03"
+    ],
+    "coverage_note": "Campbell提供分類與核心框架；具名分子、應用細節或措辭校正另由列示來源補足。",
+    "second_review_id": "CMU-115-R2-Q04",
+    "issue_resolution_index": 3
+  },
+  {
+    "id": "CMU-115-Q05",
+    "school": "CMU",
+    "year": 115,
+    "q": 5,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 5,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "regions": [
+        [
+          40,
+          456.70199999999994,
+          560.32,
+          517.9019999999999
+        ]
+      ],
+      "image": "questions/Q05.png",
+      "sha256": "56df4187ed588d0c580cf4787ff758e1ee46d0576e653d149e6c123582b43610",
+      "width": 1041,
+      "height": 123,
+      "question_text": "5. 在真核細胞中，負責蛋白質初步醣基化（N-linked glycosylation）的場所是？\n(A) 細胞質（Cytoplasm） (B) 溶體（Lysosome）\n(C) 高基氏體（Golgi apparatus） (D) 粗糙內質網（rER）",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L0343",
+      "toc_line": 343,
+      "chapter": 6,
+      "concept": "6.4",
+      "title": "The Endoplasmic Reticulum: Biosynthetic Factory",
+      "printed_page": 104,
+      "body_pdf_page": 153,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        36
+      ],
+      "chapter_label": "Ch06 A Tour of the Cell"
+    },
+    "secondary": [],
+    "primary_reason": "粗糙ER參與分泌蛋白的初步醣基化；目錄最小項是The Endoplasmic Reticulum: Biosynthetic Factory，不自造N-linked子目錄。",
+    "secondary_reason": "Golgi為干擾選項及後續修飾場所，不列次分類。",
+    "answer_analysis": "D；初步N-linked醣基化在粗糙ER，後續修飾可在Golgi進行。",
+    "textbook_evidence": [
+      {
+        "printed_page": 104,
+        "pdf_page": 153,
+        "text_file": "textbook_evidence/pdf-0153.txt",
+        "sha256": "28f54efc6014c231d064754c6e6c87392167c3dabbd0b99b094a095fdc00f1e0"
+      },
+      {
+        "printed_page": 105,
+        "pdf_page": 154,
+        "text_file": "textbook_evidence/pdf-0154.txt",
+        "sha256": "80c7dfc003db4dea3b7e6d94aacf6a48816e4a6df7a3457209cd7f2cdb908c03"
+      },
+      {
+        "printed_page": 106,
+        "pdf_page": 155,
+        "text_file": "textbook_evidence/pdf-0155.txt",
+        "sha256": "c778c375ecfbebfc4b2e6e792f9cd025f3efaa92e791122078fc4ad0945ac4a8"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q05",
+    "issue_resolution_index": 4
+  },
+  {
+    "id": "CMU-115-Q06",
+    "school": "CMU",
+    "year": 115,
+    "q": 6,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 6,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "regions": [
+        [
+          40,
+          517.9019999999999,
+          560.32,
+          615.102
+        ]
+      ],
+      "image": "questions/Q06.png",
+      "sha256": "7a25ed0ad6163807a80eaa15b48d5443506542457b772c934a7c3913c4bd3729",
+      "width": 1041,
+      "height": 194,
+      "question_text": "6. 在群落演替（Succession）中，先驅物種通常具有哪種特徵？\n(A) 生活史策略為r-選擇（r-selection），此類物種對後代照顧周全\n(B) 生活史策略為K-選擇（K-selection），此類物種產仔數多且小\n(C) 競爭力極強，壽命長且體型大\n(D) 壽命較短，競爭力通常較弱",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A或D",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [
+        8
+      ],
+      "clarification_disposition": "原A，更正為A或D"
+    },
+    "primary": {
+      "id": "L3633",
+      "toc_line": 3633,
+      "chapter": 54,
+      "concept": "54.3",
+      "title": "Ecological Succession",
+      "printed_page": 1229,
+      "body_pdf_page": 1278,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        50
+      ],
+      "chapter_label": "Ch54 Community Ecology"
+    },
+    "secondary": [
+      {
+        "id": "L3564",
+        "toc_line": 3564,
+        "chapter": 53,
+        "concept": "53.4",
+        "title": "“Trade-offs” and Life Histories",
+        "printed_page": 1201,
+        "body_pdf_page": 1250,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          49
+        ],
+        "chapter_label": "Ch53 Population Ecology"
+      }
+    ],
+    "primary_reason": "核心是演替初期先驅物種的拓殖特徵，主列Ecological Succession。",
+    "secondary_reason": "53.4生活史取捨支援短壽命、多後代及親代投資的比較。",
+    "answer_analysis": "原答案A；官方釋疑第8頁更正A或D，據此採計。A原文附加親代照顧周全與釋疑分析不一致；分類仍明確為演替及生活史，差異已留存而非改寫原題。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1229,
+        "pdf_page": 1278,
+        "text_file": "textbook_evidence/pdf-1278.txt",
+        "sha256": "cf29a551c8aa8295fb3418f7d2835a7a70eaea29f79bb98e4d35e9b3459cecff"
+      },
+      {
+        "printed_page": 1230,
+        "pdf_page": 1279,
+        "text_file": "textbook_evidence/pdf-1279.txt",
+        "sha256": "fb1408135a8d06966d7ff023391abb448165ea55b088e3cbe0d4b3e000c94af9"
+      },
+      {
+        "printed_page": 1201,
+        "pdf_page": 1250,
+        "text_file": "textbook_evidence/pdf-1250.txt",
+        "sha256": "20e53ac47e8bc6fd1d88cb54a6fb356bf9605dc1984e7bf1d829ba3ece5caf5e"
+      },
+      {
+        "printed_page": 1202,
+        "pdf_page": 1251,
+        "text_file": "textbook_evidence/pdf-1251.txt",
+        "sha256": "f644153a48a3558975f05e9d91254eb27c5d49407abf93f69c90b40f8e478696"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q06",
+    "issue_resolution_index": 5
+  },
+  {
+    "id": "CMU-115-Q07",
+    "school": "CMU",
+    "year": 115,
+    "q": 7,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 7,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "regions": [
+        [
+          40,
+          615.102,
+          560.32,
+          712.332
+        ]
+      ],
+      "image": "questions/Q07.png",
+      "sha256": "27eb5dd335b5ed4f45098329f2a31022253af166984077d7db091474f73493b3",
+      "width": 1041,
+      "height": 195,
+      "question_text": "7. 高海拔訓練能增加運動表現，主因是甚麼？\n(A) 低氣壓刺激皮質酮（Cortisol）產生\n(B) 缺氧刺激甲狀腺分泌甲狀腺素（Thyroxine）增加新陳代謝\n(C) 低氣壓刺激腦下垂體分泌生長激素（Growth hormone）長高壯\n(D) 缺氧刺激腎臟分泌紅血球生成素（Erythropoietin）增加紅血球產量",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L2802",
+      "toc_line": 2802,
+      "chapter": 42,
+      "concept": "42.4",
+      "title": "Blood Composition and Function",
+      "printed_page": 934,
+      "body_pdf_page": 983,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch42 Circulation and Gas Exchange"
+    },
+    "secondary": [],
+    "primary_reason": "教材在Blood Composition and Function下直接說明低氧→腎臟EPO→紅血球生成，主列42.4。",
+    "secondary_reason": "一般內分泌章不再重複列入；42.4已包含本題整條因果鏈。",
+    "answer_analysis": "D；低氧提高腎臟EPO分泌並刺激紅血球生成。",
+    "textbook_evidence": [
+      {
+        "printed_page": 934,
+        "pdf_page": 983,
+        "text_file": "textbook_evidence/pdf-0983.txt",
+        "sha256": "d64a005275c0e212caf03d4ee10e5b54e9daf869dc5c92ce2a953fce1c3c4875"
+      },
+      {
+        "printed_page": 935,
+        "pdf_page": 984,
+        "text_file": "textbook_evidence/pdf-0984.txt",
+        "sha256": "1fb9a57cfc806207ad7be22fde4f698dfab9bd9d81e1bff560db8e352164de77"
+      },
+      {
+        "printed_page": 936,
+        "pdf_page": 985,
+        "text_file": "textbook_evidence/pdf-0985.txt",
+        "sha256": "350dfe2872d7515300c2e07af75d6a154e9c8f0aa816d8a89595b038a1a1f039"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q07",
+    "issue_resolution_index": 6
+  },
+  {
+    "id": "CMU-115-Q08",
+    "school": "CMU",
+    "year": 115,
+    "q": 8,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 8,
+      "pdf_page": 2,
+      "printed_page": 2,
+      "regions": [
+        [
+          40,
+          712.332,
+          560.32,
+          796.92
+        ]
+      ],
+      "image": "questions/Q08.png",
+      "sha256": "37ab1bc156422a5ada90d67b84b87e4da4db00b00abda516ed1bf2c3d27968ee",
+      "width": 1041,
+      "height": 169,
+      "question_text": "8. 箭毒（Curare）是一種南美洲原住民塗在吹箭上的神經毒素，會導致獵物骨骼肌癱瘓甚至\n窒息死亡。箭毒最可能阻斷下列哪一種神經傳導物質的作用？\n(A) 多巴胺（Dopamine） (B) 血清素（Serotonin）\n(C) 乙醯膽鹼（Acetylcholine） (D) 麩胺酸（Glutamate）",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L3231",
+      "toc_line": 3231,
+      "chapter": 48,
+      "concept": "48.4",
+      "title": "Neurotransmitters",
+      "printed_page": 1080,
+      "body_pdf_page": 1129,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        48
+      ],
+      "chapter_label": "Ch48 Neurons, Synapses, and Signaling"
+    },
+    "secondary": [],
+    "primary_reason": "考箭毒阻斷神經肌肉接合處的ACh作用，最小目錄是Neurotransmitters。",
+    "secondary_reason": "骨骼肌癱瘓是突觸阻斷後果，不另列整套肌肉收縮分類。",
+    "answer_analysis": "C；curare拮抗神經肌肉接合處的菸鹼型乙醯膽鹼受體。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1080,
+        "pdf_page": 1129,
+        "text_file": "textbook_evidence/pdf-1129.txt",
+        "sha256": "537606980ee9c3458f60a3e203c015d4f369dc0e19aae716de0544d6d1869a12"
+      },
+      {
+        "printed_page": 1081,
+        "pdf_page": 1130,
+        "text_file": "textbook_evidence/pdf-1130.txt",
+        "sha256": "bed6f66c6b83101634fb74417258443df989b61eb00af7a1590898a275848c9f"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q08",
+    "issue_resolution_index": 7
+  },
+  {
+    "id": "CMU-115-Q09",
+    "school": "CMU",
+    "year": 115,
+    "q": 9,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 9,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "regions": [
+        [
+          40,
+          85.85199999999998,
+          560.32,
+          148.85199999999998
+        ]
+      ],
+      "image": "questions/Q09.png",
+      "sha256": "15872d26d17c1a270bed33c55def1ae24af9171f0b87d3bbdf6c03ed05e3f89f",
+      "width": 1041,
+      "height": 126,
+      "question_text": "9. 阿斯匹靈（Aspirin）止痛消炎的原理是抑制了哪種酵素，減少前列腺素的合成？\n(A) 環氧化酵素（Cyclooxygenase） (B) 脂氧合酶（Lipoxygenase）\n(C) 磷脂酶A2（Phospholipase A2） (D) 三磷酸腺苷合酶（ATPase）",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L2998",
+      "toc_line": 2998,
+      "chapter": 45,
+      "concept": "45.1",
+      "title": "Intercellular Information Flow",
+      "printed_page": 1000,
+      "body_pdf_page": 1049,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        47
+      ],
+      "chapter_label": "Ch45 Hormones and the Endocrine System"
+    },
+    "secondary": [],
+    "primary_reason": "前列腺素是旁分泌／自分泌的局部調節物；Intercellular Information Flow正文直接以aspirin阻止其合成為例。",
+    "secondary_reason": "疼痛與發炎是作用結果，不把整個免疫章列為主分類。",
+    "answer_analysis": "A；COX催化前列腺素合成途徑，aspirin抑制COX。教材明示抑制前列腺素合成，酵素名稱另有研究證據。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1000,
+        "pdf_page": 1049,
+        "text_file": "textbook_evidence/pdf-1049.txt",
+        "sha256": "eb74577a74820c7d29fb09be4e44ee9544f16e4c48acba6ef5b0fae9b954b505"
+      },
+      {
+        "printed_page": 1001,
+        "pdf_page": 1050,
+        "text_file": "textbook_evidence/pdf-1050.txt",
+        "sha256": "8d471031ce866f64c92e513115e5c0ebc276d893edede2505a5a503ceb17a5ab"
+      }
+    ],
+    "supplement_ids": [
+      "S04"
+    ],
+    "coverage_note": "Campbell提供分類與核心框架；具名分子、應用細節或措辭校正另由列示來源補足。",
+    "second_review_id": "CMU-115-R2-Q09",
+    "issue_resolution_index": 8
+  },
+  {
+    "id": "CMU-115-Q10",
+    "school": "CMU",
+    "year": 115,
+    "q": 10,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 10,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "regions": [
+        [
+          40,
+          148.85199999999998,
+          560.32,
+          283.88199999999995
+        ]
+      ],
+      "image": "questions/Q10.png",
+      "sha256": "4b736e4180d3d3b9320d46f38d8964275b35c59101904efefd89a857b73a0ea4",
+      "width": 1041,
+      "height": 270,
+      "question_text": "10. 下列哪項交互作用被稱為共同演化（Coevolution）？\n(A) 病毒的基因改變使其能夠利用新的宿主，而宿主則透過改變其受基因控制的棲所偏\n好（Habitat preferences）來回應病毒的選擇壓力\n(B) 人類使用真菌產生抗生素以及製造基改真菌，提升真菌增進其他生物的生存力，改\n善罹患疾病的壓力\n(C) 老鼠能夠在各種新環境中生存的能力，蟑螂對人類居住環境的適應\n(D) 郊狼為了應對人類棲息地的侵占，會將家犬和家貓納入其食料",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L2483",
+      "toc_line": 2483,
+      "chapter": 38,
+      "concept": "38.1",
+      "title": "Methods of Pollination",
+      "printed_page": 825,
+      "body_pdf_page": 874,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        45
+      ],
+      "chapter_label": "Ch38 Angiosperm Reproduction and Biotechnology"
+    },
+    "secondary": [
+      {
+        "id": "L3601",
+        "toc_line": 3601,
+        "chapter": 54,
+        "concept": "54.1",
+        "title": "Exploitation",
+        "printed_page": 1217,
+        "body_pdf_page": 1266,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          50
+        ],
+        "chapter_label": "Ch54 Community Ecology"
+      }
+    ],
+    "primary_reason": "Campbell索引將Coevolution指向p825；其相互施加選汰壓力的定義實際位於38.1 Methods of Pollination，故按教材真實位置主列此項。",
+    "secondary_reason": "54.1 Exploitation包含寄生互動，支援本題病毒與宿主情境；不將共同演化自造為Ch54目錄條目。",
+    "answer_analysis": "A；病毒與宿主均出現受對方選汰影響的可遺傳變化。B含人為改造，C與D未呈現雙方相互演化。題目未限定植物，主分類代表教材定義位置。",
+    "textbook_evidence": [
+      {
+        "printed_page": 825,
+        "pdf_page": 874,
+        "text_file": "textbook_evidence/pdf-0874.txt",
+        "sha256": "2303ba19cbffb49a37ffc8154044a3c4da964b147c982531e3451d4397b63d71"
+      },
+      {
+        "printed_page": 1217,
+        "pdf_page": 1266,
+        "text_file": "textbook_evidence/pdf-1266.txt",
+        "sha256": "e096f1765e1a66c32561893fa484e49c828e5c847bf4d8e066a242583564ecc9"
+      },
+      {
+        "printed_page": 1219,
+        "pdf_page": 1268,
+        "text_file": "textbook_evidence/pdf-1268.txt",
+        "sha256": "63dfa71bb4326c9cc9d52138410810f30c94af476e37164e0e7be3d47f5717e7"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q10",
+    "issue_resolution_index": 9
+  },
+  {
+    "id": "CMU-115-Q11",
+    "school": "CMU",
+    "year": 115,
+    "q": 11,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 11,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "regions": [
+        [
+          40,
+          283.88199999999995,
+          560.32,
+          346.88199999999995
+        ]
+      ],
+      "image": "questions/Q11.png",
+      "sha256": "c61569e90718f3612c2c2b5212d7dc9553f9085a8779357f854a92771d1e32f6",
+      "width": 1041,
+      "height": 126,
+      "question_text": "11. 所謂的「奠基者效應」（Founder effect）屬於演化動力中的\n(A) 自然選擇 (B) 基因流動\n(C) 遺傳漂變 (D) 非隨機交配",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L1455",
+      "toc_line": 1455,
+      "chapter": 23,
+      "concept": "23.3",
+      "title": "Genetic Drift",
+      "printed_page": 494,
+      "body_pdf_page": 543,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        41
+      ],
+      "chapter_label": "Ch23 The Evolution of Populations"
+    },
+    "secondary": [],
+    "primary_reason": "奠基者效應是少數個體建立族群造成的抽樣漂變，最小條目Genetic Drift已涵蓋。",
+    "secondary_reason": "不是遷移形成基因流，也不需要另列自然選擇。",
+    "answer_analysis": "C；小樣本奠基族群的等位基因頻率可因偶然抽樣偏離原族群。",
+    "textbook_evidence": [
+      {
+        "printed_page": 494,
+        "pdf_page": 543,
+        "text_file": "textbook_evidence/pdf-0543.txt",
+        "sha256": "083ff25dc821ec4a71d3ccca177ceadd1f156f9e01b2240d816a13558dcb360f"
+      },
+      {
+        "printed_page": 495,
+        "pdf_page": 544,
+        "text_file": "textbook_evidence/pdf-0544.txt",
+        "sha256": "160034125a80b5f167e8e62f70b74355e35a02c9c8f48a9c27a5118c382c9c82"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q11",
+    "issue_resolution_index": 10
+  },
+  {
+    "id": "CMU-115-Q12",
+    "school": "CMU",
+    "year": 115,
+    "q": 12,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 12,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "regions": [
+        [
+          40,
+          346.88199999999995,
+          560.32,
+          499.90199999999993
+        ]
+      ],
+      "image": "questions/Q12.png",
+      "sha256": "09ace6c5eb866bef9526de314cd8c1c4b701f283a37736a2b37886410fb0f6b2",
+      "width": 1041,
+      "height": 306,
+      "question_text": "12. 在真核細胞的細胞週期調控中，細胞週期的推進仰賴一系列細胞週期蛋白（Cyclin）—細\n胞週期蛋白依賴性激酶（Cdk）複合體的時序性活化。利用同步化細胞觀察發現：當特定\n蛋白質複合體活化時，細胞會迅速出現核膜解體、染色體凝縮與紡錘體形成等現象。根據\nMPF（Maturation-promoting factor）的分子組成與功能，下列敘述何者最正確？\n(A) MPF 由Cyclin 與CDK組成，驅動細胞由 G1 期進入S 期\n(B) MPF 活化會抑制核膜解體並維持染色體鬆散狀態，驅動細胞進入 G1期\n(C) MPF 為單一激酶蛋白，其活性在整個細胞週期中維持穩定，驅動細胞進入 G2 期\n(D) MPF 的激酶活性依賴 Cyclin 濃度的週期性累積，驅動細胞由 G2 期進入M 期",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L0789",
+      "toc_line": 789,
+      "chapter": 12,
+      "concept": "12.3",
+      "title": "The Cell Cycle Control System",
+      "printed_page": 244,
+      "body_pdf_page": 293,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        38
+      ],
+      "chapter_label": "Ch12 The Cell Cycle"
+    },
+    "secondary": [],
+    "primary_reason": "MPF的cyclin–Cdk週期性活化與G2→M控制屬The Cell Cycle Control System。",
+    "secondary_reason": "不另列一般訊號磷酸化章，因題目要求的是特定細胞週期開關。",
+    "answer_analysis": "D；MPF依賴cyclin累積而活化，促進染色體凝縮、核膜解體並進入M期。",
+    "textbook_evidence": [
+      {
+        "printed_page": 244,
+        "pdf_page": 293,
+        "text_file": "textbook_evidence/pdf-0293.txt",
+        "sha256": "793bd51ad9b442127e7ee84ea9a456f03739a4e7a72b79219e65045d9f91da4d"
+      },
+      {
+        "printed_page": 245,
+        "pdf_page": 294,
+        "text_file": "textbook_evidence/pdf-0294.txt",
+        "sha256": "3a83d29b495e2cbee26352c1ec9ca593e0e4b39c3e12494afc34a6f324f5aa42"
+      },
+      {
+        "printed_page": 246,
+        "pdf_page": 295,
+        "text_file": "textbook_evidence/pdf-0295.txt",
+        "sha256": "94d3eb02bc498cf4b3260081c1548665912433142a07689799d9e7327427db37"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q12",
+    "issue_resolution_index": 11
+  },
+  {
+    "id": "CMU-115-Q13",
+    "school": "CMU",
+    "year": 115,
+    "q": 13,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 13,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "regions": [
+        [
+          40,
+          499.90199999999993,
+          560.32,
+          616.9019999999999
+        ]
+      ],
+      "image": "questions/Q13.png",
+      "sha256": "627bdc0613e198cddef1f0fdf87d2643fee3f021ced31945e54211707d7ebb04",
+      "width": 1041,
+      "height": 234,
+      "question_text": "13. 研究人員將培養的哺乳動物細胞短暫暴露於 42°C 的高溫環境中。隨後進行蛋白質分析，\n發現某種特定蛋白質的表現量急遽上升。這種蛋白質最可能的功能是什麼？\n(A) 作為分子伴侶（Molecular chaperone）協助變性蛋白質重新折疊\n(B) 作為重組酶（Recombinase）直接切割受損的 DNA雙股，協助基因重組\n(C) 作為激酶（Kinase）加速細胞進入有絲分裂期，完成細胞分裂\n(D) 作為還原酶（Reductase）促進細胞膜脂質的過氧化，維持細胞完整",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L0268",
+      "toc_line": 268,
+      "chapter": 5,
+      "concept": "5.4",
+      "title": "Protein Structure and Function",
+      "printed_page": 78,
+      "body_pdf_page": 127,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        36,
+        39
+      ],
+      "chapter_label": "Ch05 The Structure and Function of Large Biological Molecules"
+    },
+    "secondary": [],
+    "primary_reason": "熱致變性及伴侶協助折疊屬蛋白質結構與功能，採5.4 Protein Structure and Function。",
+    "secondary_reason": "不因高溫反應而列動物體溫調節；也不把熱休克伴侶當不存在的目錄條目。",
+    "answer_analysis": "A；熱休克伴侶可抑制聚集並協助蛋白重新折疊。教材提供折疊／變性基礎，伴侶的實驗證據另列。",
+    "textbook_evidence": [
+      {
+        "printed_page": 78,
+        "pdf_page": 127,
+        "text_file": "textbook_evidence/pdf-0127.txt",
+        "sha256": "3f44790e583b4340d920d9180a78fc52c16a28fa70139078435780a023213d35"
+      },
+      {
+        "printed_page": 81,
+        "pdf_page": 130,
+        "text_file": "textbook_evidence/pdf-0130.txt",
+        "sha256": "334c42b756a3b5457a48d60978250e8d1927544dd58f67078a92ae717ef978fb"
+      },
+      {
+        "printed_page": 82,
+        "pdf_page": 131,
+        "text_file": "textbook_evidence/pdf-0131.txt",
+        "sha256": "ae17cf30d8501a4765419729698cbacf489024354483f0a6a183d32dade250f4"
+      },
+      {
+        "printed_page": 83,
+        "pdf_page": 132,
+        "text_file": "textbook_evidence/pdf-0132.txt",
+        "sha256": "311be6428b693dea260d533a9289a46afe929b8e16d713f4e712b111ec91aa2c"
+      }
+    ],
+    "supplement_ids": [
+      "S05"
+    ],
+    "coverage_note": "Campbell提供分類與核心框架；具名分子、應用細節或措辭校正另由列示來源補足。",
+    "second_review_id": "CMU-115-R2-Q13",
+    "issue_resolution_index": 12
+  },
+  {
+    "id": "CMU-115-Q14",
+    "school": "CMU",
+    "year": 115,
+    "q": 14,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 14,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "regions": [
+        [
+          40,
+          616.9019999999999,
+          560.32,
+          796.92
+        ]
+      ],
+      "image": "questions/Q14.png",
+      "sha256": "34a6160bacd2cc8e4e4fb854e108050c9df86ac2a26fe6bf260ffd2632dff4c6",
+      "width": 1041,
+      "height": 360,
+      "question_text": "14. 在真核細胞中，除了傳統的囊泡運輸系統外，細胞亦可透過外泌體（Exosomes）進行長距\n離細胞間訊息傳遞。外泌體源自多囊內體（Multivesicular bodies, MVBs），可攜帶蛋白質、\n脂質與核酸（如miRNA），並經胞吐作用釋放至細胞外環境，進而被其他細胞攝取。下列\n何者最正確描述外泌體的性質及其生理功能？\n(A) 外泌體是由核糖體合成的蛋白質複合物，能在細胞質中降解錯誤折疊的蛋白質\n(B) 外泌體作為細胞間訊息傳遞的載體，運送蛋白質與核酸以調控受體細胞功能\n(C) 外泌體能在細胞外液中進行氧化磷酸化作用，為遠端細胞提供 ATP\n(D) 外泌體直接驅動細胞分裂過程，促進細胞週期進行",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L0698",
+      "toc_line": 698,
+      "chapter": 11,
+      "concept": "11.1",
+      "title": "Local and Long-Distance Signaling",
+      "printed_page": 215,
+      "body_pdf_page": 264,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        38
+      ],
+      "chapter_label": "Ch11 Cell Communication"
+    },
+    "secondary": [
+      {
+        "id": "L0463",
+        "toc_line": 463,
+        "chapter": 7,
+        "concept": "7.5",
+        "title": "Exocytosis",
+        "printed_page": 139,
+        "body_pdf_page": 188,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          36
+        ],
+        "chapter_label": "Ch07 Membrane Structure and Function"
+      }
+    ],
+    "primary_reason": "選項辨識外泌體作為細胞間資訊載體的功能，主列Local and Long-Distance Signaling。",
+    "secondary_reason": "7.5 Exocytosis支援題目敘述的囊泡釋放；非以蛋白質降解或能量製造分類。",
+    "answer_analysis": "B；外泌體可向受體細胞傳遞功能性RNA等貨物。Campbell未收錄exosome專項，原始研究補足其特例。",
+    "textbook_evidence": [
+      {
+        "printed_page": 215,
+        "pdf_page": 264,
+        "text_file": "textbook_evidence/pdf-0264.txt",
+        "sha256": "8530f5b200421d1b1a68d0f02ae2e066c21117ce032af53148c427e6b4edd434"
+      },
+      {
+        "printed_page": 216,
+        "pdf_page": 265,
+        "text_file": "textbook_evidence/pdf-0265.txt",
+        "sha256": "38349fca5e0d99f524ff4211c28044160540f05d9db4abdfa8720abd97713f16"
+      },
+      {
+        "printed_page": 139,
+        "pdf_page": 188,
+        "text_file": "textbook_evidence/pdf-0188.txt",
+        "sha256": "60105772857968ad0283131ed0623f84754ff28032567d8820f13365a5688934"
+      }
+    ],
+    "supplement_ids": [
+      "S06"
+    ],
+    "coverage_note": "Campbell提供分類與核心框架；具名分子、應用細節或措辭校正另由列示來源補足。",
+    "second_review_id": "CMU-115-R2-Q14",
+    "issue_resolution_index": 13
+  },
+  {
+    "id": "CMU-115-Q15",
+    "school": "CMU",
+    "year": 115,
+    "q": 15,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 15,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "regions": [
+        [
+          40,
+          85.85199999999998,
+          560.32,
+          202.85199999999998
+        ]
+      ],
+      "image": "questions/Q15.png",
+      "sha256": "26cbc899f5c72e2fd60dd8e8c9e86d74fa48163e8f839be23a07662f4af4a3a1",
+      "width": 1041,
+      "height": 234,
+      "question_text": "15. Piezo1 為一種對機械力敏感的跨膜蛋白，當細胞膜變形時會開啟並引發離子流動。動物在\n缺失此蛋白後，出現觸覺與本體感覺異常。Piezo1 的主要生理功能為何？\n(A) 參與DNA損傷修復並增加轉錄效率，以維持基因體穩定性\n(B) 作為機械力感受的離子通道，將物理刺激轉換為電訊號\n(C) 促進溶酶體中蛋白質的分解與回收，清除受損細胞\n(D) 辨識外來抗原並啟動免疫反應，避免細胞受損",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L3341",
+      "toc_line": 3341,
+      "chapter": 50,
+      "concept": "50.1",
+      "title": "Types of Sensory Receptors",
+      "printed_page": 1110,
+      "body_pdf_page": 1159,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        49
+      ],
+      "chapter_label": "Ch50 Sensory and Motor Mechanisms"
+    },
+    "secondary": [],
+    "primary_reason": "物理形變開啟離子通道是機械感受器，對應50.1 Types of Sensory Receptors，並非聽覺器官限定的50.2。",
+    "secondary_reason": "DNA修復、溶體及免疫都是干擾選項，無次分類。",
+    "answer_analysis": "B；Piezo1與Piezo2均屬機械活化陽離子通道。觸覺／本體感覺的典型缺失證據主要為Piezo2；原題Piezo1措辭留註，不影響B與機械感受分類。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1110,
+        "pdf_page": 1159,
+        "text_file": "textbook_evidence/pdf-1159.txt",
+        "sha256": "10eaef9061868c7522b7c4807536f67bbcc743d80c13d9af73863a7826b5d482"
+      },
+      {
+        "printed_page": 1111,
+        "pdf_page": 1160,
+        "text_file": "textbook_evidence/pdf-1160.txt",
+        "sha256": "efa038154e7d1ef2687e4df874d444e07049a63aa2cdc19be07079373dea3be6"
+      }
+    ],
+    "supplement_ids": [
+      "S07"
+    ],
+    "coverage_note": "Campbell提供分類與核心框架；具名分子、應用細節或措辭校正另由列示來源補足。",
+    "second_review_id": "CMU-115-R2-Q15",
+    "issue_resolution_index": 14
+  },
+  {
+    "id": "CMU-115-Q16",
+    "school": "CMU",
+    "year": 115,
+    "q": 16,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 16,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "regions": [
+        [
+          40,
+          202.85199999999998,
+          560.32,
+          265.88199999999995
+        ]
+      ],
+      "image": "questions/Q16.png",
+      "sha256": "e8c160795af92075e1c8ce0e850eb553167acb7649c0f8fbe894fa2ae97bd38e",
+      "width": 1041,
+      "height": 126,
+      "question_text": "16. 維持血液中鈣離子濃度的恆定對於神經傳導和肌肉收縮至關重要。當血鈣濃度過低時，副\n甲狀腺素會分泌並協同哪一種維生素的活性形式來提高血鈣？\n(A) 維生素 A (B) 維生素 C (C) 維生素 D (D) 維生素 K",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L3036",
+      "toc_line": 3036,
+      "chapter": 45,
+      "concept": "45.3",
+      "title": "Parathyroid Hormone and Vitamin D: Control of Blood Calcium",
+      "printed_page": 1011,
+      "body_pdf_page": 1060,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        47
+      ],
+      "chapter_label": "Ch45 Hormones and the Endocrine System"
+    },
+    "secondary": [],
+    "primary_reason": "PTH與活性維生素D協同維持血鈣，存在完全對應的45.3最小條目。",
+    "secondary_reason": "不另列一般營養維生素或神經肌肉章，這些是背景與下游效應。",
+    "answer_analysis": "C；PTH與維生素D活性形式提高血鈣，包含促進腸道鈣吸收等作用。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1011,
+        "pdf_page": 1060,
+        "text_file": "textbook_evidence/pdf-1060.txt",
+        "sha256": "b0901bf36857f5067323be55245111647141aacbbb51a898442ca6861579cfab"
+      },
+      {
+        "printed_page": 1012,
+        "pdf_page": 1061,
+        "text_file": "textbook_evidence/pdf-1061.txt",
+        "sha256": "fefe648daa1fc783f79fccadab66042ae2a31d89a74f1e8ed130a5f433397883"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q16",
+    "issue_resolution_index": 15
+  },
+  {
+    "id": "CMU-115-Q17",
+    "school": "CMU",
+    "year": 115,
+    "q": 17,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 17,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "regions": [
+        [
+          40,
+          265.88199999999995,
+          560.32,
+          400.88199999999995
+        ]
+      ],
+      "image": "questions/Q17.png",
+      "sha256": "032ab364f82e371f5fc9c385a4af9ad964449d29e3f7bc5ed3a15bd83d21f847",
+      "width": 1041,
+      "height": 270,
+      "question_text": "17. 在骨骼肌收縮過程中，肌動蛋白（Actin）與肌球蛋白（Myosin）的交互作用受調控蛋白控\n制。在靜止狀態下，肌球蛋白結合位點被遮蔽；當肌漿網釋放鈣離子（Ca²⁺）進入肌漿時，\n會觸發分子變化，使肌肉開始收縮。Ca²⁺ 在此過程中的直接作用為何？\n(A) Ca²⁺ 與肌鈣蛋白結合，促使原肌球蛋白移位，暴露肌球蛋白結合位點\n(B) ATP 水解使肌動蛋白本身縮短，產生收縮力，抑制細胞運動\n(C) Ca²⁺ 促使 Z 線距離增加，導致肌節延長，促進肌絲滑動\n(D) Ca²⁺ 直接與肌動蛋白結合，促進肌絲滑動",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L3381",
+      "toc_line": 3381,
+      "chapter": 50,
+      "concept": "50.5",
+      "title": "Vertebrate Skeletal Muscle",
+      "printed_page": 1126,
+      "body_pdf_page": 1175,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        49
+      ],
+      "chapter_label": "Ch50 Sensory and Motor Mechanisms"
+    },
+    "secondary": [],
+    "primary_reason": "考骨骼肌薄肌絲的Ca2+調節機制，最小目錄Vertebrate Skeletal Muscle。",
+    "secondary_reason": "不另列訊號第二傳訊者；此處為肌鈣蛋白／原肌球蛋白的直接控制。",
+    "answer_analysis": "A；Ca2+與troponin結合使tropomyosin移位，暴露myosin結合位。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1126,
+        "pdf_page": 1175,
+        "text_file": "textbook_evidence/pdf-1175.txt",
+        "sha256": "0b94f22f6021b0a78934fe58f1ad875476274b844f47507c9b60f2aa041a5955"
+      },
+      {
+        "printed_page": 1127,
+        "pdf_page": 1176,
+        "text_file": "textbook_evidence/pdf-1176.txt",
+        "sha256": "061065b1bf9efef7d774d4671c35aab65ab07c9d6f5efa51a9e6f89020b23d65"
+      },
+      {
+        "printed_page": 1128,
+        "pdf_page": 1177,
+        "text_file": "textbook_evidence/pdf-1177.txt",
+        "sha256": "004ea105f3aacc98369dd6b38802264042f7107392022a8c66bf072a5fec031d"
+      },
+      {
+        "printed_page": 1129,
+        "pdf_page": 1178,
+        "text_file": "textbook_evidence/pdf-1178.txt",
+        "sha256": "e418e4403e47a268a6715e0c949d181abbc62fd06c1c5e593d70cc60dde696f9"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q17",
+    "issue_resolution_index": 16
+  },
+  {
+    "id": "CMU-115-Q18",
+    "school": "CMU",
+    "year": 115,
+    "q": 18,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 18,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "regions": [
+        [
+          40,
+          400.88199999999995,
+          560.32,
+          535.9019999999999
+        ]
+      ],
+      "image": "questions/Q18.png",
+      "sha256": "603f860ac02c999cf7aa31d5504773e17c05832bd46c9de0b7d852eeb1276601",
+      "width": 1041,
+      "height": 270,
+      "question_text": "18. 某藥物可抑制心肌細胞的 Na⁺/K⁺-ATPase。實驗結果顯示，細胞內 Na⁺ 濃度上升，並伴隨\n細胞腫脹現象；同時，細胞內 Ca²⁺ 濃度亦顯著增加。然而，該藥物並未直接作用於 Ca²⁺\n通道。最可能導致細胞內 Ca²⁺ 上升的機制為何？\n(A) 細胞腫脹改變電中性，促使 Ca²⁺ 被動流入細胞，加強Na⁺/Ca²⁺ 交換\n(B) Ca²⁺ 可直接穿越脂雙層自由擴散進入細胞，增加Ca²⁺濃度\n(C) ATP 濃度上升，促進主動運輸導致 Ca²⁺ 增加，Ca²⁺ 的累積\n(D) Na⁺ 濃度梯度下降，抑制 Na⁺/Ca²⁺ 交換器排出 Ca²⁺ 的能力",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [
+        8
+      ],
+      "clarification_disposition": "維持D"
+    },
+    "primary": {
+      "id": "L0456",
+      "toc_line": 456,
+      "chapter": 7,
+      "concept": "7.4",
+      "title": "Cotransport: Coupled Transport by a Membrane Protein",
+      "printed_page": 138,
+      "body_pdf_page": 187,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        36
+      ],
+      "chapter_label": "Ch07 Membrane Structure and Function"
+    },
+    "secondary": [
+      {
+        "id": "L0453",
+        "toc_line": 453,
+        "chapter": 7,
+        "concept": "7.4",
+        "title": "How Ion Pumps Maintain Membrane Potential",
+        "printed_page": 137,
+        "body_pdf_page": 186,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          36
+        ],
+        "chapter_label": "Ch07 Membrane Structure and Function"
+      }
+    ],
+    "primary_reason": "Na+梯度驅動另一種離子運輸，屬梯度耦合運輸；Cotransport下的原理支援NCX機制。",
+    "secondary_reason": "How Ion Pumps Maintain Membrane Potential支援被抑制的Na+/K+泵。NCX是反向運輸，不能照抄教材蔗糖同向運輸圖。",
+    "answer_analysis": "D；官方釋疑第8頁確認Na+梯度下降降低NCX排Ca2+能力；並非直接活化Ca2+通道。",
+    "textbook_evidence": [
+      {
+        "printed_page": 137,
+        "pdf_page": 186,
+        "text_file": "textbook_evidence/pdf-0186.txt",
+        "sha256": "dae08628541b74763aa914a4c3c6c6ac97d48256c97b34111062d5b82b4b714d"
+      },
+      {
+        "printed_page": 138,
+        "pdf_page": 187,
+        "text_file": "textbook_evidence/pdf-0187.txt",
+        "sha256": "26c3029e5ec80ff16962be585fc5307a65ace6bc184ca2941e37ed1d411397bf"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q18",
+    "issue_resolution_index": 17
+  },
+  {
+    "id": "CMU-115-Q19",
+    "school": "CMU",
+    "year": 115,
+    "q": 19,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 19,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "regions": [
+        [
+          40,
+          535.9019999999999,
+          560.32,
+          652.932
+        ]
+      ],
+      "image": "questions/Q19.png",
+      "sha256": "013c6997a73467345b0447b91b888a043c7fb310957188e9bb4ba7d585a9c077",
+      "width": 1041,
+      "height": 234,
+      "question_text": "19. 血紅素（Hemoglobin）負責體內 O₂ 運輸，其對 O₂ 的親和力會隨環境條件改變。在代謝\n旺盛的組織中，局部環境變化可促進 O₂ 釋放。何者最能正確描述其生理意義？\n(A) 組織代謝增加 CO₂ 產生並降低 pH，使血紅素對 O₂ 的親和力下降，促進 O₂ 釋放\n(B) 胎兒血紅素對 O₂ 的親和力低於成人，有利於自母體獲取 O₂ 和排放 CO₂\n(C) 血液 pH 上升會使 O₂ 解離曲線右移，增加釋放 O₂ 和排放CO₂\n(D) 波耳效應主要促進肺部內 pH 上升及血紅素釋放 O₂",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L2853",
+      "toc_line": 2853,
+      "chapter": 42,
+      "concept": "42.7",
+      "title": "Respiratory Pigments",
+      "printed_page": 947,
+      "body_pdf_page": 996,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch42 Circulation and Gas Exchange"
+    },
+    "secondary": [],
+    "primary_reason": "血紅素氧親和力及Bohr效應在Respiratory Pigments直接說明。",
+    "secondary_reason": "pH為調控因素，無須另計一般酸鹼章。",
+    "answer_analysis": "A；代謝旺盛處CO2增加、pH下降，使Hb降低O2親和力並釋氧。",
+    "textbook_evidence": [
+      {
+        "printed_page": 947,
+        "pdf_page": 996,
+        "text_file": "textbook_evidence/pdf-0996.txt",
+        "sha256": "08dec585200e44eed11e828d5148ae41da41d0c35a38dbdb96a8d6609acbbea0"
+      },
+      {
+        "printed_page": 948,
+        "pdf_page": 997,
+        "text_file": "textbook_evidence/pdf-0997.txt",
+        "sha256": "27405d76171118d9a6b8d1f017d16135808f921decb42c62390bfb1dbcb21b9f"
+      },
+      {
+        "printed_page": 949,
+        "pdf_page": 998,
+        "text_file": "textbook_evidence/pdf-0998.txt",
+        "sha256": "b9359d34747a36a67b2f48706db8210104018264697019e47ce601134d770eaa"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q19",
+    "issue_resolution_index": 18
+  },
+  {
+    "id": "CMU-115-Q20",
+    "school": "CMU",
+    "year": 115,
+    "q": 20,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 20,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "regions": [
+        [
+          40,
+          652.932,
+          560.32,
+          796.92
+        ]
+      ],
+      "image": "questions/Q20.png",
+      "sha256": "a6759d2965858343767d4c724bde9dbbe0ba93c94bdf1250b2001651ba1a24ff",
+      "width": 1041,
+      "height": 288,
+      "question_text": "20. 運動員在短時間高強度衝刺後，骨骼肌中乳酸（Lactate）濃度顯著上升。這是因為在氧氣\n供應不足時，細胞主要依賴無氧代謝（Anaerobic glycolysis）產生 ATP。當運動結束、氧\n氣供應恢復後，數分鐘內觀察到乳酸濃度逐漸下降。何者最能合理解釋乳酸下降的原因？\n(A) 氧氣可直接將乳酸轉化為葡萄糖，增加 ATP 產生\n(B) 乳酸可直接自發轉換為 ATP，供細胞利用代謝活動使用\n(C) 乳酸可轉換回丙酮酸（Pyruvate），重新進入有氧代謝途徑\n(D) 一旦恢復供氧，糖解作用會完全停止，恢復細胞的正常代謝",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L0595",
+      "toc_line": 595,
+      "chapter": 9,
+      "concept": "9.5",
+      "title": "Types of Fermentation",
+      "printed_page": 180,
+      "body_pdf_page": 229,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        37
+      ],
+      "chapter_label": "Ch09 Cellular Respiration and Fermentation"
+    },
+    "secondary": [],
+    "primary_reason": "乳酸發酵後的乳酸可回到pyruvate並接回有氧代謝，採Types of Fermentation。",
+    "secondary_reason": "不把供氧恢復誤作停止糖解，也不另列一般肌肉章。",
+    "answer_analysis": "C；乳酸轉回丙酮酸後可被氧化；乳酸清除亦有其他去向，本題選項C正確且不宣稱唯一途徑。",
+    "textbook_evidence": [
+      {
+        "printed_page": 180,
+        "pdf_page": 229,
+        "text_file": "textbook_evidence/pdf-0229.txt",
+        "sha256": "18588f46349c23d6916fd9023af1c54fa9e4ae7740e7204897e5505d8919ec3d"
+      },
+      {
+        "printed_page": 181,
+        "pdf_page": 230,
+        "text_file": "textbook_evidence/pdf-0230.txt",
+        "sha256": "dbfccd7af24f678592c4fc34f8ffa2c1c0b5ee6702ca22559cf4f9860887c89f"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q20",
+    "issue_resolution_index": 19
+  },
+  {
+    "id": "CMU-115-Q21",
+    "school": "CMU",
+    "year": 115,
+    "q": 21,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 21,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "regions": [
+        [
+          40,
+          85.85199999999998,
+          560.32,
+          183.0519999999999
+        ]
+      ],
+      "image": "questions/Q21.png",
+      "sha256": "7b55cd4bd60663920a28d20dd804f8903cf3fac93da091bdcfbf7a213e661057",
+      "width": 1041,
+      "height": 194,
+      "question_text": "21. 呼吸系統中，肺泡（Alveoli）與周圍微血管形成極薄的氣體交換界面。氧氣由肺泡進入血\n液，而二氧化碳則由血液擴散至肺泡，其過程依賴氣體在兩側的分壓差（Partial pressure\ngradient），且不涉及能量消耗或膜蛋白運輸。下列何者最能正確描述此氣體運輸方式？\n(A) 主動運輸（Active transport） (B) 促進性擴散（Facilitated diffusion）\n(C) 簡單擴散（Simple diffusion） (D) 胞吞作用（Endocytosis）",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L0436",
+      "toc_line": 436,
+      "chapter": 7,
+      "concept": "7.3",
+      "title": "Passive transport is diffusion of a substance across a membrane with no energy investment",
+      "printed_page": 132,
+      "body_pdf_page": 181,
+      "kind": "concept",
+      "toc_pdf_pages": [
+        36
+      ],
+      "chapter_label": "Ch07 Membrane Structure and Function"
+    },
+    "secondary": [
+      {
+        "id": "L2812",
+        "toc_line": 2812,
+        "chapter": 42,
+        "concept": "42.5",
+        "title": "Partial Pressure Gradients in Gas Exchange",
+        "printed_page": 939,
+        "body_pdf_page": 988,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          46
+        ],
+        "chapter_label": "Ch42 Circulation and Gas Exchange"
+      }
+    ],
+    "primary_reason": "題目要求辨識不耗能、不用運輸蛋白的擴散方式，主列7.3概念本身的直接擴散段落。其兩個子條目只談滲透或促進性擴散，不能硬套。",
+    "secondary_reason": "42.5 Partial Pressure Gradients in Gas Exchange支援肺泡／血液氣體分壓的特定驅動力。",
+    "answer_analysis": "C；O2與CO2沿分壓差簡單擴散，無需泵或運輸蛋白。",
+    "textbook_evidence": [
+      {
+        "printed_page": 132,
+        "pdf_page": 181,
+        "text_file": "textbook_evidence/pdf-0181.txt",
+        "sha256": "15df8322d7f3e2f3643953d0fe8ca6a8367e7d26850069977f5a320ed668fc49"
+      },
+      {
+        "printed_page": 133,
+        "pdf_page": 182,
+        "text_file": "textbook_evidence/pdf-0182.txt",
+        "sha256": "a891eddb4fd6c31757fd5f540fa190cb5946d67c5f6da952a46b32ab336664bc"
+      },
+      {
+        "printed_page": 939,
+        "pdf_page": 988,
+        "text_file": "textbook_evidence/pdf-0988.txt",
+        "sha256": "1a35ea6189781bf21718207c440199479002f16a87dd96c97e0fc07635f54b53"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q21",
+    "issue_resolution_index": 20
+  },
+  {
+    "id": "CMU-115-Q22",
+    "school": "CMU",
+    "year": 115,
+    "q": 22,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 22,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "regions": [
+        [
+          40,
+          183.0519999999999,
+          560.32,
+          298.2819999999999
+        ]
+      ],
+      "image": "questions/Q22.png",
+      "sha256": "0ca927e0373293607f507414e45d1afa64cdb74356469f33dbe59f812547360f",
+      "width": 1041,
+      "height": 231,
+      "question_text": "22. 飲食中的脂肪酸組成對心血管健康有重大影響。相較於飽和脂肪酸，多元不飽和脂肪酸在\n細胞膜結構上具有什麼特性，且通常被認為對心血管有益？\n(A) 碳氫鏈完全筆直，增加細胞膜的剛性，防止物質流動\n(B) 含有多個雙鍵造成碳鏈彎折，增加細胞膜的流動性\n(C) 能直接轉化為膽固醇，修復受損血管，改善物質流動\n(D) 完全不溶於脂質雙層，形成保護性外殼，不受外來物質攻擊",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L0411",
+      "toc_line": 411,
+      "chapter": 7,
+      "concept": "7.1",
+      "title": "The Fluidity of Membranes",
+      "printed_page": 128,
+      "body_pdf_page": 177,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        36
+      ],
+      "chapter_label": "Ch07 Membrane Structure and Function"
+    },
+    "secondary": [],
+    "primary_reason": "cis不飽和脂肪酸碳鏈彎折減少緊密堆積，直接對應The Fluidity of Membranes。",
+    "secondary_reason": "心血管健康是題幹情境，不增加循環疾病分類。",
+    "answer_analysis": "B；以天然cis不飽和脂肪酸為背景，多個雙鍵造成彎折並提高膜流動性；不泛稱所有雙鍵含trans都造成同等彎折。",
+    "textbook_evidence": [
+      {
+        "printed_page": 128,
+        "pdf_page": 177,
+        "text_file": "textbook_evidence/pdf-0177.txt",
+        "sha256": "7118623d1387b6b4caad5846f60559c24afd7e923cd19a9d0d7b150c9c9db651"
+      },
+      {
+        "printed_page": 129,
+        "pdf_page": 178,
+        "text_file": "textbook_evidence/pdf-0178.txt",
+        "sha256": "2585e75d0b7cd9da742f1f339330c18e4becb9fc81961ecafeef465cb0a81dae"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q22",
+    "issue_resolution_index": 21
+  },
+  {
+    "id": "CMU-115-Q23",
+    "school": "CMU",
+    "year": 115,
+    "q": 23,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 23,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "regions": [
+        [
+          40,
+          298.2819999999999,
+          560.32,
+          413.48199999999997
+        ]
+      ],
+      "image": "questions/Q23.png",
+      "sha256": "53a042156cfc5648af95a3125c1bb6f16d0a069516219b7ade79064c6e05de31",
+      "width": 1041,
+      "height": 230,
+      "question_text": "23. 在真核生物中，線性染色體於 DNA複製時會面臨末端複製難題。為維持染色體穩定性，\n端粒與端粒酶扮演關鍵角色。下列關於端粒與端粒酶的敘述，何者錯誤？\n(A) 端粒由高度重複的非編碼序列構成，作為緩衝區以保護關鍵基因不被截短\n(B) 端粒酶抑制劑可作為廣效抗生素，透過抑制病原細菌端粒複製來阻斷其增殖\n(C) 端粒酶為一種反轉錄酶，利用其內部 RNA作為模板延長DNA 末端\n(D) 端粒酶在生殖細胞與幹細胞活性高，多數體細胞因其活性低而具有複製次數限制",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L1019",
+      "toc_line": 1019,
+      "chapter": 16,
+      "concept": "16.2",
+      "title": "Replicating the Ends of DNA Molecules",
+      "printed_page": 328,
+      "body_pdf_page": 377,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        39
+      ],
+      "chapter_label": "Ch16 The Molecular Basis of Inheritance"
+    },
+    "secondary": [],
+    "primary_reason": "末端複製難題、端粒及端粒酶均在Replicating the Ends of DNA Molecules。",
+    "secondary_reason": "細菌是錯誤選項用來區辨的對象，不新增微生物章。",
+    "answer_analysis": "B是錯誤敘述；一般細菌沒有真核式端粒／端粒酶系統，不能作廣效抗生素的一般靶點。",
+    "textbook_evidence": [
+      {
+        "printed_page": 328,
+        "pdf_page": 377,
+        "text_file": "textbook_evidence/pdf-0377.txt",
+        "sha256": "b840e2aee15956379c09199d6c99c94840c4716dcfb83bd5e3f8a21efdcc0033"
+      },
+      {
+        "printed_page": 329,
+        "pdf_page": 378,
+        "text_file": "textbook_evidence/pdf-0378.txt",
+        "sha256": "1f538c3fbecb4b85eac0e1baef26dfe7d05ed8b0f0857ec8d517d977c572e47b"
+      },
+      {
+        "printed_page": 330,
+        "pdf_page": 379,
+        "text_file": "textbook_evidence/pdf-0379.txt",
+        "sha256": "592786f43db21cf2406bb177a98c25d640a9aebc3426ea80436c702ad3bbcfc9"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q23",
+    "issue_resolution_index": 22
+  },
+  {
+    "id": "CMU-115-Q24",
+    "school": "CMU",
+    "year": 115,
+    "q": 24,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 24,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "regions": [
+        [
+          40,
+          413.48199999999997,
+          560.32,
+          546.702
+        ]
+      ],
+      "image": "questions/Q24.png",
+      "sha256": "7393bb5ba54241c7a32c7d1e017bf4b3193ecf796eed129c5ff3b5d481e443d7",
+      "width": 1041,
+      "height": 267,
+      "question_text": "24. 在動物內分泌系統中，激素的訊息傳遞方式與其化學性質密切相關。相較於胜肽激素多透\n過細胞膜受體與第二訊使傳遞訊號，類固醇激素則展現不同的作用模式，其效應通常較慢\n但持久。下列何者最能解釋類固醇激素的作用方式？\n(A) 為水溶性分子，可在血液中自由運輸而不需載體蛋白，協助細胞進出\n(B) 結合細胞膜上的 G蛋白偶聯受體，經由 cAMP 作為第二訊使傳遞訊號\n(C) 穿越細胞膜後與胞內受體結合，形成轉錄調控複合體以調節基因表現\n(D) 活化細胞膜上的受體酪胺酸激酶，引發細胞內激酶級聯反應，增加細胞代謝功能",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L3004",
+      "toc_line": 3004,
+      "chapter": 45,
+      "concept": "45.1",
+      "title": "Cellular Hormone Response Pathways",
+      "printed_page": 1002,
+      "body_pdf_page": 1051,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        47
+      ],
+      "chapter_label": "Ch45 Hormones and the Endocrine System"
+    },
+    "secondary": [
+      {
+        "id": "L0711",
+        "toc_line": 711,
+        "chapter": 11,
+        "concept": "11.2",
+        "title": "Intracellular Receptors",
+        "printed_page": 220,
+        "body_pdf_page": 269,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          38
+        ],
+        "chapter_label": "Ch11 Cell Communication"
+      }
+    ],
+    "primary_reason": "類固醇激素的脂溶性、胞內受體及轉錄反應，直接對應Cellular Hormone Response Pathways。",
+    "secondary_reason": "11.2 Intracellular Receptors提供激素—受體複合體作轉錄調節者的分子機制。",
+    "answer_analysis": "C；典型類固醇訊號穿膜結合胞內受體並改變基因表現；本題考經典路徑而非所有非基因體例外。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1002,
+        "pdf_page": 1051,
+        "text_file": "textbook_evidence/pdf-1051.txt",
+        "sha256": "1158c3c49bbfec7cdf0a4dceeeedf05795aaf20107a5674ca149f11c4fd0b852"
+      },
+      {
+        "printed_page": 1003,
+        "pdf_page": 1052,
+        "text_file": "textbook_evidence/pdf-1052.txt",
+        "sha256": "2616089c3d83ee3080fdcb403144eae7a933073d28d28dea72eb9aea9e54e5cd"
+      },
+      {
+        "printed_page": 220,
+        "pdf_page": 269,
+        "text_file": "textbook_evidence/pdf-0269.txt",
+        "sha256": "22d54c7aa506cc18baf8a2b65d8a9e9d9b349409fdd3607eccb3457e7d092efb"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q24",
+    "issue_resolution_index": 23
+  },
+  {
+    "id": "CMU-115-Q25",
+    "school": "CMU",
+    "year": 115,
+    "q": 25,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 25,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "regions": [
+        [
+          40,
+          546.702,
+          560.32,
+          679.932
+        ]
+      ],
+      "image": "questions/Q25.png",
+      "sha256": "8412f5aebbdf051dcd43a1ff1094b14ad0b9a61f495adef24a4607c2d89679a8",
+      "width": 1041,
+      "height": 266,
+      "question_text": "25. 近年來，mRNA 疫苗技術透過將體外合成的 mRNA 導入人體細胞，使其暫時表現病毒抗\n原並誘發適應性免疫反應。早期研究發現，未經修飾的 mRNA 在體內易被降解，且會過\n度活化先天免疫，導致蛋白表現效率不佳。何者為 mRNA 疫苗成功應用的關鍵技術突破？\n(A) 將病毒 DNA 整合至宿主基因體，以長期表現抗原，增加抗體產生\n(B) 利用細菌系統大量生產抗原蛋白，直接注入體內，增加抗體產生\n(C) 透過核苷修飾提升 mRNA 穩定性，並降低先天免疫過度活化\n(D) 直接注射中和抗體與抗原結合，以提供即時的被動免疫保護",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L2908",
+      "toc_line": 2908,
+      "chapter": 43,
+      "concept": "43.3",
+      "title": "Immunization",
+      "printed_page": 968,
+      "body_pdf_page": 1017,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        47
+      ],
+      "chapter_label": "Ch43 The Immune System"
+    },
+    "secondary": [
+      {
+        "id": "L2870",
+        "toc_line": 2870,
+        "chapter": 43,
+        "concept": "43.1",
+        "title": "Innate Immunity of Vertebrates",
+        "printed_page": 954,
+        "body_pdf_page": 1003,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          47
+        ],
+        "chapter_label": "Ch43 The Immune System"
+      }
+    ],
+    "primary_reason": "題目以mRNA免疫接種技術為核心，主列Immunization；目錄沒有mRNA疫苗或核苷修飾專項。",
+    "secondary_reason": "43.1 Innate Immunity of Vertebrates支持未修飾RNA活化先天辨識的問題，研究補足修飾技術。",
+    "answer_analysis": "C；核苷修飾降低不必要的先天免疫活化並改善蛋白表現；不是DNA整合或注射抗體。",
+    "textbook_evidence": [
+      {
+        "printed_page": 968,
+        "pdf_page": 1017,
+        "text_file": "textbook_evidence/pdf-1017.txt",
+        "sha256": "615586cf8b171245b2a8477594b58dcf0201ed0697fc09d82c25d54802352db1"
+      },
+      {
+        "printed_page": 954,
+        "pdf_page": 1003,
+        "text_file": "textbook_evidence/pdf-1003.txt",
+        "sha256": "e35748b311a49cf93b32366fc6f34f1bac0e4aba64b522319a59928435d2df03"
+      },
+      {
+        "printed_page": 955,
+        "pdf_page": 1004,
+        "text_file": "textbook_evidence/pdf-1004.txt",
+        "sha256": "bf64e7e0e49015a26d4d4ca0e513887a66d4fdb2f3703d3fe0809ec3335f7212"
+      }
+    ],
+    "supplement_ids": [
+      "S08"
+    ],
+    "coverage_note": "Campbell提供分類與核心框架；具名分子、應用細節或措辭校正另由列示來源補足。",
+    "second_review_id": "CMU-115-R2-Q25",
+    "issue_resolution_index": 24
+  },
+  {
+    "id": "CMU-115-Q26",
+    "school": "CMU",
+    "year": 115,
+    "q": 26,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 26,
+      "pdf_page": 5,
+      "printed_page": 5,
+      "regions": [
+        [
+          40,
+          679.932,
+          560.32,
+          796.92
+        ]
+      ],
+      "image": "questions/Q26.png",
+      "sha256": "c41855e8cf974881e0760732e3d31c41bb2606db80149959e50023ffe18595b9",
+      "width": 1041,
+      "height": 234,
+      "question_text": "26. 某植物的花色由兩個基因共同調控。其中一個基因負責合成色素前驅物，另一個基因則負\n責將該前驅物轉換為最終的紫色色素。當植物無法合成前驅物時，無論後續轉換機制是否\n正常，花朵皆呈現白色；若能合成前驅物但無法完成轉換，則表現為黃色；只有在兩個步\n驟皆正常時，花朵才呈現紫色。現將兩株在這兩個基因上皆為雜合子（AaBb）的植物進行\n互相授粉，並觀察其子代表現型。子代中出現白色花的機率為何？\n(A) 1/16 (B) 3/16 (C) 1/4 (D) 9/16",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L0895",
+      "toc_line": 895,
+      "chapter": 14,
+      "concept": "14.3",
+      "title": "Extending Mendelian Genetics for Two or More Genes",
+      "printed_page": 281,
+      "body_pdf_page": 330,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        38
+      ],
+      "chapter_label": "Ch14 Mendel and the Gene Idea"
+    },
+    "secondary": [],
+    "primary_reason": "兩個基因依序作用造成隱性上位性，屬Extending Mendelian Genetics for Two or More Genes。",
+    "secondary_reason": "不因花色而列植物生殖，題目核心為遺傳機率。",
+    "answer_analysis": "C；缺乏前驅物的aa佔1/4，不論B位點為何皆白色。依題意功能性顯性等位基因假設，分布為9紫:3黃:4白。",
+    "textbook_evidence": [
+      {
+        "printed_page": 281,
+        "pdf_page": 330,
+        "text_file": "textbook_evidence/pdf-0330.txt",
+        "sha256": "4ab76504c8b946848b988e4e55d97315b962fcc9d8d979e446df0818a74283c1"
+      },
+      {
+        "printed_page": 282,
+        "pdf_page": 331,
+        "text_file": "textbook_evidence/pdf-0331.txt",
+        "sha256": "bd4418e48e71b013f6b1cd6f0acc0afd130acdcc1885c48c5ffda74d34c9b3cd"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q26",
+    "issue_resolution_index": 25
+  },
+  {
+    "id": "CMU-115-Q27",
+    "school": "CMU",
+    "year": 115,
+    "q": 27,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 27,
+      "pdf_page": 6,
+      "printed_page": 6,
+      "regions": [
+        [
+          40,
+          85.85199999999998,
+          560.32,
+          220.85199999999998
+        ]
+      ],
+      "image": "questions/Q27.png",
+      "sha256": "d7dee99c77818e5dda40e6317ad0c6442872d178901f858748f1382ad60db1ad",
+      "width": 1041,
+      "height": 270,
+      "question_text": "27. 晝夜節律由一組「時鐘基因（Clock genes）」調控，這些基因的表現呈現約 24 小時的週期\n性變化：其蛋白質產物在細胞內累積至高濃度時，反而抑制自身基因的轉錄；當蛋白質被\n降解後，轉錄活性再次上升，形成持續振盪。最能解釋晝夜節律調控原理為何？\n(A) 藉由 DNA 突變的逐步累積，造成蛋白質降解\n(B) 透過蛋白質對自身基因轉錄的抑制作用，形成負回饋調控迴路\n(C) 因蛋白質降解停止，使蛋白質持續累積，增加細胞活性以驅動週期\n(D) 透過改變細胞分裂速率，間接控制基因表現節律，形成正回饋調控迴路",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L2570",
+      "toc_line": 2570,
+      "chapter": 39,
+      "concept": "39.3",
+      "title": "Biological Clocks and Circadian Rhythms",
+      "printed_page": 857,
+      "body_pdf_page": 906,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        45
+      ],
+      "chapter_label": "Ch39 Plant Responses to Internal and External Signals"
+    },
+    "secondary": [
+      {
+        "id": "L1126",
+        "toc_line": 1126,
+        "chapter": 18,
+        "concept": "18.2",
+        "title": "Regulation of Transcription Initiation",
+        "printed_page": 373,
+        "body_pdf_page": 422,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          39
+        ],
+        "chapter_label": "Ch18 Regulation of Gene Expression"
+      }
+    ],
+    "primary_reason": "p858直接描述clock genes轉錄負回饋與延遲造成振盪，屬Biological Clocks and Circadian Rhythms，較49.2中樞時鐘同步更貼題。",
+    "secondary_reason": "18.2 Regulation of Transcription Initiation補充轉錄因子抑制自身基因的調控層次；題目未指定生物種類。",
+    "answer_analysis": "B；蛋白質累積後抑制自身轉錄、降解後解除抑制，延遲的負回饋形成振盪。Ch39是教材敘述位置，不表示原題限定植物。",
+    "textbook_evidence": [
+      {
+        "printed_page": 857,
+        "pdf_page": 906,
+        "text_file": "textbook_evidence/pdf-0906.txt",
+        "sha256": "d2b9909908d7663a40088710effd23a7374be62b23a73fdc41c7a341b26131c3"
+      },
+      {
+        "printed_page": 858,
+        "pdf_page": 907,
+        "text_file": "textbook_evidence/pdf-0907.txt",
+        "sha256": "43d6efbbad7542ce07008c2289f8f5e37c8eb5d40820ffabe50c2564d18237d5"
+      },
+      {
+        "printed_page": 373,
+        "pdf_page": 422,
+        "text_file": "textbook_evidence/pdf-0422.txt",
+        "sha256": "5b9493db3a9e7d3cfa1297c87bfea7c30191f36a1b390dc9c56c1cdda81382e2"
+      },
+      {
+        "printed_page": 374,
+        "pdf_page": 423,
+        "text_file": "textbook_evidence/pdf-0423.txt",
+        "sha256": "0a81772823424cb869830a72b3c53d5be42e8a213b3ea1a4a7772367530d9d0d"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q27",
+    "issue_resolution_index": 26
+  },
+  {
+    "id": "CMU-115-Q28",
+    "school": "CMU",
+    "year": 115,
+    "q": 28,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 28,
+      "pdf_page": 6,
+      "printed_page": 6,
+      "regions": [
+        [
+          40,
+          220.85199999999998,
+          560.32,
+          373.88199999999995
+        ]
+      ],
+      "image": "questions/Q28.png",
+      "sha256": "3359e3f773f43a7b3f3e1bec605a20eafb9bae4973050abab2202dc3785a300b",
+      "width": 1041,
+      "height": 306,
+      "question_text": "28. 青蒿素（Artemisinin）與伊維菌素（Ivermectin）可有效治療由原蟲與線蟲引起的寄生蟲疾\n病，並大幅降低相關疾病的全球負擔。這兩類藥物分別針對不同類型的寄生蟲，並具有特\n異的分子作用機制。下列何者最正確？\n(A) 青蒿素源自中藥黃花蒿，促進 DNA修復以維持基因穩定\n(B) 伊維菌素為重組 DNA 技術製成的多胜肽，主要透過抗體產生以清除寄生蟲\n(C) 青蒿素屬於基因療法，利用 CRISPR 基因編輯技術修復宿主基因以對抗感染\n(D) 伊維菌素透過增強寄生蟲的穀胺酸閘控氯離子通道（Glutamate-gated chloride\nchannels），抑制其神經肌肉傳導並導致麻痺",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L3219",
+      "toc_line": 3219,
+      "chapter": 48,
+      "concept": "48.4",
+      "title": "Generation of Postsynaptic Potentials",
+      "printed_page": 1078,
+      "body_pdf_page": 1127,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        48
+      ],
+      "chapter_label": "Ch48 Neurons, Synapses, and Signaling"
+    },
+    "secondary": [],
+    "primary_reason": "決定正確選項的是配體閘控Cl−電導增加所致的抑制性突觸效應，主列Generation of Postsynaptic Potentials。",
+    "secondary_reason": "寄生線蟲及青蒿素是情境／干擾選項，不直接據此歸入動物分類章。",
+    "answer_analysis": "D；伊維菌素可結合並促進無脊椎GluCl開啟。不可把Campbell哺乳動物glutamate常為興奮性的例子直接移植至此Cl−通道。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1078,
+        "pdf_page": 1127,
+        "text_file": "textbook_evidence/pdf-1127.txt",
+        "sha256": "c430f991c573556901cbb17683a1e7c23a709f63c3d0e243fe89f6365edc8c96"
+      },
+      {
+        "printed_page": 1079,
+        "pdf_page": 1128,
+        "text_file": "textbook_evidence/pdf-1128.txt",
+        "sha256": "3f8b491efcfe5b306573a4b726c29017f9bad0d182771162cbf7b064a443870e"
+      }
+    ],
+    "supplement_ids": [
+      "S09"
+    ],
+    "coverage_note": "Campbell提供分類與核心框架；具名分子、應用細節或措辭校正另由列示來源補足。",
+    "second_review_id": "CMU-115-R2-Q28",
+    "issue_resolution_index": 27
+  },
+  {
+    "id": "CMU-115-Q29",
+    "school": "CMU",
+    "year": 115,
+    "q": 29,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 29,
+      "pdf_page": 6,
+      "printed_page": 6,
+      "regions": [
+        [
+          40,
+          373.88199999999995,
+          560.32,
+          471.6979999999999
+        ]
+      ],
+      "image": "questions/Q29.png",
+      "sha256": "9a4c7730d941f96aabad040d72f1006de26fa1b70b00027e45e739ab7f4b0324",
+      "width": 1041,
+      "height": 195,
+      "question_text": "29. 細胞在有氧代謝過程中會產生具有破壞性的活性氧物質（ROS）。為了對抗 ROS 產生，細\n胞內有一套抗氧化酵素系統。其中，哪一種酵素專門負責將過氧化氫（H O ）還原為水，\n2 2\n常被作為某些中藥草（如靈芝）抗衰老研究的指標？\n(A) 超氧化物歧化酶（SOD） (B) 細胞色素c氧化酶（Cytochrome c oxidase）\n(C) 端粒酶（Telomerase） (D) 過氧化氫酶（Catalase）",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L0371",
+      "toc_line": 371,
+      "chapter": 6,
+      "concept": "6.5",
+      "title": "Peroxisomes: Oxidation",
+      "printed_page": 112,
+      "body_pdf_page": 161,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        36
+      ],
+      "chapter_label": "Ch06 A Tour of the Cell"
+    },
+    "secondary": [],
+    "primary_reason": "教材於Peroxisomes: Oxidation直接說明將有毒H2O2轉成水的酵素，最小條目可定位其解毒反應。",
+    "secondary_reason": "藥草抗衰老僅作研究指標情境，不另列植物或端粒。",
+    "answer_analysis": "D；catalase總反應為2H2O2→2H2O+O2，兼有氧化與還原。原題僅寫還原為水屬簡化，SOD處理的是superoxide。",
+    "textbook_evidence": [
+      {
+        "printed_page": 112,
+        "pdf_page": 161,
+        "text_file": "textbook_evidence/pdf-0161.txt",
+        "sha256": "3939c0b734742533d0ca1a5a2da0877e3cd00aa68f04ad54470a06b945f7215d"
+      }
+    ],
+    "supplement_ids": [
+      "S10"
+    ],
+    "coverage_note": "Campbell提供分類與核心框架；具名分子、應用細節或措辭校正另由列示來源補足。",
+    "second_review_id": "CMU-115-R2-Q29",
+    "issue_resolution_index": 28
+  },
+  {
+    "id": "CMU-115-Q30",
+    "school": "CMU",
+    "year": 115,
+    "q": 30,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 30,
+      "pdf_page": 6,
+      "printed_page": 6,
+      "regions": [
+        [
+          40,
+          471.6979999999999,
+          560.32,
+          562.9019999999999
+        ],
+        [
+          40,
+          562.9019999999999,
+          560.32,
+          679.932
+        ]
+      ],
+      "image": "questions/Q30.png",
+      "sha256": "1eac4d8eb437800ccc4b7cefc31154c25140d8d117e8cb9e39fa9f9d9de04875",
+      "width": 1041,
+      "height": 429,
+      "question_text": "※30-31.題組題\n背景說明：在研究大腸桿菌（Escherichia coli）的基因調控時，科學家分析其在不同營養條件\n下的適應機制，特別關注 lac操縱子（分解代謝）與trp操縱子（合成代謝）的表現，以及細\n胞內 cAMP–CRP 調控系統。\n30. 當環境由「高葡萄糖」轉變為「僅含乳糖」時，lac 操縱子的表現顯著上升。此過程涉及\ncAMP–CRP 正調控與抑制子解除的協同作用。何者最能解釋 lac操縱子的高度表現？\n(A) cAMP–CRP 屬於負調控，因其反映葡萄糖缺乏狀態\n(B) 高葡萄糖存在時，即使抑制子失活，lac 操縱子仍完全無法轉錄\n(C) 葡萄糖耗盡使 cAMP 上升並活化 CRP，此為 lac 高表現的唯一條件\n(D) 異乳糖與抑制子結合使其脫離 operator，並與 CRP 的正調控共同促進高量轉錄",
+      "shared_stimulus": true
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L1113",
+      "toc_line": 1113,
+      "chapter": 18,
+      "concept": "18.1",
+      "title": "Positive Gene Regulation",
+      "printed_page": 369,
+      "body_pdf_page": 418,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        39
+      ],
+      "chapter_label": "Ch18 Regulation of Gene Expression"
+    },
+    "secondary": [
+      {
+        "id": "L1110",
+        "toc_line": 1110,
+        "chapter": 18,
+        "concept": "18.1",
+        "title": "Repressible and Inducible Operons: Two Types of Negative Gene Regulation",
+        "printed_page": 368,
+        "body_pdf_page": 417,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          39
+        ],
+        "chapter_label": "Ch18 Regulation of Gene Expression"
+      }
+    ],
+    "primary_reason": "題目要求lac高表現的CAP/CRP正調控與乳糖解除抑制協同，主列Positive Gene Regulation。",
+    "secondary_reason": "Repressible and Inducible Operons保留allolactose使抑制子離開operator的必要條件。",
+    "answer_analysis": "D；葡萄糖低→cAMP–CRP活化，加上allolactose解除lac抑制，才有高量轉錄。",
+    "textbook_evidence": [
+      {
+        "printed_page": 368,
+        "pdf_page": 417,
+        "text_file": "textbook_evidence/pdf-0417.txt",
+        "sha256": "f6c900dad4d6040b64dde984b9f63dd320217734f42ce93d45ae9acf5a4bfdeb"
+      },
+      {
+        "printed_page": 369,
+        "pdf_page": 418,
+        "text_file": "textbook_evidence/pdf-0418.txt",
+        "sha256": "19a2158e07c607e7c937382edc266212ce9846854f26c7507ac98db2fa257546"
+      },
+      {
+        "printed_page": 370,
+        "pdf_page": 419,
+        "text_file": "textbook_evidence/pdf-0419.txt",
+        "sha256": "ff4dea1b9cec2f59b7b93ac0132fef4c0c5bf6d8936068fc80a654f9afdbb25e"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q30",
+    "issue_resolution_index": 29
+  },
+  {
+    "id": "CMU-115-Q31",
+    "school": "CMU",
+    "year": 115,
+    "q": 31,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 31,
+      "pdf_page": 6,
+      "printed_page": 6,
+      "regions": [
+        [
+          40,
+          471.6979999999999,
+          560.32,
+          562.9019999999999
+        ],
+        [
+          40,
+          679.932,
+          560.32,
+          796.92
+        ]
+      ],
+      "image": "questions/Q31.png",
+      "sha256": "41062588393de26cd649f46d2d1485d6c37d5598be1ab455ca0ce90dfc6e7040",
+      "width": 1041,
+      "height": 429,
+      "question_text": "※30-31.題組題\n背景說明：在研究大腸桿菌（Escherichia coli）的基因調控時，科學家分析其在不同營養條件\n下的適應機制，特別關注 lac操縱子（分解代謝）與trp操縱子（合成代謝）的表現，以及細\n胞內 cAMP–CRP 調控系統。\n31. 某突變株的CRP 蛋白DNA結合域受損，導致其無法與 lac啟動子結合，但抑制子功能正\n常。若細菌處於「低葡萄糖、高乳糖、缺乏色胺酸」的環境中，其代謝表現最可能為何？\n(A) trp 操縱子因缺乏色胺酸而被抑制\n(B) cAMP 無法產生，導致所有誘導型操縱子關閉\n(C) lac 操縱子僅維持低程度轉錄，且 trp 操縱子被活化\n(D) lac 操縱子高度活化，以補償低葡萄糖環境，且維持高乳糖環境",
+      "shared_stimulus": true
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L1113",
+      "toc_line": 1113,
+      "chapter": 18,
+      "concept": "18.1",
+      "title": "Positive Gene Regulation",
+      "printed_page": 369,
+      "body_pdf_page": 418,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        39
+      ],
+      "chapter_label": "Ch18 Regulation of Gene Expression"
+    },
+    "secondary": [
+      {
+        "id": "L1110",
+        "toc_line": 1110,
+        "chapter": 18,
+        "concept": "18.1",
+        "title": "Repressible and Inducible Operons: Two Types of Negative Gene Regulation",
+        "printed_page": 368,
+        "body_pdf_page": 417,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          39
+        ],
+        "chapter_label": "Ch18 Regulation of Gene Expression"
+      }
+    ],
+    "primary_reason": "CRP不能結合DNA直接造成lac缺乏正調控，主列Positive Gene Regulation。",
+    "secondary_reason": "trp在缺乏色胺酸時解除可抑制型操縱子抑制，需共同引用負調控條目。",
+    "answer_analysis": "C；lac只有低量轉錄，trp因缺少共抑制物而活化。題幹的CRP結合啟動子採鄰近調控區理解，不與RNA聚合酶的核心啟動子位混同。",
+    "textbook_evidence": [
+      {
+        "printed_page": 368,
+        "pdf_page": 417,
+        "text_file": "textbook_evidence/pdf-0417.txt",
+        "sha256": "f6c900dad4d6040b64dde984b9f63dd320217734f42ce93d45ae9acf5a4bfdeb"
+      },
+      {
+        "printed_page": 369,
+        "pdf_page": 418,
+        "text_file": "textbook_evidence/pdf-0418.txt",
+        "sha256": "19a2158e07c607e7c937382edc266212ce9846854f26c7507ac98db2fa257546"
+      },
+      {
+        "printed_page": 370,
+        "pdf_page": 419,
+        "text_file": "textbook_evidence/pdf-0419.txt",
+        "sha256": "ff4dea1b9cec2f59b7b93ac0132fef4c0c5bf6d8936068fc80a654f9afdbb25e"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q31",
+    "issue_resolution_index": 30
+  },
+  {
+    "id": "CMU-115-Q32",
+    "school": "CMU",
+    "year": 115,
+    "q": 32,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 32,
+      "pdf_page": 7,
+      "printed_page": 7,
+      "regions": [
+        [
+          40,
+          85.85199999999998,
+          560.32,
+          256.852
+        ]
+      ],
+      "image": "questions/Q32.png",
+      "sha256": "2d7ffdd370caec192699dc76a0a7e9eb573cb0c027e3ac5c89bf9bc796bebfda",
+      "width": 1041,
+      "height": 342,
+      "question_text": "32. 腫瘤微環境研究發現實體腫瘤核心區域因血管生長不及而長期處於低氧（Hypoxia）狀態。\n此時，腫瘤細胞內的轉錄因子 HIF-1α（Hypoxia-inducible factor 1-α）免於被降解而大量累\n積，進一步促進下游基因（如 VEGF）表現。研究團隊使用一種新型小分子抑制劑，專一\n性阻斷HIF 路徑。實驗結果顯示腫瘤體積明顯縮小，且內部壞死增加。根據上述資訊，抑\n制HIF 路徑最直接且主要的生物學影響為何？\n(A) 直接降低DNA 聚合酶的複製速率，抑制 DNA的合成\n(B) 降低核糖體活性，全面抑制腫瘤細胞的蛋白質轉譯作用\n(C) 活化端粒酶，誘導腫瘤細胞進行程式性細胞死亡（Apoptosis）\n(D) 抑制新生血管形成（Angiogenesis），降低腫瘤獲得氧氣與養分的能力",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L0792",
+      "toc_line": 792,
+      "chapter": 12,
+      "concept": "12.3",
+      "title": "Loss of Cell Cycle Controls in Cancer Cells",
+      "printed_page": 248,
+      "body_pdf_page": 297,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        38
+      ],
+      "chapter_label": "Ch12 The Cell Cycle"
+    },
+    "secondary": [
+      {
+        "id": "L1126",
+        "toc_line": 1126,
+        "chapter": 18,
+        "concept": "18.2",
+        "title": "Regulation of Transcription Initiation",
+        "printed_page": 373,
+        "body_pdf_page": 422,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          39
+        ],
+        "chapter_label": "Ch18 Regulation of Gene Expression"
+      }
+    ],
+    "primary_reason": "問題問阻斷HIF後腫瘤供氧與生長受限；Loss of Cell Cycle Controls in Cancer Cells的p249正文敘述腫瘤可刺激血管生長以取得營養。",
+    "secondary_reason": "18.2轉錄起始調控支援HIF驅動VEGF表現；HIF分子細節由原始研究補足。",
+    "answer_analysis": "D；抑制HIF降低VEGF及血管新生，腫瘤氧與營養供應下降。不是直接阻斷DNA聚合酶或活化端粒酶。",
+    "textbook_evidence": [
+      {
+        "printed_page": 248,
+        "pdf_page": 297,
+        "text_file": "textbook_evidence/pdf-0297.txt",
+        "sha256": "a6e321881f7d07b8a7fa3da6f9b9e3f5e8914ac7635884503a742da275c7173a"
+      },
+      {
+        "printed_page": 249,
+        "pdf_page": 298,
+        "text_file": "textbook_evidence/pdf-0298.txt",
+        "sha256": "f5688f3ba58b1c2f15c6a44df1f8e3fa2d6e7d7384af125ef6787d7c11a44d74"
+      },
+      {
+        "printed_page": 373,
+        "pdf_page": 422,
+        "text_file": "textbook_evidence/pdf-0422.txt",
+        "sha256": "5b9493db3a9e7d3cfa1297c87bfea7c30191f36a1b390dc9c56c1cdda81382e2"
+      },
+      {
+        "printed_page": 374,
+        "pdf_page": 423,
+        "text_file": "textbook_evidence/pdf-0423.txt",
+        "sha256": "0a81772823424cb869830a72b3c53d5be42e8a213b3ea1a4a7772367530d9d0d"
+      }
+    ],
+    "supplement_ids": [
+      "S11"
+    ],
+    "coverage_note": "Campbell提供分類與核心框架；具名分子、應用細節或措辭校正另由列示來源補足。",
+    "second_review_id": "CMU-115-R2-Q32",
+    "issue_resolution_index": 31
+  },
+  {
+    "id": "CMU-115-Q33",
+    "school": "CMU",
+    "year": 115,
+    "q": 33,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 33,
+      "pdf_page": 7,
+      "printed_page": 7,
+      "regions": [
+        [
+          40,
+          256.852,
+          560.32,
+          409.88199999999995
+        ]
+      ],
+      "image": "questions/Q33.png",
+      "sha256": "cfb5c7ad62579eb0c164d2179c8f4cd8087aaed73647936775638d68a67b5792",
+      "width": 1041,
+      "height": 306,
+      "question_text": "33. 在實體腫瘤快速生長過程中，腫瘤核心區常因血流不足而處於低氧與營養匱乏的壓力環境。\n該區腫瘤細胞呈現AMPK（AMP-activated protein kinase）活性上升、mTOR 訊號受抑，以\n及自噬作用（Autophagy）顯著增強；且當實驗性地抑制自噬作用時，這些細胞會大量凋\n亡。最能解釋這些腫瘤細胞在壓力環境中啟動此機制的適應策略為何？\n(A) 進入高度合成代謝狀態，加速轉錄與翻譯以維持快速增殖\n(B) 優先將能量投入 DNA 修復，以避免低氧造成的基因體損傷\n(C) 重新活化 mTOR 訊號以促進蛋白質與脂質合成，補償營養不足\n(D) 轉為分解代謝狀態，透過自噬降解胞內成分以回收能量與代謝中間物",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L0349",
+      "toc_line": 349,
+      "chapter": 6,
+      "concept": "6.4",
+      "title": "Lysosomes: Digestive Compartments",
+      "printed_page": 107,
+      "body_pdf_page": 156,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        36
+      ],
+      "chapter_label": "Ch06 A Tour of the Cell"
+    },
+    "secondary": [
+      {
+        "id": "L0478",
+        "toc_line": 478,
+        "chapter": 8,
+        "concept": "8.1",
+        "title": "Metabolic Pathways",
+        "printed_page": 144,
+        "body_pdf_page": 193,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          37
+        ],
+        "chapter_label": "Ch08 An Introduction to Metabolism"
+      }
+    ],
+    "primary_reason": "自噬以溶體降解自身胞內物並回收成分，最小目錄Lysosomes: Digestive Compartments。",
+    "secondary_reason": "8.1 Metabolic Pathways支援分解代謝提供可再用中間物的能量方向，非高合成代謝。",
+    "answer_analysis": "D；營養缺乏時自噬可支援存活；AMPK/mTOR題幹是上游訊號，不能取代本題實際問的降解回收策略。",
+    "textbook_evidence": [
+      {
+        "printed_page": 107,
+        "pdf_page": 156,
+        "text_file": "textbook_evidence/pdf-0156.txt",
+        "sha256": "28d4b35a36abc90a9ca007da1ce17e4310b4b63c586652df16e7f49afc21a5a2"
+      },
+      {
+        "printed_page": 108,
+        "pdf_page": 157,
+        "text_file": "textbook_evidence/pdf-0157.txt",
+        "sha256": "fb99e477f89ecb9cbecdd8568318611f4a90af67c31a3c223920ef36742901c9"
+      },
+      {
+        "printed_page": 144,
+        "pdf_page": 193,
+        "text_file": "textbook_evidence/pdf-0193.txt",
+        "sha256": "d6b71d33d79455f1462e07c6710449adde8d2eda9417d9e138da64ced45bfee9"
+      }
+    ],
+    "supplement_ids": [
+      "S12"
+    ],
+    "coverage_note": "Campbell提供分類與核心框架；具名分子、應用細節或措辭校正另由列示來源補足。",
+    "second_review_id": "CMU-115-R2-Q33",
+    "issue_resolution_index": 32
+  },
+  {
+    "id": "CMU-115-Q34",
+    "school": "CMU",
+    "year": 115,
+    "q": 34,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 34,
+      "pdf_page": 7,
+      "printed_page": 7,
+      "regions": [
+        [
+          40,
+          409.88199999999995,
+          560.32,
+          562.9019999999999
+        ]
+      ],
+      "image": "questions/Q34.png",
+      "sha256": "e4f71b81b7962b0d1779e329986659ea9c624e8ad24beb4d60f8cc8d7e0456a3",
+      "width": 1041,
+      "height": 306,
+      "question_text": "34. 一名 5 歲男童反覆發生嚴重呼吸道與腸道感染，且對常見病原體無法建立持久免疫力，\n每次感染表現類似初次感染。檢查顯示：先天免疫與早期發炎反應正常；然而抗體反應異\n常，僅產生低量 IgM，且無法進行類別轉換（Class switching）產生 IgG，同時淋巴結缺\n乏生發中心（Germinal center）形成。根據上述結果，最可能的主要免疫缺陷為何？\n(A) 髓系幹細胞發育異常，導致先天免疫無法有效清除病原\n(B) 自然殺手細胞功能低下，影響細胞毒殺作用與抗體生成\n(C) B 與T淋巴球協同作用異常，導致生發中心與免疫記憶無法形成\n(D) 抗原呈現細胞功能缺陷，影響初期發炎與細胞激素產生與抗體生成",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L2896",
+      "toc_line": 2896,
+      "chapter": 43,
+      "concept": "43.3",
+      "title": "Helper T Cells: Activating Adaptive Immunity",
+      "printed_page": 963,
+      "body_pdf_page": 1012,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        47
+      ],
+      "chapter_label": "Ch43 The Immune System"
+    },
+    "secondary": [
+      {
+        "id": "L2889",
+        "toc_line": 2889,
+        "chapter": 43,
+        "concept": "43.2",
+        "title": "B Cell and T Cell Development",
+        "printed_page": 960,
+        "body_pdf_page": 1009,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          47
+        ],
+        "chapter_label": "Ch43 The Immune System"
+      }
+    ],
+    "primary_reason": "B與T協同失敗屬Helper T Cells: Activating Adaptive Immunity，較泛列免疫缺陷更具機制特異性。",
+    "secondary_reason": "B Cell and T Cell Development補充克隆擴增及免疫記憶；類別轉換／生發中心細節由原始研究補足。",
+    "answer_analysis": "C；輔助T與B互動對生發中心、抗體類別轉換和持久記憶必要，與題示先天反應正常相符。",
+    "textbook_evidence": [
+      {
+        "printed_page": 960,
+        "pdf_page": 1009,
+        "text_file": "textbook_evidence/pdf-1009.txt",
+        "sha256": "f9030c44f39b2f209ec81cf867826cdbcaa0c3f0be0ad48aa936f9af4bea9af2"
+      },
+      {
+        "printed_page": 961,
+        "pdf_page": 1010,
+        "text_file": "textbook_evidence/pdf-1010.txt",
+        "sha256": "e743f816202563965c87268f193e847c2577df26a9c435a8d2fc1668da905f7f"
+      },
+      {
+        "printed_page": 962,
+        "pdf_page": 1011,
+        "text_file": "textbook_evidence/pdf-1011.txt",
+        "sha256": "c1ffa4f589d3ac375a40ae360fe93800af61e2a434655cf61b974ecf8f70d757"
+      },
+      {
+        "printed_page": 963,
+        "pdf_page": 1012,
+        "text_file": "textbook_evidence/pdf-1012.txt",
+        "sha256": "e38a372fb8815406707d1e037665747e7396026774507b46591b2276229cea19"
+      },
+      {
+        "printed_page": 964,
+        "pdf_page": 1013,
+        "text_file": "textbook_evidence/pdf-1013.txt",
+        "sha256": "78a632a70aa8a98429cfd299268a2830f7a13cb352a198685455485cff6990db"
+      }
+    ],
+    "supplement_ids": [
+      "S13"
+    ],
+    "coverage_note": "Campbell提供分類與核心框架；具名分子、應用細節或措辭校正另由列示來源補足。",
+    "second_review_id": "CMU-115-R2-Q34",
+    "issue_resolution_index": 33
+  },
+  {
+    "id": "CMU-115-Q35",
+    "school": "CMU",
+    "year": 115,
+    "q": 35,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 35,
+      "pdf_page": 7,
+      "printed_page": 7,
+      "regions": [
+        [
+          40,
+          562.9019999999999,
+          560.32,
+          679.932
+        ]
+      ],
+      "image": "questions/Q35.png",
+      "sha256": "4155be4823b9877a08f03fc6c2cd9df4bc14a213f7d7dbcd379fc75d6bce1174",
+      "width": 1041,
+      "height": 234,
+      "question_text": "35. 免疫檢查點抑制劑已成為癌症治療的重要策略。一名晚期黑色素瘤患者接受「免疫檢查點\n抑制劑（如抗PD-1抗體）」的治療，腫瘤顯著縮小。這種癌症免疫療法的核心機制是什麼？\n(A) 阻斷腫瘤血管新生，餓死腫瘤細胞，抑制腫瘤細胞的增殖\n(B) 解除腫瘤細胞對 T細胞的抑制，恢復T 細胞的毒殺能力\n(C) 將放射性同位素導向腫瘤組織，抑制T 細胞的毒殺能力\n(D) 抗體直接結合並毒殺腫瘤細胞，抑制腫瘤細胞的增殖",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L2930",
+      "toc_line": 2930,
+      "chapter": 43,
+      "concept": "43.4",
+      "title": "Cancer and Immunity",
+      "printed_page": 974,
+      "body_pdf_page": 1023,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        47
+      ],
+      "chapter_label": "Ch43 The Immune System"
+    },
+    "secondary": [],
+    "primary_reason": "核心是免疫系統對癌細胞的防禦，故採Cancer and Immunity。該頁正文以病毒相關癌症為例，未講解PD-1檢查點治療；治療的分子機制須由原始研究補足。",
+    "secondary_reason": "受體作用是治療入口；本題問恢復免疫毒殺，無需另列訊號章。",
+    "answer_analysis": "B；檢查點抑制療法解除抑制，恢復T細胞對腫瘤的攻擊，而非抗體直接毒殺。",
+    "textbook_evidence": [
+      {
+        "printed_page": 974,
+        "pdf_page": 1023,
+        "text_file": "textbook_evidence/pdf-1023.txt",
+        "sha256": "c827ab3bc6456923c2fc9a6717c04ce45c184f86fd9f21348cde35421d16f273"
+      },
+      {
+        "printed_page": 975,
+        "pdf_page": 1024,
+        "text_file": "textbook_evidence/pdf-1024.txt",
+        "sha256": "0552b0d5e620ce007f2fe8b06664b6c84773d46154b12e6920d9b3bc7646c8fb"
+      }
+    ],
+    "supplement_ids": [
+      "S15"
+    ],
+    "coverage_note": "Campbell提供分類與核心框架；具名分子、應用細節或措辭校正另由列示來源補足。",
+    "second_review_id": "CMU-115-R2-Q35",
+    "issue_resolution_index": 34
+  },
+  {
+    "id": "CMU-115-Q36",
+    "school": "CMU",
+    "year": 115,
+    "q": 36,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 36,
+      "pdf_page": 7,
+      "printed_page": 7,
+      "regions": [
+        [
+          40,
+          679.932,
+          560.32,
+          796.92
+        ]
+      ],
+      "image": "questions/Q36.png",
+      "sha256": "92e3610f8349ad5a93ac6271745052200c99a625ecfa2b725a1dfedf431ccb6c",
+      "width": 1041,
+      "height": 234,
+      "question_text": "36. HER2 陽性乳癌具有較強的侵襲性。HER2 屬於受體酪胺酸激酶家族。當這類受體過度表\n現或被活化時，其在細胞膜上的直接分子反應為何？\n(A) 受體形成二聚體並互相磷酸化細胞內結構域的酪胺酸殘基\n(B) 受體打開離子通道讓鈣離子大量湧入，吸引鈣離子結合蛋白\n(C) 受體直接進入細胞核結合 DNA，增加下游基因的轉錄\n(D) 受體活化 G 蛋白，產生 cAMP，增強細胞代謝能力",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L0708",
+      "toc_line": 708,
+      "chapter": 11,
+      "concept": "11.2",
+      "title": "Receptors in the Plasma Membrane",
+      "printed_page": 217,
+      "body_pdf_page": 266,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        38
+      ],
+      "chapter_label": "Ch11 Cell Communication"
+    },
+    "secondary": [],
+    "primary_reason": "HER2被明示屬RTK，核心是二聚體與相互磷酸化，目錄最小項Receptors in the Plasma Membrane。",
+    "secondary_reason": "乳癌僅是RTK過度活化的情境，不將癌症章列主分類。",
+    "answer_analysis": "A；RTK二聚化並交互磷酸化胞內酪胺酸，提供下游訊號蛋白結合位置。",
+    "textbook_evidence": [
+      {
+        "printed_page": 217,
+        "pdf_page": 266,
+        "text_file": "textbook_evidence/pdf-0266.txt",
+        "sha256": "23d63d317cecc36d2f3f228ac4edfdd24320e10a9e763252fffff688af21cae0"
+      },
+      {
+        "printed_page": 218,
+        "pdf_page": 267,
+        "text_file": "textbook_evidence/pdf-0267.txt",
+        "sha256": "0cbb4ab1bcf9701b83cb20869ff57c5a11bd03a1b0784d2123ccd69038093505"
+      },
+      {
+        "printed_page": 219,
+        "pdf_page": 268,
+        "text_file": "textbook_evidence/pdf-0268.txt",
+        "sha256": "53aa8012fd8298a887849846e2bf2d46580a12eb8bd2a39d7cb14c4a1c5ab91d"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q36",
+    "issue_resolution_index": 35
+  },
+  {
+    "id": "CMU-115-Q37",
+    "school": "CMU",
+    "year": 115,
+    "q": 37,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 37,
+      "pdf_page": 8,
+      "printed_page": 8,
+      "regions": [
+        [
+          40,
+          85.85199999999998,
+          560.32,
+          220.85199999999998
+        ]
+      ],
+      "image": "questions/Q37.png",
+      "sha256": "91114cec58775aef2eba38328cf01555a08f38333435b43caeabb568e2dacc0d",
+      "width": 1041,
+      "height": 270,
+      "question_text": "37. 當哺乳動物細胞遭受 RNA病毒感染時，細胞的模式辨識受體可辨識病毒雙股 RNA，並啟\n動抗病毒防禦反應。受感染細胞及其鄰近細胞中，干擾素分泌上升並刺激基因顯著表現，\n且整體蛋白質合成下降，同時伴隨抗病毒蛋白活化。最能解釋此防禦反應核心機制為何？\n(A) 活化先天免疫反應，經由干擾素訊號誘導抗病毒狀態並抑制病毒複製\n(B) 啟動DNA修復機制，以修補病毒造成的基因損傷，增加細胞防禦力\n(C) 提升轉譯效率，以促進病毒蛋白快速生成，增加抗體形成，抑制病毒複製\n(D) 重整脂質代謝，以促進病毒包膜形成，吸引免疫細胞至感染處，抑制病毒複製",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L2870",
+      "toc_line": 2870,
+      "chapter": 43,
+      "concept": "43.1",
+      "title": "Innate Immunity of Vertebrates",
+      "printed_page": 954,
+      "body_pdf_page": 1003,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        47
+      ],
+      "chapter_label": "Ch43 The Immune System"
+    },
+    "secondary": [],
+    "primary_reason": "病毒dsRNA辨識與interferon誘發鄰近細胞抗病毒狀態，屬Innate Immunity of Vertebrates。",
+    "secondary_reason": "不是免疫記憶或一般病毒生活史問題，無次分類。",
+    "answer_analysis": "A；干擾素可誘發抗病毒蛋白並限制病毒複製。此題未要求抗體產生。",
+    "textbook_evidence": [
+      {
+        "printed_page": 954,
+        "pdf_page": 1003,
+        "text_file": "textbook_evidence/pdf-1003.txt",
+        "sha256": "e35748b311a49cf93b32366fc6f34f1bac0e4aba64b522319a59928435d2df03"
+      },
+      {
+        "printed_page": 955,
+        "pdf_page": 1004,
+        "text_file": "textbook_evidence/pdf-1004.txt",
+        "sha256": "bf64e7e0e49015a26d4d4ca0e513887a66d4fdb2f3703d3fe0809ec3335f7212"
+      },
+      {
+        "printed_page": 956,
+        "pdf_page": 1005,
+        "text_file": "textbook_evidence/pdf-1005.txt",
+        "sha256": "408471536c1f2399bcde0bcc125e0b7160c838e95c177754294b8271dc4c1ed9"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q37",
+    "issue_resolution_index": 36
+  },
+  {
+    "id": "CMU-115-Q38",
+    "school": "CMU",
+    "year": 115,
+    "q": 38,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 38,
+      "pdf_page": 8,
+      "printed_page": 8,
+      "regions": [
+        [
+          40,
+          220.85199999999998,
+          560.32,
+          355.88199999999995
+        ]
+      ],
+      "image": "questions/Q38.png",
+      "sha256": "a0d1b07347ee85d16f588a69835536c38f9189a93f35f7f362836c97aa9a1988",
+      "width": 1041,
+      "height": 270,
+      "question_text": "38. 一名 45 歲患者長期出現上腹痛與消化不良，胃鏡顯示慢性胃炎，臨床高度懷疑感染幽門\n螺旋桿菌（Helicobacter pylori）。醫師希望採用非侵入性方法，且能即時反映細菌在體內的\n代謝活性，以利診斷與療效評估。最適合的檢測方式為何？\n(A) 進行革蘭氏染色觀察胃部檢體中細菌的形態與染色特性\n(B) 進行標記尿素呼氣試驗，檢測分解後產生的標記 CO₂\n(C) 檢測細菌DNA，確認基因型態，評估細菌的致病原\n(D) 檢測血清抗體，確認是否曾經感染，評估宿主免疫反應",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L0110",
+      "toc_line": 110,
+      "chapter": 2,
+      "concept": "2.2",
+      "title": "Isotopes",
+      "printed_page": 31,
+      "body_pdf_page": 80,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        35
+      ],
+      "chapter_label": "Ch02 The Chemical Context of Life"
+    },
+    "secondary": [],
+    "primary_reason": "關鍵是以標記尿素追蹤其碳進入呼出CO2，主列Isotopes及其代謝示蹤應用。",
+    "secondary_reason": "胃炎與細菌名稱是檢測情境；不把胃部構造或DNA檢測列主分類。",
+    "answer_analysis": "B；H. pylori urease分解標記尿素後產生可在呼氣測得的標記CO2。可用穩定13C或放射14C；不可泛稱此檢驗必為放射性。",
+    "textbook_evidence": [
+      {
+        "printed_page": 31,
+        "pdf_page": 80,
+        "text_file": "textbook_evidence/pdf-0080.txt",
+        "sha256": "3c7fb0a2d75fdd1c0e5f98a74209db923e3a0d0a65773b953eb4502a934c59bb"
+      },
+      {
+        "printed_page": 32,
+        "pdf_page": 81,
+        "text_file": "textbook_evidence/pdf-0081.txt",
+        "sha256": "21293a4473613d7f023faf7382aa1a0d0cb04e0f6b40480c1a454c79bbf5ef24"
+      }
+    ],
+    "supplement_ids": [
+      "S14"
+    ],
+    "coverage_note": "Campbell提供分類與核心框架；具名分子、應用細節或措辭校正另由列示來源補足。",
+    "second_review_id": "CMU-115-R2-Q38",
+    "issue_resolution_index": 37
+  },
+  {
+    "id": "CMU-115-Q39",
+    "school": "CMU",
+    "year": 115,
+    "q": 39,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 39,
+      "pdf_page": 8,
+      "printed_page": 8,
+      "regions": [
+        [
+          40,
+          355.88199999999995,
+          560.32,
+          490.90199999999993
+        ]
+      ],
+      "image": "questions/Q39.png",
+      "sha256": "ffa11e7a884c84584119cbb76166f3590db6348f22a2595f84ecfceb78b2c74d",
+      "width": 1041,
+      "height": 270,
+      "question_text": "39. 兩位病患服用相同劑量的某種抗凝血藥物，病患 A 達到預期的療效，但病患 B 卻出現\n嚴重的出血副作用。基因定序發現病患 B 在代謝該藥物的細胞色素 P450 酵素基因上存\n在一個單核苷酸多態性（SNP）。這個 SNP 最可能導致了什麼結果？\n(A) 酵素的胺基酸序列改變，使其代謝藥物的活性大幅降低\n(B) 酵素的胺基酸序列改變，誘導免疫系統對藥物產生過敏反應\n(C) 酵素的胺基酸序列不變，促使藥物直接轉化為毒性物質\n(D) 酵素的胺基酸序列不變，增加藥物在腸道的吸收率",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L1085",
+      "toc_line": 1085,
+      "chapter": 17,
+      "concept": "17.5",
+      "title": "Types of Small-Scale Mutations",
+      "printed_page": 357,
+      "body_pdf_page": 406,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        39
+      ],
+      "chapter_label": "Ch17 Gene Expression: From Gene to Protein"
+    },
+    "secondary": [
+      {
+        "id": "L1274",
+        "toc_line": 1274,
+        "chapter": 20,
+        "concept": "20.4",
+        "title": "Medical Applications",
+        "printed_page": 433,
+        "body_pdf_page": 482,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          40
+        ],
+        "chapter_label": "Ch20 DNA Tools and Biotechnology"
+      }
+    ],
+    "primary_reason": "SNP改變胺基酸並降低酵素功能，主列Types of Small-Scale Mutations。",
+    "secondary_reason": "20.4 Medical Applications涵蓋個體基因差異與醫學應用，補充藥物反應差異情境。",
+    "answer_analysis": "A；本題最適合的是改變胺基酸造成代謝能力降低；不是所有SNP都一定改變胺基酸，結論限於此題四選項。",
+    "textbook_evidence": [
+      {
+        "printed_page": 357,
+        "pdf_page": 406,
+        "text_file": "textbook_evidence/pdf-0406.txt",
+        "sha256": "f34173a528185d0eb90991d6fcd5cb450c8f92912fdd7a7cc18bb962343ce655"
+      },
+      {
+        "printed_page": 358,
+        "pdf_page": 407,
+        "text_file": "textbook_evidence/pdf-0407.txt",
+        "sha256": "58e70ff5dd03d401c33b6b79f575325efef4a086188aa8276c2808acfe77956f"
+      },
+      {
+        "printed_page": 433,
+        "pdf_page": 482,
+        "text_file": "textbook_evidence/pdf-0482.txt",
+        "sha256": "2f8fd506f1bea79d991cb8a9141d395d7160bd680de99b93bbc58cb4ecc91689"
+      },
+      {
+        "printed_page": 434,
+        "pdf_page": 483,
+        "text_file": "textbook_evidence/pdf-0483.txt",
+        "sha256": "b1b96c2cbc08c6b83782793cbe592f85e9b545bcfaaacd4da80b910cf7d9b374"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q39",
+    "issue_resolution_index": 38
+  },
+  {
+    "id": "CMU-115-Q40",
+    "school": "CMU",
+    "year": 115,
+    "q": 40,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 40,
+      "pdf_page": 8,
+      "printed_page": 8,
+      "regions": [
+        [
+          40,
+          490.90199999999993,
+          560.32,
+          643.932
+        ]
+      ],
+      "image": "questions/Q40.png",
+      "sha256": "7aa4acc0a76542a5c077fb505ece65f3128f7b5d018c6cfa075f9439de249bf1",
+      "width": 1041,
+      "height": 306,
+      "question_text": "40. 研究人員在黑色素瘤細胞中發現某 miRNA 高度表現。功能分析顯示，該 miRNA 可與抑\n癌基因PTEN mRNA 的 3′ UTR 進行不完全互補配對。實驗結果指出：PTEN mRNA僅輕\n微下降（約20%），但其蛋白質表現量卻大幅降低（約 80%）。根據上述觀察，該 miRNA\n最可能透過何種分子機制抑制 PTEN表現？\n(A) 直接結合 PTEN 蛋白並促進其經泛素–蛋白酶體途徑降解蛋白質\n(B) 進入細胞核抑制 PTEN 基因轉錄，並招募去乙醯化酶降低染色質活性\n(C) 結合目標 mRNA 抑制轉譯，並可能促進去腺苷酸化造成 mRNA 緩慢降解\n(D) 與 3′ UTR 結合後干擾剪接體作用，導致 mRNA 錯誤剪接，蛋白質產生量降低",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L1136",
+      "toc_line": 1136,
+      "chapter": 18,
+      "concept": "18.3",
+      "title": "Effects on mRNAs by MicroRNAs and Small Interfering RNAs",
+      "printed_page": 379,
+      "body_pdf_page": 428,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        39
+      ],
+      "chapter_label": "Ch18 Regulation of Gene Expression"
+    },
+    "secondary": [],
+    "primary_reason": "miRNA配對目標mRNA抑制轉譯及促進降解，精確對應Effects on mRNAs by MicroRNAs and Small Interfering RNAs。",
+    "secondary_reason": "不把PTEN癌症背景或3′UTR誤列為DNA轉錄、剪接主分類。",
+    "answer_analysis": "C；蛋白下降遠大於mRNA下降支持以轉譯抑制為主，亦可伴隨mRNA去腺苷酸化及降解。",
+    "textbook_evidence": [
+      {
+        "printed_page": 379,
+        "pdf_page": 428,
+        "text_file": "textbook_evidence/pdf-0428.txt",
+        "sha256": "f5660de66c3b93f1d5eeed82d175c8d6ca84d8d86395e0a8ef4047a3d9fd2e23"
+      },
+      {
+        "printed_page": 380,
+        "pdf_page": 429,
+        "text_file": "textbook_evidence/pdf-0429.txt",
+        "sha256": "fcff545b52fcfd748a0dca45dc95ac817769f37f36e1c857db1756df08efec2e"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q40",
+    "issue_resolution_index": 39
+  },
+  {
+    "id": "CMU-115-Q41",
+    "school": "CMU",
+    "year": 115,
+    "q": 41,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 41,
+      "pdf_page": 8,
+      "printed_page": 8,
+      "regions": [
+        [
+          40,
+          643.932,
+          560.32,
+          796.92
+        ]
+      ],
+      "image": "questions/Q41.png",
+      "sha256": "16cc7d40bce7b262204c140539fc29686e1137426bac30706bb1b3a1b48ee37e",
+      "width": 1041,
+      "height": 306,
+      "question_text": "41. 比較兩個森林群落的生物多樣性：群落 A：共有 10 種物種，每一物種的個體數量大致相\n同 ; 群落 B：共有 10 種物種，但其中 1 種占總個體數的 90%，其餘物種極為稀少。研\n究人員指出，兩群落在某一指標上「數值相同」，但在另一指標上「顯著不同」。下列何者\n最能正確描述「物種豐富度」的意義？\n(A) 群落中不同物種的種類數目，不考慮其個體數比例\n(B) 各物種在群落中所占的相對比例，反映優勢種與稀有種分布\n(C) 單位面積內所有生物的總生物量，反映能量累積程度\n(D) 群落中所有個體的總數，用以衡量族群大小",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L3611",
+      "toc_line": 3611,
+      "chapter": 54,
+      "concept": "54.2",
+      "title": "Species Diversity",
+      "printed_page": 1222,
+      "body_pdf_page": 1271,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        50
+      ],
+      "chapter_label": "Ch54 Community Ecology"
+    },
+    "secondary": [],
+    "primary_reason": "物種豐富度與相對豐度的區別直接位於Species Diversity。",
+    "secondary_reason": "物種數屬群落層次，不是族群密度或總生物量。",
+    "answer_analysis": "A；兩群落均10種故豐富度相同，但均勻度不同。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1222,
+        "pdf_page": 1271,
+        "text_file": "textbook_evidence/pdf-1271.txt",
+        "sha256": "587fcc4647e73313d02bc0a596a8da479a2ba8784c6b4def75c17dde608c1072"
+      },
+      {
+        "printed_page": 1223,
+        "pdf_page": 1272,
+        "text_file": "textbook_evidence/pdf-1272.txt",
+        "sha256": "4934d95a361da3fb02a9003ebc60634033ed1b3cebe831e17b73ed3df1c37234"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q41",
+    "issue_resolution_index": 40
+  },
+  {
+    "id": "CMU-115-Q42",
+    "school": "CMU",
+    "year": 115,
+    "q": 42,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 42,
+      "pdf_page": 9,
+      "printed_page": 9,
+      "regions": [
+        [
+          40,
+          85.85199999999998,
+          560.32,
+          202.85199999999998
+        ]
+      ],
+      "image": "questions/Q42.png",
+      "sha256": "25dc1bb91f3fd20774f119697e172ce514785239193e79fe21defd45b28f74de",
+      "width": 1041,
+      "height": 234,
+      "question_text": "42. 農業上過度使用氮肥和磷肥，隨雨水沖刷進入湖泊後，會引發藻華（Algal bloom），造成\n湖泊中大量魚類死亡。導致魚類死亡的最直接原因是什麼？\n(A) 藻類分泌大量神經毒素於魚類食物中，直接毒死魚類\n(B) 肥料中的氮磷直接破壞了魚類的鰓組織，導致魚類無法行動\n(C) 藻類遮蔽陽光，造成光合作用效率變低，導致魚類無法獲取足夠營養\n(D) 藻類死亡後，好氧細菌在分解藻類屍體時大量消耗水中的溶氧，導致魚類缺氧窒息",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L3689",
+      "toc_line": 3689,
+      "chapter": 55,
+      "concept": "55.2",
+      "title": "Primary Production in Aquatic Ecosystems",
+      "printed_page": 1242,
+      "body_pdf_page": 1291,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        50
+      ],
+      "chapter_label": "Ch55 Ecosystems and Restoration Ecology"
+    },
+    "secondary": [],
+    "primary_reason": "營養鹽增加造成優養化，藻類死亡後分解耗氧的機制直接位於Primary Production in Aquatic Ecosystems。",
+    "secondary_reason": "不將毒素、魚鰓損害或陸域肥料利用當主因，亦不重複計分解一般章。",
+    "answer_analysis": "D；分解者耗用溶氧引起魚類缺氧，不是單純藻類遮光或必然產毒。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1242,
+        "pdf_page": 1291,
+        "text_file": "textbook_evidence/pdf-1291.txt",
+        "sha256": "7739897b10766936ac2eacc036319fc9de4a76c5d310cffeb1862abaccd0d870"
+      },
+      {
+        "printed_page": 1243,
+        "pdf_page": 1292,
+        "text_file": "textbook_evidence/pdf-1292.txt",
+        "sha256": "49f4843b298772c2deda45ec9db4b891951b2f01f6a0e1d6307f4d6cc7f29236"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q42",
+    "issue_resolution_index": 41
+  },
+  {
+    "id": "CMU-115-Q43",
+    "school": "CMU",
+    "year": 115,
+    "q": 43,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 43,
+      "pdf_page": 9,
+      "printed_page": 9,
+      "regions": [
+        [
+          40,
+          202.85199999999998,
+          560.32,
+          301.88199999999995
+        ]
+      ],
+      "image": "questions/Q43.png",
+      "sha256": "71f20d62a4fd8f0ed6ba21a5aca5f8f8133a93179233d1a036b3b338bf3aeef3",
+      "width": 1041,
+      "height": 198,
+      "question_text": "43. 某些鳥類（如雁鵝）在孵化後不久，會在一段極短暫的發育時期內，對其所接觸到的第一\n個會移動的物體產生強烈依附行為。此種學習一旦形成，即使之後環境改變，也難以逆轉。\n這種在特定敏感期內形成且具長期穩定性的學習行為稱為何？\n(A) 習慣化（Habituation） (B) 古典制約（Classical conditioning）\n(C) 印痕（Imprinting） (D) 空間學習（Spatial learning）",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L3424",
+      "toc_line": 3424,
+      "chapter": 51,
+      "concept": "51.2",
+      "title": "Learning",
+      "printed_page": 1144,
+      "body_pdf_page": 1193,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        48,
+        49
+      ],
+      "chapter_label": "Ch51 Animal Behavior"
+    },
+    "secondary": [],
+    "primary_reason": "敏感期形成、長期穩定的imprinting屬Learning下的具體類型。",
+    "secondary_reason": "不可自造Imprinting為目錄條目，也不因敏感期而歸為胚胎發育。",
+    "answer_analysis": "C；早期印痕學習具敏感期與持久效果。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1144,
+        "pdf_page": 1193,
+        "text_file": "textbook_evidence/pdf-1193.txt",
+        "sha256": "5d2c4269a13f74585e5d9b81cf317624079325dc0f52d4939bec9b88fd89014d"
+      },
+      {
+        "printed_page": 1145,
+        "pdf_page": 1194,
+        "text_file": "textbook_evidence/pdf-1194.txt",
+        "sha256": "d97664fc2f6aed6c0928062b78b9ff77acff801f1a37716c2c1d080a7935d980"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q43",
+    "issue_resolution_index": 42
+  },
+  {
+    "id": "CMU-115-Q44",
+    "school": "CMU",
+    "year": 115,
+    "q": 44,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 44,
+      "pdf_page": 9,
+      "printed_page": 9,
+      "regions": [
+        [
+          40,
+          301.88199999999995,
+          560.32,
+          382.88199999999995
+        ]
+      ],
+      "image": "questions/Q44.png",
+      "sha256": "37dc85e776190ebe9521b305e7e3ed6a93f4062ecb6c9812d4b2c348aca09846",
+      "width": 1041,
+      "height": 162,
+      "question_text": "44. 免疫系統必須具備「自我耐受性（Self-tolerance）」以避免攻擊自身組織。哪一種免疫細胞\n專門負責抑制過度活躍的免疫反應，並預防自體免疫疾病的發生？\n(A) 輔助型 T 細胞（Th1） (B) 調節性 T 細胞（Treg）\n(C) 嗜酸性球（Eosinophils） (D) 肥大細胞（Mast cells）",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L2924",
+      "toc_line": 2924,
+      "chapter": 43,
+      "concept": "43.4",
+      "title": "Exaggerated, Self-Directed, and Diminished Immune Responses",
+      "printed_page": 970,
+      "body_pdf_page": 1019,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        47
+      ],
+      "chapter_label": "Ch43 The Immune System"
+    },
+    "secondary": [],
+    "primary_reason": "教材在Exaggerated, Self-Directed, and Diminished Immune Responses下明述Tregs調節免疫並避免自身抗原反應。",
+    "secondary_reason": "不以43.2的中樞刪除機制代替此題周邊Treg功能。",
+    "answer_analysis": "B；調節性T細胞抑制過強免疫並維持自我耐受。",
+    "textbook_evidence": [
+      {
+        "printed_page": 970,
+        "pdf_page": 1019,
+        "text_file": "textbook_evidence/pdf-1019.txt",
+        "sha256": "ac5ec155fb3b83aefe6eb58f8ab2e69184f90958e5c41ad9dc50a17bab725760"
+      },
+      {
+        "printed_page": 971,
+        "pdf_page": 1020,
+        "text_file": "textbook_evidence/pdf-1020.txt",
+        "sha256": "253a4cf17c93a3f61a045ad9ad0a442adb4184cf32f82941a92bdd144848e501"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q44",
+    "issue_resolution_index": 43
+  },
+  {
+    "id": "CMU-115-Q45",
+    "school": "CMU",
+    "year": 115,
+    "q": 45,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 45,
+      "pdf_page": 9,
+      "printed_page": 9,
+      "regions": [
+        [
+          40,
+          382.88199999999995,
+          560.32,
+          589.9019999999999
+        ]
+      ],
+      "image": "questions/Q45.png",
+      "sha256": "fe9a03b56d6e0fc508fc4d625a37bc39027044d319c30c9c53b37de6d42b33c2",
+      "width": 1041,
+      "height": 414,
+      "question_text": "45. 在乾燥或高溫環境中，植物為降低光呼吸對光合作用效率的影響，演化出不同的 CO₂ 濃\n縮機制。其中，C4 植物與 CAM 植物皆能先將 CO₂ 固定為四碳化合物，再供卡爾文循環\n使用。根據兩者在「分隔策略」的機制差異及適應的生態多樣性，下列何者最正確？\n(A) 兩類植物皆在相同細胞與相同時間內完成 CO₂ 固定與卡爾文循環\n(B) 兩類植物皆不需 RuBisCO 即可完成碳固定\n(C) 玉米是 C₄ 植物，透過空間分隔，在葉肉細胞（Mesophyll）先將 CO₂ 固定為四碳\n化合物，送至束鞘（Bundle sheath） 供卡爾文循環使用；蝴蝶蘭是 CAM 植物，透\n過時間分隔，葉的氣孔在夜晚打開，將 CO₂ 固定為四碳化合物\n(D) 蘆薈是C₄ 植物透過時間分隔，白天會將 CO₂ 固定為四碳化合物；仙人掌是CAM\n植物，透過空間分隔，在葉肉細胞先將 CO₂ 固定為四碳化合物，再供卡爾文循環\n使用",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [
+        8,
+        9
+      ],
+      "clarification_disposition": "維持C"
+    },
+    "primary": {
+      "id": "L0676",
+      "toc_line": 676,
+      "chapter": 10,
+      "concept": "10.5",
+      "title": "C4 Plants",
+      "printed_page": 203,
+      "body_pdf_page": 252,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        37
+      ],
+      "chapter_label": "Ch10 Photosynthesis"
+    },
+    "secondary": [
+      {
+        "id": "L0679",
+        "toc_line": 679,
+        "chapter": 10,
+        "concept": "10.5",
+        "title": "CAM Plants",
+        "printed_page": 205,
+        "body_pdf_page": 254,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          37
+        ],
+        "chapter_label": "Ch10 Photosynthesis"
+      }
+    ],
+    "primary_reason": "C4 Plants實際條目涵蓋葉肉與束鞘的空間分隔。",
+    "secondary_reason": "CAM Plants是同章另一真實最小條目，補足夜間固定／白天Calvin的時間分隔；章級統計去重。",
+    "answer_analysis": "C；官方釋疑第8–9頁維持C。PEP carboxylase確可完成初級固定；持續整體同化仍需Calvin/Rubisco，將此語義界線明載。",
+    "textbook_evidence": [
+      {
+        "printed_page": 203,
+        "pdf_page": 252,
+        "text_file": "textbook_evidence/pdf-0252.txt",
+        "sha256": "f95db8df6ec50e2ebe6fbc5423b5da652c39d2213a0f90ab09f124dd3546e721"
+      },
+      {
+        "printed_page": 204,
+        "pdf_page": 253,
+        "text_file": "textbook_evidence/pdf-0253.txt",
+        "sha256": "063fc9b6165718954137937938c9f7b678e91b2028a13c1b016ad1869d3c9366"
+      },
+      {
+        "printed_page": 205,
+        "pdf_page": 254,
+        "text_file": "textbook_evidence/pdf-0254.txt",
+        "sha256": "608eca4bf9ee946c0057bd976e13c8fe0cb6ab1fbde8feab81841731ed50fb92"
+      },
+      {
+        "printed_page": 206,
+        "pdf_page": 255,
+        "text_file": "textbook_evidence/pdf-0255.txt",
+        "sha256": "12cc85456d2d6532c1afaeba1aa2a5e18cd1794884faf0629e0c1346edb5477f"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q45",
+    "issue_resolution_index": 44
+  },
+  {
+    "id": "CMU-115-Q46",
+    "school": "CMU",
+    "year": 115,
+    "q": 46,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 46,
+      "pdf_page": 9,
+      "printed_page": 9,
+      "regions": [
+        [
+          40,
+          589.9019999999999,
+          560.32,
+          796.92
+        ]
+      ],
+      "image": "questions/Q46.png",
+      "sha256": "61d962d529bb516e878efefc87ca14dd277f2823ce7a6c4f530d435aa13a6918",
+      "width": 1041,
+      "height": 414,
+      "question_text": "46. 根據內聚力-張力理論（Cohesion-Tension Theory），維管束植物能將水分與溶解的礦物質從\n根部運送到數十公尺高的葉尖。此一跨距離運輸過程涉及了複雜的生理物理交互作用。關\n於木質部（Xylem）運輸機制的敘述，下列何者最正確？\n(A) 木質部導管（Vessel elements）與假導管（Tracheids）在發揮運輸功能時，必須維持\n原生質體的活性以進行滲透調節\n(B) 葉肉細胞細胞壁表面水分的蒸發，會導致氣孔下腔的水分彎液面（Meniscus）曲率\n增加，進而產生驅動水分向上的負張力\n(C) 根壓（Root pressure）是長距離水分運輸的主要動力來源，足以支撐高大喬木在夏\n季蒸散旺盛時的水分需求\n(D) 導管壁厚實的木質素（Lignin）主要功能是儲存水分，以防止植物在極端乾旱時發\n生氣栓現象（Embolism）",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L2381",
+      "toc_line": 2381,
+      "chapter": 36,
+      "concept": "36.3",
+      "title": "Bulk Flow Transport via the Xylem",
+      "printed_page": 792,
+      "body_pdf_page": 841,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        45
+      ],
+      "chapter_label": "Ch36 Resource Acquisition and Transport in Vascular Plants"
+    },
+    "secondary": [],
+    "primary_reason": "蒸散在細胞壁彎液面產生負壓並由內聚力傳遞，屬Bulk Flow Transport via the Xylem。",
+    "secondary_reason": "根壓及木質部構造是比較用條件，不替代內聚力—張力主機制。",
+    "answer_analysis": "B；水分蒸發使彎液面曲率增大、壓力更負而拉動水柱。張力為拉力，原題負張力以負壓理解。",
+    "textbook_evidence": [
+      {
+        "printed_page": 792,
+        "pdf_page": 841,
+        "text_file": "textbook_evidence/pdf-0841.txt",
+        "sha256": "519a4eaf525525229e0df6422fdb3e4854dd5cf4ddde762519376a9d235cde54"
+      },
+      {
+        "printed_page": 793,
+        "pdf_page": 842,
+        "text_file": "textbook_evidence/pdf-0842.txt",
+        "sha256": "5fdbfd41922544908a9b21acfdccc50cb6372ee9e22fa985db2e8c5122a4fa20"
+      },
+      {
+        "printed_page": 794,
+        "pdf_page": 843,
+        "text_file": "textbook_evidence/pdf-0843.txt",
+        "sha256": "146d9e15280cfd882dd36a5994cc38b457311906e627a12ad88ce5a231514dd9"
+      },
+      {
+        "printed_page": 795,
+        "pdf_page": 844,
+        "text_file": "textbook_evidence/pdf-0844.txt",
+        "sha256": "e178e46060937c58513aa651476663b6328bf705704769d4314baf51270b1f52"
+      },
+      {
+        "printed_page": 796,
+        "pdf_page": 845,
+        "text_file": "textbook_evidence/pdf-0845.txt",
+        "sha256": "a01fa8dc8f8ed2a5cbbe190b507bcddf54295b50e486fb2e9099397784a77610"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q46",
+    "issue_resolution_index": 45
+  },
+  {
+    "id": "CMU-115-Q47",
+    "school": "CMU",
+    "year": 115,
+    "q": 47,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 47,
+      "pdf_page": 10,
+      "printed_page": 10,
+      "regions": [
+        [
+          40,
+          85.85199999999998,
+          560.32,
+          202.85199999999998
+        ]
+      ],
+      "image": "questions/Q47.png",
+      "sha256": "7bffc1bc16cba47705eb0989502b7845a522f6145bf885352baabfd721411d3d",
+      "width": 1041,
+      "height": 234,
+      "question_text": "47. 在植物莖部的伸長生長中，生長素（Auxin）可促進細胞快速伸長。此過程涉及細胞壁性\n質的改變，而非單純增加細胞數量。生長素如何在分子層級促進細胞伸長？\n(A) 生長素直接分解細胞壁中的纖維素，使細胞體積增加\n(B) 生長素抑制乙烯（Ethylene）合成，間接解除對細胞伸長的抑制\n(C) 生長素累積於液泡內，提高滲透壓，促使水分進入而造成細胞伸長\n(D) 生長素活化質子幫浦（H⁺-ATPase），輸出 H⁺至細胞壁空間，降低 pH使細胞壁鬆弛",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L2557",
+      "toc_line": 2557,
+      "chapter": 39,
+      "concept": "39.2",
+      "title": "A Survey of Plant Hormones",
+      "printed_page": 847,
+      "body_pdf_page": 896,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        45
+      ],
+      "chapter_label": "Ch39 Plant Responses to Internal and External Signals"
+    },
+    "secondary": [],
+    "primary_reason": "Auxin酸生長作用位於A Survey of Plant Hormones，正文含H+泵與expansin鬆弛細胞壁。",
+    "secondary_reason": "不另列一般膜泵章；題目要求植物生長素引發細胞伸長的完整路徑。",
+    "answer_analysis": "D；生長素促進質子外排、細胞壁酸化，活化壁鬆弛機制，並非直接水解纖維素。",
+    "textbook_evidence": [
+      {
+        "printed_page": 847,
+        "pdf_page": 896,
+        "text_file": "textbook_evidence/pdf-0896.txt",
+        "sha256": "58d27d0a2cdc2e3cc9ae58cefbf4481392a39693449172e51fd6bb2ece951f7c"
+      },
+      {
+        "printed_page": 848,
+        "pdf_page": 897,
+        "text_file": "textbook_evidence/pdf-0897.txt",
+        "sha256": "f1f5f81f9fef0c431a71cb6afc11d0fab4807937f79017bdb0840407f9129ada"
+      },
+      {
+        "printed_page": 849,
+        "pdf_page": 898,
+        "text_file": "textbook_evidence/pdf-0898.txt",
+        "sha256": "fe5cae6534c6fa34ecc4a0069287b083dec62eb93774ac81b3d7067a6808d70a"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q47",
+    "issue_resolution_index": 46
+  },
+  {
+    "id": "CMU-115-Q48",
+    "school": "CMU",
+    "year": 115,
+    "q": 48,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 48,
+      "pdf_page": 10,
+      "printed_page": 10,
+      "regions": [
+        [
+          40,
+          202.85199999999998,
+          560.32,
+          301.88199999999995
+        ]
+      ],
+      "image": "questions/Q48.png",
+      "sha256": "8f99f7c741593e4228b4022364204f373a1758cdf70c949a8e3ec19e27843424",
+      "width": 1041,
+      "height": 198,
+      "question_text": "48. 在無氧運動狀態下，肌肉中的還原菸鹼醯胺腺嘌呤二核苷酸（NADH，nicotinamide adenine\ndinucleotide reduced）是如何被再氧化為菸鹼醯胺腺嘌呤二核苷酸（NAD+，nicotinamide\nadenine dinucleotide）以維持糖解作用（Glycolysis）持續進行？\n(A) 透過丙酮酸轉化為乳酸的反應 (B) 透過電子傳遞鏈傳送高能至 NADH\n(C) 透過糖質新生產生能量 (D) 透過發酵作用耗損能量",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L0595",
+      "toc_line": 595,
+      "chapter": 9,
+      "concept": "9.5",
+      "title": "Types of Fermentation",
+      "printed_page": 180,
+      "body_pdf_page": 229,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        37
+      ],
+      "chapter_label": "Ch09 Cellular Respiration and Fermentation"
+    },
+    "secondary": [],
+    "primary_reason": "乳酸發酵以pyruvate作受體再生NAD+，對應Types of Fermentation。",
+    "secondary_reason": "不將NADH氧化直接誤列有氧電子傳遞鏈。",
+    "answer_analysis": "A；pyruvate接受NADH電子成lactate，NAD+再生使糖解可持續。",
+    "textbook_evidence": [
+      {
+        "printed_page": 180,
+        "pdf_page": 229,
+        "text_file": "textbook_evidence/pdf-0229.txt",
+        "sha256": "18588f46349c23d6916fd9023af1c54fa9e4ae7740e7204897e5505d8919ec3d"
+      },
+      {
+        "printed_page": 181,
+        "pdf_page": 230,
+        "text_file": "textbook_evidence/pdf-0230.txt",
+        "sha256": "dbfccd7af24f678592c4fc34f8ffa2c1c0b5ee6702ca22559cf4f9860887c89f"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q48",
+    "issue_resolution_index": 47
+  },
+  {
+    "id": "CMU-115-Q49",
+    "school": "CMU",
+    "year": 115,
+    "q": 49,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 49,
+      "pdf_page": 10,
+      "printed_page": 10,
+      "regions": [
+        [
+          40,
+          301.88199999999995,
+          560.32,
+          436.88199999999995
+        ]
+      ],
+      "image": "questions/Q49.png",
+      "sha256": "2395921c44b1093e82fb02247cb1c0d0139634508f7747bb898eeda7c88c132d",
+      "width": 1041,
+      "height": 270,
+      "question_text": "49. 自工業革命以來，大量 CO₂ 被海洋吸收，改變海水中的碳酸系統平衡並導致海洋酸化。\n此變化會抑制珊瑚與貝類形成碳酸鈣（CaCO₃）骨骼。何者最能解釋海洋酸化抑制珊瑚骨\n骼形成的原因？\n(A) CO₂ 溶於海水形成碳酸並釋放 H⁺，降低碳酸根（CO₃²⁻）濃度，減少CaCO₃的形成\n(B) 高 CO₂ 抑制珊瑚細胞呼吸，造成缺氧並影響 Ca²⁺ 運輸，無法形成碳酸鈣骨骼\n(C) 酸化直接破壞珊瑚共生藻，導致白化並抑制骨骼生成\n(D) pH 降低活化分解者，加速珊瑚礁有機物分解",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L0184",
+      "toc_line": 184,
+      "chapter": 3,
+      "concept": "3.3",
+      "title": "Acidification: A Threat to Our Oceans",
+      "printed_page": 53,
+      "body_pdf_page": 102,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        35
+      ],
+      "chapter_label": "Ch03 Water and Life"
+    },
+    "secondary": [],
+    "primary_reason": "碳酸平衡與碳酸根下降的機制直接位於3.3 Acidification: A Threat to Our Oceans。",
+    "secondary_reason": "氣候變遷是來源情境，不以保育章取代精確酸鹼機制。",
+    "answer_analysis": "A；增加的H+使carbonate轉為bicarbonate，降低可供CaCO3形成的CO3²−。",
+    "textbook_evidence": [
+      {
+        "printed_page": 53,
+        "pdf_page": 102,
+        "text_file": "textbook_evidence/pdf-0102.txt",
+        "sha256": "ac790eb7c3762f8ff373161e8dfca68f137e59e5625709994838f0efc1309920"
+      },
+      {
+        "printed_page": 54,
+        "pdf_page": 103,
+        "text_file": "textbook_evidence/pdf-0103.txt",
+        "sha256": "6090900a19e367baa068c5a852c4b6630523618250b377eaafc5874e71c2ce53"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q49",
+    "issue_resolution_index": 48
+  },
+  {
+    "id": "CMU-115-Q50",
+    "school": "CMU",
+    "year": 115,
+    "q": 50,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 50,
+      "pdf_page": 10,
+      "printed_page": 10,
+      "regions": [
+        [
+          40,
+          436.88199999999995,
+          560.32,
+          796.92
+        ]
+      ],
+      "image": "questions/Q50.png",
+      "sha256": "c173050a825dcbd4839c0adaf3143b5806a8a7dcf784f2d314b4e481703276bf",
+      "width": 1041,
+      "height": 720,
+      "question_text": "50. 大氣中的氮氣（N₂）具有穩定的三鍵結構，多數生物無法直接利用。只有少數原核生物可\n透過固氮作用，在固氮酶的催化下，將 N₂ 還原為氨（NH₃）。此酵素對氧氣極為敏感，因\n此固氮生物需發展特定機制以避免 O₂ 抑制其活性。下列何者最正確？\n(A) 豆科植物可自行在根部細胞中合成固氮酶，直接將 N₂ 轉化為有機氮，增N₂ 抑O₂\n(B) 部分具固氮能力的藍綠菌可形成異形細胞（Heterocysts）以隔絕氧氣，保護固氮酶\n(C) 脫氮細菌在缺氧環境下可將 NH₄⁺ 還原為 N₂，此過程為固氮作用的逆反應\n(D) 硝化細菌（如 Nitrosomonas）可直接將 N₂ 氧化為 NO₂⁻ 以獲取能量",
+      "shared_stimulus": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於已取得的115年度生物釋疑PDF8–9，依同年度原答案採計"
+    },
+    "primary": {
+      "id": "L1741",
+      "toc_line": 1741,
+      "chapter": 27,
+      "concept": "27.3",
+      "title": "Metabolic Cooperation",
+      "printed_page": 582,
+      "body_pdf_page": 631,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        42
+      ],
+      "chapter_label": "Ch27 Bacteria and Archaea"
+    },
+    "secondary": [
+      {
+        "id": "L1738",
+        "toc_line": 1738,
+        "chapter": 27,
+        "concept": "27.3",
+        "title": "Nitrogen Metabolism",
+        "printed_page": 582,
+        "body_pdf_page": 631,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          42
+        ],
+        "chapter_label": "Ch27 Bacteria and Archaea"
+      }
+    ],
+    "primary_reason": "題目重點為異形細胞保護固氮酶的細胞分工，最精確為Metabolic Cooperation。",
+    "secondary_reason": "同概念Nitrogen Metabolism補充N2還原成NH3及固氮定義；章級統計去重。",
+    "answer_analysis": "B；部分藍綠菌以異形細胞限制O2進入並與鄰近細胞交換代謝物，保護氧敏感的固氮酶。",
+    "textbook_evidence": [
+      {
+        "printed_page": 582,
+        "pdf_page": 631,
+        "text_file": "textbook_evidence/pdf-0631.txt",
+        "sha256": "fdc371da347c6bcbcb99fb1ad713bbf966c066d485a400ab078e83d83a5bcaff"
+      },
+      {
+        "printed_page": 583,
+        "pdf_page": 632,
+        "text_file": "textbook_evidence/pdf-0632.txt",
+        "sha256": "7ec5fb378c871098c34c8aedcebc36129935c74dbb0bab1c5b8403eafdce4d8b"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文直接支援主要判別原理；題文及官方釋疑差異仍逐題保留。",
+    "second_review_id": "CMU-115-R2-Q50",
+    "issue_resolution_index": 49
+  }
+]

@@ -1,0 +1,274 @@
+{
+  "question": {
+    "path": "fbc8144123499346200b9a7a.pdf",
+    "sha256": "c2c5c87e68b7b6fee3ea1aa49f7cf2856b3158713d11e86b66fbf47b460cccd6",
+    "pdf_pages": 27,
+    "inventory_category": "biology_question",
+    "scope_status": "VERIFIED_COMPLETE_PDF_HEADERS_AND_BIOLOGY_FULL_IMAGES",
+    "subject": "生物學（含生理學）",
+    "question_count": 50,
+    "biology_pdf_pages": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "printed_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "excluded_subject_pages": {
+      "國文": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "化學": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "英文": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    "source_difference": "檔名標生物但實際27頁混科。與本輪官方ZIP中112成員PDF1–27逐頁文字和72dpi像素相同。"
+  },
+  "answer": {
+    "path": "c2bf92016b1e0384b9828817.pdf",
+    "sha256": "a02c62aedf9bd62ebe3e1f24ab826884ce53987a0f5a92ea7ea85c7b7dc85cbb",
+    "pdf_pages": 1,
+    "inventory_category": "biology_answer",
+    "scope_status": "VISUALLY_VERIFIED_OFFICIAL_IDENTICAL_PAGE",
+    "biology_pdf_pages": [
+      1
+    ],
+    "official_combined_pdf_page": 28,
+    "biology_region": "PDF1最下方第四張生物表；上方其他三科排除"
+  },
+  "clarification": {
+    "path": "0a3153fc5deeaf233a0e92a1.pdf",
+    "sha256": "a3bd8a26ef211c5d38d65452482f24fe3481d9128e5420084f98f76109729c6b",
+    "pdf_pages": 7,
+    "inventory_category": "clarification",
+    "scope_status": "BIOLOGY_ROWS_VISUALLY_VERIFIED",
+    "biology_pdf_pages": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "official_combined_pdf_pages": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "biology_questions": {
+      "1": [
+        4
+      ],
+      "8": [
+        4
+      ],
+      "11": [
+        4
+      ],
+      "24": [
+        5
+      ],
+      "26": [
+        5
+      ],
+      "33": [
+        5
+      ],
+      "40": [
+        5
+      ],
+      "41": [
+        5
+      ],
+      "42": [
+        6
+      ],
+      "43": [
+        6
+      ],
+      "44": [
+        6
+      ],
+      "46": [
+        7
+      ]
+    },
+    "official_corrections": {},
+    "meeting_date": "2023-04-26",
+    "publication_date": "NOT_INDEPENDENTLY_VERIFIED",
+    "excluded": "PDF1–3非生物、PDF4上方英文45排除；其餘38題未列本輪取得公告，不宣稱不存在其他未取得公告。"
+  },
+  "combined_candidate": {
+    "path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/schools/ISU/files/其他試題_非生物或待查/ISU_112_combined_exam_archive__112學年度學士後中醫學系招生考試考古題公告.pdf",
+    "sha256": "a0e62a755098d1db3b4ee6f28531cebe960113987298f0b406267fd096d67cdd",
+    "pdf_pages": 35,
+    "inventory_category": "combined_exam_archive",
+    "scope_status": "IDENTICAL_OFFICIAL_112_MEMBER",
+    "official_sha256_match": true
+  },
+  "textbook": {
+    "path": "Campbell Biology 12e.pdf（教材參考，全文未公開）",
+    "sha256": "de7c28b93a1c853c0c58d53cd658848d08cf033cde7c2071c062bfdd25b5dc73"
+  },
+  "toc": {
+    "path": "Campbell toc.txt（教材參考，全文未公開）",
+    "sha256": "472c94c03d3e7f107284b4e59ba744b406faee99580f5d940e0c2dab3d0c3dc7"
+  },
+  "official_archive": {
+    "path": "source/supplemental/ISU112/official-historical-exams.zip",
+    "url": "https://www.isu.edu.tw/storage/files/9crd3xNNj7FiMlpyB92xu98jBE5cQrUWvqPB0ZfK.zip",
+    "final_url": "https://www.isu.edu.tw/storage/files/9crd3xNNj7FiMlpyB92xu98jBE5cQrUWvqPB0ZfK.zip",
+    "sha256": "3245682ef6e3375ef8696b35feb1b3ea0b45fe8343f5a42b4c12d81611c32953",
+    "bytes": 26604484,
+    "retrieved_at": "2026-09-09T18:43:08.310345+08:00",
+    "source_type": "OFFICIAL_DIRECT"
+  },
+  "archive_notice": {
+    "path": "source/supplemental/ISU112/archive-notice.html",
+    "url": "https://www.isu.edu.tw/admissions/30?category=7&year=115",
+    "final_url": "https://www.isu.edu.tw/admissions/30?category=7&year=115",
+    "sha256": "c6ca4722a08e27cadc0e0c085cdffd6a43b33f856b54dae25fa4233c86e45661",
+    "bytes": 439450,
+    "retrieved_at": "2026-09-09T18:43:09.555266+08:00",
+    "source_type": "OFFICIAL_DIRECT"
+  },
+  "official_combined": {
+    "path": "67f815b68baa782fc7ab4692.pdf",
+    "sha256": "a0e62a755098d1db3b4ee6f28531cebe960113987298f0b406267fd096d67cdd",
+    "bytes": 2702523,
+    "pdf_pages": 35,
+    "member": "112學年度學士後中醫學系招生考試考古題公告.pdf",
+    "archive_sha256": "3245682ef6e3375ef8696b35feb1b3ea0b45fe8343f5a42b4c12d81611c32953",
+    "url": "https://www.isu.edu.tw/storage/files/9crd3xNNj7FiMlpyB92xu98jBE5cQrUWvqPB0ZfK.zip",
+    "source_type": "OFFICIAL_112_MEMBER_OF_HISTORICAL_ARCHIVE",
+    "scope_status": "VERIFIED_ALL_35_PAGES_TEXT_AND_PIXELS_IDENTICAL_TO_LOCAL_PARTS",
+    "biology_question_pdf_pages": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "biology_answer_pdf_page": 28,
+    "biology_clarification_pdf_pages": [
+      32,
+      33,
+      34,
+      35
+    ]
+  },
+  "official_question": {
+    "path": "67f815b68baa782fc7ab4692.pdf",
+    "sha256": "a0e62a755098d1db3b4ee6f28531cebe960113987298f0b406267fd096d67cdd",
+    "bytes": 2702523,
+    "pdf_pages": 35,
+    "member": "112學年度學士後中醫學系招生考試考古題公告.pdf",
+    "archive_sha256": "3245682ef6e3375ef8696b35feb1b3ea0b45fe8343f5a42b4c12d81611c32953",
+    "url": "https://www.isu.edu.tw/storage/files/9crd3xNNj7FiMlpyB92xu98jBE5cQrUWvqPB0ZfK.zip",
+    "source_type": "OFFICIAL_112_MEMBER_OF_HISTORICAL_ARCHIVE",
+    "scope_status": "VERIFIED_ALL_35_PAGES_TEXT_AND_PIXELS_IDENTICAL_TO_LOCAL_PARTS",
+    "biology_question_pdf_pages": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "biology_answer_pdf_page": 28,
+    "biology_clarification_pdf_pages": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "role": "題本採PDF22–27；答案28；釋疑32下方至35。下載頁115不是試卷年度。"
+  },
+  "source_access_notes": {
+    "initial_download": "沙盒WinError10013，依任務授權require_escalated重試成功。",
+    "official_archive": "本輪官方頁歷屆試題連結74指向ZIP；由具名112成員、印刷年份與逐頁比較確認，未使用其他年度答案。",
+    "archive_notice_date": "2025-12-12為歷屆試題下載頁日期，不是112答案釋疑發布日。"
+  },
+  "source_differences": {
+    "ISU-112-Q01": "官方B且釋疑維持。耳石協助感知頭部相對位置及直線加速度，缺少耳石不等於耳內所有傳入訊號都消失，也不能推出完全失聰。Campbell印刷1115直接描述此機制；釋疑引用Vander 2008僅作公告引用記錄，未冒稱本輪取得該書。",
+    "ISU-112-Q02": "官方B。枕葉含主要視覺處理區，最可能造成視覺障礙；題目問皮質功能定位，並非眼球光受器或聽覺傳入機制。",
+    "ISU-112-Q03": "官方A。Campbell在輔助性T細胞之外列出低CD4量的巨噬細胞及腦細胞等感染對象；原題的腦細胞是廣稱，不將其擴張成所有神經元皆受感染。",
+    "ISU-112-Q04": "官方D。鄰近骨骼肌擠壓淋巴管、管壁平滑肌活動與瓣膜共同促進單向回流；D是選項中的主要因素，不表示只有骨骼肌能影響淋巴流動。",
+    "ISU-112-Q05": "官方C。人類與成體兩生類皆為雙循環，但典型兩生類心臟三腔、人類四腔，前者兩迴路血液不完全分離。共有的是迴路數目，不是心房心室數或完全分隔。",
+    "ISU-112-Q06": "官方D。硬骨基質含膠原與鈣、磷等礦物鹽；軟骨、疏鬆與纖維結締組織的基質性質不同。不以正文圖中Bone標題冒造目錄條目。",
+    "ISU-112-Q07": "官方D。軸突沿線以電位變化傳訊，神經元間常以短距離化學訊號傳遞，因此涉及不止一類訊號。內分泌訊號經體液傳送、作用常較慢且持久是一般比較，並非每一種激素或神經反應都遵守絕對時間界線。",
+    "ISU-112-Q08": "官方A且釋疑維持。Campbell印刷605以渦鞭藻大量繁生說明赤潮，未提出排除所有其他生物的全稱命題。釋疑與Penn State教材亦承認少見矽藻案例，因此原題「會引起」的措辭比官方擇優解釋更廣。",
+    "ISU-112-Q09": "官方C。生物膜群落可分工利用或轉移代謝產物，呈現細胞間代謝協作；二分裂、形成內孢子或單一細胞光合自營本身不代表細胞間合作。",
+    "ISU-112-Q10": "官方A。題設為條件敘述：羽毛起初在體溫調節上有用，後被徵用於飛行，稱擴展適應。不能推成演化預先為將來飛行設計羽毛，也不是適應性輻射的物種數增加。",
+    "ISU-112-Q11": "官方B且釋疑維持。配子隔離可使近緣物種受精失敗；C是合子後障礙。原題D字面「防止驢馬交配」若真有阻止交配機制，定義上也屬合子前，不能用驢馬可交配且騾常不育的例子否定所有可能的合子前屏障；保留原題文字與官方以雜種不育解讀D的差異。",
+    "ISU-112-Q12": "官方C。植物病毒可藉胞間連絲在相鄰細胞間傳播；親代至子代的垂直傳播不是同株傳播的答案。原題B印成vertical transfusion，相關專業用語通常是vertical transmission，原圖與原文照存。不得把胞間連絲的細胞間移動誤說成垂直遺傳。",
+    "ISU-112-Q13": "官方C。血凝素HA協助流感病毒附著宿主細胞，NA與新病毒釋出有關；HA是外套膜相關蛋白，不能因病毒含外套膜便選組裝外套膜的B。",
+    "ISU-112-Q14": "官方C。單股tRNA可由分子內互補鹼基間氫鍵形成莖與折疊結構；共價磷酸二酯骨架仍存在。題目問折疊的主要配對作用，不等於tRNA完全不含共價鍵。",
+    "ISU-112-Q15": "官方A。依選項的細菌DNA聚合酶I／III模型，順序為primase、pol III、pol I、ligase。引子由RNA構成，pol I移除並補DNA後ligase封口；不可把這組酵素名稱無條件套到真核複製。",
+    "ISU-112-Q16": "官方B。在題設單基因顯隱性模型中，不捲舌母親rr，已有rr子女推出捲舌父親Rr。下一胎捲舌機率1/2、男生1/2，相乘1/4；既有三名孩子不改變下一胎機率。但真實人類捲舌不是可靠的簡單孟德爾性狀，此答案屬題設模型。",
+    "ISU-112-Q17": "官方A。Rubisco是催化酵素，接受CO2的五碳糖為RuBP；初始CAM／C4碳固定常由PEP carboxylase完成。題目不是問光反應分解水的酵素。",
+    "ISU-112-Q18": "官方C。膽固醇既為動物膜成分，也可作其他類固醇的前驅物。原題「優先製造」屬功能導向措辭，不是本輪驗證過的合成優先次序；生理功能也不表示血中膽固醇越高越好。",
+    "ISU-112-Q19": "官方A。頂體反應來自精子，釋出水解酵素並形成與卵辨識接觸的構造；皮層反應由卵發生，與防止多精入卵有關。正文頂體反應小標不在真實目錄，未冒造更小條目。",
+    "ISU-112-Q20": "官方B。典型差速離心先取得富含細胞核的沉澱，再來粒線體，最高轉速的步驟可得核糖體。這是依次移取上清再提高離心力的操作，並非保證單一未分離混合物每次沉澱只有一種成分。",
+    "ISU-112-Q21": "官方D。HPV蛋白次單位／病毒樣顆粒疫苗可供男性與女性使用，多價涵蓋多型別；故「只能女性」錯。預防HPV相關癌症的疫苗不等於治療已成立的癌症，Campbell疫苗原理及974頁具名HPV內容，與CDC補足的L1、多價和性別適用資料分開標示。",
+    "ISU-112-Q22": "官方C。瓶頸會使有效族群縮小，通常加強漂變並喪失多樣性，非減少漂變。存活者的等位基因比例可能偏離原族群；B的多樣性減少按典型趨勢理解，不說每一次有限抽樣必然丟失所有稀有型。",
+    "ISU-112-Q23": "官方A。編碼區突變可改變蛋白序列或功能，但不是所有突變均產生全新蛋白。啟動子等調控序列突變亦可造成新表型，C並非科學上不可能；B將tRNA寫為密碼子，應區分tRNA反密碼子與mRNA密碼子。沒有取得改採其他答案的本年度公告，採計仍A。",
+    "ISU-112-Q24": "官方C且釋疑維持，依2023公告將「快速」限定為當時國內常規檢驗的比較。2020原始研究已用Illumina及nanopore於病人體液偵測病原，不可將公告泛化成NGS不能用於臨床感染鑑定。Nanopore通常另列第三代，其快速樣本至答案時間也不能直接代表第二代NGS。NIPD／NIPT的篩檢與確診意義亦不因選項名稱而等同。",
+    "ISU-112-Q25": "官方A。敏感度是TP/(TP+FN)，假陽性率FP/(FP+TN)=1−特異度；特異度為TN/(TN+FP)。陽性預測值TP/(TP+FP)受盛行率影響，固定其他條件時特異度越高假陽性率越低。上述統計公式由FDA定義補足，未假稱Campbell印刷969直接列出公式。",
+    "ISU-112-Q26": "官方B且釋疑維持，限定棘蛋白的轉譯步驟使用宿主轉譯機制及原料。病毒RNA的合成先涉及病毒RNA聚合酶，這不使本題轉譯步驟改為病毒酵素主導；S蛋白通常由次基因體RNA編碼，不能誤說所有棘蛋白都從完整基因體直接轉譯。SARS-CoV-2不是靠先反轉錄成cDNA製造S蛋白。",
+    "ISU-112-Q27": "官方C。代謝速率會隨活動、體型及生理狀態改變，並非像體溫、血糖與pH那樣圍繞相對窄範圍維持的同類變數。但代謝速率受內分泌與恆定系統調控，C不能解作代謝完全與恆定無關；其他三者亦非數值永不變動。",
+    "ISU-112-Q28": "官方C。四大類為蛋白質、碳水化合物、脂質、核酸；官能基、元素或混雜DNA/RNA與單體的選項不構成這四大類。Concept 5.1標題談聚合物，但正文及概念檢查明確區分脂質不是典型聚合物，未將四類全部說成聚合物。",
+    "ISU-112-Q29": "官方D。拓樸異構酶處理DNA拓樸應力；Campbell該酵素例子在複製段落，原題卻問轉錄，二者情境差異保留。1989原始實驗支持轉錄前方正超螺旋、後方負超螺旋，故「兩旁旋得更緊」不精確。解旋酶開股、ligase封口均不等於解除此拓樸限制的完整功能。",
+    "ISU-112-Q30": "官方A。在需加工受損末端且沒有長同源模板時，NHEJ可出現插入／缺失，符合一般教學中的較易出錯類別；但相容末端能精確接合，不能把「精確率最差」當成不依細胞、受損型態或底物而永遠成立的排名。",
+    "ISU-112-Q31": "官方D。四個選項中海綿屬動物，與真菌比綠藻、苔類及黏菌更接近；若不限定選項，Campbell列真菌最接近的原生生物親緣為nucleariids，不能宣稱海綿是所有生物中真菌唯一最近親。",
+    "ISU-112-Q32": "官方B。刺絲囊是胞內特化囊狀構造，絲管含小型膠原等成分，不是自由細胞質中的簡單多醣聚合物。原始研究也發現成熟前軟骨素支架，故不可反向聲稱絲管完全無醣或只有蛋白。黏附型與穿刺毒性型須區分，原題C、D按不同刺絲囊型態的一般功能理解。",
+    "ISU-112-Q33": "官方B且釋疑維持。Campbell12e印刷723的cyclostomes應為圓口類；釋疑寫「原口類」並引10e中文870–882，這不是本輪12e頁碼。盲鰻、七鰓鰻不是Chondrichthyes，軟骨魚屬有頜類，不能把圓口類／有頜類換成軟骨魚／硬骨魚作全部脊椎動物的兩分法。印刷728的Osteichthyes支序群含四足類。故本題B的科學完備性衝突保留，未冒稱B經教材證實，也未自行改官方答案。",
+    "ISU-112-Q34": "官方A。微量元素為生物所需量極少的必需元素，名稱不指在自然界稀少，也不代表吸收能力差或非必要。",
+    "ISU-112-Q35": "官方B，未列於本輪取得生物釋疑。Campbell描述ECM經integrin影響細胞行為；Frisch與Francis原始上皮細胞研究顯示失去基質接觸可誘發anoikis。因此B「可以保護」存在真實成立情境，不能改寫成「保證所有細胞永不凋亡」來替原題製造唯一錯項。採計與科學衝突完整保留，分類明確落在ECM及凋亡訊號。",
+    "ISU-112-Q36": "官方A。循環將NAD+還原成NADH，NADH氧化主要在呼吸電子傳遞鏈。每個乙醯基進入一輪可釋兩個CO2並再生草醯乙酸，某步可形成GTP；兩個CO2是每輪，非每個葡萄糖全程總數。",
+    "ISU-112-Q37": "官方D。題幹明確限細菌自然狀況，經典三種方式為吸收環境DNA、噬菌體媒介及細胞間接合；一般融合不是此題所列的標準方式。不把這一題擴張成所有古菌或人工原生質體都不可能融合。",
+    "ISU-112-Q38": "官方D。突變是新等位基因的根本來源，但有性與無性世代皆可能發生；A、B、C是本題強调有性生殖特別增加組合變異的過程，不否定突變對演化的重要性。",
+    "ISU-112-Q39": "官方A。某些基因在配子形成時建立親源印記，使子代偏向表現特定親本的等位基因；不是同一基因影響多種性狀或粒線體單親遺傳。Campbell也指出印記可在形成下一代配子時重設，並非全部基因普遍只有一方表現。",
+    "ISU-112-Q40": "官方C且釋疑維持。Campbell印刷315將DNA鑑定為細菌轉型物質歸於Avery、MacLeod、McCarty，316–317另述Hershey與Chase的T2噬菌體證據；不能用官方採C抹除B在科學史的證據。釋疑稱Chase獲1969諾貝爾獎亦有誤，官方得主為Delbrück、Hershey、Luria，不含Chase。T2的DNA結果不表示所有病毒都以DNA為遺傳物質。",
+    "ISU-112-Q41": "官方A且釋疑維持：IHC、western blot、ELISA可評估蛋白質。Northern測RNA；即時PCR本身擴增DNA，測mRNA需先逆轉錄，原題與釋疑省略此步驟的差異照存。IHC可半定量，染色訊號不等於無須校準即可得到絕對蛋白量；Campbell提供工具原理，具名方法由官方資料補充。",
+    "ISU-112-Q42": "官方D且釋疑維持。質譜可用於蛋白／胜肽及小分子代謝物分析；RNA-seq、Northern測RNA層級，即時PCR測核酸而非直接測蛋白。Campbell支援系統生物學與proteomics範圍，具體質譜應用由EMBL-EBI資料補足，不聲稱該書條目詳列全部儀器流程。",
+    "ISU-112-Q43": "官方D且釋疑維持。本年度公告採共同刺激與抑制的廣義檢查點：CTLA4具抑制角色、PD-L1是PD-1的配體、CD27具共同刺激功能；CD133主要作幹／前驅細胞表面標記。若只採狹義抑制性檢查點，CD27會被不恰當排除，故保留定義範圍。PD-L1可為細胞表面配體，不能只因公告寫癌細胞「分泌」便限定成分泌蛋白或免疫細胞專有蛋白。",
+    "ISU-112-Q44": "官方D且釋疑維持，公告以當時列為「關鍵」基因調控的修飾為範圍。Histidine磷酸化並非不存在，2004原始研究已檢出H4組胺酸激酶活性；不能將原題「不參與」當作所有條件下絕無修飾。公告引用Molecular Cell Biology9e非本輪本地教材，本輪未冒稱讀過該書或證實2026所有相關讀取蛋白仍未發現。",
+    "ISU-112-Q45": "官方C。自噬體包裹胞器後送入溶體分解，回收產物可供代謝使用；原題「產生能量」不能解讀成溶體本身即為產生ATP的主要胞器。",
+    "ISU-112-Q46": "官方C且釋疑維持，但不能普遍定義siRNA全為外源性。Campbell印刷380依前驅物結構差異區分兩者，兩類前驅物大致皆含雙股RNA；2008小鼠卵母細胞原始研究已證實內源性siRNA，並非僅Arabidopsis。Dicer本身也是核酸內切酶，不能用D的酵素類名當互斥區別；成熟guide單股與加工前duplex也不能像B直接二分。",
+    "ISU-112-Q47": "官方A。RTK的酪胺酸激酶域是受體胞內部分，以ATP提供磷酸基；胞外區與配體結合。典型受體活化涉及二聚或既有二聚體構形改變，不是B的胞外激酶，也不是去磷酸化酵素。",
+    "ISU-112-Q48": "官方B。神經與胰腺細胞表現不同調節蛋白組合，導致不同基因被啟動；在題設一般分化細胞比較中，不需假定其所有基因、cis調控序列或啟動子已變成不同集合。",
+    "ISU-112-Q49": "官方B。細胞壁限制膜向外包覆大顆粒，因而一般吞噬最不可能；滲透、促進擴散與主動運輸仍可跨膜進行。不能將此結論擴張成植物完全沒有任何形式的胞吞。",
+    "ISU-112-Q50": "官方B。植物可產生具抗菌作用的phytoalexins；chitin常來自真菌細胞壁，作為被辨識的訊號，非本題植物產生的防禦物。中文「植物防禦素」依括號phytoalexins定義，勿直接等同另一類plant defensins抗真菌蛋白；名稱與來源差異照存。"
+  }
+}

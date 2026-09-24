@@ -1,0 +1,1233 @@
+[
+  {
+    "q": 1,
+    "question_or_alternative": "比較承載測交的分離定律條目與獨立分配條目何者為主；排除AaBb自交9:3:3:1。",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        272,
+        273,
+        274,
+        275
+      ],
+      "catalog_ids": [
+        "L0875",
+        "L0872"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "四種等比例源於獨立分配，測交是讀出設計；兩個同章最小條目均保留。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 2,
+    "question_or_alternative": "比較連鎖與獨立分配，重新確認反式相位。",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        301,
+        302,
+        303,
+        304
+      ],
+      "catalog_ids": [
+        "L0955",
+        "L0958"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "由共用親本而非題號推相位；完全連鎖及測交親本型足以解題。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 3,
+    "question_or_alternative": "比較配子形成、受精概觀與種子發育；排除直接以二倍體F1作答。",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        826,
+        827,
+        828
+      ],
+      "catalog_ids": [
+        "L2486",
+        "L2489",
+        "L2495"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "三個真實最小條目分別承載核來源、雙受精與胚乳結果；不創造目錄沒有的葉節點。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 4,
+    "question_or_alternative": "比較與Q1測交的差別，查驗四種後代與配子對應。",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        302,
+        303,
+        304,
+        305,
+        306
+      ],
+      "catalog_ids": [
+        "L0961",
+        "L0958"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "回交親本雖不同，後代仍能辨認F1配子；按原題四筆數據得到29%。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 5,
+    "question_or_alternative": "比較行為隔離、機械隔離與配子隔離。",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        507,
+        508,
+        509,
+        510
+      ],
+      "catalog_ids": [
+        "L1488"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "教材的隔離類型依真正阻斷環節分類；原題明示構造阻礙。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 6,
+    "question_or_alternative": "比較循環各步驟與糖解、丙酮酸氧化。",
+    "evidence_used": {
+      "question_page": 2,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        172,
+        173
+      ],
+      "catalog_ids": [
+        "L0575"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "反應底物及兩次脫羧可直接對照教材循環圖，無須另列一般酵素條目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 7,
+    "question_or_alternative": "比較水平基因轉移、染色體易位與外顯子重組。",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        568,
+        569,
+        837,
+        838
+      ],
+      "catalog_ids": [
+        "L1698",
+        "L2527"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "跨物種來源是主概念；植物工程次條目提供題目實例。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 8,
+    "question_or_alternative": "比較orthologous與paralogous及共同祖先的分化方式。",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        565,
+        566
+      ],
+      "catalog_ids": [
+        "L1675"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "以複製事件和物種分化事件區分，落在實際旁系同源最小條目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 9,
+    "question_or_alternative": "比較組織細胞型與一般韌皮部運輸，查驗伴細胞的範圍。",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        764,
+        765,
+        799,
+        800
+      ],
+      "catalog_ids": [
+        "L2289",
+        "L2410"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主條目保留裸子與被子植物的組織差異，次條目僅補功能，不越稱運輸段落完整列出各類群。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 10,
+    "question_or_alternative": "比較rRNA加工與RNA合成機器，確認5S不是Pol I的大前驅物產品。",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        342,
+        343
+      ],
+      "catalog_ids": [
+        "L1049"
+      ],
+      "supplement_ids": [
+        "S01"
+      ]
+    },
+    "resolution": "分類為轉錄分子組件；特定聚合酶對應有另列補充證據。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 11,
+    "question_or_alternative": "比較自然選擇訊號與中性變化作時鐘的適用性。",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        561,
+        562,
+        566,
+        567
+      ],
+      "catalog_ids": [
+        "L1685",
+        "L1662"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主條目分子時鐘，次條目序列比較；把速率與校準限制寫入科學說明。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 12,
+    "question_or_alternative": "比較原選項D共同運輸與C主動運輸的包含關係。",
+    "evidence_used": {
+      "question_page": 3,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        137,
+        138
+      ],
+      "catalog_ids": [
+        "L0456",
+        "L0450"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "以題目要求的最具體搬運方式作答，並保留梯度來源次條目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 13,
+    "question_or_alternative": "比較stabilizing與balancing的中文近似詞。",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        497,
+        498
+      ],
+      "catalog_ids": [
+        "L1465"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "按表型分布及選汰方向判別，避免把穩定化等同平衡選擇。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 14,
+    "question_or_alternative": "比較半寄生、全寄生及附生植物。",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        818,
+        819,
+        1219,
+        1220
+      ],
+      "catalog_ids": [
+        "L2469",
+        "L3601"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "植物營養特例為主，群集寄生為次；維持較具體的半寄生答案。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 15,
+    "question_or_alternative": "比較森林分層與光合作用反應機制，確認題目問位置。",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        785,
+        786,
+        1172,
+        1174
+      ],
+      "catalog_ids": [
+        "L3493",
+        "L2349"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "真實目錄的陸域生物群系一般特徵條目承載分層，莖葉截光次條目補因果。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 16,
+    "question_or_alternative": "比較錯義、無義、同義與移碼。",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        285,
+        286,
+        357,
+        358,
+        359
+      ],
+      "catalog_ids": [
+        "L1085",
+        "L0911"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "蛋白胺基酸被另一種取代直接定位到點突變條目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 17,
+    "question_or_alternative": "比較X失活機制與性染色體數異常。",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        300,
+        301,
+        308,
+        309
+      ],
+      "catalog_ids": [
+        "L0974",
+        "L0948"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "核型異常為主、失活為次；疾病名與推理的證據強度分開。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 18,
+    "question_or_alternative": "比較哺乳類實際起源與題目的假想生存環境；核對寒武紀氧氣假說的限制。",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [
+        7
+      ],
+      "textbook_pages": [
+        533,
+        534,
+        535,
+        536,
+        537
+      ],
+      "catalog_ids": [
+        "L1573",
+        "L1570",
+        "L1576"
+      ],
+      "supplement_ids": [
+        "S02"
+      ]
+    },
+    "resolution": "分類落在生命史與動物多細胞化，採計D照留，科學上不把假想門檻當成實測存活或哺乳類起源。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 19,
+    "question_or_alternative": "比較發炎起始介質與細胞的主要吞噬功能，不把所有免疫細胞視為同類。",
+    "evidence_used": {
+      "question_page": 4,
+      "answer_page": 4,
+      "clarification_pages": [
+        7,
+        8
+      ],
+      "textbook_pages": [
+        954,
+        955,
+        956,
+        957
+      ],
+      "catalog_ids": [
+        "L2870"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "在同一發炎最小條目內可解釋答案並保留官方概括用語的範圍差異。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 20,
+    "question_or_alternative": "比較教材動物常見內外寄生例子與植物可否同樣存在。",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        818,
+        819,
+        1217,
+        1218,
+        1219,
+        1220
+      ],
+      "catalog_ids": [
+        "L3601",
+        "L2469"
+      ],
+      "supplement_ids": [
+        "S09"
+      ]
+    },
+    "resolution": "植物體內寄生有獨立解剖/基因組證據，解決僅靠動物例子不能推出植物的疑義。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 21,
+    "question_or_alternative": "比較關鍵種局部群集效應與物種多樣性尺度，查核population/community用詞。",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [
+        8
+      ],
+      "textbook_pages": [
+        1222,
+        1225,
+        1226,
+        1227
+      ],
+      "catalog_ids": [
+        "L3620",
+        "L3611",
+        "L3623"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "分類為關鍵種及群集食物網效應，保留官方層級說法但不提升為普遍定律。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 22,
+    "question_or_alternative": "比較rRNA基因與核糖體蛋白基因，核對約40的數量含義。",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        109,
+        110,
+        311
+      ],
+      "catalog_ids": [
+        "L0984",
+        "L0362"
+      ],
+      "supplement_ids": [
+        "S03"
+      ]
+    },
+    "resolution": "以題設通常的rRNA解讀採C，保留歧義而不將胞器說成完全沒有核糖體相關基因。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 23,
+    "question_or_alternative": "比較內分泌與細胞間傳訊，避免另列題目未問的血鈣或腸道激素調節。",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [
+        8
+      ],
+      "textbook_pages": [
+        215,
+        216,
+        1000,
+        1001
+      ],
+      "catalog_ids": [
+        "L2998",
+        "L0698"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "只保留內分泌傳訊與長距離訊號兩個直接有用的真實條目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 24,
+    "question_or_alternative": "比較地質時段名稱與題目圓整年代。",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        540,
+        541,
+        542
+      ],
+      "catalog_ids": [
+        "L1586"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "依事件對應時段即可分類及作答，來源年代差異不刪改。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 25,
+    "question_or_alternative": "比較生物地理與親緣地理，確認不能創造教材目錄不存在的專名葉節點。",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        482,
+        483,
+        555,
+        556,
+        557
+      ],
+      "catalog_ids": [
+        "L1639",
+        "L1418"
+      ],
+      "supplement_ids": [
+        "S04"
+      ]
+    },
+    "resolution": "以兩個現存條目承載跨章概念，外部來源明示補足專名定義。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 26,
+    "question_or_alternative": "比較核纖層、核孔與染色質，確認作用對象。",
+    "evidence_used": {
+      "question_page": 5,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        102,
+        103,
+        113,
+        114,
+        117
+      ],
+      "catalog_ids": [
+        "L0333",
+        "L0381"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "細胞核構造為主，中間絲為次；不將其他胞器推成直接原因。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 27,
+    "question_or_alternative": "比較當代觀測比例與下一代Hardy-Weinberg預期。",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        490,
+        491,
+        492,
+        493
+      ],
+      "catalog_ids": [
+        "L1445",
+        "L1442"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "重新計算100個等位基因及2pq，分類疑義已由原數據解決。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 28,
+    "question_or_alternative": "比較全株拉長與頂端局部生長，檢查非葉標題是否合法。",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        766,
+        767,
+        769,
+        770
+      ],
+      "catalog_ids": [
+        "L2292",
+        "L2303"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "本地PDF目錄確認35.2為終端概念；保留初生生長次條目，未任意造分生組織葉節點。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 29,
+    "question_or_alternative": "比較光滑與粗糙內質網，確認肝細胞情境不改變胞器功能。",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        104,
+        105
+      ],
+      "catalog_ids": [
+        "L0343"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "解毒是平滑內質網的直接正文功能，無需增加肝臟整體消化分類。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 30,
+    "question_or_alternative": "比較染色體分離與其他細胞運動的骨架組成。",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        113,
+        114,
+        240,
+        241,
+        242
+      ],
+      "catalog_ids": [
+        "L0773",
+        "L0381"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "紡錘體條目為主要受影響過程，骨架條目作結構辨別。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 31,
+    "question_or_alternative": "比較cAMP生成增加與降解減少，查驗咖啡因情境的外推範圍。",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        223,
+        224,
+        225
+      ],
+      "catalog_ids": [
+        "L0724"
+      ],
+      "supplement_ids": [
+        "S05"
+      ]
+    },
+    "resolution": "以第二訊使降解機制完成分類；明示日常飲用效果不能由此考題推出。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 32,
+    "question_or_alternative": "比較以檸檬酸為底物與以檸檬酸為回饋抑制訊號的兩種方向。",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [
+        8,
+        9
+      ],
+      "textbook_pages": [
+        172,
+        173,
+        177,
+        178,
+        183,
+        184
+      ],
+      "catalog_ids": [
+        "L0575",
+        "L0614",
+        "L0588"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主次三條目涵蓋循環、調控與ATP生成；分類已能確定，科學條件不足仍明文保留。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 33,
+    "question_or_alternative": "比較植物防禦訊號減弱與病毒宿主範圍、植物族群存續。",
+    "evidence_used": {
+      "question_page": 6,
+      "answer_page": 4,
+      "clarification_pages": [
+        9
+      ],
+      "textbook_pages": [
+        866,
+        867
+      ],
+      "catalog_ids": [
+        "L2596"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "只以水楊酸防禦機制支持A，避免將多個不同層級結果混為必然。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 34,
+    "question_or_alternative": "比較全能性、去分化與DNA序列改變，查核教材版本頁碼。",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [
+        9
+      ],
+      "textbook_pages": [
+        370,
+        371,
+        428,
+        429,
+        778
+      ],
+      "catalog_ids": [
+        "L1261",
+        "L2332",
+        "L1120"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "實驗證據為主，植物分化與差異表現為次，保留條件限制及版本差異。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 35,
+    "question_or_alternative": "比較授粉、受精及種子形成的先後，檢查共用背景裁圖。",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        825,
+        826,
+        827,
+        828
+      ],
+      "catalog_ids": [
+        "L2486",
+        "L2483",
+        "L2495"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "按真實生活史與授粉條目分類；雙受精正文小標不另造目錄葉條目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 36,
+    "question_or_alternative": "比較授粉限制與營養、配子形成限制。",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        825,
+        826,
+        834,
+        835
+      ],
+      "catalog_ids": [
+        "L2483",
+        "L2514"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主條目授粉，次條目異交障礙；保留此為題設最合適推論的強度。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 37,
+    "question_or_alternative": "比較單基因顯隱性與兩基因上位作用，重新合併nn類別。",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        274,
+        275,
+        281,
+        282
+      ],
+      "catalog_ids": [
+        "L0895",
+        "L0875"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "由9、3、3、1合併兩個nn類得9、3、4，主分類上位作用。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 38,
+    "question_or_alternative": "比較傳統選育與基因工程，避免按環境情境錯分成氣候生態章。",
+    "evidence_used": {
+      "question_page": 7,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        487,
+        488,
+        836,
+        837
+      ],
+      "catalog_ids": [
+        "L2524",
+        "L1432"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "教材38.3傳統植物育種直接承載方法，23.1遺傳變異保留為次。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 39,
+    "question_or_alternative": "比較三基因八類與僅判斷a/b的四類重組。",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        302,
+        303,
+        304,
+        305,
+        306
+      ],
+      "catalog_ids": [
+        "L0958",
+        "L0961"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "逐列按a/b而非整體三基因外觀重新判讀，分類為連鎖重組。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 40,
+    "question_or_alternative": "比較忽略雙交換小類、混用三基因總交換與a/b兩點圖距。",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        302,
+        303,
+        304,
+        305,
+        306
+      ],
+      "catalog_ids": [
+        "L0961",
+        "L0958"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "依原表逐項加總得到3%，保留圖距近似的適用範圍。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 41,
+    "question_or_alternative": "比較粒線體能量障礙與溶體代謝病，核對題文與釋疑新增詞。",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [
+        9
+      ],
+      "textbook_pages": [
+        107,
+        108,
+        110,
+        177,
+        178
+      ],
+      "catalog_ids": [
+        "L0365",
+        "L0349",
+        "L0588"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "主分類依官方考點，次條目保留確有相關的溶體；科學說明明示無法唯一診斷。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 42,
+    "question_or_alternative": "比較卵母細胞階段、受精與黃體命運，避免把兩個週期事件混淆。",
+    "evidence_used": {
+      "question_page": 8,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1027,
+        1028,
+        1029,
+        1032,
+        1033,
+        1034
+      ],
+      "catalog_ids": [
+        "L3091",
+        "L3104"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "配子形成主條目與女性週期次條目共同涵蓋選項。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 43,
+    "question_or_alternative": "比較直接效應物與同一路徑的受體、第二訊使、激素及激酶。",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        845,
+        867,
+        868
+      ],
+      "catalog_ids": [
+        "L2599",
+        "L2547"
+      ],
+      "supplement_ids": [
+        "S06"
+      ]
+    },
+    "resolution": "真實植物食草防禦葉條目為主，不把上游訊號單列為最直接答案。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 44,
+    "question_or_alternative": "比較第一訊號、受體、激酶及第二訊使。",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        224,
+        225,
+        844,
+        845
+      ],
+      "catalog_ids": [
+        "L0724",
+        "L2544"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "依分子在訊息傳遞的角色分類，保留細胞訊號與植物訊號兩章的最小條目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 45,
+    "question_or_alternative": "比較空氣傳訊與必須接觸/共根才傳訊，查驗揮發性機制。",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        867,
+        868
+      ],
+      "catalog_ids": [
+        "L2599"
+      ],
+      "supplement_ids": [
+        "S07"
+      ]
+    },
+    "resolution": "以植物食草防禦條目完成分類，補充研究支持可能機制而不把單一化合物硬填為題目實測物。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 46,
+    "question_or_alternative": "比較細胞內外pH方向及題設直接因果與實驗已辨識的中介機制。",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        137,
+        138,
+        222,
+        223,
+        788,
+        867,
+        868
+      ],
+      "catalog_ids": [
+        "L2362",
+        "L0721",
+        "L2599"
+      ],
+      "supplement_ids": [
+        "S08"
+      ]
+    },
+    "resolution": "從幫浦運輸方向獨立推得B；保存原題MAPK假設而不把它擴大成普遍規則。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 47,
+    "question_or_alternative": "比較負值大小、濃度直覺與水勢的淨通量。",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        788,
+        789,
+        790,
+        791
+      ],
+      "catalog_ids": [
+        "L2365"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "重新比較−0.18與−0.23的大小，方向明確。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 48,
+    "question_or_alternative": "比較光反應各步驟及類囊體膜完整性的直接作用。",
+    "evidence_used": {
+      "question_page": 9,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        175,
+        176,
+        199,
+        200,
+        201
+      ],
+      "catalog_ids": [
+        "L0662",
+        "L0585"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "以光合化學滲透為主，呼吸化學滲透為次，避免把兩胞器頁碼或位置混用。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 49,
+    "question_or_alternative": "比較行為保溫、顫抖產熱與恆溫的不同判準，核對本地同一研究圖。",
+    "evidence_used": {
+      "question_page": 10,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        884,
+        885,
+        886,
+        887,
+        888
+      ],
+      "catalog_ids": [
+        "L2649",
+        "L2643",
+        "L2646"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "正文圖40.16直接支援收縮—耗氧—產熱鏈；三個同章最小條目均保留但章級只計一次。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 50,
+    "question_or_alternative": "比較五個凝膠圖的極性、條帶排序與相對距離，確認電泳正文的實際父概念20.1。",
+    "evidence_used": {
+      "question_page": 10,
+      "answer_page": 4,
+      "clarification_pages": [],
+      "textbook_pages": [
+        419,
+        420,
+        421
+      ],
+      "catalog_ids": [
+        "L1238"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "原圖比例與電泳原理共同支持D；用真實重組質體最小條目收納其電泳技術內容。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  }
+]

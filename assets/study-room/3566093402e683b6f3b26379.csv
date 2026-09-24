@@ -1,0 +1,78 @@
+﻿mode,chapter_number,chapter,count
+primary,23,Ch23 The Evolution of Populations,5
+primary,31,Ch31 Fungi,5
+primary,56,Ch56 Conservation Biology and Global Change,4
+primary,17,Ch17 Gene Expression: From Gene to Protein,3
+primary,43,Ch43 The Immune System,3
+primary,27,Ch27 Bacteria and Archaea,2
+primary,28,Ch28 Protists,2
+primary,29,Ch29 Plant Diversity I: How Plants Colonized Land,2
+primary,39,Ch39 Plant Responses to Internal and External Signals,2
+primary,47,Ch47 Animal Development,2
+primary,53,Ch53 Population Ecology,2
+primary,54,Ch54 Community Ecology,2
+primary,5,Ch05 The Structure and Function of Large Biological Molecules,1
+primary,6,Ch06 A Tour of the Cell,1
+primary,7,Ch07 Membrane Structure and Function,1
+primary,10,Ch10 Photosynthesis,1
+primary,12,Ch12 The Cell Cycle,1
+primary,14,Ch14 Mendel and the Gene Idea,1
+primary,15,Ch15 The Chromosomal Basis of Inheritance,1
+primary,16,Ch16 The Molecular Basis of Inheritance,1
+primary,21,Ch21 Genomes and Their Evolution,1
+primary,22,Ch22 Descent with Modification: A Darwinian View of Life,1
+primary,30,Ch30 Plant Diversity II: The Evolution of Seed Plants,1
+primary,37,Ch37 Soil and Plant Nutrition,1
+primary,41,Ch41 Animal Nutrition,1
+primary,44,Ch44 Osmoregulation and Excretion,1
+primary,46,Ch46 Animal Reproduction,1
+primary,49,Ch49 Nervous Systems,1
+secondary,14,Ch14 Mendel and the Gene Idea,4
+secondary,23,Ch23 The Evolution of Populations,3
+secondary,27,Ch27 Bacteria and Archaea,3
+secondary,5,Ch05 The Structure and Function of Large Biological Molecules,1
+secondary,16,Ch16 The Molecular Basis of Inheritance,1
+secondary,18,Ch18 Regulation of Gene Expression,1
+secondary,20,Ch20 DNA Tools and Biotechnology,1
+secondary,21,Ch21 Genomes and Their Evolution,1
+secondary,26,Ch26 Phylogeny and the Tree of Life,1
+secondary,28,Ch28 Protists,1
+secondary,31,Ch31 Fungi,1
+secondary,33,Ch33 An Introduction to Invertebrates,1
+secondary,37,Ch37 Soil and Plant Nutrition,1
+secondary,41,Ch41 Animal Nutrition,1
+secondary,53,Ch53 Population Ecology,1
+secondary,54,Ch54 Community Ecology,1
+secondary,56,Ch56 Conservation Biology and Global Change,1
+both,23,Ch23 The Evolution of Populations,8
+both,31,Ch31 Fungi,6
+both,14,Ch14 Mendel and the Gene Idea,5
+both,27,Ch27 Bacteria and Archaea,5
+both,56,Ch56 Conservation Biology and Global Change,5
+both,17,Ch17 Gene Expression: From Gene to Protein,3
+both,28,Ch28 Protists,3
+both,43,Ch43 The Immune System,3
+both,53,Ch53 Population Ecology,3
+both,54,Ch54 Community Ecology,3
+both,5,Ch05 The Structure and Function of Large Biological Molecules,2
+both,16,Ch16 The Molecular Basis of Inheritance,2
+both,21,Ch21 Genomes and Their Evolution,2
+both,29,Ch29 Plant Diversity I: How Plants Colonized Land,2
+both,37,Ch37 Soil and Plant Nutrition,2
+both,39,Ch39 Plant Responses to Internal and External Signals,2
+both,41,Ch41 Animal Nutrition,2
+both,47,Ch47 Animal Development,2
+both,6,Ch06 A Tour of the Cell,1
+both,7,Ch07 Membrane Structure and Function,1
+both,10,Ch10 Photosynthesis,1
+both,12,Ch12 The Cell Cycle,1
+both,15,Ch15 The Chromosomal Basis of Inheritance,1
+both,18,Ch18 Regulation of Gene Expression,1
+both,20,Ch20 DNA Tools and Biotechnology,1
+both,22,Ch22 Descent with Modification: A Darwinian View of Life,1
+both,26,Ch26 Phylogeny and the Tree of Life,1
+both,30,Ch30 Plant Diversity II: The Evolution of Seed Plants,1
+both,33,Ch33 An Introduction to Invertebrates,1
+both,44,Ch44 Osmoregulation and Excretion,1
+both,46,Ch46 Animal Reproduction,1
+both,49,Ch49 Nervous Systems,1

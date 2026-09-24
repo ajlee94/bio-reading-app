@@ -1,0 +1,67 @@
+﻿mode,chapter_number,chapter,count
+primary,27,Ch27 Bacteria and Archaea,8
+primary,19,Ch19 Viruses,6
+primary,43,Ch43 The Immune System,5
+primary,6,Ch06 A Tour of the Cell,4
+primary,23,Ch23 The Evolution of Populations,4
+primary,14,Ch14 Mendel and the Gene Idea,2
+primary,28,Ch28 Protists,2
+primary,2,Ch02 The Chemical Context of Life,1
+primary,7,Ch07 Membrane Structure and Function,1
+primary,10,Ch10 Photosynthesis,1
+primary,13,Ch13 Meiosis and Sexual Life Cycles,1
+primary,15,Ch15 The Chromosomal Basis of Inheritance,1
+primary,17,Ch17 Gene Expression: From Gene to Protein,1
+primary,18,Ch18 Regulation of Gene Expression,1
+primary,21,Ch21 Genomes and Their Evolution,1
+primary,24,Ch24 The Origin of Species,1
+primary,25,Ch25 The History of Life on Earth,1
+primary,29,Ch29 Plant Diversity I: How Plants Colonized Land,1
+primary,34,Ch34 The Origin and Evolution of Vertebrates,1
+primary,35,"Ch35 Vascular Plant Structure, Growth, and Development",1
+primary,36,Ch36 Resource Acquisition and Transport in Vascular Plants,1
+primary,41,Ch41 Animal Nutrition,1
+primary,42,Ch42 Circulation and Gas Exchange,1
+primary,46,Ch46 Animal Reproduction,1
+primary,49,Ch49 Nervous Systems,1
+primary,53,Ch53 Population Ecology,1
+secondary,5,Ch05 The Structure and Function of Large Biological Molecules,2
+secondary,2,Ch02 The Chemical Context of Life,1
+secondary,13,Ch13 Meiosis and Sexual Life Cycles,1
+secondary,14,Ch14 Mendel and the Gene Idea,1
+secondary,17,Ch17 Gene Expression: From Gene to Protein,1
+secondary,19,Ch19 Viruses,1
+secondary,21,Ch21 Genomes and Their Evolution,1
+secondary,22,Ch22 Descent with Modification: A Darwinian View of Life,1
+secondary,24,Ch24 The Origin of Species,1
+secondary,35,"Ch35 Vascular Plant Structure, Growth, and Development",1
+secondary,36,Ch36 Resource Acquisition and Transport in Vascular Plants,1
+secondary,43,Ch43 The Immune System,1
+both,27,Ch27 Bacteria and Archaea,8
+both,19,Ch19 Viruses,7
+both,43,Ch43 The Immune System,6
+both,6,Ch06 A Tour of the Cell,4
+both,23,Ch23 The Evolution of Populations,4
+both,14,Ch14 Mendel and the Gene Idea,3
+both,2,Ch02 The Chemical Context of Life,2
+both,5,Ch05 The Structure and Function of Large Biological Molecules,2
+both,13,Ch13 Meiosis and Sexual Life Cycles,2
+both,17,Ch17 Gene Expression: From Gene to Protein,2
+both,21,Ch21 Genomes and Their Evolution,2
+both,24,Ch24 The Origin of Species,2
+both,28,Ch28 Protists,2
+both,35,"Ch35 Vascular Plant Structure, Growth, and Development",2
+both,36,Ch36 Resource Acquisition and Transport in Vascular Plants,2
+both,7,Ch07 Membrane Structure and Function,1
+both,10,Ch10 Photosynthesis,1
+both,15,Ch15 The Chromosomal Basis of Inheritance,1
+both,18,Ch18 Regulation of Gene Expression,1
+both,22,Ch22 Descent with Modification: A Darwinian View of Life,1
+both,25,Ch25 The History of Life on Earth,1
+both,29,Ch29 Plant Diversity I: How Plants Colonized Land,1
+both,34,Ch34 The Origin and Evolution of Vertebrates,1
+both,41,Ch41 Animal Nutrition,1
+both,42,Ch42 Circulation and Gas Exchange,1
+both,46,Ch46 Animal Reproduction,1
+both,49,Ch49 Nervous Systems,1
+both,53,Ch53 Population Ecology,1

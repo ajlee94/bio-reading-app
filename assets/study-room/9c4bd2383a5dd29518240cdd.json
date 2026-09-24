@@ -1,0 +1,238 @@
+[
+  {
+    "id": "S01",
+    "title": "de la Fuente 1997及Delhaize 2001：檸檬酸轉殖耐鋁的研究差異",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/9171061/",
+      "https://pubmed.ncbi.nlm.nih.gov/11299385/"
+    ],
+    "finding": "1997提出轉殖菸草／木瓜耐鋁改善；2001獨立研究報告未見相應檸檬酸累積／外排增加。根際有機酸錯合原理與特定工程成效應分開。",
+    "read_scope": "本輪web搜尋讀到兩篇原始研究的索引摘要／題名與2001部分結果段；PMC與PubMed直接開啟遇驗證頁，不宣稱全文下載或完整全文審查。DOI分別10.1126/science.276.5318.1566與10.1104/pp.125.4.2059。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU113官方採計",
+    "captures": [
+      {
+        "id": "S01",
+        "path": "審查紀錄/annual_review/TCU-113/web-readbacks/S01.json",
+        "sha256": "26626cec80370b4bb143f60d0387efb837730a771990425fdd3d28d650001872",
+        "status": "AUTHORED_WEB_READBACK",
+        "scope": "本輪web搜尋讀到兩篇原始研究的索引摘要／題名與2001部分結果段；PMC與PubMed直接開啟遇驗證頁，不宣稱全文下載或完整全文審查。DOI分別10.1126/science.276.5318.1566與10.1104/pp.125.4.2059。"
+      }
+    ],
+    "authored_evidence_record_sha256": "2511a341b63e683a37f57e4eca92c91851d556a05f92a0f4493fb368c76f2593"
+  },
+  {
+    "id": "S02",
+    "title": "IUPAC Gold Book：isoelectric point",
+    "urls": [
+      "https://goldbook.iupac.org/terms/view/I03275"
+    ],
+    "finding": "指定條件下淨電荷為零時的pH；不等於每一離子基團都中性。",
+    "read_scope": "本輪讀術語條目定義及記號，無特定蛋白質pI數值計算。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU113官方採計",
+    "captures": [
+      {
+        "id": "S02",
+        "path": "審查紀錄/annual_review/TCU-113/web-readbacks/S02.json",
+        "sha256": "88d4e83097df8699d8ff56966d879328e220aa10d150213f4d98f7c56ffa40c7",
+        "status": "AUTHORED_WEB_READBACK",
+        "scope": "本輪讀術語條目定義及記號，無特定蛋白質pI數值計算。"
+      }
+    ],
+    "authored_evidence_record_sha256": "b69295c1433eed91f4fb30271b8327c01afcb21a95cc72855b91291f0a98625b"
+  },
+  {
+    "id": "S03",
+    "title": "Livet等2007 Brainbow原始研究",
+    "urls": [
+      "https://www.nature.com/articles/nature06293"
+    ],
+    "finding": "Cre/lox系統可使多種螢光蛋白隨機表現並組合顏色，用於區分神經細胞與追蹤突起。",
+    "read_scope": "本輪讀出版商研究摘要，非全部實驗方法或圖版；DOI10.1038/nature06293。本地1085圖49.1另有直接圖說。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU113官方採計",
+    "captures": [
+      {
+        "id": "S03",
+        "path": "審查紀錄/annual_review/TCU-113/web-readbacks/S03.json",
+        "sha256": "a514b0e39044d44768b723090a525c561988856bde4e6254f46d8b2417c1df6c",
+        "status": "AUTHORED_WEB_READBACK",
+        "scope": "本輪讀出版商研究摘要，非全部實驗方法或圖版；DOI10.1038/nature06293。本地1085圖49.1另有直接圖說。"
+      }
+    ],
+    "authored_evidence_record_sha256": "482847a9dd0596f230f40c2fa267681a7c2aa6fea1389599aebc83ebc2742fdf"
+  },
+  {
+    "id": "S04",
+    "title": "Endotext：脂蛋白與維生素D生成",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK305896/",
+      "https://www.ncbi.nlm.nih.gov/books/NBK278935/"
+    ],
+    "finding": "脂蛋白表面游離膽固醇、核心膽固醇酯；皮膚7-dehydrocholesterol受UV生成前維生素D3，再經熱異構化。",
+    "read_scope": "本輪web讀作者教材lipoprotein structure及cutaneous production相關段落，非整本Endotext或臨床處方建議。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU113官方採計",
+    "captures": [
+      {
+        "id": "S04",
+        "path": "審查紀錄/annual_review/TCU-113/web-readbacks/S04.json",
+        "sha256": "2e1cab17d0e7611e19950f5e40ec6da692e9987fcaf3850a21d97f841b3a9cb2",
+        "status": "AUTHORED_WEB_READBACK",
+        "scope": "本輪web讀作者教材lipoprotein structure及cutaneous production相關段落，非整本Endotext或臨床處方建議。"
+      }
+    ],
+    "authored_evidence_record_sha256": "373e2bebf38253d857351e50bf7918810708fcd475ba7da6f792b13c32058dda"
+  },
+  {
+    "id": "S05",
+    "title": "DailyMed ARICEPT官方仿單11及12.1",
+    "urls": [
+      "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=98e451e1-e4d7-4439-a675-c5457ba20975&type=display"
+    ],
+    "finding": "Donepezil可逆抑制acetylcholinesterase，減少乙醯膽鹼水解並增強膽鹼訊號。",
+    "read_scope": "本輪直接開頁讀11 Description及12.1 Mechanism of Action；只核對藥理，不作劑量或個人治療建議。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU113官方採計",
+    "captures": [
+      {
+        "id": "S05",
+        "path": "審查紀錄/annual_review/TCU-113/web-readbacks/S05.json",
+        "sha256": "a08da3bd542096d849fb43ad2d97666967c0c8c8d8de4e7b3417a5d3fd81c2ec",
+        "status": "AUTHORED_WEB_READBACK",
+        "scope": "本輪直接開頁讀11 Description及12.1 Mechanism of Action；只核對藥理，不作劑量或個人治療建議。"
+      }
+    ],
+    "authored_evidence_record_sha256": "6a3ceb0e70ad57e54af24f52ff2bbcbdb7ec6d4ed6e2f6cf16cc670d577c1f0c"
+  },
+  {
+    "id": "S06",
+    "title": "Vroemen等1996 GNOM胚胎圖式原始研究",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/12239400/"
+    ],
+    "finding": "gnom胚可能頂基極性缺失或反向，但徑向圖式仍保留；支持A的嚴重頂基缺陷而限制其過度概括。",
+    "read_scope": "本輪PubMed搜尋讀原始研究摘要，不宣稱讀完全文；DOI10.1105/tpc.8.5.783，The Plant Cell 8:783起。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU113官方採計",
+    "captures": [
+      {
+        "id": "S06",
+        "path": "審查紀錄/annual_review/TCU-113/web-readbacks/S06.json",
+        "sha256": "1b3998d3e5bed19ec516bcf1da32196e4b8e0901598f6fbb04dd2a2e49011b81",
+        "status": "AUTHORED_WEB_READBACK",
+        "scope": "本輪PubMed搜尋讀原始研究摘要，不宣稱讀完全文；DOI10.1105/tpc.8.5.783，The Plant Cell 8:783起。"
+      }
+    ],
+    "authored_evidence_record_sha256": "b93af2c2844ff3cc5fb921d00ddaeeff576a2e101afd3cc874a0149581532ac1"
+  },
+  {
+    "id": "S07",
+    "title": "Cohesin與複製後DNA修復原始研究",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/23178808/",
+      "https://pubmed.ncbi.nlm.nih.gov/20617204/"
+    ],
+    "finding": "姊妹染色體靠近支持同源重組模板使用，cohesin並非本身催化股交換；修復過程仍需動態調節。",
+    "read_scope": "本輪讀2012及2010 PubMed原始研究摘要；研究系統為酵母，不當成人類所有損傷修復的完整模型。2012 DOI10.1038/nature11630。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU113官方採計",
+    "captures": [
+      {
+        "id": "S07",
+        "path": "審查紀錄/annual_review/TCU-113/web-readbacks/S07.json",
+        "sha256": "209e2c3927ec40bfed99d36a0ca9802c9e064b2b7359ea9584d2299d67555d99",
+        "status": "AUTHORED_WEB_READBACK",
+        "scope": "本輪讀2012及2010 PubMed原始研究摘要；研究系統為酵母，不當成人類所有損傷修復的完整模型。2012 DOI10.1038/nature11630。"
+      }
+    ],
+    "authored_evidence_record_sha256": "eee3f28a01b8e98fdb88d39f3c771b4a2c9fe2124437635c2fab44b53ab2caa0"
+  },
+  {
+    "id": "S08",
+    "title": "Nobel Prize 2007 Medicine Advanced Information：經典基因標的",
+    "urls": [
+      "https://www.nobelprize.org/prizes/medicine/2007/advanced-information/"
+    ],
+    "finding": "胚胎幹細胞結合同源重組實現小鼠基因標的／剔除；現代CRISPR失能不必一律用此修復途徑。",
+    "read_scope": "本輪讀官方進階說明中homologous recombination與embryonic stem cells段落；與本地426的CRISPR內容比較。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU113官方採計",
+    "captures": [
+      {
+        "id": "S08",
+        "path": "審查紀錄/annual_review/TCU-113/web-readbacks/S08.json",
+        "sha256": "352c44aa5b6e96f3b7d1a3892007dc69840d1eee379eda9424b7baad79825018",
+        "status": "AUTHORED_WEB_READBACK",
+        "scope": "本輪讀官方進階說明中homologous recombination與embryonic stem cells段落；與本地426的CRISPR內容比較。"
+      }
+    ],
+    "authored_evidence_record_sha256": "50dccfee83afd774663034930f4a23e3e10f89976e6722d12a80923852b15b48"
+  },
+  {
+    "id": "S09",
+    "title": "Mesiano等2002：人類分娩的功能性黃體素撤退",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/12050275/"
+    ],
+    "finding": "人類子宮肌黃體素受體比例與產程相關，支持黃體素功能仍參與分娩；不能將相對低直接刺激誤寫成毫無關聯。",
+    "read_scope": "本輪讀原始研究摘要；12例產程與12例非產程子宮肌比較，非全體人群或因果干預試驗。DOI10.1210/jcem.87.6.8609。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU113官方採計",
+    "captures": [
+      {
+        "id": "S09",
+        "path": "審查紀錄/annual_review/TCU-113/web-readbacks/S09.json",
+        "sha256": "e7e361d3727d5188cba1dcc431009878f49b3c0a1a51637fbd6304fbf4769355",
+        "status": "AUTHORED_WEB_READBACK",
+        "scope": "本輪讀原始研究摘要；12例產程與12例非產程子宮肌比較，非全體人群或因果干預試驗。DOI10.1210/jcem.87.6.8609。"
+      }
+    ],
+    "authored_evidence_record_sha256": "5c52b26f14077b3c9f72f82ebc392781252743bfcf3b486c6a3d844aeecc4fd5"
+  },
+  {
+    "id": "S10",
+    "title": "Lactobacillus reuteri抗發炎原始研究2008／2012",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/18425802/",
+      "https://pubmed.ncbi.nlm.nih.gov/22384111/"
+    ],
+    "finding": "特定菌株抑制TNF等促發炎訊號；2012研究將菌源histamine與PKA／ERK路徑相連。效應不能不分菌株與情境概括。",
+    "read_scope": "本輪讀PubMed兩篇原始研究摘要；2008含特定菌株與單核球／巨噬細胞，2012分子機制；未進行臨床療效審查。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU113官方採計",
+    "captures": [
+      {
+        "id": "S10",
+        "path": "審查紀錄/annual_review/TCU-113/web-readbacks/S10.json",
+        "sha256": "925993a8a8680286c343964aa7f0097eb979baec4e7d97346e45dd7def157788",
+        "status": "AUTHORED_WEB_READBACK",
+        "scope": "本輪讀PubMed兩篇原始研究摘要；2008含特定菌株與單核球／巨噬細胞，2012分子機制；未進行臨床療效審查。"
+      }
+    ],
+    "authored_evidence_record_sha256": "71e7392e5c8badb8d49dab7fdc43d6fa863301125745cd21ed22ba100cea028e"
+  },
+  {
+    "id": "S11",
+    "title": "Purves等Neuroscience：視網膜及中央視覺路徑",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK10885/",
+      "https://www.ncbi.nlm.nih.gov/books/NBK11034/"
+    ],
+    "finding": "主要訊息鏈由感光細胞經雙極、神經節細胞，至丘腦外側膝狀核再到初級視覺皮質。",
+    "read_scope": "本輪讀作者教材Retina的三細胞鏈及Central Visual Pathways概覽；不是完整視覺迴路所有分支。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU113官方採計",
+    "captures": [
+      {
+        "id": "S11",
+        "path": "審查紀錄/annual_review/TCU-113/web-readbacks/S11.json",
+        "sha256": "6c2633aa973a8c14a9f699054b40a5dd22fdfea232a451c7ebf5a46ce26171ea",
+        "status": "AUTHORED_WEB_READBACK",
+        "scope": "本輪讀作者教材Retina的三細胞鏈及Central Visual Pathways概覽；不是完整視覺迴路所有分支。"
+      }
+    ],
+    "authored_evidence_record_sha256": "7111f42596c16d9e8f29aee8da78cf99e78a2766267b79ec12b4d5984f0c4844"
+  }
+]

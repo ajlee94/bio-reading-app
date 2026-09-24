@@ -1,0 +1,1384 @@
+[
+  {
+    "q": 1,
+    "question_or_alternative": "三鹼基缺失與单鹼基移碼是否必然傷害大小可比較",
+    "evidence_used": {
+      "question_page": 23,
+      "official_question_page": 23,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [
+        5
+      ],
+      "official_clarification_pages": [
+        34
+      ],
+      "textbook_pages": [
+        357,
+        358,
+        359
+      ],
+      "catalog_ids": [
+        "L1085"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "以357–359閱讀框機制和兩版釋疑確認D；保留最可能與非絕對傷害的界線，主17.5不擴成DNA複製。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 2,
+    "question_or_alternative": "是否直接用節肢動物代表全體無脊椎動物",
+    "evidence_used": {
+      "question_page": 23,
+      "official_question_page": 23,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [
+        5
+      ],
+      "official_clarification_pages": [
+        34
+      ],
+      "textbook_pages": [
+        686,
+        687,
+        688,
+        689,
+        706,
+        710
+      ],
+      "catalog_ids": [
+        "L2089",
+        "L2133"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "實看目錄44及正文735，導論為全體證據位置；章導論L2089加Arthropods同章次目，比只用昆蟲更精確。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 3,
+    "question_or_alternative": "排鹽與排水是否較能描述髓質梯度效益",
+    "evidence_used": {
+      "question_page": 23,
+      "official_question_page": 23,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        987,
+        988,
+        989,
+        990
+      ],
+      "catalog_ids": [
+        "L2977",
+        "L2974"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "987–990區分建梯度與使用梯度，D為回收水的效益；主次44.4同章保留去重。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 4,
+    "question_or_alternative": "感覺纖維無髓鞘是否是反射先行原因",
+    "evidence_used": {
+      "question_page": 23,
+      "official_question_page": 23,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        1087,
+        1088
+      ],
+      "catalog_ids": [
+        "L3242"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "脊髓迴路已足夠解釋先縮手，不能概括所有感覺纖維無髓鞘；主神經系統組織，B確認。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 5,
+    "question_or_alternative": "依大小或只依根系一項能否可靠區別",
+    "evidence_used": {
+      "question_page": 23,
+      "official_question_page": 23,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        649,
+        650,
+        759,
+        760,
+        769,
+        770
+      ],
+      "catalog_ids": [
+        "L1945",
+        "L2303"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "題文明寫真雙子葉，已修正首輪草稿不當的舊稱備註；649比較表和769莖排列支援D無幫助。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 6,
+    "question_or_alternative": "捕食補磷或用氮製糖是否是正確配對",
+    "evidence_used": {
+      "question_page": 23,
+      "official_question_page": 23,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        810,
+        818,
+        819
+      ],
+      "catalog_ids": [
+        "L2469",
+        "L2450"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "818食蟲植物加810氮用途支持氮與蛋白質D；保留植物光合碳來源，不推成完全異營。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 7,
+    "question_or_alternative": "本地課本成人8種與目前9種是否影響A",
+    "evidence_used": {
+      "question_page": 23,
+      "official_question_page": 23,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        899,
+        900
+      ],
+      "catalog_ids": [
+        "L2685"
+      ],
+      "supplement_ids": [
+        "S01"
+      ]
+    },
+    "resolution": "MedlinePlus現列甲硫胺酸與組胺酸，差異保存；四選項仍僅A為必需，無未解分類問題。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 8,
+    "question_or_alternative": "酪胺酸也測得是否應改成A",
+    "evidence_used": {
+      "question_page": 23,
+      "official_question_page": 23,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        288,
+        289
+      ],
+      "catalog_ids": [
+        "L0920"
+      ],
+      "supplement_ids": [
+        "S02"
+      ]
+    },
+    "resolution": "Phe累積為題中PKU異常指標，篩檢可同測Tyr但不因此改答；剔除過廣Nature and Nurture次目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 9,
+    "question_or_alternative": "凝聚與附著是否能替代蒸散造成長距離水流",
+    "evidence_used": {
+      "question_page": 23,
+      "official_question_page": 23,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        791,
+        792,
+        793,
+        794,
+        795,
+        796
+      ],
+      "catalog_ids": [
+        "L2381",
+        "L2368"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "791–796支持整體流及張力，擴散貢獻最小C；原題聚合力adhesion文字保存，主次36.3/36.2保留。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 10,
+    "question_or_alternative": "毒素阻止釋放是否應歸訊息清除",
+    "evidence_used": {
+      "question_page": 24,
+      "official_question_page": 24,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        1080,
+        1081
+      ],
+      "catalog_ids": [
+        "L3231"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "1081直接點名botulinum及ACh，D確認；不把停止釋出混成回收，移除Termination次目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 11,
+    "question_or_alternative": "Prozac是否增加血清素釋放而非抑制回收",
+    "evidence_used": {
+      "question_page": 24,
+      "official_question_page": 24,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        1079,
+        1080,
+        1102,
+        1103
+      ],
+      "catalog_ids": [
+        "L3225",
+        "L3306"
+      ],
+      "supplement_ids": [
+        "S03"
+      ]
+    },
+    "resolution": "教材1079–1080及FDA SSRI標示支持D；憂鬱症為情境次目而非取代核心機制。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 12,
+    "question_or_alternative": "真菌及根瘤菌分屬不同分類群是否妨礙互利比較",
+    "evidence_used": {
+      "question_page": 24,
+      "official_question_page": 24,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        814,
+        815,
+        816,
+        817,
+        818,
+        1220,
+        1221
+      ],
+      "catalog_ids": [
+        "L3604",
+        "L2466",
+        "L2463"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "1220正向互利與816–818兩種根部互利成立；比較交互作用，主54.1並保存37章兩個次目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 13,
+    "question_or_alternative": "所有巨噬細胞是否必由循環單核球補充",
+    "evidence_used": {
+      "question_page": 24,
+      "official_question_page": 24,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        935,
+        936,
+        954,
+        955
+      ],
+      "catalog_ids": [
+        "L2802",
+        "L2870"
+      ],
+      "supplement_ids": [
+        "S04"
+      ]
+    },
+    "resolution": "題問能成為而非唯一來源，Alberts支持A，Hashimoto原研究摘要限定小鼠穩態自維持；分類不冒充唯一譜系。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 14,
+    "question_or_alternative": "腸液不洩漏是否意味完全禁止營養吸收",
+    "evidence_used": {
+      "question_page": 24,
+      "official_question_page": 24,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        119,
+        120
+      ],
+      "catalog_ids": [
+        "L0394"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "119–120區分緊密連接與間隙連接，C僅對細胞間屏障；不把選擇性跨細胞運輸排除。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 15,
+    "question_or_alternative": "下視丘自主反應是否比杏仁核情緒記憶更直接",
+    "evidence_used": {
+      "question_page": 24,
+      "official_question_page": 24,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        1095,
+        1096
+      ],
+      "catalog_ids": [
+        "L3261"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "题問記憶位置，1095–1096杏仁核D較直接；已修正草稿火災為實際蛇咬並保存心臟開始跳動不精確措辭。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 16,
+    "question_or_alternative": "後期細胞伸長或動粒附著是否主要依actin",
+    "evidence_used": {
+      "question_page": 24,
+      "official_question_page": 24,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        116,
+        117,
+        241,
+        242
+      ],
+      "catalog_ids": [
+        "L0776",
+        "L0381"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "241分裂溝最直接，116–117区分微絲與微管；D確認，kinetochore譯名差異不改題。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 17,
+    "question_or_alternative": "5′帽保護mRNA是否讓選項A同樣正確",
+    "evidence_used": {
+      "question_page": 24,
+      "official_question_page": 24,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [
+        5
+      ],
+      "official_clarification_pages": [
+        34
+      ],
+      "textbook_pages": [
+        345,
+        377,
+        378,
+        379
+      ],
+      "catalog_ids": [
+        "L1129",
+        "L1059"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "A問帽長度而非有無，379直接證實3′UTR序列，D和同年釋疑一致；11版376與12版379分存。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 18,
+    "question_or_alternative": "Ti整個質體或只有T-DNA插入",
+    "evidence_used": {
+      "question_page": 25,
+      "official_question_page": 25,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        837,
+        838,
+        839
+      ],
+      "catalog_ids": [
+        "L2527"
+      ],
+      "supplement_ids": [
+        "S05"
+      ]
+    },
+    "resolution": "Bevan摘要明示邊界及vir促進核基因組轉移；C確認，Campbell植物工程作分類框架，細節不假稱來自該書。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 19,
+    "question_or_alternative": "transposons上位概念能否取代retrotransposons",
+    "evidence_used": {
+      "question_page": 25,
+      "official_question_page": 25,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        451,
+        452
+      ],
+      "catalog_ids": [
+        "L1327"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "451–452機制以RNA中間物指定D；轉位大類包含關係不能抹去本題具體受問類型。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 20,
+    "question_or_alternative": "基因關閉是否使細胞DNA本身更多",
+    "evidence_used": {
+      "question_page": 25,
+      "official_question_page": 25,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        449,
+        450,
+        451
+      ],
+      "catalog_ids": [
+        "L1320",
+        "L1317"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "基因表現開關不直接增加總DNA，449–451非編碼比例支持B；相對倍數當題設近似。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 21,
+    "question_or_alternative": "同池塘叫聲差異是否屬機械或配子隔離",
+    "evidence_used": {
+      "question_page": 25,
+      "official_question_page": 25,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        507,
+        508,
+        509
+      ],
+      "catalog_ids": [
+        "L1488"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "508行為隔離發生受精前，B；依真實Biological Species Concept葉目，不虛構更細TOC條目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 22,
+    "question_or_alternative": "所有相似結構都能證明共同祖先嗎",
+    "evidence_used": {
+      "question_page": 25,
+      "official_question_page": 25,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        558,
+        559
+      ],
+      "catalog_ids": [
+        "L1649",
+        "L1646"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "558–559區分同功及同源，B同功最易由趨同產生；同章兩個最小條目保留。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 23,
+    "question_or_alternative": "頭足類是否獨有有性生殖或分節",
+    "evidence_used": {
+      "question_page": 25,
+      "official_question_page": 25,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        699,
+        700,
+        701,
+        702,
+        703,
+        923
+      ],
+      "catalog_ids": [
+        "L2120",
+        "L2760"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "702頭足類封閉循環加923循環定義支持C，其他選項非其唯一軟體動物特徵；無Cephalopods目錄葉目故用Molluscs。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 24,
+    "question_or_alternative": "使用工具或無尾是否足以區別所有人族與其他猿",
+    "evidence_used": {
+      "question_page": 25,
+      "official_question_page": 25,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        748,
+        749,
+        750
+      ],
+      "catalog_ids": [
+        "L2253"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "750雙足行走D符合人族典型，其他猿亦無尾/可用工具；主Bipedalism且不杜撰絕對只人族能兩足。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 25,
+    "question_or_alternative": "海鳥能否像軟骨魚提高尿素近海水滲透壓",
+    "evidence_used": {
+      "question_page": 25,
+      "official_question_page": 25,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        979,
+        981,
+        982
+      ],
+      "catalog_ids": [
+        "L2950"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "982鹽腺運輸上皮直接支持D，C不適合海鳥；不是單純靠腎尿排出全部鹽。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 26,
+    "question_or_alternative": "消化管內壁是否應將整面腸壁歸中胚層加內胚層",
+    "evidence_used": {
+      "question_page": 25,
+      "official_question_page": 25,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [
+        5
+      ],
+      "official_clarification_pages": [
+        34
+      ],
+      "textbook_pages": [
+        1049,
+        1050,
+        1051,
+        1052
+      ],
+      "catalog_ids": [
+        "L3144"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "1051表與兩版官方釋疑將所指內襯解為上皮，B；肌肉結締組織另有來源，保留題文內壁語意界線。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 27,
+    "question_or_alternative": "著床應放羊膜適應還是原腸形成所在目錄",
+    "evidence_used": {
+      "question_page": 25,
+      "official_question_page": 25,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        1052,
+        1053
+      ],
+      "catalog_ids": [
+        "L3144"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "1052右欄與1053左圖直接載滋養層，主改Gastrulation；正文涵蓋早期流程不表示著床就是原腸運動。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 28,
+    "question_or_alternative": "海馬損傷是否連所有短期記憶與技能也全失",
+    "evidence_used": {
+      "question_page": 26,
+      "official_question_page": 26,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [
+        6
+      ],
+      "official_clarification_pages": [
+        35
+      ],
+      "textbook_pages": [
+        1100,
+        1101
+      ],
+      "catalog_ids": [
+        "L3293"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "1100–1101聚焦新持久記憶，A維持；官方較廣短期說法保留為範圍差異，不用寬敘述否定分類。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 29,
+    "question_or_alternative": "主分類用節律產生還是心肌動作電位特性",
+    "evidence_used": {
+      "question_page": 26,
+      "official_question_page": 26,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        928,
+        929,
+        1131,
+        1132
+      ],
+      "catalog_ids": [
+        "L3384",
+        "L2776"
+      ],
+      "supplement_ids": [
+        "S06"
+      ]
+    },
+    "resolution": "1131心肌比較最直接，主Other Types of Muscle，Heart Rhythmic Beat次目；具名生理教材補數值，C為合理量級。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 30,
+    "question_or_alternative": "ACh是否在所有靶細胞都是興奮性",
+    "evidence_used": {
+      "question_page": 26,
+      "official_question_page": 26,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        928,
+        929,
+        1080,
+        1081,
+        1088,
+        1089
+      ],
+      "catalog_ids": [
+        "L3245",
+        "L3231"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "1080與1089分心臟副交感及骨骼肌受體；A心跳變快為錯。竇房結K外流與眼瞳孔縮小不與此矛盾。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 31,
+    "question_or_alternative": "分母ESV或僅EDV減ESV是否也為EF",
+    "evidence_used": {
+      "question_page": 26,
+      "official_question_page": 26,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        926,
+        927,
+        928
+      ],
+      "catalog_ids": [
+        "L2773"
+      ],
+      "supplement_ids": [
+        "S07"
+      ]
+    },
+    "resolution": "獨立計算(120−50)/120＝7/12＝58.33%，B；D是有體積單位的SV，非分率。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 32,
+    "question_or_alternative": "節前自主神經或α運動神經是否也釋NE",
+    "evidence_used": {
+      "question_page": 26,
+      "official_question_page": 26,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        1088,
+        1089
+      ],
+      "catalog_ids": [
+        "L3245"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "1089交感到心臟的節後C，其他題列路徑典型ACh；scope鎖定心臟，不作所有節後絕對化。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 33,
+    "question_or_alternative": "β受體作用是否使心臟收縮減弱或氣管收縮加強",
+    "evidence_used": {
+      "question_page": 26,
+      "official_question_page": 26,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        217,
+        218,
+        219,
+        223,
+        224,
+        225
+      ],
+      "catalog_ids": [
+        "L0724",
+        "L0708"
+      ],
+      "supplement_ids": [
+        "S08"
+      ]
+    },
+    "resolution": "原圖確認中文乙型腎因性與英文β-adrenergic，223 cAMP和Klabunde心臟段支持A；PDF真目錄Ions補正別名。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 34,
+    "question_or_alternative": "M細胞、濾泡與蛋白質消化是否皆派爾斑功能",
+    "evidence_used": {
+      "question_page": 26,
+      "official_question_page": 26,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        964,
+        965,
+        966,
+        968
+      ],
+      "catalog_ids": [
+        "L2899"
+      ],
+      "supplement_ids": [
+        "S09"
+      ]
+    },
+    "resolution": "Janeway10-13明確区分黏膜免疫與消化，錯D；Campbell最小條目只負責分類框架且範圍透明。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 35,
+    "question_or_alternative": "腎素或皮質醇是否主要直接提高血鈣",
+    "evidence_used": {
+      "question_page": 26,
+      "official_question_page": 26,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        1011,
+        1012
+      ],
+      "catalog_ids": [
+        "L3036"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "1011–1012鈣恆定直接支持PTH D，選擇最小命名條目而非泛內分泌總章。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 36,
+    "question_or_alternative": "題問來源前驅或腎臟效應哪一項優先",
+    "evidence_used": {
+      "question_page": 26,
+      "official_question_page": 26,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        1001,
+        1002,
+        1012,
+        1013,
+        1014
+      ],
+      "catalog_ids": [
+        "L3001",
+        "L3039"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "1001–1002類固醇源自膽固醇，A；腎上腺皮質醛固酮只是具體激素次目，未主歸腎元。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 37,
+    "question_or_alternative": "丘腦或橋腦是否是題定邊緣系統主要搭配",
+    "evidence_used": {
+      "question_page": 27,
+      "official_question_page": 27,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [
+        6
+      ],
+      "official_clarification_pages": [
+        35
+      ],
+      "textbook_pages": [
+        1006,
+        1007,
+        1092,
+        1093,
+        1095,
+        1096
+      ],
+      "catalog_ids": [
+        "L3261",
+        "L3023"
+      ],
+      "supplement_ids": [
+        "S10"
+      ]
+    },
+    "resolution": "Campbell情緒/下視丘與具名Ganong公開段支持C；官方引用26版與本輪不同書2版嚴格區分，兩版官方結果一致。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 38,
+    "question_or_alternative": "沒有初級丘腦中繼是否等於丘腦完全無嗅覺功能",
+    "evidence_used": {
+      "question_page": 27,
+      "official_question_page": 27,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        1092,
+        1093,
+        1097,
+        1124,
+        1125
+      ],
+      "catalog_ids": [
+        "L3374",
+        "L3271"
+      ],
+      "supplement_ids": [
+        "S11"
+      ]
+    },
+    "resolution": "Sela摘要有17病例支持初級與後續功能區分；C確認，教材概括all/most措辭保留，不曲解成零丘腦參與。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 39,
+    "question_or_alternative": "所有CKD是否必定低鈣才能排除C",
+    "evidence_used": {
+      "question_page": 27,
+      "official_question_page": 27,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        936,
+        987,
+        988,
+        989,
+        994,
+        995,
+        1011,
+        1012
+      ],
+      "catalog_ids": [
+        "L2974",
+        "L3036",
+        "L2802"
+      ],
+      "supplement_ids": [
+        "S12"
+      ]
+    },
+    "resolution": "NIDDK明确鈣可低正常或高，C大幅增加不是普遍典型；其餘貧血、PTH、肌酸酐由腎病機制解釋，來源差異不產生待審。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 40,
+    "question_or_alternative": "肺動脈壓與肱動脈壓及楔壓能否互換",
+    "evidence_used": {
+      "question_page": 27,
+      "official_question_page": 27,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        926,
+        930,
+        931,
+        932
+      ],
+      "catalog_ids": [
+        "L2789",
+        "L2770"
+      ],
+      "supplement_ids": [
+        "S13"
+      ]
+    },
+    "resolution": "血壓主目加肺循環次目，常規袖帶不能直接測肺動脈所以C錯；25mmHg收縮量級有具名教材，與楔壓不同。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 41,
+    "question_or_alternative": "caveolae是否就是無序磷脂或clathrin包被小窩",
+    "evidence_used": {
+      "question_page": 27,
+      "official_question_page": 27,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        128,
+        129,
+        139,
+        140
+      ],
+      "catalog_ids": [
+        "L0411",
+        "L0466"
+      ],
+      "supplement_ids": [
+        "S14"
+      ]
+    },
+    "resolution": "Alberts專節確認富膽固醇膜內陷A；Campbell僅提供膜脂及胞吞框架，禁止以一般圖當caveolae直接圖證。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 42,
+    "question_or_alternative": "組蛋白乙醯化是否增加DNA親和力與凝縮",
+    "evidence_used": {
+      "question_page": 27,
+      "official_question_page": 27,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        371,
+        372
+      ],
+      "catalog_ids": [
+        "L1123"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "371–372支持降低緊密包裝、通常促進轉錄C；非直接改DNA序列，來源的概括作用加通常限定。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 43,
+    "question_or_alternative": "題幹能否直接診斷遺傳病而非辨DNA損傷",
+    "evidence_used": {
+      "question_page": 27,
+      "official_question_page": 27,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        327,
+        328
+      ],
+      "catalog_ids": [
+        "L1013"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "327–328核苷酸切除修復與thymine dimer支持C；原題thymidine dimers保留，76歲情境不夠作遺傳疾病確診。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 44,
+    "question_or_alternative": "四個實際密碼子變化及β鏈長度是否正確",
+    "evidence_used": {
+      "question_page": 27,
+      "official_question_page": 27,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        340,
+        341,
+        357,
+        358,
+        359
+      ],
+      "catalog_ids": [
+        "L1085",
+        "L1042"
+      ],
+      "supplement_ids": [
+        "S15"
+      ]
+    },
+    "resolution": "第二輪完整原圖确认A UAA→CAA、B UAA→UAG、C CGA→UGA、D GAU→GAC；修正草稿錯誤列碼，UniProt成熟146確認來源差異，stop-loss A不受影響。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 45,
+    "question_or_alternative": "四個激素何者典型胞內受體而非膜受體",
+    "evidence_used": {
+      "question_page": 27,
+      "official_question_page": 27,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        220,
+        221,
+        1001,
+        1002,
+        1003
+      ],
+      "catalog_ids": [
+        "L3004",
+        "L0711"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "1002–1003與220–221支持雌激素B；胞內受體不限類固醇，但題列其他三者為蛋白/胜肽激素。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 46,
+    "question_or_alternative": "老化能否用凋亡或單一長端粒狀態定义",
+    "evidence_used": {
+      "question_page": 28,
+      "official_question_page": 28,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        244,
+        245,
+        247,
+        248,
+        249,
+        328,
+        329
+      ],
+      "catalog_ids": [
+        "L0789",
+        "L1019"
+      ],
+      "supplement_ids": [
+        "S16"
+      ]
+    },
+    "resolution": "244–249細胞週期及328–329端粒提供分類，González-Gualda等原作者摘要支持穩定停滯B；不可逆為題目典型說法，不用所有不增殖細胞替代senescence。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 47,
+    "question_or_alternative": "500餘果蠅是否足證同域種化",
+    "evidence_used": {
+      "question_page": 28,
+      "official_question_page": 28,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [
+        6
+      ],
+      "official_clarification_pages": [
+        35
+      ],
+      "textbook_pages": [
+        542,
+        543,
+        544
+      ],
+      "catalog_ids": [
+        "L1589"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "542–544島嶼適應輻射與兩版釋疑支持B，未僅依族群數推斷同域或特定隔離途徑。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 48,
+    "question_or_alternative": "膠體滲透力增強是否會促進組織液淨流出",
+    "evidence_used": {
+      "question_page": 28,
+      "official_question_page": 28,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        932,
+        933,
+        934
+      ],
+      "catalog_ids": [
+        "L2792",
+        "L2795"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "932–934血管內蛋白与淋巴回流機制支持A不致水腫，其他條件相同與屏障保留為前提。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 49,
+    "question_or_alternative": "不合血型是否屬免疫複合物第三型",
+    "evidence_used": {
+      "question_page": 28,
+      "official_question_page": 28,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [],
+      "official_clarification_pages": [],
+      "textbook_pages": [
+        969,
+        970,
+        971
+      ],
+      "catalog_ids": [
+        "L2917",
+        "L2924"
+      ],
+      "supplement_ids": [
+        "S17"
+      ]
+    },
+    "resolution": "抗體靶在紅血球表面，Dean輸血章與Janeway分類綜合支持II型B；同章免疫排斥與IgE過敏對照均保存。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 50,
+    "question_or_alternative": "MHC辨識TCR的原句是否可直接當標準免疫描述",
+    "evidence_used": {
+      "question_page": 28,
+      "official_question_page": 28,
+      "answer_page": 1,
+      "official_answer_page": 29,
+      "clarification_pages": [
+        6
+      ],
+      "official_clarification_pages": [
+        35
+      ],
+      "textbook_pages": [
+        959,
+        960
+      ],
+      "catalog_ids": [
+        "L2886"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "原圖、兩版釋疑與959–960核對，官方B按TCR與胜肽MHC結合；識別方向的措辭不改原題，分類落T Cell Antigen Recognition。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  }
+]

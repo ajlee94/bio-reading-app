@@ -1,0 +1,398 @@
+[
+  {
+    "id": "S03",
+    "title": "MedlinePlus Genetics：Pompe disease",
+    "urls": [
+      "https://medlineplus.gov/genetics/condition/pompe-disease/"
+    ],
+    "finding": "GAA缺陷使溶小體肝糖分解受阻，支持C並校正Pumpe拼字。",
+    "read_scope": "實際下載並實讀Causes及Description相關段；不是個人醫療建議。",
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU106官方採計",
+    "captures": [
+      {
+        "id": "S03",
+        "url": "https://medlineplus.gov/genetics/condition/pompe-disease/",
+        "final_url": "https://medlineplus.gov/genetics/condition/pompe-disease/",
+        "path": "審查紀錄/annual_review/ISU-106/supplement_captures/S03.html",
+        "sha256": "6bacceb49ca0d9e874587ae20a0a285ca01c55813522e26e8c94e92e3402a54f",
+        "bytes": 35453,
+        "content_type": "text/html",
+        "retrieved_at": "2026-09-10T09:00:10.198317+08:00",
+        "status": "CAPTURED_SOURCE_PARTS_READ",
+        "intended_scope": "Causes: GAA、lysosomal glycogen",
+        "verified_scope": "已實讀相關段落，精確範圍見同ID supplemental-sources.json；非逐字全文審閱。"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "0e2f9ddc23b673c1f251f8282c2b05d38fbd7814623140a5575ba29f7fcfdf9e"
+  },
+  {
+    "id": "S07",
+    "title": "本年度官方釋疑引用的植物脂質體導入文獻",
+    "urls": [
+      "https://www.ishs.org/ishs-article/280_84",
+      "https://www.actahort.org/books/280/280_84.htm"
+    ],
+    "finding": "官方106釋疑26保留植物脂質體轉殖方法、採A；原始期刊頁遇存取挑戰，不作已取得原論文。",
+    "read_scope": "實讀官方混科PDF26生物Q7；釋疑引文Rosenberg等Acta Horticulturae280、DOI10.17660/ActaHortic.1990.280.84及1990年另一引文僅按公告保存，不把公告拼寫／頁碼當獨立驗證原文。",
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU106官方採計",
+    "captures": [],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "d76718527337764dcfa7faddb25b52bcb0b895d5fd98680bc91cb11d6c16bd43"
+  },
+  {
+    "id": "S16",
+    "title": "Weiner等：Urea and Ammonia Metabolism and the Control of Renal Nitrogen Excretion",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4527031/"
+    ],
+    "finding": "近曲小管glutamine代謝產生銨及碳酸氫根，支持腎臟排酸原料；補足Campbell只具名氨緩衝的範圍。",
+    "read_scope": "PMC直連為reCAPTCHA，非全文。實讀web工具可見的近曲小管glutamine／NH4分泌段，另存表示檔雜湊；Vander14e518–519僅讀同年度官方27的引用，未取得原書。",
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU106官方採計",
+    "captures": [
+      {
+        "id": "S16",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4527031/",
+        "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4527031/",
+        "path": "審查紀錄/annual_review/ISU-106/supplement_captures/S16.html",
+        "sha256": "86df22caabef9b018a636ab511c85ab6a058377db12fd8b209adee7dc62b8912",
+        "bytes": 21309,
+        "content_type": "text/html; charset=utf-8",
+        "retrieved_at": "2026-09-10T09:00:24.120308+08:00",
+        "status": "CAPTURED_CHALLENGE_NOT_SOURCE",
+        "intended_scope": "Renal ammonia metabolism and glutamine",
+        "verified_scope": "回應為reCAPTCHA或cookies驗證頁，不是文章內容。"
+      },
+      {
+        "id": "S16",
+        "path": "審查紀錄/annual_review/ISU-106/supplement_captures/S16-web-representation.txt",
+        "sha256": "473d0c837069afc60597a465c7d5b5e173551c72e317dae1afa22e8147ffc49c",
+        "bytes": 1021,
+        "status": "CAPTURED_SOURCE_PARTS_READ",
+        "verified_scope": "已實讀相關段落，精確範圍見同ID supplemental-sources.json；非逐字全文審閱。"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "0ea3d862e5602f3849c7a50fa27f4a188bb8fecbccdc232479705b4ab859598a"
+  },
+  {
+    "id": "S18",
+    "title": "Burdyga與Wray2005輸尿管平滑肌動作電位及更正",
+    "urls": [
+      "https://www.nature.com/articles/nature03834",
+      "https://www.nature.com/articles/nature04146"
+    ],
+    "finding": "原始研究摘要報導輸尿管300–800ms；題目未限定平滑肌種類，官方B不能作跨所有平滑肌的絕對定律。",
+    "read_scope": "實際下載HTML並讀摘要；不宣稱付費論文全文已取得。另讀更正公告工具表示，僅修正圖3引用及電壓軸，不修改摘要300–800ms。",
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU106官方採計",
+    "captures": [
+      {
+        "id": "S18",
+        "url": "https://www.nature.com/articles/nature03834",
+        "final_url": "https://www.nature.com/articles/nature03834?error=cookies_not_supported&code=3a1ec70a-c310-427c-862a-b27bc16a7485",
+        "path": "審查紀錄/annual_review/ISU-106/supplement_captures/S18.html",
+        "sha256": "fbc8e7176d4a728e1badfd3bcf6a7fbd278adc2d8775ea43492e3e09752eafcc",
+        "bytes": 305389,
+        "content_type": "text/html; charset=utf-8",
+        "retrieved_at": "2026-09-10T09:00:12.635736+08:00",
+        "status": "CAPTURED_SOURCE_PARTS_READ",
+        "intended_scope": "Abstract: ureter smooth muscle 300–800 ms; notice of corrigendum",
+        "verified_scope": "已實讀相關段落，精確範圍見同ID supplemental-sources.json；非逐字全文審閱。"
+      },
+      {
+        "id": "S18",
+        "path": "審查紀錄/annual_review/ISU-106/supplement_captures/S18-correction-web-representation.txt",
+        "sha256": "0ab69f449466a86495bf2175f2500da3ca154209b55487813c6aa5172cb206c7",
+        "bytes": 1916,
+        "status": "CAPTURED_SOURCE_PARTS_READ",
+        "verified_scope": "已實讀相關段落，精確範圍見同ID supplemental-sources.json；非逐字全文審閱。"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "5a06b2949b789a5c352476ad5be383590460002cac791fba8055552d71c993fa"
+  },
+  {
+    "id": "S21",
+    "title": "Yang等2016雙股RNA噬菌體phiYY原始研究",
+    "urls": [
+      "https://www.nature.com/articles/srep38795",
+      "https://www.nature.com/articles/srep46853"
+    ],
+    "finding": "dsRNA噬菌體有實例；正文muramidase/lysin作用於bacterial cell walls，支持D的細胞膜靶標差異。",
+    "read_scope": "實際下載HTML，讀摘要、Introduction及muramidase段；更正頁web直連失敗，後續實際下載HTML讀到L片段登錄號KX07420改為KX074201，未改dsRNA或lysin內容；兩次失敗表示仍留存，未宣稱逐段審閱整篇。",
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU106官方採計",
+    "captures": [
+      {
+        "id": "S21",
+        "url": "https://www.nature.com/articles/srep38795",
+        "final_url": "https://www.nature.com/articles/srep38795?error=cookies_not_supported&code=84e370e0-4cd6-4c29-9c67-d8074dd84280",
+        "path": "審查紀錄/annual_review/ISU-106/supplement_captures/S21.html",
+        "sha256": "16cd3e5d8e1897475e3e5fb3425f4e2907c4a217744ff3262bc3be3c1da6c461",
+        "bytes": 370674,
+        "content_type": "text/html; charset=utf-8",
+        "retrieved_at": "2026-09-10T09:00:15.144993+08:00",
+        "status": "CAPTURED_SOURCE_PARTS_READ",
+        "intended_scope": "Abstract/Introduction: dsRNA bacteriophage phiYY and cystoviruses",
+        "verified_scope": "已實讀相關段落，精確範圍見同ID supplemental-sources.json；非逐字全文審閱。"
+      },
+      {
+        "id": "S21",
+        "path": "審查紀錄/annual_review/ISU-106/supplement_captures/S21-correction-search-representation.txt",
+        "sha256": "59a374c4d52b46c0af3916fd6239c217ae3a7d6d65835db4702ce5b912769206",
+        "bytes": 4119,
+        "status": "CAPTURED_SOURCE_PARTS_READ",
+        "verified_scope": "已實讀相關段落，精確範圍見同ID supplemental-sources.json；非逐字全文審閱。"
+      },
+      {
+        "id": "S21",
+        "path": "審查紀錄/annual_review/ISU-106/supplement_captures/S21-correction-web-representation.txt",
+        "sha256": "ec87184945d53b4ee26ec615236ea8579981cb0db5ec5ebcdbc588cc1c50e397",
+        "bytes": 500,
+        "status": "CAPTURED_SOURCE_PARTS_READ",
+        "verified_scope": "已實讀相關段落，精確範圍見同ID supplemental-sources.json；非逐字全文審閱。"
+      },
+      {
+        "id": "S21",
+        "url": "https://www.nature.com/articles/srep46853",
+        "retrieved_at": "2026-09-10T09:20:51.846033+08:00",
+        "final_url": "https://www.nature.com/articles/srep46853?error=cookies_not_supported&code=7e06b6d1-9605-4d11-a122-f5b64749d54e",
+        "path": "審查紀錄/annual_review/ISU-106/supplement_captures/S21-correction.html",
+        "sha256": "64cfd28c7db60f8e9ffb5ebc9b69f87f60dd0946ca01689252acc1d3d794bfea",
+        "bytes": 214227,
+        "status": "CAPTURED_SOURCE_PARTS_READ",
+        "verified_scope": "已實讀相關段落，精確範圍見同ID supplemental-sources.json；非逐字全文審閱。"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "9e509833d58cd4e0177519fbd4390d0f28c57aedec2e044980590d2296a22ace"
+  },
+  {
+    "id": "S23",
+    "title": "2022人類alpha3 Na/K ATPase結構研究",
+    "urls": [
+      "https://www.nature.com/articles/s41467-022-32990-x"
+    ],
+    "finding": "E1為胞質側開放；研究複合體α、β、FXYD比例1:1:1。A四聚體不可當通用現代定義，與官方只增採C/D分開。",
+    "read_scope": "實際下載並讀摘要、Introduction構形與次單元段；此人類alpha3結構不等於證明所有膜上聚合狀態。",
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU106官方採計",
+    "captures": [
+      {
+        "id": "S23",
+        "url": "https://www.nature.com/articles/s41467-022-32990-x",
+        "final_url": "https://www.nature.com/articles/s41467-022-32990-x?error=cookies_not_supported&code=56ba02a0-be54-4ad7-8684-def396e385e3",
+        "path": "審查紀錄/annual_review/ISU-106/supplement_captures/S23.html",
+        "sha256": "2230cd1832f6a31ad65f2f4b51998609eea91e74d6662695329d398ad9df6a21",
+        "bytes": 414928,
+        "content_type": "text/html; charset=utf-8",
+        "retrieved_at": "2026-09-10T09:00:18.038511+08:00",
+        "status": "CAPTURED_SOURCE_PARTS_READ",
+        "intended_scope": "Abstract/Introduction: cytoplasmic-open E1; alpha beta FXYD stoichiometry",
+        "verified_scope": "已實讀相關段落，精確範圍見同ID supplemental-sources.json；非逐字全文審閱。"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "bfbac91e93617267777da10165e1d61875b8462455a5cb787ae3cdcc752e62f3"
+  },
+  {
+    "id": "S35",
+    "title": "Nikon：Immersion Oil",
+    "urls": [
+      "https://www.microscope.healthcare.nikon.com/products/accessories/immersion-oil"
+    ],
+    "finding": "高折射率油取代空氣間隙並減少折射損失，增加解析能力；支持A。",
+    "read_scope": "實際下載並讀頁面開頭功能說明及折射率配對說明；未宣稱油鏡實驗或儀器測試。",
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU106官方採計",
+    "captures": [
+      {
+        "id": "S35",
+        "url": "https://www.microscope.healthcare.nikon.com/products/accessories/immersion-oil",
+        "final_url": "https://www.microscope.healthcare.nikon.com/en_AOM/products/accessories/immersion-oil",
+        "path": "審查紀錄/annual_review/ISU-106/supplement_captures/S35.html",
+        "sha256": "80d29da4294d9d0ffcbca5344fa621674af4bddc37b02f3da2cc39901c070a8d",
+        "bytes": 49316,
+        "content_type": "text/html; charset=UTF-8",
+        "retrieved_at": "2026-09-10T09:00:20.436356+08:00",
+        "status": "CAPTURED_SOURCE_PARTS_READ",
+        "intended_scope": "Official microscopy manufacturer principle",
+        "verified_scope": "已實讀相關段落，精確範圍見同ID supplemental-sources.json；非逐字全文審閱。"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "a1de1365bd733ca96da8c411e8a0a23b38804e9adc48d1e80e2f348190291f10"
+  },
+  {
+    "id": "S46",
+    "title": "Perkins等1996 CTLA-4表現研究及T細胞共訊號綜述",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/8666782/",
+      "https://www.nature.com/articles/nri3405"
+    ],
+    "finding": "CD28提供共刺激，CTLA-4為負向調節，不宜把官方釋疑同列的兩者一概說成促活化。",
+    "read_scope": "PubMed直連為cookies-only且web open為驗證頁；實讀其搜尋可見原始研究摘要並保存工具表示。Nature頁讀Key Points/Abstract及可見引用，未宣稱取得付費全文。",
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU106官方採計",
+    "captures": [
+      {
+        "id": "S46",
+        "url": "https://www.nature.com/articles/nri3405",
+        "final_url": "https://www.nature.com/articles/nri3405?error=cookies_not_supported&code=c9862eec-8461-4ea9-b0ab-8cc31797e043",
+        "path": "審查紀錄/annual_review/ISU-106/supplement_captures/S46.html",
+        "sha256": "6e63a284341ce92533228d0fbea8391ce80825d3cf391922beb71dc795fc029e",
+        "bytes": 581864,
+        "content_type": "text/html; charset=utf-8",
+        "retrieved_at": "2026-09-10T09:00:27.268306+08:00",
+        "status": "CAPTURED_SOURCE_PARTS_READ",
+        "intended_scope": "Co-stimulation and co-inhibition of T cells",
+        "verified_scope": "已實讀相關段落，精確範圍見同ID supplemental-sources.json；非逐字全文審閱。"
+      },
+      {
+        "id": "S46",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8666782/",
+        "retrieved_at": "2026-09-10T09:15:47.179722+08:00",
+        "final_url": "https://pubmed.ncbi.nlm.nih.gov/8666782/",
+        "content_type": "text/html; charset=utf-8",
+        "path": "審查紀錄/annual_review/ISU-106/supplement_captures/S46-additional.html",
+        "sha256": "06809f527f9a374fce0cc637b990c274c76c74160ca27453c7f0d2980f95e3e3",
+        "bytes": 5565,
+        "status": "CAPTURED_CHALLENGE_NOT_SOURCE",
+        "verified_scope": "回應為reCAPTCHA或cookies驗證頁，不是文章內容。"
+      },
+      {
+        "id": "S46",
+        "path": "審查紀錄/annual_review/ISU-106/supplement_captures/S46-web-representation.txt",
+        "sha256": "08ce3ecb663fe6f7a8088a926529fae51f2fe9bd165802889b102baacbb63417",
+        "bytes": 2466,
+        "status": "CAPTURED_SOURCE_PARTS_READ",
+        "verified_scope": "已實讀相關段落，精確範圍見同ID supplemental-sources.json；非逐字全文審閱。"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "28d3c1dc213e7398ad563309c1dafa61c4ea99bcfc0cb785b7e3aea12fdca130"
+  },
+  {
+    "id": "S48",
+    "title": "Cipolla作者教材The Cerebral Circulation：Barriers of the CNS；Daneman與Prat綜述",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK53084/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4292164/"
+    ],
+    "finding": "BBB主要物理屏障是腦血管內皮緊密連接，星狀細胞參與誘導和支持；題列C與完整屏障構成分開。",
+    "read_scope": "NCBI作者教材HTML實際取得並讀The Blood–Brain Barrier及Role of Astrocytes in BBB Function；PMC直連為驗證頁，其可見綜述段另存工具表示，不作下載全文。",
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU106官方採計",
+    "captures": [
+      {
+        "id": "S48",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4292164/",
+        "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4292164/",
+        "path": "審查紀錄/annual_review/ISU-106/supplement_captures/S48.html",
+        "sha256": "4c00b708975d620fcd72ad3a252bc59ef7a1145590627c5f1ff6bf0827f4d5cc",
+        "bytes": 21311,
+        "content_type": "text/html; charset=utf-8",
+        "retrieved_at": "2026-09-10T09:00:20.781422+08:00",
+        "status": "CAPTURED_CHALLENGE_NOT_SOURCE",
+        "intended_scope": "Components of the BBB / Astrocytes",
+        "verified_scope": "回應為reCAPTCHA或cookies驗證頁，不是文章內容。"
+      },
+      {
+        "id": "S48",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK53084/",
+        "retrieved_at": "2026-09-10T09:15:54.460004+08:00",
+        "final_url": "https://www.ncbi.nlm.nih.gov/books/NBK53084/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "審查紀錄/annual_review/ISU-106/supplement_captures/S48-additional.html",
+        "sha256": "a145bdbf4d53b308565e1d5839892d9f5ad304f35ed9d99a46b66980a3d135d2",
+        "bytes": 86667,
+        "status": "CAPTURED_SOURCE_PARTS_READ",
+        "verified_scope": "已實讀相關段落，精確範圍見同ID supplemental-sources.json；非逐字全文審閱。"
+      },
+      {
+        "id": "S48",
+        "path": "審查紀錄/annual_review/ISU-106/supplement_captures/S48-web-representation.txt",
+        "sha256": "f996138238ad97d30119ce653ec4d3eb2e1eb5a233e7e8d2b5eeda426f376781",
+        "bytes": 1009,
+        "status": "CAPTURED_SOURCE_PARTS_READ",
+        "verified_scope": "已實讀相關段落，精確範圍見同ID supplemental-sources.json；非逐字全文審閱。"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "e0ee5ac84c94e88e04834a9a005d79d6fc19f4228287faedc9c4bfb3fbfb5cae"
+  },
+  {
+    "id": "S49",
+    "title": "Cytiva：Ion Exchange Chromatography Principles and Methods",
+    "urls": [
+      "https://cdn.cytivalifesciences.com/api/public/content/digi-13101-pdf"
+    ],
+    "finding": "陰離子交換介質帶正電，對帶負電溶質有保留作用，與Campbell側鏈電荷配合推得Glu。",
+    "read_scope": "實際取得163頁PDF，僅實讀基本原理、pH／淨電荷與介質電荷相關段；第一個digi-17659網址404保留。不是四種胺基酸的實測洗脫數據。",
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU106官方採計",
+    "captures": [
+      {
+        "id": "S49",
+        "url": "https://cdn.cytivalifesciences.com/api/public/content/digi-17659-pdf",
+        "retrieved_at": "2026-09-10T09:00:21.339668+08:00",
+        "status": "DOWNLOAD_FAILED",
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "id": "S49",
+        "url": "https://cdn.cytivalifesciences.com/api/public/content/digi-13101-pdf",
+        "retrieved_at": "2026-09-10T09:15:47.526517+08:00",
+        "final_url": "https://cdn.cytivalifesciences.com/api/public/content/digi-13101-pdf",
+        "content_type": "application/pdf",
+        "path": "審查紀錄/annual_review/ISU-106/supplement_captures/S49-additional.pdf",
+        "sha256": "f0ede54e26e4ce63d15b4339d0bce3d4ffea34ca8a2168ef5932c0b8dbf9b807",
+        "bytes": 13750585,
+        "status": "CAPTURED_SOURCE_PARTS_READ",
+        "verified_scope": "已實讀相關段落，精確範圍見同ID supplemental-sources.json；非逐字全文審閱。"
+      },
+      {
+        "id": "S49",
+        "path": "審查紀錄/annual_review/ISU-106/supplement_captures/S49-web-representation.txt",
+        "sha256": "201de3cc986ba834ec8bbb6ec017c1c856de240fc8214419f8570f40ee356926",
+        "bytes": 446,
+        "status": "CAPTURED_SOURCE_PARTS_READ",
+        "verified_scope": "已實讀相關段落，精確範圍見同ID supplemental-sources.json；非逐字全文審閱。"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "fab4aca636340291ffe06fc32d770a37c25f6be8e136cff1137858be187a4484"
+  },
+  {
+    "id": "S50",
+    "title": "Alberts等Molecular Biology of the Cell4e：B Cells and Antibodies",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK26884/"
+    ],
+    "finding": "輕重鏈V區共同形成抗原結合面，hypervariable／CDR為較精確位置；支持C而不添寫A/B的只字。",
+    "read_scope": "實際取得HTML並讀Light and Heavy Chains…及hypervariable／Figure24-31相關段；與本地Campbell12e是兩本不同作者教材，版次分清。",
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU106官方採計",
+    "captures": [
+      {
+        "id": "S50",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK26884/",
+        "final_url": "https://www.ncbi.nlm.nih.gov/books/NBK26884/",
+        "path": "審查紀錄/annual_review/ISU-106/supplement_captures/S50.html",
+        "sha256": "42aebd20e437c3ddf30711799f724761807fa2b24e8ec07e507334d6c74f37df",
+        "bytes": 95603,
+        "content_type": "text/html; charset=UTF-8",
+        "retrieved_at": "2026-09-10T09:00:23.774659+08:00",
+        "status": "CAPTURED_SOURCE_PARTS_READ",
+        "intended_scope": "Hypervariable regions antigen-binding section",
+        "verified_scope": "已實讀相關段落，精確範圍見同ID supplemental-sources.json；非逐字全文審閱。"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "4c3599c1135445336e388d5e46bb6fe1fea5470e5ec8379180f5d50241f8262a"
+  }
+]

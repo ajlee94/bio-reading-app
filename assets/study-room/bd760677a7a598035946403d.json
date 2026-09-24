@@ -1,0 +1,251 @@
+{
+  "question": {
+    "path": "30cbab9facf6b964c41c60cd.pdf",
+    "sha256": "a24665d2c933275d05286e00bdf062ee62a28eae729cdbd88ec51912bfc0a7c7",
+    "pdf_pages": 27,
+    "inventory_category": "biology_question",
+    "scope_status": "VERIFIED_COMPLETE_HEADERS_AND_ALL_BIOLOGY_FULL_IMAGES",
+    "subject": "生物學（含生理學）",
+    "question_count": 50,
+    "biology_pdf_pages": [
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "printed_pages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "excluded_subject_pages": {
+      "國文": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "化學": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "英文": [
+        18,
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    "source_difference": "檔名標生物但實際27頁四科混卷。原綠色浮水印保留。"
+  },
+  "answer": {
+    "path": "04291d1817dca385842e6c9b.pdf",
+    "sha256": "4d7c02ad3a21feea5ad4136dc61ceba6034c28fcde46d952575eada911ed30a4",
+    "pdf_pages": 1,
+    "inventory_category": "biology_answer",
+    "scope_status": "FULL_PAGE_VISUALLY_READ_50_ANSWERS",
+    "biology_pdf_pages": [
+      1
+    ],
+    "official_combined_pdf_page": 28,
+    "biology_region": "PDF1最下方第四張生物表；前三科排除"
+  },
+  "clarification": {
+    "path": "7db23009fac10519909ef4b6.pdf",
+    "sha256": "d45912d26c4006c0e4703cf2828f756e929cdea68e73e43b95e752df6e2bff40",
+    "pdf_pages": 5,
+    "inventory_category": "clarification",
+    "scope_status": "ALL_8_BIOLOGY_ROWS_AND_RESULT_COLUMNS_VISUALLY_READ",
+    "biology_pdf_pages": [
+      4,
+      5
+    ],
+    "official_combined_pdf_pages": [
+      32,
+      33
+    ],
+    "biology_questions": {
+      "9": [
+        4
+      ],
+      "10": [
+        4
+      ],
+      "18": [
+        5
+      ],
+      "26": [
+        5
+      ],
+      "38": [
+        5
+      ],
+      "39": [
+        5
+      ],
+      "45": [
+        5
+      ],
+      "50": [
+        5
+      ]
+    },
+    "official_corrections": {
+      "10": "A/B"
+    },
+    "meeting_date": "2022-04-27",
+    "publication_date": "NOT_INDEPENDENTLY_VERIFIED",
+    "excluded": "PDF1–3及PDF4上方英文35不屬生物；其餘42题未列本輪取得公告，不宣稱不存在其他未取得公告。"
+  },
+  "combined_candidate": {
+    "path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/schools/ISU/files/其他試題_非生物或待查/ISU_111_combined_exam_archive__111學年度學士後中醫學系招生考試考古題公告.pdf",
+    "sha256": "9fee8c668e2372ec4d2a7e7b6b34f6bdb198a9a226424f70ceccd00998942e56",
+    "pdf_pages": 33,
+    "inventory_category": "combined_exam_archive",
+    "scope_status": "VERIFIED_SHA256_MATCH_OFFICIAL_MEMBER; VISUAL_IDENTITY_BY_EQUAL_BYTES",
+    "official_sha256_match": true
+  },
+  "textbook": {
+    "path": "Campbell Biology 12e.pdf（教材參考，全文未公開）",
+    "sha256": "de7c28b93a1c853c0c58d53cd658848d08cf033cde7c2071c062bfdd25b5dc73"
+  },
+  "toc": {
+    "path": "Campbell toc.txt（教材參考，全文未公開）",
+    "sha256": "472c94c03d3e7f107284b4e59ba744b406faee99580f5d940e0c2dab3d0c3dc7"
+  },
+  "official_archive": {
+    "path": "source/supplemental/ISU111/official-historical-exams.zip",
+    "url": "https://www.isu.edu.tw/storage/files/9crd3xNNj7FiMlpyB92xu98jBE5cQrUWvqPB0ZfK.zip",
+    "final_url": "https://www.isu.edu.tw/storage/files/9crd3xNNj7FiMlpyB92xu98jBE5cQrUWvqPB0ZfK.zip",
+    "sha256": "3245682ef6e3375ef8696b35feb1b3ea0b45fe8343f5a42b4c12d81611c32953",
+    "bytes": 26604484,
+    "retrieved_at": "2026-09-09T19:58:08.015628+08:00",
+    "source_type": "OFFICIAL_DIRECT"
+  },
+  "archive_notice": {
+    "path": "source/supplemental/ISU111/archive-notice.html",
+    "url": "https://www.isu.edu.tw/admissions/30?category=7&year=115",
+    "final_url": "https://www.isu.edu.tw/admissions/30?category=7&year=115",
+    "sha256": "393f98cf3bd3a2796be2067b48c5d238a5f5cdefa30f31e655e848136d9f4d0a",
+    "bytes": 439450,
+    "retrieved_at": "2026-09-09T19:58:09.791397+08:00",
+    "source_type": "OFFICIAL_DIRECT"
+  },
+  "official_combined": {
+    "path": "c8f2cdf11acc6f25a886e6d2.pdf",
+    "sha256": "9fee8c668e2372ec4d2a7e7b6b34f6bdb198a9a226424f70ceccd00998942e56",
+    "bytes": 1222923,
+    "pdf_pages": 33,
+    "member": "111學年度學士後中醫學系招生考試考古題公告.pdf",
+    "archive_sha256": "3245682ef6e3375ef8696b35feb1b3ea0b45fe8343f5a42b4c12d81611c32953",
+    "url": "https://www.isu.edu.tw/storage/files/9crd3xNNj7FiMlpyB92xu98jBE5cQrUWvqPB0ZfK.zip",
+    "scope_status": "VERIFIED_ALL_33_PAGES_TEXT_AND_PIXELS_MATCH_LOCAL_PARTS",
+    "biology_question_pdf_pages": [
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "biology_answer_pdf_page": 28,
+    "biology_clarification_pdf_pages": [
+      32,
+      33
+    ],
+    "comparison": "See official-combined-comparison.json"
+  },
+  "official_question": {
+    "path": "c8f2cdf11acc6f25a886e6d2.pdf",
+    "sha256": "9fee8c668e2372ec4d2a7e7b6b34f6bdb198a9a226424f70ceccd00998942e56",
+    "bytes": 1222923,
+    "pdf_pages": 33,
+    "member": "111學年度學士後中醫學系招生考試考古題公告.pdf",
+    "archive_sha256": "3245682ef6e3375ef8696b35feb1b3ea0b45fe8343f5a42b4c12d81611c32953",
+    "url": "https://www.isu.edu.tw/storage/files/9crd3xNNj7FiMlpyB92xu98jBE5cQrUWvqPB0ZfK.zip",
+    "scope_status": "VERIFIED_ALL_33_PAGES_TEXT_AND_PIXELS_MATCH_LOCAL_PARTS",
+    "biology_question_pdf_pages": [
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "biology_answer_pdf_page": 28,
+    "biology_clarification_pdf_pages": [
+      32,
+      33
+    ],
+    "comparison": "See official-combined-comparison.json"
+  },
+  "source_access_notes": {
+    "download": "沙盒WinError10013已記錄；依本次查證授權重試成功。",
+    "official_archive": "現行頁歷屆試題連結74；具名111成員年度與內容確認。頁面2025-12-12不是111釋疑日期。"
+  },
+  "source_differences": {
+    "ISU-111-Q01": "官方採C動物。以傳統界級對比可理解命題意圖，但D「原生生物」並非單系群，包含教材659頁所示比動物更接近真菌的nucleariids；不得把C說成不附條件的唯一科學結論。分類由親緣而非營養方式決定。",
+    "ISU-111-Q02": "官方B為AZ病毒載體疫苗。EMA產品評估確認ChAdOx1非複製型黑猩猩腺病毒載體攜帶S蛋白基因。Campbell支援免疫接種原理，沒有本題四商品的完整比較；mRNA與蛋白疫苗不是病毒載體，分類不移到一般病毒生活史。",
+    "ISU-111-Q03": "官方A色胺酸。牛奶情境不是本題分類主軸；色胺酸為血清素前驅物並不單獨證實喝牛奶有鎮靜或治療失眠效果。",
+    "ISU-111-Q04": "官方B。NGS能分析核酸與經逆轉錄的RNA，也能間接推論功能，但不能單靠序列直接量測所有轉譯後修飾、蛋白活性或互作；本題「無法」依直接測量層級解讀。",
+    "ISU-111-Q05": "官方D脂肪酸類。前列腺素不是由嘌呤、嘧啶或類固醇產生；最小目錄沒有單列prostaglandins，採其所屬Intercellular Information Flow。",
+    "ISU-111-Q06": "官方A ECL細胞分泌histamine刺激壁細胞分泌酸。Campbell907頁直接列chief與parietal細胞，未細列ECL；NCBI MeSH補足ECL—histamine關係。主細胞分泌胃蛋白酶原；D細胞的somatostatin與杯狀細胞黏液不等於組織胺。",
+    "ISU-111-Q07": "官方B mosaicism。NHGRI定義為單一受精卵來源但細胞具有不同基因組；chimera通常來自不同合子。一般遺傳嵌合也可由受精後序列突變造成，不限染色體數目；X失活是功能性嵌合例子，不能說失活本身必使DNA序列不同。",
+    "ISU-111-Q08": "官方B。RNA-seq適用轉錄體分析，蛋白體或代謝物方法對象不同。原題「轉錄質體學」照留，科學說明使用轉錄體學（transcriptomics）；不默改原圖或原題。",
+    "ISU-111-Q09": "官方釋疑維持D促進mRNA降解。原題問RNAi作用，沒有明寫只限siRNA主要機制；公告承認某些情況抑制轉錄，Campbell380也支持ncRNA轉錄沉默，因此採D不表示A機制不存在。公告另談「抑制轉譯」，但原C實為「抑制mRNA的剪接」，兩者不可混同；B為轉譯後修飾，也不是翻譯抑制。其他版本及Becker頁碼只是公告引文，未冒充本輪12e實讀。",
+    "ISU-111-Q10": "原答案B；同年度釋疑PDF4更正A/B皆可。公告解釋鈣為第IV凝血因子，與VII及組織因子形成外在路徑相關複合物。Campbell支援凝血原理，未列完整因子編號；精確採計依111官方更正，不依教材自行選回單一答案。",
+    "ISU-111-Q11": "官方A。預期留在細胞質的蛋白不需分泌路徑訊號；粒線體蛋白則常有自己的導入序列，不能把「不經ER」誤作完全無標的訊號。題目採一般定位規則，不外推所有非典型分泌途徑。",
+    "ISU-111-Q12": "官方A絛蟲。渦蟲等有胃循環腔；不能把所有扁形動物都說成沒有消化系統。697頁完整文字在跨頁Tapeworms段落續行，已另讀而非只憑696頁小標題。",
+    "ISU-111-Q13": "官方B malonyl-CoA最不易升高。以飢餓及未控制的胰島素缺乏性糖尿病肝代謝為情境，脂肪氧化和酮體生成增加而脂肪合成受抑；malonyl-CoA抑制CPT1的精確機制由1977原始研究及原作者2012回顧補足。Campbell未直接列此中間物；不可外推全部糖尿病型別、組織及時期皆相同。",
+    "ISU-111-Q14": "官方C固氮。硝化是銨轉成亞硝酸／硝酸，反硝化方向回到N2；植物同化硝酸也不等於固定大氣N2。",
+    "ISU-111-Q15": "官方D關聯性學習；情境可細分為古典制約，屬於Learning最小目錄。操作制約則將行為與後果配對；原D文字是關聯性學習，未擅自換成較窄名詞。",
+    "ISU-111-Q16": "官方C。Campbell以醛固酮為圖例，支援同類胞內受器原理；cortisol結合受器可調節核內基因表現，不把所有激素受器都等同膜受器或保證每個類固醇作用只經此路徑。",
+    "ISU-111-Q17": "官方A N-acetylglucosamine。圖中C2位N-acetyl取代與β連結支持判讀，不是普通glucose或細菌壁的交替兩種胺基糖結構。",
+    "ISU-111-Q18": "官方A compound chromosome，111釋疑維持。Campbell沒有獨立compound名稱定義；FlyBase C(1)RM記為homo_compound，同義attached-X，兩X共用一著絲點。故compound與attached-X不互斥；公告「非所有attached chromosome皆可稱」依原文保留，不擴張成attached-X不是compound。Robertsonian等其他融合名詞不取代題設同源融合的官方用語。",
+    "ISU-111-Q19": "官方B。最低流速不等於最低血壓，微血管總截面積很大，壓力則從動脈端往靜脈端下降；同章兩最小目錄均保留。",
+    "ISU-111-Q20": "官方D testosterone可由aromatase轉成estradiol。Campbell此處支援性激素類別及作用，精確底物—產物由Endotext作者教材補足；不把膽固醇或所有雄激素都當作直接同一步底物。",
+    "ISU-111-Q21": "官方C。壓力下共生藻被排出或死亡可造成白化；白色不表示珊瑚骨骼新生變白，也不等同宿主在白化瞬間必已死亡。",
+    "ISU-111-Q22": "官方A桑椹胚，早於胚泡、原腸胚等後續期。Campbell1035圖示細胞團進展到胚泡，未在所讀段落逐字命名morula；不偽造「Morula」最小目錄，保留卵裂及三個真實次條目。",
+    "ISU-111-Q23": "官方B mast cell。B細胞可產生抗體但不是本題即時脫顆粒效應細胞；IgE先結合受器、再次接觸抗原後交聯造成反應，不能將抗體合成與組織胺釋放混為一步。",
+    "ISU-111-Q24": "官方D Avastin（bevacizumab），NCI官方說明其阻斷VEGF而抑制血管新生。Herceptin主要標靶HER2，順鉑損傷DNA，Taxol干擾微管；Campbell沒有逐一列完四藥，具名Avastin機轉以NCI補足。",
+    "ISU-111-Q25": "官方D美國短吻鱷最不易受影響，保留採計；不能據此說溫度依賴性別決定沒有表觀遺傳。2014年原始研究已分析鱷魚SOX9與aromatase啟動子CpG甲基化的溫度差異，早於2022考試。四者「最不易」沒有題內定量標準，科學唯一性不強行補造；分類於表觀調控已明確。",
+    "ISU-111-Q26": "官方D TEM，釋疑以足夠解析度維持。原題同時寫「構造及功能」，TEM可看固定樣本超微結構，不能直接量測活粒線體功能；螢光顯微鏡配合探針可做活細胞功能研究，超解析能力亦須依方法界定。選D依精細構造的命題口徑，不將「唯有D」推廣為功能實驗唯一方法。",
+    "ISU-111-Q27": "官方A serine；以本地正文具名直接證據判定。原題「乙醯膽鹼脂酶」照存，正確酵素名稱為乙醯膽鹼酯酶。不將一般不可逆抑制與所有毒素作用劃等號。",
+    "ISU-111-Q28": "官方A phospholipase C是酵素，可切割磷脂生成IP3等，並非第二傳訊者。真實PDF38目錄作Small Molecules and Ions as Second Messengers，文字目錄漏Ions as；本輪年度條目保留別名與差異，未改原檔。",
+    "ISU-111-Q29": "官方B lysine。Concept16.3在真實目錄沒有下一層條目，所以使用概念本身，不另造Histones；histidine同屬可帶正電胺基酸不代表是本題組蛋白富含的最佳選項。",
+    "ISU-111-Q30": "官方B。在沒有突變、選汰、漂變、基因流等假設下p、q不變；一個時間點的基因型比例符合p²:2pq:q²，不能單憑此證明未來必永遠平衡。",
+    "ISU-111-Q31": "官方D藍綠菌。利用水作電子來源並釋O2，與植物葉綠體關係一致；化學自營依化學氧化取能，不因能自營便等同產氧光合作用。",
+    "ISU-111-Q32": "官方C幾丁質。纖維素及木質素典型於植物壁，肽聚醣典型於細菌壁；不把類真菌卵菌與真菌混為一類而更改答案。",
+    "ISU-111-Q33": "官方D具鞭毛孢子。現行12e亦列Cryptomycetes、Microsporidians等很早分支，不能說壺菌是唯一最早或所有早期真菌都具鞭毛；題目問支持早期分歧的祖徵而非完整排序。",
+    "ISU-111-Q34": "官方A輪蟲。此生殖方式不是輪蟲獨有；原題選項絛蟲、吸蟲又屬扁蟲，分類層級不平行，原題照留。",
+    "ISU-111-Q35": "官方C海膽。水管系統為棘皮動物特徵，不是海綿的水流孔道或刺胞動物胃循環腔；「特有」指所屬類群，非只有海膽單一物種具有。",
+    "ISU-111-Q36": "官方B。多層細胞能抵抗磨損，單層鱗狀偏向薄層交換。部位交界可轉變，不把整段消化道全說成同一上皮；真實目錄未另列Epithelial Tissue。",
+    "ISU-111-Q37": "官方A。常見異型合子呈軟骨發育不全，同型顯性有致死效應；鐮型血球疾病臨床常以隱性模式描述，但血紅素分子層級可共顯性，不混用觀察層級。",
+    "ISU-111-Q38": "官方D，釋疑維持。黃體期對應子宮分泌期，腺體生長分泌；LH峰為促進排卵關鍵，不是把FSH峰當唯一觸發。大量增生主要在增生期，黃體期仍有內膜維持與發育，不能將官方區分解讀為黃體期完全不再生長。公告引用第8版不冒充本輪12e頁碼。",
+    "ISU-111-Q39": "官方A中腦，釋疑以VLPO促眠作說明。Campbell1094頁網狀結構主要位於中腦與橋腦，清醒屬分布網路；公告所引Neuron2010圖1亦列下視丘orexin參與喚醒。VLPO促眠不能推出整個間腦不參與清醒，故不強行證成A排他的唯一中心。",
+    "ISU-111-Q40": "官方C為錯誤敘述。光使通道關閉、Na+內流下降，視桿超極化且減少glutamate釋放；黑暗較去極化。原C最後寫「去極化」保留，不改題以消除錯項。",
+    "ISU-111-Q41": "官方A ubiquitin。cyclin可為受調控降解的標的，不是本題一般標記；chaperone的折疊及miRNA調節RNA作用不同。泛素是常見機制，不宣稱所有蛋白酶體底物都絕對需要泛素。",
+    "ISU-111-Q42": "官方C。主要以乙醯輔酶A進入，不需先變成丙酮酸；題目「主要」保留，未宣稱奇數碳鏈最後片段也全為二碳。",
+    "ISU-111-Q43": "官方C草酸。楊桃病例研究有草酸鹽腎病與結晶沉積證據；腎小管結晶損傷不等於所有病例已形成肉眼腎結石，也不表示食用必然結石。Campbell此段沒有具名楊桃或草酸結石詳論，疾病因果由補充來源支持。原學名Averhoa照留，科學名稱應為Averrhoa carambola。",
+    "ISU-111-Q44": "官方A 100Å＝10nm為選項中最合適量級，10Å僅1nm，1µm為1000nm，1mm為10^6nm。Campbell本輪所讀頁未找到統一膜厚數字；Alberts作者教材寫脂質雙層約5nm，支持奈米量級，不應聲稱所有動物膜精確100Å或偽引Campbell給7–8nm。",
+    "ISU-111-Q45": "官方A接合，釋疑維持。接合需要兩細菌直接接觸並由供菌向受菌傳遞DNA；原題只說單向，未明寫直接接觸，轉型／轉導也能促成細菌來源DNA傳遞。公告將其概括成病毒與細菌的描述不能套到轉型，保留原解釋與精確區別。",
+    "ISU-111-Q46": "官方B：一條T小管加兩側肌漿網終池是骨骼肌triad。原題「骨骼肌或心肌」不精確，心肌常見一T小管配一SR的dyad；作者肌肉研究綜述圖1直接比較。主次最小條目同章保留，不改原題或說心肌通常也是三合體。",
+    "ISU-111-Q47": "官方B三叉神經，V3下頜支運動纖維支配咀嚼肌；不是顏面神經的一般表情肌運動。Campbell未逐條列12對腦神經支配，精確V3由Clinical Methods第61章原作者教材補足。",
+    "ISU-111-Q48": "官方D AV node；Purkinje為快速分送心室訊號。真實PDF46目錄題名Maintaining the Heart’s Rhythmic Beat，文字目錄的Rhythms縮寫不一致，年度證據依PDF校正並保留原別名，不改原檔。",
+    "ISU-111-Q49": "官方B醛固酮。泌乳激素為蛋白，甲狀腺素和腎上腺素為酪胺酸衍生物；共同是激素不代表共同由膽固醇合成。",
+    "ISU-111-Q50": "官方D錯，釋疑維持；吸氣與呼氣壓容積路徑不同即hysteresis。精確曲線常比較跨肺壓與肺容積，不把它等同每一瞬間「肺泡內氣壓必定不同」；零流量時吸呼末肺泡壓可同為大氣壓。Campbell支援呼吸／界面原理，遲滯由原始肺充氣研究補足；原「表面張力素」保留，意為降低表面張力的surfactant。"
+  }
+}

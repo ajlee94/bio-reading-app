@@ -1,0 +1,5015 @@
+[
+  {
+    "id": "ISU-114-Q01",
+    "school": "ISU",
+    "year": 114,
+    "q": 1,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 1,
+      "pdf_page": 26,
+      "printed_page": 1,
+      "official_pdf_page": 26,
+      "regions": [
+        [
+          24,
+          259.01199999999994,
+          572.32,
+          296.5419999999999
+        ]
+      ],
+      "pixel_box": [
+        63,
+        677,
+        1496,
+        775
+      ],
+      "image": "questions/Q01.png",
+      "sha256": "8a8440398b0af5f00bb33c04b7827a6e792369da8c26ea060b41bcf0e2bf6f5b",
+      "width": 1433,
+      "height": 98,
+      "question_text": "1. 蚯蚓消化道(compartments of alimentary canal)主要粉碎食物的部位是？\n(A) 咽(pharynx) (B) 嗉囊(crop) (C) 腸(intestine) (D) 砂囊(gizzard)",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L2701",
+      "toc_line": 2701,
+      "chapter": 41,
+      "concept": "41.2",
+      "title": "Digestive Compartments",
+      "printed_page": 904,
+      "body_pdf_page": 953,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch41 Animal Nutrition"
+    },
+    "secondary": [],
+    "primary_reason": "41.2 / Digestive Compartments：直接考消化道分區中砂囊的機械研磨功能，非蚯蚓演化親緣。",
+    "secondary_reason": "無另列最小次條目；重新比較咽、嗉囊、腸、砂囊四項，問題只需研磨功能，Ch41的Digestive Compartments直接涵蓋；Ch33物種分類不另列。",
+    "answer_analysis": "採D。砂囊研磨，嗉囊主要暫存；咽吞食、腸消化吸收。蚯蚓名稱只是器官比較的情境。",
+    "textbook_evidence": [
+      {
+        "printed_page": 903,
+        "pdf_page": 952,
+        "text_file": "textbook_evidence/pdf-0952.txt",
+        "sha256": "a6177673e2646f85ce655a34186dd7522125c760cc35859b1a8155e00036d2dc"
+      },
+      {
+        "printed_page": 904,
+        "pdf_page": 953,
+        "text_file": "textbook_evidence/pdf-0953.txt",
+        "sha256": "d902b03d030e09c3a6d02aab78df6bcdc04d3c050373c42692af5f7d6800e094"
+      },
+      {
+        "printed_page": 905,
+        "pdf_page": 954,
+        "text_file": "textbook_evidence/pdf-0954.txt",
+        "sha256": "5915fec90925fc35c280c3c0f011308069e21ed54316aa6394e113b08cc72925"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；題目限定及來源措辭差異保留於科學說明。",
+    "second_review_id": "ISU-114-R2-Q01",
+    "issue_resolution_index": 0
+  },
+  {
+    "id": "ISU-114-Q02",
+    "school": "ISU",
+    "year": 114,
+    "q": 2,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 2,
+      "pdf_page": 26,
+      "printed_page": 1,
+      "official_pdf_page": 26,
+      "regions": [
+        [
+          24,
+          295.64199999999994,
+          572.32,
+          351.5019999999999
+        ]
+      ],
+      "pixel_box": [
+        63,
+        773,
+        1496,
+        919
+      ],
+      "image": "questions/Q02.png",
+      "sha256": "f9bfc9c92a86283f309a2f3ff9ce5f55c79bedd684b96587ec52cc957457d875",
+      "width": 1433,
+      "height": 146,
+      "question_text": "2. 下列哪一種分子是調控基因(regulatory gene)編碼出的蛋白質？\n(A) 抑制子(repressor) (B) 操縱子(operator)\n(C) 啟動子(promoter) (D) 增強子(enhancer)",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L1107",
+      "toc_line": 1107,
+      "chapter": 18,
+      "concept": "18.1",
+      "title": "Operons: The Basic Concept",
+      "printed_page": 366,
+      "body_pdf_page": 415,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        39
+      ],
+      "chapter_label": "Ch18 Regulation of Gene Expression"
+    },
+    "secondary": [],
+    "primary_reason": "18.1 / Operons: The Basic Concept：核心是操縱組調控中調控基因的蛋白產物。",
+    "secondary_reason": "無另列最小次條目；辨認題問調控基因產物，repressor不同於三個DNA區；保留Ch18操縱組，另註operator中文誤用而不改答案。",
+    "answer_analysis": "採A。抑制子為蛋白，operator、promoter、enhancer是DNA調控區。題本把operator譯為「操縱子」而非操縱區，原文照存，勿混成整個operon。",
+    "textbook_evidence": [
+      {
+        "printed_page": 366,
+        "pdf_page": 415,
+        "text_file": "textbook_evidence/pdf-0415.txt",
+        "sha256": "e59c8902d6ff70631c7beedbd661415115231bb5bb37a429f636abf8506b7577"
+      },
+      {
+        "printed_page": 367,
+        "pdf_page": 416,
+        "text_file": "textbook_evidence/pdf-0416.txt",
+        "sha256": "785c301476758f33430645e64dec8c628df0d7241f434c9d0477babcefd1001e"
+      },
+      {
+        "printed_page": 368,
+        "pdf_page": 417,
+        "text_file": "textbook_evidence/pdf-0417.txt",
+        "sha256": "f6c900dad4d6040b64dde984b9f63dd320217734f42ce93d45ae9acf5a4bfdeb"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；題目限定及來源措辭差異保留於科學說明。",
+    "second_review_id": "ISU-114-R2-Q02",
+    "issue_resolution_index": 1
+  },
+  {
+    "id": "ISU-114-Q03",
+    "school": "ISU",
+    "year": 114,
+    "q": 3,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 3,
+      "pdf_page": 26,
+      "printed_page": 1,
+      "official_pdf_page": 26,
+      "regions": [
+        [
+          24,
+          350.6019999999999,
+          572.32,
+          406.46199999999993
+        ]
+      ],
+      "pixel_box": [
+        63,
+        916,
+        1496,
+        1062
+      ],
+      "image": "questions/Q03.png",
+      "sha256": "a226ba218636e061ee287b6b9936b56451d16ee19cadc68313263f9203e32ee6",
+      "width": 1433,
+      "height": 146,
+      "question_text": "3. 唾液腺(salivary glands)主要由下列哪一種上皮組織組成？\n(A) 鱗狀(squamous)上皮 (B) 立方(cuboidal)上皮\n(C) 假複層(pseudostratified)上皮 (D) 單柱狀(simple columnar)上皮",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L2623",
+      "toc_line": 2623,
+      "chapter": 40,
+      "concept": "40.1",
+      "title": "Hierarchical Organization of Body Plans",
+      "printed_page": 876,
+      "body_pdf_page": 925,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch40 Basic Principles of Animal Form and Function"
+    },
+    "secondary": [],
+    "primary_reason": "40.1 / Hierarchical Organization of Body Plans：直接依上皮形態與分泌功能辨認腺體，最小目錄為身體階層組織，細胞組織圖位於此條目。",
+    "secondary_reason": "無另列最小次條目；圖40.5直接列唾液腺立方上皮，題目只問形態；不因器官名稱加上未考的消化反應。採最小可驗目錄L2623。",
+    "answer_analysis": "採B。圖40.5把唾液腺列為立方上皮例；腺體實際含不同導管與支持組織，不能說每個細胞皆立方。",
+    "textbook_evidence": [
+      {
+        "printed_page": 876,
+        "pdf_page": 925,
+        "text_file": "textbook_evidence/pdf-0925.txt",
+        "sha256": "78eef4788131853085eaf1e8c8eb52f2f6705815b1ecdf29fbdc15cb71c562d7"
+      },
+      {
+        "printed_page": 877,
+        "pdf_page": 926,
+        "text_file": "textbook_evidence/pdf-0926.txt",
+        "sha256": "3151c240e9cc5adeb901e7df7408c73360c4f3cee77d3eca9222c680065d624f"
+      },
+      {
+        "printed_page": 878,
+        "pdf_page": 927,
+        "text_file": "textbook_evidence/pdf-0927.txt",
+        "sha256": "887682d1beec60b18c25f86006e3ce8e7901e13d0eeaee778d7aaee71daa3ebc"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；題目限定及來源措辭差異保留於科學說明。",
+    "second_review_id": "ISU-114-R2-Q03",
+    "issue_resolution_index": 2
+  },
+  {
+    "id": "ISU-114-Q04",
+    "school": "ISU",
+    "year": 114,
+    "q": 4,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 4,
+      "pdf_page": 26,
+      "printed_page": 1,
+      "official_pdf_page": 26,
+      "regions": [
+        [
+          24,
+          405.56199999999995,
+          572.32,
+          461.3019999999999
+        ]
+      ],
+      "pixel_box": [
+        63,
+        1060,
+        1496,
+        1205
+      ],
+      "image": "questions/Q04.png",
+      "sha256": "e061684a330edbb51318c595adb929fcc76515060e9842060474c2d23f63f205",
+      "width": 1433,
+      "height": 145,
+      "question_text": "4. 下列哪一種生物具有馬氏管(Malpighian tubules)來清除含氮廢物(nitrogenous wastes)？\n(A) 扁蟲(flatworms) (B) 海星(sea stars)\n(C) 水母(jellyfish) (D) 蚱蜢(grasshopper)",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L2967",
+      "toc_line": 2967,
+      "chapter": 44,
+      "concept": "44.3",
+      "title": "Survey of Excretory Systems",
+      "printed_page": 984,
+      "body_pdf_page": 1033,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        47
+      ],
+      "chapter_label": "Ch44 Osmoregulation and Excretion"
+    },
+    "secondary": [],
+    "primary_reason": "44.3 / Survey of Excretory Systems：比較不同動物的排泄構造，馬氏管是本條目中的昆蟲例。",
+    "secondary_reason": "無另列最小次條目；四物種是不同排泄構造的對照，Malpighian實見984–985；主維持排泄系統總覽，不增加演化支系。",
+    "answer_analysis": "採D。蚱蜢為昆蟲，馬氏管向消化道分泌廢物；扁蟲的原腎管系統不是馬氏管。",
+    "textbook_evidence": [
+      {
+        "printed_page": 983,
+        "pdf_page": 1032,
+        "text_file": "textbook_evidence/pdf-1032.txt",
+        "sha256": "9c56848e7f96ba01df518ea001fba7a2c8d842f5a0abeb11c34a71d9c42b6393"
+      },
+      {
+        "printed_page": 984,
+        "pdf_page": 1033,
+        "text_file": "textbook_evidence/pdf-1033.txt",
+        "sha256": "a9b3f9d286e389c9cbac10caa68208e36bce2301e4d3acc49c763720c537e3b1"
+      },
+      {
+        "printed_page": 985,
+        "pdf_page": 1034,
+        "text_file": "textbook_evidence/pdf-1034.txt",
+        "sha256": "7cd7ede9a6cd217d80799ae6e74c775674b52d730f91eac3ccbe447a234c8748"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；題目限定及來源措辭差異保留於科學說明。",
+    "second_review_id": "ISU-114-R2-Q04",
+    "issue_resolution_index": 3
+  },
+  {
+    "id": "ISU-114-Q05",
+    "school": "ISU",
+    "year": 114,
+    "q": 5,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 5,
+      "pdf_page": 26,
+      "printed_page": 1,
+      "official_pdf_page": 26,
+      "regions": [
+        [
+          24,
+          460.40199999999993,
+          572.32,
+          516.2819999999999
+        ]
+      ],
+      "pixel_box": [
+        63,
+        1203,
+        1496,
+        1349
+      ],
+      "image": "questions/Q05.png",
+      "sha256": "cac53cd31e6a84038bc817fdaca934074566ac74a3f416d7bdeeca501fbf4acf",
+      "width": 1433,
+      "height": 146,
+      "question_text": "5. 下列哪一種植物激素(plant hormones)與植物的抗逆性和對病蟲害的防禦反應有關？\n(A) 吉貝素(gibberellin) (B) 離層酸(abscisic acid)\n(C) 茉莉酸(jasmonates) (D) 獨腳金內酯(strigolactones)",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [
+        8
+      ],
+      "clarification_disposition": "同年度釋疑維持原答案C"
+    },
+    "primary": {
+      "id": "L2557",
+      "toc_line": 2557,
+      "chapter": 39,
+      "concept": "39.2",
+      "title": "A Survey of Plant Hormones",
+      "printed_page": 847,
+      "body_pdf_page": 896,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        45
+      ],
+      "chapter_label": "Ch39 Plant Responses to Internal and External Signals"
+    },
+    "secondary": [
+      {
+        "id": "L2599",
+        "toc_line": 2599,
+        "chapter": 39,
+        "concept": "39.5",
+        "title": "Defenses Against Herbivores",
+        "printed_page": 867,
+        "body_pdf_page": 916,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          45
+        ],
+        "chapter_label": "Ch39 Plant Responses to Internal and External Signals"
+      },
+      {
+        "id": "L2596",
+        "toc_line": 2596,
+        "chapter": 39,
+        "concept": "39.5",
+        "title": "Defenses Against Pathogens",
+        "printed_page": 866,
+        "body_pdf_page": 915,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          45
+        ],
+        "chapter_label": "Ch39 Plant Responses to Internal and External Signals"
+      }
+    ],
+    "primary_reason": "39.2 / A Survey of Plant Hormones：以激素身分及功能組合辨認茉莉酸，故主歸植物激素總覽的真實最小目錄。",
+    "secondary_reason": "39.5 / Defenses Against Herbivores：昆蟲取食誘發茉莉酸防禦是題幹的蟲害面向；39.5 / Defenses Against Pathogens：病原入侵及防禦亦是明示條件，同章次目照存",
+    "answer_analysis": "採C，釋疑維持。Campbell表39.1與855頁同時連結茉莉酸、傷害、植食與病原防禦。ABA也參與逆境，不能把抗逆性專屬茉莉酸；此題依病蟲害聯合條件判讀。",
+    "textbook_evidence": [
+      {
+        "printed_page": 846,
+        "pdf_page": 895,
+        "text_file": "textbook_evidence/pdf-0895.txt",
+        "sha256": "3adc84d5f45ef049be3e18f14b8195c3ab5fba1c47ea4410e2b5ffd72023cd82"
+      },
+      {
+        "printed_page": 847,
+        "pdf_page": 896,
+        "text_file": "textbook_evidence/pdf-0896.txt",
+        "sha256": "58d27d0a2cdc2e3cc9ae58cefbf4481392a39693449172e51fd6bb2ece951f7c"
+      },
+      {
+        "printed_page": 855,
+        "pdf_page": 904,
+        "text_file": "textbook_evidence/pdf-0904.txt",
+        "sha256": "f7f9aeca14b4fe5fe12216db4a0578b3bbbce6a9991f6b100ab103e23bbba353"
+      },
+      {
+        "printed_page": 866,
+        "pdf_page": 915,
+        "text_file": "textbook_evidence/pdf-0915.txt",
+        "sha256": "5168b341b9b1b58fa641e4e71196fcac74601e62bb6c66f83f1f5fb8bd0a99a8"
+      },
+      {
+        "printed_page": 867,
+        "pdf_page": 916,
+        "text_file": "textbook_evidence/pdf-0916.txt",
+        "sha256": "15f45bf7924d3dee3b6a8950a1fd577316585954934d5cf1e31a83f7035ebc16"
+      },
+      {
+        "printed_page": 868,
+        "pdf_page": 917,
+        "text_file": "textbook_evidence/pdf-0917.txt",
+        "sha256": "2d649aec008fc6a45af43625ede07546ee9b0efa7a73ee564fbf328303349b2e"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；題目限定及來源措辭差異保留於科學說明。",
+    "second_review_id": "ISU-114-R2-Q05",
+    "issue_resolution_index": 4
+  },
+  {
+    "id": "ISU-114-Q06",
+    "school": "ISU",
+    "year": 114,
+    "q": 6,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 6,
+      "pdf_page": 26,
+      "printed_page": 1,
+      "official_pdf_page": 26,
+      "regions": [
+        [
+          24,
+          515.382,
+          572.32,
+          571.2419999999998
+        ]
+      ],
+      "pixel_box": [
+        63,
+        1347,
+        1496,
+        1493
+      ],
+      "image": "questions/Q06.png",
+      "sha256": "f23320f700d820a65232eb0cacab2f18e54e773d965d1faaa4cf6ca0b9068e1b",
+      "width": 1433,
+      "height": 146,
+      "question_text": "6. 有關蕨類(ferns)的敘述，何者最不正確？\n(A) 大多數蕨類維管束缺乏形成層(cambium) (B) 配子體(gametophyte)是主要的生長形式\n(C) 以孢子(spore)進行繁殖 (D) 具有木質部(xylem)和韌皮部(phloem)",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L1890",
+      "toc_line": 1890,
+      "chapter": 29,
+      "concept": "29.3",
+      "title": "Origins and Traits of Vascular Plants",
+      "printed_page": 629,
+      "body_pdf_page": 678,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        43
+      ],
+      "chapter_label": "Ch29 Plant Diversity I: How Plants Colonized Land"
+    },
+    "secondary": [
+      {
+        "id": "L1893",
+        "toc_line": 1893,
+        "chapter": 29,
+        "concept": "29.3",
+        "title": "Classification of Seedless Vascular Plants",
+        "printed_page": 631,
+        "body_pdf_page": 680,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          43
+        ],
+        "chapter_label": "Ch29 Plant Diversity I: How Plants Colonized Land"
+      }
+    ],
+    "primary_reason": "29.3 / Origins and Traits of Vascular Plants：辨別維管植物的世代優勢、輸導組織等共同衍生性狀。",
+    "secondary_reason": "29.3 / Classification of Seedless Vascular Plants：蕨類具名類群的生活史與分類提供主條目所述特徵的具體對照",
+    "answer_analysis": "採B為最不正確。蕨類主要可見植株是孢子體，配子體非優勢世代；有木質部韌皮部、以孢子繁殖。",
+    "textbook_evidence": [
+      {
+        "printed_page": 629,
+        "pdf_page": 678,
+        "text_file": "textbook_evidence/pdf-0678.txt",
+        "sha256": "e462f98a9b80982731cafd852bfb5804188d9c71aec40a93b9a6c993f917b273"
+      },
+      {
+        "printed_page": 630,
+        "pdf_page": 679,
+        "text_file": "textbook_evidence/pdf-0679.txt",
+        "sha256": "3f83852d6220b4e04670c00b0948b2bcc6db67a5806d63fda3f4279105ea5135"
+      },
+      {
+        "printed_page": 631,
+        "pdf_page": 680,
+        "text_file": "textbook_evidence/pdf-0680.txt",
+        "sha256": "66da95383eef4ebcfb254bdf9981eae6f319d906a52f01667a562a377d698c4c"
+      },
+      {
+        "printed_page": 632,
+        "pdf_page": 681,
+        "text_file": "textbook_evidence/pdf-0681.txt",
+        "sha256": "54d3acdfdbefa52c7108010be4bd4bf0ce7718937243e4130344561fa9fd51b9"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；題目限定及來源措辭差異保留於科學說明。",
+    "second_review_id": "ISU-114-R2-Q06",
+    "issue_resolution_index": 5
+  },
+  {
+    "id": "ISU-114-Q07",
+    "school": "ISU",
+    "year": 114,
+    "q": 7,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 7,
+      "pdf_page": 26,
+      "printed_page": 1,
+      "official_pdf_page": 26,
+      "regions": [
+        [
+          24,
+          570.3419999999999,
+          572.32,
+          626.2019999999999
+        ]
+      ],
+      "pixel_box": [
+        63,
+        1490,
+        1496,
+        1636
+      ],
+      "image": "questions/Q07.png",
+      "sha256": "13f59412d0fe6b56e39656a9853b115b81cecebe6eed648ee1b45687bc295235",
+      "width": 1433,
+      "height": 146,
+      "question_text": "7. 下列哪一個陸地生物群落的生物多樣性(biodiversity)較高？\n(A) 灌木叢(chaparral) (B) 溫帶草原(temperate grassland)\n(C) 溫帶闊葉林(temperate broadleaf forest) (D) 熱帶森林(tropical forest)",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L3493",
+      "toc_line": 3493,
+      "chapter": 52,
+      "concept": "52.2",
+      "title": "General Features of Terrestrial Biomes",
+      "printed_page": 1172,
+      "body_pdf_page": 1221,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        49
+      ],
+      "chapter_label": "Ch52 An Introduction to Ecology and the Biosphere"
+    },
+    "secondary": [
+      {
+        "id": "L3643",
+        "toc_line": 3643,
+        "chapter": 54,
+        "concept": "54.4",
+        "title": "Latitudinal Gradients",
+        "printed_page": 1232,
+        "body_pdf_page": 1281,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          50
+        ],
+        "chapter_label": "Ch54 Community Ecology"
+      }
+    ],
+    "primary_reason": "52.2 / General Features of Terrestrial Biomes：四選项為陸域生物群系，先依群系比較辨別熱帶森林。",
+    "secondary_reason": "54.4 / Latitudinal Gradients：熱帶高物種豐度也涉及群落多樣性的緯度梯度",
+    "answer_analysis": "採D。教材熱帶森林圖列高度多樣性；緯度模式為一般趨勢，不能保證每片森林與每個分類群都最高。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1172,
+        "pdf_page": 1221,
+        "text_file": "textbook_evidence/pdf-1221.txt",
+        "sha256": "ed92306b1a4299793ba74937c86485266d99f5dca8c90b59005fc6f46e222c5a"
+      },
+      {
+        "printed_page": 1173,
+        "pdf_page": 1222,
+        "text_file": "textbook_evidence/pdf-1222.txt",
+        "sha256": "06a7528d18b438558550c95a4cf4d2e3b2c26e74e8701ca1604e8b25b475350c"
+      },
+      {
+        "printed_page": 1174,
+        "pdf_page": 1223,
+        "text_file": "textbook_evidence/pdf-1223.txt",
+        "sha256": "22d625fefbf159594824c0be456b41aa46003ed15b433c8b6eb147f7ce456592"
+      },
+      {
+        "printed_page": 1232,
+        "pdf_page": 1281,
+        "text_file": "textbook_evidence/pdf-1281.txt",
+        "sha256": "23870e521853ad2aaaa96c4a76a695bd31e90b5cd61fa6c5e3270f6308503beb"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；題目限定及來源措辭差異保留於科學說明。",
+    "second_review_id": "ISU-114-R2-Q07",
+    "issue_resolution_index": 6
+  },
+  {
+    "id": "ISU-114-Q08",
+    "school": "ISU",
+    "year": 114,
+    "q": 8,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 8,
+      "pdf_page": 26,
+      "printed_page": 1,
+      "official_pdf_page": 26,
+      "regions": [
+        [
+          24,
+          625.3019999999999,
+          572.32,
+          717.6719999999999
+        ]
+      ],
+      "pixel_box": [
+        63,
+        1634,
+        1496,
+        1875
+      ],
+      "image": "questions/Q08.png",
+      "sha256": "0e74b201d11bd84c894dadaf97f2656000f0db3a74f785505bbf1b538fbc73f3",
+      "width": 1433,
+      "height": 241,
+      "question_text": "8. 下列有關循環系統(circulatory system)的敘述，何者正確？\n(A) 爬行類擁有兩個心房和一個心室\n(B) 閉鎖式循環系統較開放式循環系統節省能量\n(C) 魚類具有開放式循環系統\n(D) 肺循環(pulmonary circulation)是指左心房將缺氧的血液送到肺部進行氣體交換",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [
+        8
+      ],
+      "clarification_disposition": "同年度釋疑維持原答案A"
+    },
+    "primary": {
+      "id": "L2763",
+      "toc_line": 2763,
+      "chapter": 42,
+      "concept": "42.1",
+      "title": "Organization of Vertebrate Circulatory Systems",
+      "printed_page": 924,
+      "body_pdf_page": 973,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch42 Circulation and Gas Exchange"
+    },
+    "secondary": [
+      {
+        "id": "L2760",
+        "toc_line": 2760,
+        "chapter": 42,
+        "concept": "42.1",
+        "title": "Open and Closed Circulatory Systems",
+        "printed_page": 923,
+        "body_pdf_page": 972,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          46
+        ],
+        "chapter_label": "Ch42 Circulation and Gas Exchange"
+      }
+    ],
+    "primary_reason": "42.1 / Organization of Vertebrate Circulatory Systems：心房心室數與脊椎動物血流路徑為主要判斷。",
+    "secondary_reason": "42.1 / Open and Closed Circulatory Systems：B、C另考開放與閉鎖循環的能耗和脊椎動物系統，保留同章次目",
+    "answer_analysis": "採A，釋疑維持。多數非鳥爬蟲兩心房一心室，鱷類四腔例外；魚類閉鎖循環，肺循環從右心室出發。原題「爬行類」未限縮，保留鱷類例外，不改題幹。",
+    "textbook_evidence": [
+      {
+        "printed_page": 923,
+        "pdf_page": 972,
+        "text_file": "textbook_evidence/pdf-0972.txt",
+        "sha256": "c6a717d8f66d02afcb3d0c53ce43224fac659f710b9f73755582c21e158ffc69"
+      },
+      {
+        "printed_page": 924,
+        "pdf_page": 973,
+        "text_file": "textbook_evidence/pdf-0973.txt",
+        "sha256": "41f64bdea2ebf2beb339a886d61e2073cb237c30814b45f8fa2505b8cf39e8f6"
+      },
+      {
+        "printed_page": 925,
+        "pdf_page": 974,
+        "text_file": "textbook_evidence/pdf-0974.txt",
+        "sha256": "02c55e087ced3c7f7bc37cb855cfb903d6a28038e9baf301fe3510514e083adf"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；題目限定及來源措辭差異保留於科學說明。",
+    "second_review_id": "ISU-114-R2-Q08",
+    "issue_resolution_index": 7
+  },
+  {
+    "id": "ISU-114-Q09",
+    "school": "ISU",
+    "year": 114,
+    "q": 9,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 9,
+      "pdf_page": 26,
+      "printed_page": 1,
+      "official_pdf_page": 26,
+      "regions": [
+        [
+          24,
+          716.7719999999999,
+          572.32,
+          766.92
+        ]
+      ],
+      "pixel_box": [
+        63,
+        1873,
+        1496,
+        2004
+      ],
+      "image": "questions/Q09.png",
+      "sha256": "5c4e3b86e2bec38b342fbcb5e289683c57a52355fb03b479c73d176318bfc561",
+      "width": 1433,
+      "height": 131,
+      "question_text": "9. 根瘤菌(Rhizobacteria)和藍藻(Cyanobacteria)具有下列哪種共同特徵？\n(A) 增加植物對水的吸收 (B) 固定大氣中的氮\n(C) 存在於極端環境中 (D) 殺死土壤中的寄生蟲",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L1738",
+      "toc_line": 1738,
+      "chapter": 27,
+      "concept": "27.3",
+      "title": "Nitrogen Metabolism",
+      "printed_page": 582,
+      "body_pdf_page": 631,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        42
+      ],
+      "chapter_label": "Ch27 Bacteria and Archaea"
+    },
+    "secondary": [
+      {
+        "id": "L2463",
+        "toc_line": 2463,
+        "chapter": 37,
+        "concept": "37.3",
+        "title": "Bacteria and Plant Nutrition",
+        "printed_page": 814,
+        "body_pdf_page": 863,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          45
+        ],
+        "chapter_label": "Ch37 Soil and Plant Nutrition"
+      }
+    ],
+    "primary_reason": "27.3 / Nitrogen Metabolism：共同功能是原核生物把大氣N2還原的氮代謝。",
+    "secondary_reason": "37.3 / Bacteria and Plant Nutrition：根瘤共生菌供應植物氮素，解釋其中一方的植物營養情境",
+    "answer_analysis": "採B。中文根瘤菌通常對應rhizobia，題本英文Rhizobacteria較廣；也非所有藍綠菌皆固氮。以具固氮能力的代表判讀，保留雙語與量詞界線。",
+    "textbook_evidence": [
+      {
+        "printed_page": 582,
+        "pdf_page": 631,
+        "text_file": "textbook_evidence/pdf-0631.txt",
+        "sha256": "fdc371da347c6bcbcb99fb1ad713bbf966c066d485a400ab078e83d83a5bcaff"
+      },
+      {
+        "printed_page": 814,
+        "pdf_page": 863,
+        "text_file": "textbook_evidence/pdf-0863.txt",
+        "sha256": "aa92917933ccd76666815617498ea875f5fbe43100356d88069d999d43faa10a"
+      },
+      {
+        "printed_page": 815,
+        "pdf_page": 864,
+        "text_file": "textbook_evidence/pdf-0864.txt",
+        "sha256": "8e9f69542d416facf74e70ed7a8f42a88ff39bc4bd22a218b0849f105075be28"
+      },
+      {
+        "printed_page": 816,
+        "pdf_page": 865,
+        "text_file": "textbook_evidence/pdf-0865.txt",
+        "sha256": "e402113a2466e00005e15e2462a460f61bfb9027b1a114aa44aac412a2358e70"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；題目限定及來源措辭差異保留於科學說明。",
+    "second_review_id": "ISU-114-R2-Q09",
+    "issue_resolution_index": 8
+  },
+  {
+    "id": "ISU-114-Q10",
+    "school": "ISU",
+    "year": 114,
+    "q": 10,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 10,
+      "pdf_page": 27,
+      "printed_page": 2,
+      "official_pdf_page": 27,
+      "regions": [
+        [
+          24,
+          166.37199999999996,
+          572.32,
+          202.07199999999992
+        ]
+      ],
+      "pixel_box": [
+        63,
+        435,
+        1496,
+        528
+      ],
+      "image": "questions/Q10.png",
+      "sha256": "05e78865725b88ca5bbf3e2f1b999ad199a93c6ca43bede062abd4ed48e99945",
+      "width": 1433,
+      "height": 93,
+      "question_text": "10. 以下哪一種免疫球蛋白(Immunoglobulin, Ig)主要參與 B細胞的啟動和免疫反應的調節？\n(A) IgD (B) IgE (C) IgM (D) IgA",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [
+        8
+      ],
+      "clarification_disposition": "同年度釋疑維持原答案A"
+    },
+    "primary": {
+      "id": "L2883",
+      "toc_line": 2883,
+      "chapter": 43,
+      "concept": "43.2",
+      "title": "Antigen Recognition by B Cells and Antibodies",
+      "printed_page": 958,
+      "body_pdf_page": 1007,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        47
+      ],
+      "chapter_label": "Ch43 The Immune System"
+    },
+    "secondary": [
+      {
+        "id": "L2899",
+        "toc_line": 2899,
+        "chapter": 43,
+        "concept": "43.3",
+        "title": "B Cells and Antibodies: A Response to Extracellular Pathogens",
+        "printed_page": 964,
+        "body_pdf_page": 1013,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          47
+        ],
+        "chapter_label": "Ch43 The Immune System"
+      }
+    ],
+    "primary_reason": "43.2 / Antigen Recognition by B Cells and Antibodies：直接辨認B細胞膜上抗原受體與啟動，主歸B細胞抗原辨識。",
+    "secondary_reason": "43.3 / B Cells and Antibodies: A Response to Extracellular Pathogens：Ig類型及膜型／分泌型抗體差異是四個選项的比較基礎",
+    "answer_analysis": "官方採A且維持。Campbell966頁把IgD稱為膜上BCR並写exclusively membrane bound；原始研究顯示IgM亦為BCR且存在分泌IgD，因此不能把A讀成IgD獨占B細胞活化。官方「主要」採計與科學非排他性分開。",
+    "textbook_evidence": [
+      {
+        "printed_page": 958,
+        "pdf_page": 1007,
+        "text_file": "textbook_evidence/pdf-1007.txt",
+        "sha256": "6dab36688fee93277c6b00e8154cb9c868728ed4e6ed19989a93c8851cf5788b"
+      },
+      {
+        "printed_page": 959,
+        "pdf_page": 1008,
+        "text_file": "textbook_evidence/pdf-1008.txt",
+        "sha256": "0691b0c70f5741fe27277d6363e599049269560932b50c836a6580393e9e322d"
+      },
+      {
+        "printed_page": 964,
+        "pdf_page": 1013,
+        "text_file": "textbook_evidence/pdf-1013.txt",
+        "sha256": "78a632a70aa8a98429cfd299268a2830f7a13cb352a198685455485cff6990db"
+      },
+      {
+        "printed_page": 965,
+        "pdf_page": 1014,
+        "text_file": "textbook_evidence/pdf-1014.txt",
+        "sha256": "bdf11fcbeca3fc91d34dc09621f414330a3cc0f15414e69d44b3b901959e1338"
+      },
+      {
+        "printed_page": 966,
+        "pdf_page": 1015,
+        "text_file": "textbook_evidence/pdf-1015.txt",
+        "sha256": "9fdd14c66e516e549364b3c5cfa12d681c767a71c300b57bdf2a834ad8395249"
+      }
+    ],
+    "supplement_ids": [
+      "S10"
+    ],
+    "coverage_note": "Campbell支援所列分類原理；具名物種地點、現代技術與科學界線由列示來源補足，實讀範圍見來源紀錄。",
+    "second_review_id": "ISU-114-R2-Q10",
+    "issue_resolution_index": 9
+  },
+  {
+    "id": "ISU-114-Q11",
+    "school": "ISU",
+    "year": 114,
+    "q": 11,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 11,
+      "pdf_page": 27,
+      "printed_page": 2,
+      "official_pdf_page": 27,
+      "regions": [
+        [
+          24,
+          201.1719999999999,
+          572.32,
+          293.5419999999999
+        ]
+      ],
+      "pixel_box": [
+        63,
+        526,
+        1496,
+        767
+      ],
+      "image": "questions/Q11.png",
+      "sha256": "c3b264abc973dd8b98ef5f5f55e5e186ad6c6eed85e0dbbb3f864f28fac33160",
+      "width": 1433,
+      "height": 241,
+      "question_text": "11. 下列有關於果實發育(fruit development)的論述何者正確？\n(A) 果實是受精引發激素變化時進行發育的\n(B) 多果(multiple fruits)由一朵花和多個獨立的心皮(carpels)形成\n(C) 聚合果(aggregate fruits)由一組稱為花序(inflorescence)的花發育而成\n(D) 合生果(accessory fruits)由一個或多個融合的心皮發育而成",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [
+        8
+      ],
+      "clarification_disposition": "同年度釋疑維持原答案A"
+    },
+    "primary": {
+      "id": "L2501",
+      "toc_line": 2501,
+      "chapter": 38,
+      "concept": "38.1",
+      "title": "Fruit Structure and Function",
+      "printed_page": 830,
+      "body_pdf_page": 879,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        45
+      ],
+      "chapter_label": "Ch38 Angiosperm Reproduction and Biotechnology"
+    },
+    "secondary": [],
+    "primary_reason": "38.1 / Fruit Structure and Function：比較果實發育來源、聚合果、多花果與附屬果。",
+    "secondary_reason": "無另列最小次條目；A對正常受精途徑成立，題與釋疑已核；不刪除無受精發育的例外。其他果實選项互換定義，果實結構功能足以分類。",
+    "answer_analysis": "採A且維持。正常受精引發激素變化促果實發育；聚合果來自一花多心皮，多花果來自花序，附屬果包含子房以外組織。單為結果例外及题本「合生果(accessory fruits)」用語保留。",
+    "textbook_evidence": [
+      {
+        "printed_page": 830,
+        "pdf_page": 879,
+        "text_file": "textbook_evidence/pdf-0879.txt",
+        "sha256": "4cef96c6b49a291e00e3a81b475c7e37e01c85e09b9d578219d87939f6cba43f"
+      },
+      {
+        "printed_page": 831,
+        "pdf_page": 880,
+        "text_file": "textbook_evidence/pdf-0880.txt",
+        "sha256": "a70abaf2a7b1dd981be0ed1567bd0889fbe9fc1a8e89fea5bc5f8c39159f7555"
+      },
+      {
+        "printed_page": 832,
+        "pdf_page": 881,
+        "text_file": "textbook_evidence/pdf-0881.txt",
+        "sha256": "f9a46a333f26c63519d39f4e6860087e4c0cf03320a1a76e66cbcea86c9cc19b"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；題目限定及來源措辭差異保留於科學說明。",
+    "second_review_id": "ISU-114-R2-Q11",
+    "issue_resolution_index": 10
+  },
+  {
+    "id": "ISU-114-Q12",
+    "school": "ISU",
+    "year": 114,
+    "q": 12,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 12,
+      "pdf_page": 27,
+      "printed_page": 2,
+      "official_pdf_page": 27,
+      "regions": [
+        [
+          24,
+          292.64199999999994,
+          572.32,
+          344.6619999999999
+        ]
+      ],
+      "pixel_box": [
+        63,
+        765,
+        1496,
+        901
+      ],
+      "image": "questions/Q12.png",
+      "sha256": "0462dea71d14ed57badb181aca9b30d9583744f1bd933cea13c01d6adebc7bb5",
+      "width": 1433,
+      "height": 136,
+      "question_text": "12. 多發性硬化症(multiple sclerosis)是一種自體免疫疾病(autoimmune disease)，最主要影響下列何者？\n(A) 海馬體(hippocampus) (B) 髓鞘(myelin sheaths)\n(C) 運動皮質區域(motor cortex) (D) 脊髓(spinal cord)",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L2924",
+      "toc_line": 2924,
+      "chapter": 43,
+      "concept": "43.4",
+      "title": "Exaggerated, Self-Directed, and Diminished Immune Responses",
+      "printed_page": 970,
+      "body_pdf_page": 1019,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        47
+      ],
+      "chapter_label": "Ch43 The Immune System"
+    },
+    "secondary": [
+      {
+        "id": "L3212",
+        "toc_line": 3212,
+        "chapter": 48,
+        "concept": "48.3",
+        "title": "Conduction of Action Potentials",
+        "printed_page": 1075,
+        "body_pdf_page": 1124,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          48
+        ],
+        "chapter_label": "Ch48 Neurons, Synapses, and Signaling"
+      }
+    ],
+    "primary_reason": "43.4 / Exaggerated, Self-Directed, and Diminished Immune Responses：題幹明示自體免疫疾病，直接考免疫反應誤傷自身組織。",
+    "secondary_reason": "48.3 / Conduction of Action Potentials：髓鞘及跳躍傳導說明被攻擊結構的功能，不另把疾病章當主分類",
+    "answer_analysis": "採B。多發性硬化主要涉及中樞髓鞘損傷；脊髓可受影響但不是本題所問的最直接結構層級。",
+    "textbook_evidence": [
+      {
+        "printed_page": 970,
+        "pdf_page": 1019,
+        "text_file": "textbook_evidence/pdf-1019.txt",
+        "sha256": "ac5ec155fb3b83aefe6eb58f8ab2e69184f90958e5c41ad9dc50a17bab725760"
+      },
+      {
+        "printed_page": 971,
+        "pdf_page": 1020,
+        "text_file": "textbook_evidence/pdf-1020.txt",
+        "sha256": "253a4cf17c93a3f61a045ad9ad0a442adb4184cf32f82941a92bdd144848e501"
+      },
+      {
+        "printed_page": 1075,
+        "pdf_page": 1124,
+        "text_file": "textbook_evidence/pdf-1124.txt",
+        "sha256": "db0fe940f0b4ea62c2eabfd95ef84241d708003e338a022c2e6f63d7c3580c96"
+      },
+      {
+        "printed_page": 1076,
+        "pdf_page": 1125,
+        "text_file": "textbook_evidence/pdf-1125.txt",
+        "sha256": "aa7d313cb8686ad941d624c0b44f5ac92654541704da95569d3e1bbff34d7a14"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；題目限定及來源措辭差異保留於科學說明。",
+    "second_review_id": "ISU-114-R2-Q12",
+    "issue_resolution_index": 11
+  },
+  {
+    "id": "ISU-114-Q13",
+    "school": "ISU",
+    "year": 114,
+    "q": 13,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 13,
+      "pdf_page": 27,
+      "printed_page": 2,
+      "official_pdf_page": 27,
+      "regions": [
+        [
+          24,
+          343.76199999999994,
+          572.32,
+          395.6619999999999
+        ]
+      ],
+      "pixel_box": [
+        63,
+        898,
+        1496,
+        1034
+      ],
+      "image": "questions/Q13.png",
+      "sha256": "5ddbd6fc8c2b701186204f1da751a822d481f9dd337d9ed4d73334e292b2248f",
+      "width": 1433,
+      "height": 136,
+      "question_text": "13. 下列哪一種細菌不是革蘭氏陽性菌(gram-positive bacterium)？\n(A) 肉毒桿菌(Clostridium botulinum) (B) 炭疽桿菌(Bacillus anthracis)\n(C) 綠膿桿菌(Pseudomonas aeruginosa) (D) 金黃色葡萄球菌(Staphylococcus aureus)",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L1709",
+      "toc_line": 1709,
+      "chapter": 27,
+      "concept": "27.1",
+      "title": "Cell-Surface Structures",
+      "printed_page": 574,
+      "body_pdf_page": 623,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        42
+      ],
+      "chapter_label": "Ch27 Bacteria and Archaea"
+    },
+    "secondary": [],
+    "primary_reason": "27.1 / Cell-Surface Structures：革蘭氏染色差異由細胞壁與外膜結構解釋。",
+    "secondary_reason": "無另列最小次條目；細胞表面構造才直接決定Gram差異，CDC核實P.aeruginosa陰性；不將細菌屬名視為教材已列證據。",
+    "answer_analysis": "採C。綠膿桿菌為革蘭氏陰性；本地Campbell支援染色機制，具名物種以CDC指引核對，不能僅憑菌名猜測。",
+    "textbook_evidence": [
+      {
+        "printed_page": 574,
+        "pdf_page": 623,
+        "text_file": "textbook_evidence/pdf-0623.txt",
+        "sha256": "4c0cbc106b78534594bf508222ac5897895de648ff119f8c5a4828b6157db0c0"
+      },
+      {
+        "printed_page": 575,
+        "pdf_page": 624,
+        "text_file": "textbook_evidence/pdf-0624.txt",
+        "sha256": "44a634c8b77e0482403e63c6a2bedb87623f8cb207fc92701c8f5f77056e9cf5"
+      },
+      {
+        "printed_page": 587,
+        "pdf_page": 636,
+        "text_file": "textbook_evidence/pdf-0636.txt",
+        "sha256": "40b9029d9d3fce5a679a0c68798faeae24d7ea86da6d89609ac15d75149e177f"
+      }
+    ],
+    "supplement_ids": [
+      "S13"
+    ],
+    "coverage_note": "Campbell支援所列分類原理；具名物種地點、現代技術與科學界線由列示來源補足，實讀範圍見來源紀錄。",
+    "second_review_id": "ISU-114-R2-Q13",
+    "issue_resolution_index": 12
+  },
+  {
+    "id": "ISU-114-Q14",
+    "school": "ISU",
+    "year": 114,
+    "q": 14,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 14,
+      "pdf_page": 27,
+      "printed_page": 2,
+      "official_pdf_page": 27,
+      "regions": [
+        [
+          24,
+          394.76199999999994,
+          572.32,
+          479.4419999999999
+        ]
+      ],
+      "pixel_box": [
+        63,
+        1032,
+        1496,
+        1253
+      ],
+      "image": "questions/Q14.png",
+      "sha256": "d85ad864b11757aa4ae526046a8af83d416557b36dfaae783521465d958b0909",
+      "width": 1433,
+      "height": 221,
+      "question_text": "14. 有關端粒酶(telomerase)的敘述，下列何者較正確？\n(A) 大多數體細胞(somatic cells)中的端粒酶活性不高\n(B) 端粒酶由 DNA (deoxyribonucleic acid)成分所組成\n(C) 端粒酶活性越高，染色體端粒(telomere)缩短的程度越高\n(D) 端粒酶能夠辨識染色體端粒區域特定的DNA重複序列(如5’-AATCCC-3’ )",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L1019",
+      "toc_line": 1019,
+      "chapter": 16,
+      "concept": "16.2",
+      "title": "Replicating the Ends of DNA Molecules",
+      "printed_page": 328,
+      "body_pdf_page": 377,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        39
+      ],
+      "chapter_label": "Ch16 The Molecular Basis of Inheritance"
+    },
+    "secondary": [],
+    "primary_reason": "16.2 / Replicating the Ends of DNA Molecules：端粒酶解決線性染色體末端複製問題是直接考點。",
+    "secondary_reason": "無另列最小次條目；比較328–330的酶、端粒与體細胞敘述，A支持；原題D保留5′方向，互補不代表5′-AATCCC-3′即標準端粒序列，主末端複製穩定。",
+    "answer_analysis": "採A。多數分化體細胞端粒酶低，酶含RNA模板與蛋白，維持而非加速縮短端粒；人類常用重複序列寫5′-TTAGGG-3′，題本5′-AATCCC-3′方向不可與互補鏈3′-AATCCC-5′混同。",
+    "textbook_evidence": [
+      {
+        "printed_page": 328,
+        "pdf_page": 377,
+        "text_file": "textbook_evidence/pdf-0377.txt",
+        "sha256": "b840e2aee15956379c09199d6c99c94840c4716dcfb83bd5e3f8a21efdcc0033"
+      },
+      {
+        "printed_page": 329,
+        "pdf_page": 378,
+        "text_file": "textbook_evidence/pdf-0378.txt",
+        "sha256": "1f538c3fbecb4b85eac0e1baef26dfe7d05ed8b0f0857ec8d517d977c572e47b"
+      },
+      {
+        "printed_page": 330,
+        "pdf_page": 379,
+        "text_file": "textbook_evidence/pdf-0379.txt",
+        "sha256": "592786f43db21cf2406bb177a98c25d640a9aebc3426ea80436c702ad3bbcfc9"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；題目限定及來源措辭差異保留於科學說明。",
+    "second_review_id": "ISU-114-R2-Q14",
+    "issue_resolution_index": 13
+  },
+  {
+    "id": "ISU-114-Q15",
+    "school": "ISU",
+    "year": 114,
+    "q": 15,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 15,
+      "pdf_page": 27,
+      "printed_page": 2,
+      "official_pdf_page": 27,
+      "regions": [
+        [
+          24,
+          478.5419999999999,
+          572.32,
+          546.0419999999999
+        ]
+      ],
+      "pixel_box": [
+        63,
+        1250,
+        1496,
+        1427
+      ],
+      "image": "questions/Q15.png",
+      "sha256": "51a60778024c98e817d921244d082ae8f04b9b14f9d0650ce682de681af96a80",
+      "width": 1433,
+      "height": 177,
+      "question_text": "15. 近年來「腸-腦軸」(gut-brain axis)研究相當風行，研究指出腸道微生物可影響中樞神經系統的功\n能，以下何者最可能為此作用的介質？\n(A) 雌激素(estrogen) (B) 丙酮酸鹽(pyruvate)\n(C) γ-胺基丁酸(GABA) (D) 肌動蛋白(actin)",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L3231",
+      "toc_line": 3231,
+      "chapter": 48,
+      "concept": "48.4",
+      "title": "Neurotransmitters",
+      "printed_page": 1080,
+      "body_pdf_page": 1129,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        48
+      ],
+      "chapter_label": "Ch48 Neurons, Synapses, and Signaling"
+    },
+    "secondary": [
+      {
+        "id": "L2733",
+        "toc_line": 2733,
+        "chapter": 41,
+        "concept": "41.4",
+        "title": "Mutualistic Adaptations",
+        "printed_page": 912,
+        "body_pdf_page": 961,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          46
+        ],
+        "chapter_label": "Ch41 Animal Nutrition"
+      }
+    ],
+    "primary_reason": "48.4 / Neurotransmitters：四選項中GABA作為神經傳遞介質最直接回答題目。",
+    "secondary_reason": "41.4 / Mutualistic Adaptations：腸道微生物與宿主互利關係交代訊號來源情境",
+    "answer_analysis": "採C。GABA為中樞主要抑制性傳遞物。腸菌小鼠研究支持迷走神經相關GABA受體調節，不能推出所有腸菌GABA直接入腦或人體治療有效。",
+    "textbook_evidence": [
+      {
+        "printed_page": 912,
+        "pdf_page": 961,
+        "text_file": "textbook_evidence/pdf-0961.txt",
+        "sha256": "7c0e1a21eac5039647a68a0e64e854a4b7e929398ca609b04a58718e18d2c9d0"
+      },
+      {
+        "printed_page": 913,
+        "pdf_page": 962,
+        "text_file": "textbook_evidence/pdf-0962.txt",
+        "sha256": "17f0f03bfb2762231030e8a604f58d69e55000aac4203a938611dcc591446562"
+      },
+      {
+        "printed_page": 1080,
+        "pdf_page": 1129,
+        "text_file": "textbook_evidence/pdf-1129.txt",
+        "sha256": "537606980ee9c3458f60a3e203c015d4f369dc0e19aae716de0544d6d1869a12"
+      },
+      {
+        "printed_page": 1081,
+        "pdf_page": 1130,
+        "text_file": "textbook_evidence/pdf-1130.txt",
+        "sha256": "bed6f66c6b83101634fb74417258443df989b61eb00af7a1590898a275848c9f"
+      }
+    ],
+    "supplement_ids": [
+      "S15"
+    ],
+    "coverage_note": "Campbell支援所列分類原理；具名物種地點、現代技術與科學界線由列示來源補足，實讀範圍見來源紀錄。",
+    "second_review_id": "ISU-114-R2-Q15",
+    "issue_resolution_index": 14
+  },
+  {
+    "id": "ISU-114-Q16",
+    "school": "ISU",
+    "year": 114,
+    "q": 16,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 16,
+      "pdf_page": 27,
+      "printed_page": 2,
+      "official_pdf_page": 27,
+      "regions": [
+        [
+          24,
+          545.1419999999999,
+          572.32,
+          629.8019999999999
+        ]
+      ],
+      "pixel_box": [
+        63,
+        1424,
+        1496,
+        1646
+      ],
+      "image": "questions/Q16.png",
+      "sha256": "f37acbb2b536e7dd05e0aec4e0e6a963d0c71b1e8659faf21bd89e8bb4506c73",
+      "width": 1433,
+      "height": 222,
+      "question_text": "16. 以下何者最能解釋「棕色脂肪」對於熱量代謝的貢獻？\n(A) 具備高密度的腎上腺素受體，可促進脂肪儲存\n(B) 含有大量粒線體(mitochondria)及去偶合蛋白(uncoupling protein 1)，促進產熱\n(C) 儲存三酸甘油酯並釋放胰島素\n(D) 含有肝醣體，可儲存能量供應全身",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L2649",
+      "toc_line": 2649,
+      "chapter": 40,
+      "concept": "40.3",
+      "title": "Balancing Heat Loss and Gain",
+      "printed_page": 885,
+      "body_pdf_page": 934,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch40 Basic Principles of Animal Form and Function"
+    },
+    "secondary": [
+      {
+        "id": "L0585",
+        "toc_line": 585,
+        "chapter": 9,
+        "concept": "9.4",
+        "title": "Chemiosmosis: The Energy-Coupling Mechanism",
+        "printed_page": 175,
+        "body_pdf_page": 224,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          37
+        ],
+        "chapter_label": "Ch09 Cellular Respiration and Fermentation"
+      }
+    ],
+    "primary_reason": "40.3 / Balancing Heat Loss and Gain：問題目標為棕色脂肪的產熱與體溫平衡。",
+    "secondary_reason": "9.4 / Chemiosmosis: The Energy-Coupling Mechanism：UCP1使質子梯度能量轉為熱而少耦聯ATP合成，需保留化學滲透原理",
+    "answer_analysis": "採B。棕脂多粒線體，去偶合蛋白促非顫抖產熱；脂肪儲存、分泌胰島素與肝醣體皆非此機制。",
+    "textbook_evidence": [
+      {
+        "printed_page": 175,
+        "pdf_page": 224,
+        "text_file": "textbook_evidence/pdf-0224.txt",
+        "sha256": "35c1ca72ca159be79f166d2a76fed74d336b8389375391acfd247e14d8f7a7c8"
+      },
+      {
+        "printed_page": 176,
+        "pdf_page": 225,
+        "text_file": "textbook_evidence/pdf-0225.txt",
+        "sha256": "f8db8c58020ace9c1e8949235d327f0982f6f2fe801bfcb1a9cbdfd7c3e35841"
+      },
+      {
+        "printed_page": 177,
+        "pdf_page": 226,
+        "text_file": "textbook_evidence/pdf-0226.txt",
+        "sha256": "582657d70dc5264799ee47d5c86e5d847564c6443059299029a8c582c7ad7246"
+      },
+      {
+        "printed_page": 178,
+        "pdf_page": 227,
+        "text_file": "textbook_evidence/pdf-0227.txt",
+        "sha256": "0452fe61d5348f9bc5d41753954d4f0191a35b1afd485013de9966383125e06f"
+      },
+      {
+        "printed_page": 886,
+        "pdf_page": 935,
+        "text_file": "textbook_evidence/pdf-0935.txt",
+        "sha256": "6c993d484368f835bed7cc2cdbe60692f9e3da8ffc114dcadf8e8860c1d939f2"
+      },
+      {
+        "printed_page": 887,
+        "pdf_page": 936,
+        "text_file": "textbook_evidence/pdf-0936.txt",
+        "sha256": "e6de38b091c692729e9e9b3b1f4152985c069653046598cec3d7b98f24ac9392"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；題目限定及來源措辭差異保留於科學說明。",
+    "second_review_id": "ISU-114-R2-Q16",
+    "issue_resolution_index": 15
+  },
+  {
+    "id": "ISU-114-Q17",
+    "school": "ISU",
+    "year": 114,
+    "q": 17,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 17,
+      "pdf_page": 27,
+      "printed_page": 2,
+      "official_pdf_page": 27,
+      "regions": [
+        [
+          24,
+          628.9019999999999,
+          572.32,
+          680.832
+        ]
+      ],
+      "pixel_box": [
+        63,
+        1643,
+        1496,
+        1779
+      ],
+      "image": "questions/Q17.png",
+      "sha256": "6271aa240f34314b4b8babbedd33646a9d53d0dc824dc29298f71d17524a42ef",
+      "width": 1433,
+      "height": 136,
+      "question_text": "17. 細胞主要負責標記錯誤折疊蛋白質，並將其送往蛋白酶體(proteasome)進行降解為以下何者？\n(A) 內質網(Endoplasmic reticulum) (B) 核糖體(Ribosome)\n(C) 泛素(Ubiquitin) (D) 高基氏體(Golgi apparatus)",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L1129",
+      "toc_line": 1129,
+      "chapter": 18,
+      "concept": "18.2",
+      "title": "Mechanisms of Post-transcriptional Regulation",
+      "printed_page": 377,
+      "body_pdf_page": 426,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        39
+      ],
+      "chapter_label": "Ch18 Regulation of Gene Expression"
+    },
+    "secondary": [],
+    "primary_reason": "18.2 / Mechanisms of Post-transcriptional Regulation：泛素標記及蛋白酶體降解在轉錄後調控條目下的蛋白質加工降解段落，未虛構目錄子目。",
+    "secondary_reason": "無另列最小次條目；題問標記送往proteasome的分子而非發現錯誤的場所，C為泛素；正文Protein Processing and Degradation在轉錄後機制下，未造新TOC項。",
+    "answer_analysis": "採C。泛素是標記，蛋白酶體執行蛋白水解；內質網可參與品質控制，但不是四選项中的標記分子。",
+    "textbook_evidence": [
+      {
+        "printed_page": 377,
+        "pdf_page": 426,
+        "text_file": "textbook_evidence/pdf-0426.txt",
+        "sha256": "7d79ec80066628cfbd0ec5f176f36b78de439d07dd90f390692530b8b8e70ec5"
+      },
+      {
+        "printed_page": 378,
+        "pdf_page": 427,
+        "text_file": "textbook_evidence/pdf-0427.txt",
+        "sha256": "b0c2495f944ac12ad5ec2b323cf0ea9d3b41322e7423c78f9fdb49673c0a61ac"
+      },
+      {
+        "printed_page": 379,
+        "pdf_page": 428,
+        "text_file": "textbook_evidence/pdf-0428.txt",
+        "sha256": "f5660de66c3b93f1d5eeed82d175c8d6ca84d8d86395e0a8ef4047a3d9fd2e23"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；題目限定及來源措辭差異保留於科學說明。",
+    "second_review_id": "ISU-114-R2-Q17",
+    "issue_resolution_index": 16
+  },
+  {
+    "id": "ISU-114-Q18",
+    "school": "ISU",
+    "year": 114,
+    "q": 18,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 18,
+      "pdf_page": 27,
+      "printed_page": 2,
+      "official_pdf_page": 27,
+      "regions": [
+        [
+          24,
+          679.932,
+          572.32,
+          731.9519999999999
+        ]
+      ],
+      "pixel_box": [
+        63,
+        1777,
+        1496,
+        1913
+      ],
+      "image": "questions/Q18.png",
+      "sha256": "f8c8f0fae62db2d319eb8d0204b234f836d791c4cf87ec0a94265543be062536",
+      "width": 1433,
+      "height": 136,
+      "question_text": "18. 與孢子相比，種子的優點主要為下列何者？\n(A) 為發育中的孢子體(sporophyte)提供養分儲備 (B) 可利用風力作為散播媒介\n(C) 能依賴動物進行授粉 (D) 為動物提供營養",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L1919",
+      "toc_line": 1919,
+      "chapter": 30,
+      "concept": "30.1",
+      "title": "The Evolutionary Advantage of Seeds",
+      "printed_page": 639,
+      "body_pdf_page": 688,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        43
+      ],
+      "chapter_label": "Ch30 Plant Diversity II: The Evolution of Seed Plants"
+    },
+    "secondary": [],
+    "primary_reason": "30.1 / The Evolutionary Advantage of Seeds：直接比較種子相對孢子的演化優勢。",
+    "secondary_reason": "無另列最小次條目；風散播孢子也能，因此相對優勢在胚養分保護；種子演化優勢條目直接答題，無須另加動物取食。",
+    "answer_analysis": "採A。種子內有胚即幼小孢子體，並供養分保護；風散播不為種子獨有，授粉與供動物食用非題問的核心胚營養優勢。",
+    "textbook_evidence": [
+      {
+        "printed_page": 638,
+        "pdf_page": 687,
+        "text_file": "textbook_evidence/pdf-0687.txt",
+        "sha256": "68d2aa0968627fb6aabf7910d1d27a2fecb9430a4a34ddd2501829ef6908461e"
+      },
+      {
+        "printed_page": 639,
+        "pdf_page": 688,
+        "text_file": "textbook_evidence/pdf-0688.txt",
+        "sha256": "5a4e9083299b7c6e8085e5103b2ad88fa2cf5e344b0fd6242cce3c454c5b022d"
+      },
+      {
+        "printed_page": 640,
+        "pdf_page": 689,
+        "text_file": "textbook_evidence/pdf-0689.txt",
+        "sha256": "22f45603889023618d41df724a431ac536cfe6b9a2cebf3e21dd177f34ba6eae"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；題目限定及來源措辭差異保留於科學說明。",
+    "second_review_id": "ISU-114-R2-Q18",
+    "issue_resolution_index": 17
+  },
+  {
+    "id": "ISU-114-Q19",
+    "school": "ISU",
+    "year": 114,
+    "q": 19,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 19,
+      "pdf_page": 27,
+      "printed_page": 2,
+      "official_pdf_page": 27,
+      "regions": [
+        [
+          24,
+          731.0519999999999,
+          572.32,
+          766.92
+        ]
+      ],
+      "pixel_box": [
+        63,
+        1910,
+        1496,
+        2004
+      ],
+      "image": "questions/Q19.png",
+      "sha256": "c43439c3146cca1e843da332cfcf2aa25c99331c1deb210e033b2cd4a298acd6",
+      "width": 1433,
+      "height": 94,
+      "question_text": "19. 長日照植物，暴露於下列哪種光照條件時，促進開花的訊息分子最容易比平常更早釋放？\n(A) 夜間遠紅光照射 (B) 日間遠紅光照射 (C) 夜間紅光照射 (D) 日間紅光照射",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L2576",
+      "toc_line": 2576,
+      "chapter": 39,
+      "concept": "39.3",
+      "title": "Photoperiodism and Responses to Seasons",
+      "printed_page": 859,
+      "body_pdf_page": 908,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        45
+      ],
+      "chapter_label": "Ch39 Plant Responses to Internal and External Signals"
+    },
+    "secondary": [
+      {
+        "id": "L2567",
+        "toc_line": 2567,
+        "chapter": 39,
+        "concept": "39.3",
+        "title": "Phytochrome Photoreceptors",
+        "printed_page": 856,
+        "body_pdf_page": 905,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          45
+        ],
+        "chapter_label": "Ch39 Plant Responses to Internal and External Signals"
+      }
+    ],
+    "primary_reason": "39.3 / Photoperiodism and Responses to Seasons：光週期以夜長控制開花，夜間紅光打斷長夜是判斷核心。",
+    "secondary_reason": "39.3 / Phytochrome Photoreceptors：紅／遠紅光的可逆感光素轉換解釋夜間光脈衝效果",
+    "answer_analysis": "採C。對題設長日照植物，夜中紅光可縮短生理上連續暗期而促開花；远紅光可逆轉先前紅光效應，非所有植物不分時序皆同樣。",
+    "textbook_evidence": [
+      {
+        "printed_page": 856,
+        "pdf_page": 905,
+        "text_file": "textbook_evidence/pdf-0905.txt",
+        "sha256": "ea6387a2d9ad2dca0ef9052a8fea0516cd9b0a2f23b35189e810ac53aef6c579"
+      },
+      {
+        "printed_page": 857,
+        "pdf_page": 906,
+        "text_file": "textbook_evidence/pdf-0906.txt",
+        "sha256": "d2b9909908d7663a40088710effd23a7374be62b23a73fdc41c7a341b26131c3"
+      },
+      {
+        "printed_page": 859,
+        "pdf_page": 908,
+        "text_file": "textbook_evidence/pdf-0908.txt",
+        "sha256": "343d25c3f78dc7bd4c0647f8479341288c8add8751f2bc63c509bdc114dd7012"
+      },
+      {
+        "printed_page": 860,
+        "pdf_page": 909,
+        "text_file": "textbook_evidence/pdf-0909.txt",
+        "sha256": "8bbec25c59981684b7287520474b9d83cb244edf086130a54159872a62426760"
+      },
+      {
+        "printed_page": 861,
+        "pdf_page": 910,
+        "text_file": "textbook_evidence/pdf-0910.txt",
+        "sha256": "8e1d5d7fd6f716194fca4307b9da5d260c7bb4d3397db3aada8692c458d22ee4"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；題目限定及來源措辭差異保留於科學說明。",
+    "second_review_id": "ISU-114-R2-Q19",
+    "issue_resolution_index": 18
+  },
+  {
+    "id": "ISU-114-Q20",
+    "school": "ISU",
+    "year": 114,
+    "q": 20,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 20,
+      "pdf_page": 28,
+      "printed_page": 3,
+      "official_pdf_page": 28,
+      "regions": [
+        [
+          24,
+          166.37199999999996,
+          572.32,
+          218.27199999999996
+        ]
+      ],
+      "pixel_box": [
+        63,
+        435,
+        1496,
+        570
+      ],
+      "image": "questions/Q20.png",
+      "sha256": "b3a235449dfaade81384580cc3ec58bff4f7b0511e916f4e8f0e67c471caa667",
+      "width": 1433,
+      "height": 135,
+      "question_text": "20. mRNA的5’ cap結構不具有下列哪一功能？\n(A) 提供核外運輸訊號 (B) 提升轉譯起始效率\n(C) 保護mRNA避免核酸酶(nuclease)降解 (D) 提供剪接酶辨識位點",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [
+        9
+      ],
+      "clarification_disposition": "同年度釋疑維持原答案D"
+    },
+    "primary": {
+      "id": "L1059",
+      "toc_line": 1059,
+      "chapter": 17,
+      "concept": "17.3",
+      "title": "Alteration of mRNA Ends",
+      "printed_page": 345,
+      "body_pdf_page": 394,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        39
+      ],
+      "chapter_label": "Ch17 Gene Expression: From Gene to Protein"
+    },
+    "secondary": [
+      {
+        "id": "L1062",
+        "toc_line": 1062,
+        "chapter": 17,
+        "concept": "17.3",
+        "title": "Split Genes and RNA Splicing",
+        "printed_page": 345,
+        "body_pdf_page": 394,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          39
+        ],
+        "chapter_label": "Ch17 Gene Expression: From Gene to Protein"
+      }
+    ],
+    "primary_reason": "17.3 / Alteration of mRNA Ends：5′帽的保護、輸出及轉譯功能屬mRNA末端修飾。",
+    "secondary_reason": "17.3 / Split Genes and RNA Splicing：D涉及剪接位點辨識，需保留RNA剪接條目以區分功能",
+    "answer_analysis": "官方採D且維持。帽結合複合體可促進第一內含子剪接，並不等於帽本身提供內含子剪接辨識序列；不能解釋成5′cap與剪接完全無關。",
+    "textbook_evidence": [
+      {
+        "printed_page": 345,
+        "pdf_page": 394,
+        "text_file": "textbook_evidence/pdf-0394.txt",
+        "sha256": "b9467abb3f57b3c2f07a284d0d0d30fca9c8fffe7724d88dcce95cc6d349eac7"
+      },
+      {
+        "printed_page": 346,
+        "pdf_page": 395,
+        "text_file": "textbook_evidence/pdf-0395.txt",
+        "sha256": "cf5e4d5606aa33802bb2c5b81702dc71b202f0ece4befad3999f184c55b9b177"
+      },
+      {
+        "printed_page": 347,
+        "pdf_page": 396,
+        "text_file": "textbook_evidence/pdf-0396.txt",
+        "sha256": "942fa7ceb7773fa0eb6611c8e67890b207a42ce84845c0d52039f42f6fe7c95d"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；題目限定及來源措辭差異保留於科學說明。",
+    "second_review_id": "ISU-114-R2-Q20",
+    "issue_resolution_index": 19
+  },
+  {
+    "id": "ISU-114-Q21",
+    "school": "ISU",
+    "year": 114,
+    "q": 21,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 21,
+      "pdf_page": 28,
+      "printed_page": 3,
+      "official_pdf_page": 28,
+      "regions": [
+        [
+          24,
+          217.37199999999996,
+          572.32,
+          269.27199999999993
+        ]
+      ],
+      "pixel_box": [
+        63,
+        568,
+        1496,
+        704
+      ],
+      "image": "questions/Q21.png",
+      "sha256": "8a86dca70bdf8631aaeeb07ae0ef09ad1f17a95620f672369bda6bf061a58102",
+      "width": 1433,
+      "height": 136,
+      "question_text": "21. 研究者希望辨識細胞中特定蛋白的磷酸化狀態時，最合適的方法為：\n(A) DNA微陣列(DNA microarray) (B) 酵素結合免疫吸附分析法(ELISA)\n(C) 西方點墨法(Western blot) (D) 聚合酶連鎖反應(PCR)",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "B/C",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [
+        9
+      ],
+      "clarification_disposition": "同年度釋疑改為B/C皆可；組合包PDF32更正表一致"
+    },
+    "primary": {
+      "id": "L2914",
+      "toc_line": 2914,
+      "chapter": 43,
+      "concept": "43.3",
+      "title": "Antibodies as Tools",
+      "printed_page": 969,
+      "body_pdf_page": 1018,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        47
+      ],
+      "chapter_label": "Ch43 The Immune System"
+    },
+    "secondary": [
+      {
+        "id": "L0721",
+        "toc_line": 721,
+        "chapter": 11,
+        "concept": "11.3",
+        "title": "Protein Phosphorylation and Dephosphorylation",
+        "printed_page": 222,
+        "body_pdf_page": 271,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          38
+        ],
+        "chapter_label": "Ch11 Cell Communication"
+      }
+    ],
+    "primary_reason": "43.3 / Antibodies as Tools：以特異抗體辨識蛋白狀態，主歸抗體作為工具。",
+    "secondary_reason": "11.3 / Protein Phosphorylation and Dephosphorylation：磷酸化為蛋白訊號調控狀態，補充被檢測對象的意義",
+    "answer_analysis": "原答案C，官方釋疑改B/C皆可；組合包32頁亦為BC。磷酸化特異抗體可用於Western blot或ELISA，須有合適抗體與對照；DNA微陣列與PCR不直接量蛋白磷酸化。",
+    "textbook_evidence": [
+      {
+        "printed_page": 222,
+        "pdf_page": 271,
+        "text_file": "textbook_evidence/pdf-0271.txt",
+        "sha256": "01ebf4819f7c1c4baa945ac40e9e1186ca12de47442f1b2d682d74980aeed007"
+      },
+      {
+        "printed_page": 223,
+        "pdf_page": 272,
+        "text_file": "textbook_evidence/pdf-0272.txt",
+        "sha256": "d23ae033cb40111bbaa80800c9d466b6880c87ed5a88320f8ba8c6275d38ac3b"
+      },
+      {
+        "printed_page": 969,
+        "pdf_page": 1018,
+        "text_file": "textbook_evidence/pdf-1018.txt",
+        "sha256": "d71aa021dcb9e4b52dd27f9d08d1f6bbe65c7b0ec69e018c38761ac054706848"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；題目限定及來源措辭差異保留於科學說明。",
+    "second_review_id": "ISU-114-R2-Q21",
+    "issue_resolution_index": 20
+  },
+  {
+    "id": "ISU-114-Q22",
+    "school": "ISU",
+    "year": 114,
+    "q": 22,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 22,
+      "pdf_page": 28,
+      "printed_page": 3,
+      "official_pdf_page": 28,
+      "regions": [
+        [
+          24,
+          268.37199999999996,
+          572.32,
+          353.0619999999999
+        ]
+      ],
+      "pixel_box": [
+        63,
+        701,
+        1496,
+        923
+      ],
+      "image": "questions/Q22.png",
+      "sha256": "6ff88f0315b1cbddd6cb52720e310ede75e8f930c38a2b564bad89bd89646715",
+      "width": 1433,
+      "height": 222,
+      "question_text": "22. 葡萄糖分解代謝過程中，大部分的二氧化碳(CO )是在下列哪一個步驟中被釋放出來？\n2\n(A) 糖解作用(Glycolysis)\n(B) 丙酮酸氧化為乙醯輔酶 A (Oxidation of pyruvate to acetyl-CoA)\n(C) 檸檬酸循環(Citric acid cycle)\n(D) 電子傳遞鏈與氧化磷酸化(Electron Transport Chain & Oxidative Phosphorylation)",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L0575",
+      "toc_line": 575,
+      "chapter": 9,
+      "concept": "9.3",
+      "title": "The Citric Acid Cycle",
+      "printed_page": 172,
+      "body_pdf_page": 221,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        37
+      ],
+      "chapter_label": "Ch09 Cellular Respiration and Fermentation"
+    },
+    "secondary": [
+      {
+        "id": "L0572",
+        "toc_line": 572,
+        "chapter": 9,
+        "concept": "9.3",
+        "title": "Oxidation of Pyruvate to Acetyl CoA",
+        "printed_page": 171,
+        "body_pdf_page": 220,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          37
+        ],
+        "chapter_label": "Ch09 Cellular Respiration and Fermentation"
+      }
+    ],
+    "primary_reason": "9.3 / The Citric Acid Cycle：主要CO2釋放位於檸檬酸循環的脫羧步驟。",
+    "secondary_reason": "9.3 / Oxidation of Pyruvate to Acetyl CoA：與丙酮酸氧化的CO2產量比較才能判斷「大部分」",
+    "answer_analysis": "採C。每葡萄糖完全氧化的化學計量：丙酮酸氧化2CO2、兩輪循環共4CO2，糖解及ETC不直接產CO2；不宣稱新進乙醯碳在第一輪就全部排出。",
+    "textbook_evidence": [
+      {
+        "printed_page": 171,
+        "pdf_page": 220,
+        "text_file": "textbook_evidence/pdf-0220.txt",
+        "sha256": "5d3001d2a545174a1e56554e2dc06f2b8fcb9d6d95df98b9e1508585096e1ee7"
+      },
+      {
+        "printed_page": 172,
+        "pdf_page": 221,
+        "text_file": "textbook_evidence/pdf-0221.txt",
+        "sha256": "f7422e53613da385f6c4d2121de91a6e576eefaefe5d859b71f51bbeeecec84e"
+      },
+      {
+        "printed_page": 173,
+        "pdf_page": 222,
+        "text_file": "textbook_evidence/pdf-0222.txt",
+        "sha256": "b2f8f663f39470d5f289164cc87343fa0bd04aac9c5c296aae5f319a5bd876bc"
+      },
+      {
+        "printed_page": 174,
+        "pdf_page": 223,
+        "text_file": "textbook_evidence/pdf-0223.txt",
+        "sha256": "db37b7746f7fdc9da7d9a4d8ddbe7d265b163e0042cb306cd07a19418b496e51"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；題目限定及來源措辭差異保留於科學說明。",
+    "second_review_id": "ISU-114-R2-Q22",
+    "issue_resolution_index": 21
+  },
+  {
+    "id": "ISU-114-Q23",
+    "school": "ISU",
+    "year": 114,
+    "q": 23,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 23,
+      "pdf_page": 28,
+      "printed_page": 3,
+      "official_pdf_page": 28,
+      "regions": [
+        [
+          24,
+          352.1619999999999,
+          572.32,
+          436.82199999999995
+        ]
+      ],
+      "pixel_box": [
+        63,
+        920,
+        1496,
+        1141
+      ],
+      "image": "questions/Q23.png",
+      "sha256": "82424912d9075a87a59694163b720bb35607044f137838776fac358d25f7e18c",
+      "width": 1433,
+      "height": 221,
+      "question_text": "23. 關於 T細胞發育與篩選(selection)過程，下列何者正確？\n(A) 正選擇(positive selection)主要發生在骨髓\n(B) 正選擇(positive selection)目的是去除自體反應性細胞\n(C) 負選擇(negative selection)可避免自體免疫反應\n(D) CD8+ 細胞會分化為輔助型 T細胞(helper T cells)",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L2889",
+      "toc_line": 2889,
+      "chapter": 43,
+      "concept": "43.2",
+      "title": "B Cell and T Cell Development",
+      "printed_page": 960,
+      "body_pdf_page": 1009,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        47
+      ],
+      "chapter_label": "Ch43 The Immune System"
+    },
+    "secondary": [],
+    "primary_reason": "43.2 / B Cell and T Cell Development：T細胞成熟過程的自體耐受與選擇屬B/T細胞發育。",
+    "secondary_reason": "無另列最小次條目；961自體耐受段指出自體反應细胞凋亡／失活，支持C；分類在淋巴球發育，非既成疾病的異常反應条目。",
+    "answer_analysis": "採C。負選擇去除強自體反應性克隆以降低自體免疫；正選擇於胸腺保留能適度辨識自身MHC者。CD8通常成細胞毒性T細胞而非CD4輔助型。",
+    "textbook_evidence": [
+      {
+        "printed_page": 960,
+        "pdf_page": 1009,
+        "text_file": "textbook_evidence/pdf-1009.txt",
+        "sha256": "f9030c44f39b2f209ec81cf867826cdbcaa0c3f0be0ad48aa936f9af4bea9af2"
+      },
+      {
+        "printed_page": 961,
+        "pdf_page": 1010,
+        "text_file": "textbook_evidence/pdf-1010.txt",
+        "sha256": "e743f816202563965c87268f193e847c2577df26a9c435a8d2fc1668da905f7f"
+      },
+      {
+        "printed_page": 962,
+        "pdf_page": 1011,
+        "text_file": "textbook_evidence/pdf-1011.txt",
+        "sha256": "c1ffa4f589d3ac375a40ae360fe93800af61e2a434655cf61b974ecf8f70d757"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；題目限定及來源措辭差異保留於科學說明。",
+    "second_review_id": "ISU-114-R2-Q23",
+    "issue_resolution_index": 22
+  },
+  {
+    "id": "ISU-114-Q24",
+    "school": "ISU",
+    "year": 114,
+    "q": 24,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 24,
+      "pdf_page": 28,
+      "printed_page": 3,
+      "official_pdf_page": 28,
+      "regions": [
+        [
+          24,
+          435.92199999999997,
+          572.32,
+          520.602
+        ]
+      ],
+      "pixel_box": [
+        63,
+        1139,
+        1496,
+        1360
+      ],
+      "image": "questions/Q24.png",
+      "sha256": "f41a85d9cb49a40879034633958a2f921274e5561072f3cef7be79e49ea02e07",
+      "width": 1433,
+      "height": 221,
+      "question_text": "24. 抗體類型轉換(class switching)過程中，IgM 轉換成 IgA需：\n(A) 核糖體重組(ribosome rearrangement)\n(B) mRNA剪接改變(alternative mRNA splicing)\n(C) 固定區(constant region)的基因重組\n(D) 抗原重新辨識(antigen re-recognition)",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L2899",
+      "toc_line": 2899,
+      "chapter": 43,
+      "concept": "43.3",
+      "title": "B Cells and Antibodies: A Response to Extracellular Pathogens",
+      "printed_page": 964,
+      "body_pdf_page": 1013,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        47
+      ],
+      "chapter_label": "Ch43 The Immune System"
+    },
+    "secondary": [
+      {
+        "id": "L2889",
+        "toc_line": 2889,
+        "chapter": 43,
+        "concept": "43.2",
+        "title": "B Cell and T Cell Development",
+        "printed_page": 960,
+        "body_pdf_page": 1009,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          47
+        ],
+        "chapter_label": "Ch43 The Immune System"
+      }
+    ],
+    "primary_reason": "43.3 / B Cells and Antibodies: A Response to Extracellular Pathogens：題問成熟B細胞抗體類型與效應改變，主歸B細胞和抗體反應。",
+    "secondary_reason": "43.2 / B Cell and T Cell Development：與最初抗原受體多樣性的基因重排作比較，保留發育條目",
+    "answer_analysis": "採C。IgM轉IgA為重鏈恆定區DNA類型轉換重組，維持VDJ特異性；IgM與IgD共表現的選擇性RNA處理不是這種轉換。Campbell966支援恆定區差異，具體機制由Alberts補足。",
+    "textbook_evidence": [
+      {
+        "printed_page": 961,
+        "pdf_page": 1010,
+        "text_file": "textbook_evidence/pdf-1010.txt",
+        "sha256": "e743f816202563965c87268f193e847c2577df26a9c435a8d2fc1668da905f7f"
+      },
+      {
+        "printed_page": 964,
+        "pdf_page": 1013,
+        "text_file": "textbook_evidence/pdf-1013.txt",
+        "sha256": "78a632a70aa8a98429cfd299268a2830f7a13cb352a198685455485cff6990db"
+      },
+      {
+        "printed_page": 965,
+        "pdf_page": 1014,
+        "text_file": "textbook_evidence/pdf-1014.txt",
+        "sha256": "bdf11fcbeca3fc91d34dc09621f414330a3cc0f15414e69d44b3b901959e1338"
+      },
+      {
+        "printed_page": 966,
+        "pdf_page": 1015,
+        "text_file": "textbook_evidence/pdf-1015.txt",
+        "sha256": "9fdd14c66e516e549364b3c5cfa12d681c767a71c300b57bdf2a834ad8395249"
+      }
+    ],
+    "supplement_ids": [
+      "S24"
+    ],
+    "coverage_note": "Campbell支援所列分類原理；具名物種地點、現代技術與科學界線由列示來源補足，實讀範圍見來源紀錄。",
+    "second_review_id": "ISU-114-R2-Q24",
+    "issue_resolution_index": 23
+  },
+  {
+    "id": "ISU-114-Q25",
+    "school": "ISU",
+    "year": 114,
+    "q": 25,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 25,
+      "pdf_page": 28,
+      "printed_page": 3,
+      "official_pdf_page": 28,
+      "regions": [
+        [
+          24,
+          519.702,
+          572.32,
+          587.2019999999999
+        ]
+      ],
+      "pixel_box": [
+        63,
+        1358,
+        1496,
+        1534
+      ],
+      "image": "questions/Q25.png",
+      "sha256": "85293c3407ca65f99494d66575963a27ee07566561522f0c5754f062b5aa03bc",
+      "width": 1433,
+      "height": 176,
+      "question_text": "25. 在某熱帶雨林中，若一種大型捕食者因人為活動而消失，導致數種中型草食性動物族群急劇增加，\n進而過度攝食植被，該現象最可能為：\n(A) 漸進演替(primary succession) (B) 種間競爭(interspecific competition)\n(C) 頂級捕食者移除效應(trophic cascade) (D) 群落穩定性提升(community stabilization)",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L3623",
+      "toc_line": 3623,
+      "chapter": 54,
+      "concept": "54.2",
+      "title": "Bottom-Up and Top-Down Controls",
+      "printed_page": 1226,
+      "body_pdf_page": 1275,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        50
+      ],
+      "chapter_label": "Ch54 Community Ecology"
+    },
+    "secondary": [
+      {
+        "id": "L3620",
+        "toc_line": 3620,
+        "chapter": 54,
+        "concept": "54.2",
+        "title": "Species with a Large Impact",
+        "printed_page": 1225,
+        "body_pdf_page": 1274,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          50
+        ],
+        "chapter_label": "Ch54 Community Ecology"
+      }
+    ],
+    "primary_reason": "54.2 / Bottom-Up and Top-Down Controls：捕食者移除向下改變草食動物與植被，是由上而下的營養級連鎖。",
+    "secondary_reason": "54.2 / Species with a Large Impact：高影響捕食者與關鍵種解釋群落效應來源，但不額外斷定題未提供的數量比例",
+    "answer_analysis": "採C。捕食壓力下降使植食者增長並壓低植被；不是原生演替或穩定性上升。中文選项「漸進演替(primary succession)」原样保留。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1225,
+        "pdf_page": 1274,
+        "text_file": "textbook_evidence/pdf-1274.txt",
+        "sha256": "b0af65cba90ace89729f8a89c40eaa9bf7851fd65d4a069a1d1bda3516055def"
+      },
+      {
+        "printed_page": 1226,
+        "pdf_page": 1275,
+        "text_file": "textbook_evidence/pdf-1275.txt",
+        "sha256": "c5c0180d5c9d91e592923f8c62396604c203566f91954bb12d6609af5b62193b"
+      },
+      {
+        "printed_page": 1227,
+        "pdf_page": 1276,
+        "text_file": "textbook_evidence/pdf-1276.txt",
+        "sha256": "d63311ae9df1c302468c583816622ba8f2314e276e02704f2fe7e13987a99dcf"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；題目限定及來源措辭差異保留於科學說明。",
+    "second_review_id": "ISU-114-R2-Q25",
+    "issue_resolution_index": 24
+  },
+  {
+    "id": "ISU-114-Q26",
+    "school": "ISU",
+    "year": 114,
+    "q": 26,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 26,
+      "pdf_page": 28,
+      "printed_page": 3,
+      "official_pdf_page": 28,
+      "regions": [
+        [
+          24,
+          586.3019999999999,
+          572.32,
+          638.2019999999999
+        ]
+      ],
+      "pixel_box": [
+        63,
+        1532,
+        1496,
+        1668
+      ],
+      "image": "questions/Q26.png",
+      "sha256": "230bf09bf9f358f7b9866941145b35ca795df24ffc8b5722a1b7e6b8b137b12c",
+      "width": 1433,
+      "height": 136,
+      "question_text": "26. 近年癌症標靶藥物開發中常利用蛋白質體學技術，其最常用的分析工具為：\n(A) 細胞分裂指數(mitotic index) (B) 質譜儀(mass spectrometer)\n(C) PCR 微陣列晶片 (D) 離子交換層析(ion exchange chromatography)",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [
+        10
+      ],
+      "clarification_disposition": "同年度釋疑維持原答案B"
+    },
+    "primary": {
+      "id": "L1307",
+      "toc_line": 1307,
+      "chapter": 21,
+      "concept": "21.2",
+      "title": "Understanding Genes and Gene Expression at the Systems Level",
+      "printed_page": 446,
+      "body_pdf_page": 495,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        40
+      ],
+      "chapter_label": "Ch21 Genomes and Their Evolution"
+    },
+    "secondary": [],
+    "primary_reason": "21.2 / Understanding Genes and Gene Expression at the Systems Level：蛋白質體的全局鑑定與表現分析屬系統層次理解基因產物。",
+    "secondary_reason": "無另列最小次條目；問題是蛋白體工具辨識，NCI質譜技術及官方維持B直接支援；以系統層次蛋白體分析分類，不改成免疫治療。",
+    "answer_analysis": "採B且維持。質譜為蛋白體鑑定、定量及修飾分析核心工具，層析可配合分離；癌症藥物只是用途情境，不主歸腫瘤免疫。",
+    "textbook_evidence": [
+      {
+        "printed_page": 446,
+        "pdf_page": 495,
+        "text_file": "textbook_evidence/pdf-0495.txt",
+        "sha256": "2340c28d24f4202370034d21180212b89e984b9eee2766f931719c8bddf43c88"
+      },
+      {
+        "printed_page": 447,
+        "pdf_page": 496,
+        "text_file": "textbook_evidence/pdf-0496.txt",
+        "sha256": "51578bdb7b3edd8d906af2e8d272e49d4d62c7c84c766e940d8a615780ac2e03"
+      }
+    ],
+    "supplement_ids": [
+      "S26"
+    ],
+    "coverage_note": "Campbell支援所列分類原理；具名物種地點、現代技術與科學界線由列示來源補足，實讀範圍見來源紀錄。",
+    "second_review_id": "ISU-114-R2-Q26",
+    "issue_resolution_index": 25
+  },
+  {
+    "id": "ISU-114-Q27",
+    "school": "ISU",
+    "year": 114,
+    "q": 27,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 27,
+      "pdf_page": 28,
+      "printed_page": 3,
+      "official_pdf_page": 28,
+      "regions": [
+        [
+          24,
+          637.3019999999999,
+          572.32,
+          689.232
+        ]
+      ],
+      "pixel_box": [
+        63,
+        1665,
+        1496,
+        1801
+      ],
+      "image": "questions/Q27.png",
+      "sha256": "498448e29904c1c291b9d94af8ac32eed45b36d97a4d2d189c90c387a9fc7680",
+      "width": 1433,
+      "height": 136,
+      "question_text": "27. CAR-T細胞療法的工程改造主要是針對：\n(A) B細胞表面的抗體 (B) 樹突細胞的表現型\n(C) T細胞的受體辨識區域 (D) NK細胞的毒殺酶系統",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L2930",
+      "toc_line": 2930,
+      "chapter": 43,
+      "concept": "43.4",
+      "title": "Cancer and Immunity",
+      "printed_page": 974,
+      "body_pdf_page": 1023,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        47
+      ],
+      "chapter_label": "Ch43 The Immune System"
+    },
+    "secondary": [
+      {
+        "id": "L1274",
+        "toc_line": 1274,
+        "chapter": 20,
+        "concept": "20.4",
+        "title": "Medical Applications",
+        "printed_page": 433,
+        "body_pdf_page": 482,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          40
+        ],
+        "chapter_label": "Ch20 DNA Tools and Biotechnology"
+      }
+    ],
+    "primary_reason": "43.4 / Cancer and Immunity：主題是工程化免疫細胞辨识及攻擊癌細胞。",
+    "secondary_reason": "20.4 / Medical Applications：導入嵌合受體的醫學基因工程應用為必要次面向",
+    "answer_analysis": "採C。CAR-T主要使T細胞表達嵌合抗原受體，具有抗原辨識及胞內訊號域，不能狹義化為只修改天然TCR一小段。",
+    "textbook_evidence": [
+      {
+        "printed_page": 433,
+        "pdf_page": 482,
+        "text_file": "textbook_evidence/pdf-0482.txt",
+        "sha256": "2f8fd506f1bea79d991cb8a9141d395d7160bd680de99b93bbc58cb4ecc91689"
+      },
+      {
+        "printed_page": 434,
+        "pdf_page": 483,
+        "text_file": "textbook_evidence/pdf-0483.txt",
+        "sha256": "b1b96c2cbc08c6b83782793cbe592f85e9b545bcfaaacd4da80b910cf7d9b374"
+      },
+      {
+        "printed_page": 974,
+        "pdf_page": 1023,
+        "text_file": "textbook_evidence/pdf-1023.txt",
+        "sha256": "c827ab3bc6456923c2fc9a6717c04ce45c184f86fd9f21348cde35421d16f273"
+      }
+    ],
+    "supplement_ids": [
+      "S27"
+    ],
+    "coverage_note": "Campbell支援所列分類原理；具名物種地點、現代技術與科學界線由列示來源補足，實讀範圍見來源紀錄。",
+    "second_review_id": "ISU-114-R2-Q27",
+    "issue_resolution_index": 26
+  },
+  {
+    "id": "ISU-114-Q28",
+    "school": "ISU",
+    "year": 114,
+    "q": 28,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 28,
+      "pdf_page": 28,
+      "printed_page": 3,
+      "official_pdf_page": 28,
+      "regions": [
+        [
+          24,
+          688.332,
+          572.32,
+          720.1919999999999
+        ]
+      ],
+      "pixel_box": [
+        63,
+        1799,
+        1496,
+        1882
+      ],
+      "image": "questions/Q28.png",
+      "sha256": "dca49e531f88f47d8bce5568d1b161687e876c3c7b2d69818339b9d09d8b1fca",
+      "width": 1433,
+      "height": 83,
+      "question_text": "28. 下列哪一種RNA具有催化活性，屬於核糖核酸酶(ribozyme)？\n(A) mRNA (B) rRNA (C) miRNA (D) snRNA",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B/D",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [
+        10
+      ],
+      "clarification_disposition": "同年度釋疑改為B/D皆可；組合包PDF32更正表一致"
+    },
+    "primary": {
+      "id": "L1062",
+      "toc_line": 1062,
+      "chapter": 17,
+      "concept": "17.3",
+      "title": "Split Genes and RNA Splicing",
+      "printed_page": 345,
+      "body_pdf_page": 394,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        39
+      ],
+      "chapter_label": "Ch17 Gene Expression: From Gene to Protein"
+    },
+    "secondary": [
+      {
+        "id": "L1069",
+        "toc_line": 1069,
+        "chapter": 17,
+        "concept": "17.4",
+        "title": "Molecular Components of Translation",
+        "printed_page": 348,
+        "body_pdf_page": 397,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          39
+        ],
+        "chapter_label": "Ch17 Gene Expression: From Gene to Protein"
+      }
+    ],
+    "primary_reason": "17.3 / Split Genes and RNA Splicing：核酶與剪接體RNA催化在此最小目錄下直接解釋snRNA採計更正。",
+    "secondary_reason": "17.4 / Molecular Components of Translation：rRNA在核糖體催化肽鍵形成，補足另一正式採計答案",
+    "answer_analysis": "原B，官方更正B/D皆可，組合包32頁為BD。rRNA與部分剪接體snRNA具催化角色，非所有snRNA都催化。題文「核糖核酸酶(ribozyme)」中文不精確，核酶不等於專門水解RNA的ribonuclease，原字不改。",
+    "textbook_evidence": [
+      {
+        "printed_page": 345,
+        "pdf_page": 394,
+        "text_file": "textbook_evidence/pdf-0394.txt",
+        "sha256": "b9467abb3f57b3c2f07a284d0d0d30fca9c8fffe7724d88dcce95cc6d349eac7"
+      },
+      {
+        "printed_page": 346,
+        "pdf_page": 395,
+        "text_file": "textbook_evidence/pdf-0395.txt",
+        "sha256": "cf5e4d5606aa33802bb2c5b81702dc71b202f0ece4befad3999f184c55b9b177"
+      },
+      {
+        "printed_page": 347,
+        "pdf_page": 396,
+        "text_file": "textbook_evidence/pdf-0396.txt",
+        "sha256": "942fa7ceb7773fa0eb6611c8e67890b207a42ce84845c0d52039f42f6fe7c95d"
+      },
+      {
+        "printed_page": 348,
+        "pdf_page": 397,
+        "text_file": "textbook_evidence/pdf-0397.txt",
+        "sha256": "1253a6d7a53ce7d7d4396406d8ad815817eaf8c9d4de0ece787d203e9506d61b"
+      },
+      {
+        "printed_page": 349,
+        "pdf_page": 398,
+        "text_file": "textbook_evidence/pdf-0398.txt",
+        "sha256": "2da7b7a5e3e2a8f9798476457a6dab15723a58298baf6d3a757f32bf4b8822be"
+      },
+      {
+        "printed_page": 350,
+        "pdf_page": 399,
+        "text_file": "textbook_evidence/pdf-0399.txt",
+        "sha256": "1cfedba7a8850310c30a893444f654a616b8d2f0ef8a95695d308cc3e46182b9"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；題目限定及來源措辭差異保留於科學說明。",
+    "second_review_id": "ISU-114-R2-Q28",
+    "issue_resolution_index": 27
+  },
+  {
+    "id": "ISU-114-Q29",
+    "school": "ISU",
+    "year": 114,
+    "q": 29,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 29,
+      "pdf_page": 28,
+      "printed_page": 3,
+      "official_pdf_page": 28,
+      "regions": [
+        [
+          24,
+          719.2919999999999,
+          572.32,
+          766.92
+        ]
+      ],
+      "pixel_box": [
+        63,
+        1880,
+        1496,
+        2004
+      ],
+      "image": "questions/Q29.png",
+      "sha256": "b96ce470e02b242a6d7569d8d545fa9df2dc036a55ec519ca62da604ccd27912",
+      "width": 1433,
+      "height": 124,
+      "question_text": "29. 關於真菌細胞壁的組成，以下敘述何者正確？\n(A) 主要由纖維素構成，與植物細胞相同 (B) 主要由肽聚糖構成，與細菌類似\n(C) 主要由幾丁質構成，可提供堅韌支持 (D) 以上皆非",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [
+        11
+      ],
+      "clarification_disposition": "同年度釋疑維持原答案C"
+    },
+    "primary": {
+      "id": "L1969",
+      "toc_line": 1969,
+      "chapter": 31,
+      "concept": "31.1",
+      "title": "Body Structure",
+      "printed_page": 655,
+      "body_pdf_page": 704,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        43
+      ],
+      "chapter_label": "Ch31 Fungi"
+    },
+    "secondary": [],
+    "primary_reason": "31.1 / Body Structure：真菌細胞壁幾丁質與菌體構造為直接考點。",
+    "secondary_reason": "無另列最小次條目；656支持結構性幾丁質；釋疑亦談葡聚糖，官方C不代表 universal mass fraction。保持菌體構造主目及定量保留意見，分類疑義已解。",
+    "answer_analysis": "採C且維持。幾丁質是重要支持成分，但不同真菌細胞壁也有大量β葡聚糖等，不能將「主要」當成一律質量最高。官方引書版本與本地12e不同，分開保存不換頁碼。",
+    "textbook_evidence": [
+      {
+        "printed_page": 655,
+        "pdf_page": 704,
+        "text_file": "textbook_evidence/pdf-0704.txt",
+        "sha256": "d00cedd8546d2fe31a3050b4839f4ab831694add0f5df0c39b9e01fe1e5cc54d"
+      },
+      {
+        "printed_page": 656,
+        "pdf_page": 705,
+        "text_file": "textbook_evidence/pdf-0705.txt",
+        "sha256": "9c082da42cba713a20f2caff3e8a0798b2a7f8e9202103c1baa5017ea3195c96"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；題目限定及來源措辭差異保留於科學說明。",
+    "second_review_id": "ISU-114-R2-Q29",
+    "issue_resolution_index": 28
+  },
+  {
+    "id": "ISU-114-Q30",
+    "school": "ISU",
+    "year": 114,
+    "q": 30,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 30,
+      "pdf_page": 29,
+      "printed_page": 4,
+      "official_pdf_page": 29,
+      "regions": [
+        [
+          24,
+          166.37199999999996,
+          572.32,
+          218.27199999999996
+        ]
+      ],
+      "pixel_box": [
+        63,
+        435,
+        1496,
+        570
+      ],
+      "image": "questions/Q30.png",
+      "sha256": "92e6f52bfd877b57518d1dcb185793c90f4a74cf3d79be920950a6335327a86d",
+      "width": 1433,
+      "height": 135,
+      "question_text": "30. 關於激素與其產生的效果，下列何者不正確？\n(A) 副甲狀腺素：增加血漿鈣濃度 (B) 副甲狀腺素：增加血漿磷酸鹽濃度\n(C) 維他命D：增加血漿鈣濃度 (D) 維他命D：增加血漿磷酸鹽濃度",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L3036",
+      "toc_line": 3036,
+      "chapter": 45,
+      "concept": "45.3",
+      "title": "Parathyroid Hormone and Vitamin D: Control of Blood Calcium",
+      "printed_page": 1011,
+      "body_pdf_page": 1060,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        47
+      ],
+      "chapter_label": "Ch45 Hormones and the Endocrine System"
+    },
+    "secondary": [],
+    "primary_reason": "45.3 / Parathyroid Hormone and Vitamin D: Control of Blood Calcium：PTH與維生素D共同調控血鈣，並需區分血磷方向。",
+    "secondary_reason": "無另列最小次條目；CSU腎排磷效應釐清通常淨降磷，故B不正確；主PTH維生素D血鈣目錄，磷補證已列，未虛稱Campbell頁完整講磷。",
+    "answer_analysis": "採B為不正確。正常腎功能下PTH增鈣且促排磷，淨效應降低血磷；維生素D促腸道吸收鈣磷。Campbell主述鈣，磷方向由CSU作者教材補足。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1011,
+        "pdf_page": 1060,
+        "text_file": "textbook_evidence/pdf-1060.txt",
+        "sha256": "b0901bf36857f5067323be55245111647141aacbbb51a898442ca6861579cfab"
+      },
+      {
+        "printed_page": 1012,
+        "pdf_page": 1061,
+        "text_file": "textbook_evidence/pdf-1061.txt",
+        "sha256": "fefe648daa1fc783f79fccadab66042ae2a31d89a74f1e8ed130a5f433397883"
+      }
+    ],
+    "supplement_ids": [
+      "S30"
+    ],
+    "coverage_note": "Campbell支援所列分類原理；具名物種地點、現代技術與科學界線由列示來源補足，實讀範圍見來源紀錄。",
+    "second_review_id": "ISU-114-R2-Q30",
+    "issue_resolution_index": 29
+  },
+  {
+    "id": "ISU-114-Q31",
+    "school": "ISU",
+    "year": 114,
+    "q": 31,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 31,
+      "pdf_page": 29,
+      "printed_page": 4,
+      "official_pdf_page": 29,
+      "regions": [
+        [
+          24,
+          217.37199999999996,
+          572.32,
+          268.5519999999999
+        ]
+      ],
+      "pixel_box": [
+        63,
+        568,
+        1496,
+        702
+      ],
+      "image": "questions/Q31.png",
+      "sha256": "00a3702aa062259c3c2b4fe78845a237e087ff634c557584affec6ae5404c630",
+      "width": 1433,
+      "height": 134,
+      "question_text": "31. 一般生理情況中，神經細胞靜止膜電位之數值，最接近下列何種離子的反轉電位(reversal\npotential)？\n(A) 鈣離子 (B) 鈉離子 (C) 氫離子 (D) 氯離子",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L3196",
+      "toc_line": 3196,
+      "chapter": 48,
+      "concept": "48.2",
+      "title": "Modeling the Resting Potential",
+      "printed_page": 1071,
+      "body_pdf_page": 1120,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        48
+      ],
+      "chapter_label": "Ch48 Neurons, Synapses, and Signaling"
+    },
+    "secondary": [
+      {
+        "id": "L3193",
+        "toc_line": 3193,
+        "chapter": 48,
+        "concept": "48.2",
+        "title": "Formation of the Resting Potential",
+        "printed_page": 1070,
+        "body_pdf_page": 1119,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          48
+        ],
+        "chapter_label": "Ch48 Neurons, Synapses, and Signaling"
+      }
+    ],
+    "primary_reason": "48.2 / Modeling the Resting Potential：利用各離子平衡／反轉電位比較靜止膜電位的模型。",
+    "secondary_reason": "48.2 / Formation of the Resting Potential：靜止膜電位由離子梯度、通透性與泵維持的形成機制提供前提",
+    "answer_analysis": "採D。四選项没有K，Cl反轉電位在典型成熟神經元模型較接近靜止值；不能據此說Cl對靜止電位的貢獻最大，也不能忽略細胞年齡與Cl梯度差異。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1070,
+        "pdf_page": 1119,
+        "text_file": "textbook_evidence/pdf-1119.txt",
+        "sha256": "18fbe8899918510bcd540589e7f05f8fb4180fb92624194559a3b53aa95d673c"
+      },
+      {
+        "printed_page": 1071,
+        "pdf_page": 1120,
+        "text_file": "textbook_evidence/pdf-1120.txt",
+        "sha256": "5a2b17b7b917dc508ea50294b99ed438075a50803866a666eb3745e1878f2cec"
+      },
+      {
+        "printed_page": 1072,
+        "pdf_page": 1121,
+        "text_file": "textbook_evidence/pdf-1121.txt",
+        "sha256": "7e0bd892fbbafa10425bbe946a9ddb4fce67c027237fb5e790ce17dbfd487f0c"
+      },
+      {
+        "printed_page": 1078,
+        "pdf_page": 1127,
+        "text_file": "textbook_evidence/pdf-1127.txt",
+        "sha256": "c430f991c573556901cbb17683a1e7c23a709f63c3d0e243fe89f6365edc8c96"
+      }
+    ],
+    "supplement_ids": [
+      "S31"
+    ],
+    "coverage_note": "Campbell支援所列分類原理；具名物種地點、現代技術與科學界線由列示來源補足，實讀範圍見來源紀錄。",
+    "second_review_id": "ISU-114-R2-Q31",
+    "issue_resolution_index": 30
+  },
+  {
+    "id": "ISU-114-Q32",
+    "school": "ISU",
+    "year": 114,
+    "q": 32,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 32,
+      "pdf_page": 29,
+      "printed_page": 4,
+      "official_pdf_page": 29,
+      "regions": [
+        [
+          24,
+          267.65199999999993,
+          572.32,
+          319.5819999999999
+        ]
+      ],
+      "pixel_box": [
+        63,
+        699,
+        1496,
+        835
+      ],
+      "image": "questions/Q32.png",
+      "sha256": "eaf4ee99f8261a40e8454a8ee2e13c0413a6cad87674d892e22604bba99c76db",
+      "width": 1433,
+      "height": 136,
+      "question_text": "32. 下列有關霍夫曼氏反射(Hoffmann reflex)的敘述何者正確？\n(A) H波的產生早於 M 波 (B) M 波由運動神經纖維所產生\n(C) 屬於一種多突觸反射 (D) 高刺激強度只能誘發 H波",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L3242",
+      "toc_line": 3242,
+      "chapter": 49,
+      "concept": "49.1",
+      "title": "Organization of the Vertebrate Nervous System",
+      "printed_page": 1087,
+      "body_pdf_page": 1136,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        48
+      ],
+      "chapter_label": "Ch49 Nervous Systems"
+    },
+    "secondary": [
+      {
+        "id": "L3186",
+        "toc_line": 3186,
+        "chapter": 48,
+        "concept": "48.1",
+        "title": "Introduction to Information Processing",
+        "printed_page": 1068,
+        "body_pdf_page": 1117,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          48
+        ],
+        "chapter_label": "Ch48 Neurons, Synapses, and Signaling"
+      }
+    ],
+    "primary_reason": "49.1 / Organization of the Vertebrate Nervous System：H反射的脊髓迴路屬脊椎神經系統組織及反射。",
+    "secondary_reason": "48.1 / Introduction to Information Processing：感覺輸入與運動輸出的區分解釋H與M產生路徑",
+    "answer_analysis": "採B。M為直接刺激運動軸突引發的肌肉複合反應，早於經Ia傳入及脊髓反射的H；M波不是從神經軸突本身量到的肌電波，高強度M增大且H可因逆行碰撞降低。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1068,
+        "pdf_page": 1117,
+        "text_file": "textbook_evidence/pdf-1117.txt",
+        "sha256": "e41e68332027da897c5c207b39feeff4708b5d066cd1635fb616a474b5f5c0c6"
+      },
+      {
+        "printed_page": 1069,
+        "pdf_page": 1118,
+        "text_file": "textbook_evidence/pdf-1118.txt",
+        "sha256": "5ead4ba209109998b96b0603e2b5c2b83489e7587738bdba615a886fecb920fc"
+      },
+      {
+        "printed_page": 1087,
+        "pdf_page": 1136,
+        "text_file": "textbook_evidence/pdf-1136.txt",
+        "sha256": "763e49ed4c796525f4b9c3c1450ab9381c29f416cdea2d89c59fd05365175d43"
+      },
+      {
+        "printed_page": 1088,
+        "pdf_page": 1137,
+        "text_file": "textbook_evidence/pdf-1137.txt",
+        "sha256": "1e375360042ef55e1fa83718f868dd3dd3fe83bc2489974f1ec02e678cb55f92"
+      }
+    ],
+    "supplement_ids": [
+      "S32"
+    ],
+    "coverage_note": "Campbell支援所列分類原理；具名物種地點、現代技術與科學界線由列示來源補足，實讀範圍見來源紀錄。",
+    "second_review_id": "ISU-114-R2-Q32",
+    "issue_resolution_index": 31
+  },
+  {
+    "id": "ISU-114-Q33",
+    "school": "ISU",
+    "year": 114,
+    "q": 33,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 33,
+      "pdf_page": 29,
+      "printed_page": 4,
+      "official_pdf_page": 29,
+      "regions": [
+        [
+          24,
+          318.6819999999999,
+          572.32,
+          403.3419999999999
+        ]
+      ],
+      "pixel_box": [
+        63,
+        833,
+        1496,
+        1054
+      ],
+      "image": "questions/Q33.png",
+      "sha256": "edf82d7a2d2044de289268ed1969d99b8b77e7738ffb5b34daf9e23e929bae72",
+      "width": 1433,
+      "height": 221,
+      "question_text": "33. 下列哪一種敘述不屬於平滑肌的特性？\n(A) 平滑肌可以傳遞階梯去極化(graded depolarizations)\n(B) 平滑肌可進入插鞘狀態(latch state)\n(C) 平滑肌對於階梯去極化可產生階梯收縮(graded contractions)\n(D) 肌球蛋白去磷酸酶(myosin phosphatase)對於平滑肌收縮是重要的",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [
+        12
+      ],
+      "clarification_disposition": "同年度釋疑維持原答案D"
+    },
+    "primary": {
+      "id": "L3384",
+      "toc_line": 3384,
+      "chapter": 50,
+      "concept": "50.5",
+      "title": "Other Types of Muscle",
+      "printed_page": 1131,
+      "body_pdf_page": 1180,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        49
+      ],
+      "chapter_label": "Ch50 Sensory and Motor Mechanisms"
+    },
+    "secondary": [],
+    "primary_reason": "50.5 / Other Types of Muscle：平滑肌的階梯反應、latch與肌球蛋白磷酸化是直接肌肉類型特性。",
+    "secondary_reason": "無另列最小次條目；官方對比收縮MLCK與鬆弛MLCP已保存，Hai模型明示去磷酸化latch維持張力；分類無疑但官方「不重要」式概括不可科學化，已註廣義歧義。",
+    "answer_analysis": "官方採D且維持，採計理由對比MLCK收縮與MLCP鬆弛。但去磷酸化也參與latch與張力調節，D廣義「對收縮重要」有歧義；不把官方維持答案改寫成MLCP毫無調節作用。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1131,
+        "pdf_page": 1180,
+        "text_file": "textbook_evidence/pdf-1180.txt",
+        "sha256": "131bc65d94260173a5e7aaa370429ffbcd66f60398c374f43e7c9fb301cc828e"
+      },
+      {
+        "printed_page": 1132,
+        "pdf_page": 1181,
+        "text_file": "textbook_evidence/pdf-1181.txt",
+        "sha256": "25abfe734b146b67b2865a73606bbc92492de3c794a22f7288444b51408ba150"
+      }
+    ],
+    "supplement_ids": [
+      "S33"
+    ],
+    "coverage_note": "Campbell支援所列分類原理；具名物種地點、現代技術與科學界線由列示來源補足，實讀範圍見來源紀錄。",
+    "second_review_id": "ISU-114-R2-Q33",
+    "issue_resolution_index": 32
+  },
+  {
+    "id": "ISU-114-Q34",
+    "school": "ISU",
+    "year": 114,
+    "q": 34,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 34,
+      "pdf_page": 29,
+      "printed_page": 4,
+      "official_pdf_page": 29,
+      "regions": [
+        [
+          24,
+          402.44199999999995,
+          572.32,
+          487.1219999999999
+        ]
+      ],
+      "pixel_box": [
+        63,
+        1052,
+        1496,
+        1273
+      ],
+      "image": "questions/Q34.png",
+      "sha256": "7090f667b023ce6fbcfd4a17a5d21e4fafe7ba83335625c26e351b52648eedc9",
+      "width": 1433,
+      "height": 221,
+      "question_text": "34. 下列何種情況無法造成支氣管擴張？\n(A) 利用乙型交感神經致效劑(β-agonist)活化腎上腺素接受器(β adrenoceptor)\n2\n(B) 活化蛋白激酶 A(PKA)而使肌凝蛋白輕鏈激酶(MLCK)啟動\n(C) 提升支氣管平滑肌細胞內的環腺苷酸(cAMP)\n(D) 降低支氣管平滑肌細胞內的鈣離子",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [
+        12
+      ],
+      "clarification_disposition": "同年度釋疑維持原答案B"
+    },
+    "primary": {
+      "id": "L3384",
+      "toc_line": 3384,
+      "chapter": 50,
+      "concept": "50.5",
+      "title": "Other Types of Muscle",
+      "printed_page": 1131,
+      "body_pdf_page": 1180,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        49
+      ],
+      "chapter_label": "Ch50 Sensory and Motor Mechanisms"
+    },
+    "secondary": [
+      {
+        "id": "L0724",
+        "toc_line": 724,
+        "chapter": 11,
+        "concept": "11.3",
+        "title": "Small Molecules and Ions as Second Messengers",
+        "printed_page": 223,
+        "body_pdf_page": 272,
+        "kind": "entry",
+        "text_toc_title": "Small Molecules and Second Messengers",
+        "source_difference": "文字目錄漏and Ions；實際PDF完整題名優先，文字來源仍保留。",
+        "toc_pdf_pages": [
+          38
+        ],
+        "chapter_label": "Ch11 Cell Communication"
+      }
+    ],
+    "primary_reason": "50.5 / Other Types of Muscle：氣道擴張由平滑肌收縮／舒張機制直接決定。",
+    "secondary_reason": "11.3 / Small Molecules and Ions as Second Messengers：β2→cAMP→PKA及Ca第二訊息解釋各選项的訊號方向",
+    "answer_analysis": "採B且維持。Ca-calmodulin活化MLCK促收縮；β致效劑與cAMP/PKA通常促鬆弛。選項把PKA與「使MLCK啟動」連成錯誤因果，不能據此否認PKA促舒張，且機制不只一個底物。",
+    "textbook_evidence": [
+      {
+        "printed_page": 223,
+        "pdf_page": 272,
+        "text_file": "textbook_evidence/pdf-0272.txt",
+        "sha256": "d23ae033cb40111bbaa80800c9d466b6880c87ed5a88320f8ba8c6275d38ac3b"
+      },
+      {
+        "printed_page": 224,
+        "pdf_page": 273,
+        "text_file": "textbook_evidence/pdf-0273.txt",
+        "sha256": "a710b5ef4d7732ef95dc2a860bc7c78c3b5b17f56200fe4ede0b4ae40b4e7aca"
+      },
+      {
+        "printed_page": 1131,
+        "pdf_page": 1180,
+        "text_file": "textbook_evidence/pdf-1180.txt",
+        "sha256": "131bc65d94260173a5e7aaa370429ffbcd66f60398c374f43e7c9fb301cc828e"
+      },
+      {
+        "printed_page": 1132,
+        "pdf_page": 1181,
+        "text_file": "textbook_evidence/pdf-1181.txt",
+        "sha256": "25abfe734b146b67b2865a73606bbc92492de3c794a22f7288444b51408ba150"
+      }
+    ],
+    "supplement_ids": [
+      "S34"
+    ],
+    "coverage_note": "Campbell支援所列分類原理；具名物種地點、現代技術與科學界線由列示來源補足，實讀範圍見來源紀錄。",
+    "second_review_id": "ISU-114-R2-Q34",
+    "issue_resolution_index": 33
+  },
+  {
+    "id": "ISU-114-Q35",
+    "school": "ISU",
+    "year": 114,
+    "q": 35,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 35,
+      "pdf_page": 29,
+      "printed_page": 4,
+      "official_pdf_page": 29,
+      "regions": [
+        [
+          24,
+          486.2219999999999,
+          572.32,
+          571.4819999999999
+        ]
+      ],
+      "pixel_box": [
+        63,
+        1271,
+        1496,
+        1493
+      ],
+      "image": "questions/Q35.png",
+      "sha256": "51f2ea07c78d15f0b8905dc9fa4e6f6bb32f048e1b67aa9a38f0b4d50a09c7a4",
+      "width": 1433,
+      "height": 222,
+      "question_text": "35. 產生內在因子(intrinsic factor)幫助維生素 B12在迴腸吸收的細胞是下列何者？\n(A) 十二指腸的腸嗜鉻細胞(enterochromaffin cells)\n(B) 肝臟的內皮細胞(liver endothelial cells)\n(C) 十二指腸的潘氏細胞(paneth cells)\n(D) 胃體的壁細胞(parietal cells)",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L2711",
+      "toc_line": 2711,
+      "chapter": 41,
+      "concept": "41.3",
+      "title": "Digestion in the Stomach",
+      "printed_page": 907,
+      "body_pdf_page": 956,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch41 Animal Nutrition"
+    },
+    "secondary": [
+      {
+        "id": "L2717",
+        "toc_line": 2717,
+        "chapter": 41,
+        "concept": "41.3",
+        "title": "Absorption in the Small Intestine",
+        "printed_page": 909,
+        "body_pdf_page": 958,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          46
+        ],
+        "chapter_label": "Ch41 Animal Nutrition"
+      }
+    ],
+    "primary_reason": "41.3 / Digestion in the Stomach：問題首先辨識胃腺分泌細胞，主歸胃消化。",
+    "secondary_reason": "41.3 / Absorption in the Small Intestine：內在因子協助B12小腸吸收是分泌物作用終點",
+    "answer_analysis": "採D。胃壁細胞分泌內在因子而使B12得於迴腸吸收；Campbell支援壁細胞胃腺結構，內在因子細節由OpenStax核對。",
+    "textbook_evidence": [
+      {
+        "printed_page": 907,
+        "pdf_page": 956,
+        "text_file": "textbook_evidence/pdf-0956.txt",
+        "sha256": "9e7d907b0495e71248ef3ea035810257fe8ac9eaabc59ba1cb7fe9cf9555142c"
+      },
+      {
+        "printed_page": 908,
+        "pdf_page": 957,
+        "text_file": "textbook_evidence/pdf-0957.txt",
+        "sha256": "e094089c55a5911a502cf12729d05de9a4ebdae913cfbf8761b6b4a2191d9343"
+      },
+      {
+        "printed_page": 909,
+        "pdf_page": 958,
+        "text_file": "textbook_evidence/pdf-0958.txt",
+        "sha256": "8f5c51355341db5cd4b2717e0419e3331bc04ca90e8dc97f20f1dcc4034e9b6e"
+      },
+      {
+        "printed_page": 910,
+        "pdf_page": 959,
+        "text_file": "textbook_evidence/pdf-0959.txt",
+        "sha256": "03b373ca5c2f5d83c680d1f7eeb39ece6d739d8fc313ddb7693e28188c9a5a38"
+      }
+    ],
+    "supplement_ids": [
+      "S35"
+    ],
+    "coverage_note": "Campbell支援所列分類原理；具名物種地點、現代技術與科學界線由列示來源補足，實讀範圍見來源紀錄。",
+    "second_review_id": "ISU-114-R2-Q35",
+    "issue_resolution_index": 34
+  },
+  {
+    "id": "ISU-114-Q36",
+    "school": "ISU",
+    "year": 114,
+    "q": 36,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 36,
+      "pdf_page": 29,
+      "printed_page": 4,
+      "official_pdf_page": 29,
+      "regions": [
+        [
+          24,
+          570.5819999999999,
+          572.32,
+          663.072
+        ]
+      ],
+      "pixel_box": [
+        63,
+        1491,
+        1496,
+        1733
+      ],
+      "image": "questions/Q36.png",
+      "sha256": "bbd1be677ba432b7884b2ec960da409b89b9206b99b81861d02d75486b513e5c",
+      "width": 1433,
+      "height": 242,
+      "question_text": "36. 腦波圖中所測量到的 Delta ()波主要是由下列哪一個腦內迴路所貢獻？\n(A) 視丘皮質神經元-皮質神經元迴路(thalamocortical neuron-cortical neuron loop)\n(B) 視丘皮質神經元-網狀神經元迴路(thalamocortical neuron-reticular neuron loop)\n(C) 網狀神經元-皮質神經元迴路(reticular neuron-cortical neuron loop)\n(D) 上行醒覺迴路(ascending arousal loop)",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L3255",
+      "toc_line": 3255,
+      "chapter": 49,
+      "concept": "49.2",
+      "title": "Arousal and Sleep",
+      "printed_page": 1094,
+      "body_pdf_page": 1143,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        48
+      ],
+      "chapter_label": "Ch49 Nervous Systems"
+    },
+    "secondary": [],
+    "primary_reason": "49.2 / Arousal and Sleep：題問深睡眠delta腦波來源迴路，主歸醒覺與睡眠。",
+    "secondary_reason": "無另列最小次條目；Purves明示慢波視丘皮質同步及網狀核調節，支持A為題設最佳；不以B紡錘機制否定其參與全部睡眠節律。",
+    "answer_analysis": "採A。視丘皮質與皮質同步振盪支持慢波；網狀核也參與節律調節，B較偏紡錘波迴路，不能主張delta單由互相隔絕的一條迴路產生。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1092,
+        "pdf_page": 1141,
+        "text_file": "textbook_evidence/pdf-1141.txt",
+        "sha256": "0f63cbec75bd7978af0fdc8ebccb3b4ade4013ff5ca53aadac8229f3ebb9c1ea"
+      },
+      {
+        "printed_page": 1093,
+        "pdf_page": 1142,
+        "text_file": "textbook_evidence/pdf-1142.txt",
+        "sha256": "8895aa60bdce190c3deb442d407b758eb38d42340adec5024c9c888687dc4079"
+      },
+      {
+        "printed_page": 1094,
+        "pdf_page": 1143,
+        "text_file": "textbook_evidence/pdf-1143.txt",
+        "sha256": "08b5ef97e25870052a0e3fdca42798c37695685d4c803f8056c4c044465d84dd"
+      }
+    ],
+    "supplement_ids": [
+      "S36"
+    ],
+    "coverage_note": "Campbell支援所列分類原理；具名物種地點、現代技術與科學界線由列示來源補足，實讀範圍見來源紀錄。",
+    "second_review_id": "ISU-114-R2-Q36",
+    "issue_resolution_index": 35
+  },
+  {
+    "id": "ISU-114-Q37",
+    "school": "ISU",
+    "year": 114,
+    "q": 37,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 37,
+      "pdf_page": 29,
+      "printed_page": 4,
+      "official_pdf_page": 29,
+      "regions": [
+        [
+          24,
+          662.172,
+          572.32,
+          766.92
+        ]
+      ],
+      "pixel_box": [
+        63,
+        1730,
+        1496,
+        2004
+      ],
+      "image": "questions/Q37.png",
+      "sha256": "75a7ef00cf56f8c292d91ecaebfbfcad69aa7725c44e60e3dd46664b76164ccd",
+      "width": 1433,
+      "height": 274,
+      "question_text": "37. 下列哪一種神經傳導物質的改變不會在睡眠中發生？\n(A) 網狀活化系統的乙醯膽鹼(acetylcholine)增加\n(B) 由藍斑核(locus ceruleus)釋放的正腎上腺素(norepinephrine)降低\n(C) 由下視丘釋放的組織胺(histamine)增加\n(D) 下視丘的γ-胺基丁酸(GABA)增加",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L3255",
+      "toc_line": 3255,
+      "chapter": 49,
+      "concept": "49.2",
+      "title": "Arousal and Sleep",
+      "printed_page": 1094,
+      "body_pdf_page": 1143,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        48
+      ],
+      "chapter_label": "Ch49 Nervous Systems"
+    },
+    "secondary": [
+      {
+        "id": "L3231",
+        "toc_line": 3231,
+        "chapter": 48,
+        "concept": "48.4",
+        "title": "Neurotransmitters",
+        "printed_page": 1080,
+        "body_pdf_page": 1129,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          48
+        ],
+        "chapter_label": "Ch48 Neurons, Synapses, and Signaling"
+      }
+    ],
+    "primary_reason": "49.2 / Arousal and Sleep：不同睡眠期的調質變化是睡眠機制問題。",
+    "secondary_reason": "48.4 / Neurotransmitters：ACh、NE、GABA的神經傳遞功能是判讀選项的分子基礎",
+    "answer_analysis": "採C。組織胺系統通常促醒，睡眠中下降；ACh在NREM減少但REM可重新升高，故原題籠統「睡眠中」必須保留分期界線。NE、GABA變化亦依核團與分期，不能全腦一律化。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1080,
+        "pdf_page": 1129,
+        "text_file": "textbook_evidence/pdf-1129.txt",
+        "sha256": "537606980ee9c3458f60a3e203c015d4f369dc0e19aae716de0544d6d1869a12"
+      },
+      {
+        "printed_page": 1081,
+        "pdf_page": 1130,
+        "text_file": "textbook_evidence/pdf-1130.txt",
+        "sha256": "bed6f66c6b83101634fb74417258443df989b61eb00af7a1590898a275848c9f"
+      },
+      {
+        "printed_page": 1094,
+        "pdf_page": 1143,
+        "text_file": "textbook_evidence/pdf-1143.txt",
+        "sha256": "08b5ef97e25870052a0e3fdca42798c37695685d4c803f8056c4c044465d84dd"
+      },
+      {
+        "printed_page": 1095,
+        "pdf_page": 1144,
+        "text_file": "textbook_evidence/pdf-1144.txt",
+        "sha256": "02bc2f1b9c21fd8ce35ac9a4d42ed74e74341b19536272c631a03d1ee3120a2a"
+      }
+    ],
+    "supplement_ids": [
+      "S37"
+    ],
+    "coverage_note": "Campbell支援所列分類原理；具名物種地點、現代技術與科學界線由列示來源補足，實讀範圍見來源紀錄。",
+    "second_review_id": "ISU-114-R2-Q37",
+    "issue_resolution_index": 36
+  },
+  {
+    "id": "ISU-114-Q38",
+    "school": "ISU",
+    "year": 114,
+    "q": 38,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 38,
+      "pdf_page": 30,
+      "printed_page": 5,
+      "official_pdf_page": 30,
+      "regions": [
+        [
+          24,
+          167.5719999999999,
+          572.32,
+          224.51199999999997
+        ]
+      ],
+      "pixel_box": [
+        63,
+        438,
+        1496,
+        587
+      ],
+      "image": "questions/Q38.png",
+      "sha256": "f2eb1084ff98f5a14747fb8dd50d251bb3a627ea8cee6e1a51dfd9f8d729e848",
+      "width": 1433,
+      "height": 149,
+      "question_text": "38. 下列何者與改善睡眠有關？\n(A) GABA接受器拮抗劑(antagonist) (B) 食慾素(orexin)接受器拮抗劑\n(C) 血清素(serotonin)接受器致效劑(agonist) (D) 組織胺(histamine)接受器致效劑",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [
+        12
+      ],
+      "clarification_disposition": "同年度釋疑維持原答案B"
+    },
+    "primary": {
+      "id": "L3255",
+      "toc_line": 3255,
+      "chapter": 49,
+      "concept": "49.2",
+      "title": "Arousal and Sleep",
+      "printed_page": 1094,
+      "body_pdf_page": 1143,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        48
+      ],
+      "chapter_label": "Ch49 Nervous Systems"
+    },
+    "secondary": [],
+    "primary_reason": "49.2 / Arousal and Sleep：藉抑制促醒系統改善睡眠，主歸醒覺睡眠。",
+    "secondary_reason": "無另列最小次條目；再核題圖及釋疑12，兩字樣不同已保存；B有原始試驗藥理支持。血清素亞型未指定不另加肯定結論。",
+    "answer_analysis": "採B且維持。orexin受體拮抗劑可促睡眠。題本C是血清素受體「致效劑」，釋疑改寫為「拮抗劑」，原始二者分開記錄；血清素效應需受體亞型，不能籠統斷定皆促睡或皆促醒。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1094,
+        "pdf_page": 1143,
+        "text_file": "textbook_evidence/pdf-1143.txt",
+        "sha256": "08b5ef97e25870052a0e3fdca42798c37695685d4c803f8056c4c044465d84dd"
+      },
+      {
+        "printed_page": 1095,
+        "pdf_page": 1144,
+        "text_file": "textbook_evidence/pdf-1144.txt",
+        "sha256": "02bc2f1b9c21fd8ce35ac9a4d42ed74e74341b19536272c631a03d1ee3120a2a"
+      }
+    ],
+    "supplement_ids": [
+      "S38"
+    ],
+    "coverage_note": "Campbell支援所列分類原理；具名物種地點、現代技術與科學界線由列示來源補足，實讀範圍見來源紀錄。",
+    "second_review_id": "ISU-114-R2-Q38",
+    "issue_resolution_index": 37
+  },
+  {
+    "id": "ISU-114-Q39",
+    "school": "ISU",
+    "year": 114,
+    "q": 39,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 39,
+      "pdf_page": 30,
+      "printed_page": 5,
+      "official_pdf_page": 30,
+      "regions": [
+        [
+          24,
+          223.61199999999997,
+          572.32,
+          279.50199999999995
+        ]
+      ],
+      "pixel_box": [
+        63,
+        584,
+        1496,
+        730
+      ],
+      "image": "questions/Q39.png",
+      "sha256": "4f06835b670e1f63e8a25f90dea329fb9401f174a04b59702929c0f1d68422c1",
+      "width": 1433,
+      "height": 146,
+      "question_text": "39. 當個體從清醒狀態進入深度睡眠時，腦波的特徵會發生什麼樣的變化？\n(A) 降低頻率(frequency)，降低強度(amplitude) (B) 降低頻率，增加強度\n(C) 增加頻率，增加強度 (D) 增加頻率，降低強度",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L3255",
+      "toc_line": 3255,
+      "chapter": 49,
+      "concept": "49.2",
+      "title": "Arousal and Sleep",
+      "printed_page": 1094,
+      "body_pdf_page": 1143,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        48
+      ],
+      "chapter_label": "Ch49 Nervous Systems"
+    },
+    "secondary": [],
+    "primary_reason": "49.2 / Arousal and Sleep：直接比較清醒與深睡眠EEG波形。",
+    "secondary_reason": "無另列最小次條目；深慢波的低頻高振幅是群體同步，與單纖維全或無振幅不同；因此睡眠主目足夠，無須添加動作電位条目。",
+    "answer_analysis": "採B。典型深度NREM腦波頻率降低、振幅增加；原文amplitude譯「強度」保留，科學說明用振幅，且不是單一神經元動作電位幅度增大。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1094,
+        "pdf_page": 1143,
+        "text_file": "textbook_evidence/pdf-1143.txt",
+        "sha256": "08b5ef97e25870052a0e3fdca42798c37695685d4c803f8056c4c044465d84dd"
+      },
+      {
+        "printed_page": 1095,
+        "pdf_page": 1144,
+        "text_file": "textbook_evidence/pdf-1144.txt",
+        "sha256": "02bc2f1b9c21fd8ce35ac9a4d42ed74e74341b19536272c631a03d1ee3120a2a"
+      }
+    ],
+    "supplement_ids": [
+      "S36"
+    ],
+    "coverage_note": "Campbell支援所列分類原理；具名物種地點、現代技術與科學界線由列示來源補足，實讀範圍見來源紀錄。",
+    "second_review_id": "ISU-114-R2-Q39",
+    "issue_resolution_index": 38
+  },
+  {
+    "id": "ISU-114-Q40",
+    "school": "ISU",
+    "year": 114,
+    "q": 40,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 40,
+      "pdf_page": 30,
+      "printed_page": 5,
+      "official_pdf_page": 30,
+      "regions": [
+        [
+          24,
+          278.602,
+          572.32,
+          350.0619999999999
+        ]
+      ],
+      "pixel_box": [
+        63,
+        728,
+        1496,
+        915
+      ],
+      "image": "questions/Q40.png",
+      "sha256": "ee029ed3fb43b47c123a95271d38af86f0c9626ad274d320b0d522ad05f58313",
+      "width": 1433,
+      "height": 187,
+      "question_text": "40. 在夜間，松果體實質細胞(pineal parenchymal cells)中的血清素(serotonin)和血液中的褪黑激素\n(melatonin)濃度的狀態，主要為下列何者？\n(A) 高血清素，高褪黑激素 (B) 高血清素，低褪黑激素\n(C) 低血清素，高褪黑激素 (D) 低血清素，低褪黑激素",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [
+        12
+      ],
+      "clarification_disposition": "同年度釋疑維持原答案C"
+    },
+    "primary": {
+      "id": "L3045",
+      "toc_line": 3045,
+      "chapter": 45,
+      "concept": "45.3",
+      "title": "Hormones and Biological Rhythms",
+      "printed_page": 1015,
+      "body_pdf_page": 1064,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        47
+      ],
+      "chapter_label": "Ch45 Hormones and the Endocrine System"
+    },
+    "secondary": [
+      {
+        "id": "L3258",
+        "toc_line": 3258,
+        "chapter": 49,
+        "concept": "49.2",
+        "title": "Biological Clock Regulation",
+        "printed_page": 1094,
+        "body_pdf_page": 1143,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          48
+        ],
+        "chapter_label": "Ch49 Nervous Systems"
+      }
+    ],
+    "primary_reason": "45.3 / Hormones and Biological Rhythms：夜間松果體褪黑激素分泌是生物節律激素題。",
+    "secondary_reason": "49.2 / Biological Clock Regulation：晝夜時鐘對睡眠與激素分泌的時間組織提供次面向",
+    "answer_analysis": "採C且維持。夜間褪黑激素高；常用大鼠松果體模式中血清素隨代謝轉換較低。不同物種、夜間取樣點可有差異，不能把所有夜間細胞內血清素固定為同一濃度。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1015,
+        "pdf_page": 1064,
+        "text_file": "textbook_evidence/pdf-1064.txt",
+        "sha256": "137778291eff83c1c58abd68e14599c7d56048f2026a6a932963912e599316bd"
+      },
+      {
+        "printed_page": 1094,
+        "pdf_page": 1143,
+        "text_file": "textbook_evidence/pdf-1143.txt",
+        "sha256": "08b5ef97e25870052a0e3fdca42798c37695685d4c803f8056c4c044465d84dd"
+      },
+      {
+        "printed_page": 1095,
+        "pdf_page": 1144,
+        "text_file": "textbook_evidence/pdf-1144.txt",
+        "sha256": "02bc2f1b9c21fd8ce35ac9a4d42ed74e74341b19536272c631a03d1ee3120a2a"
+      }
+    ],
+    "supplement_ids": [
+      "S40"
+    ],
+    "coverage_note": "Campbell支援所列分類原理；具名物種地點、現代技術與科學界線由列示來源補足，實讀範圍見來源紀錄。",
+    "second_review_id": "ISU-114-R2-Q40",
+    "issue_resolution_index": 39
+  },
+  {
+    "id": "ISU-114-Q41",
+    "school": "ISU",
+    "year": 114,
+    "q": 41,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 41,
+      "pdf_page": 30,
+      "printed_page": 5,
+      "official_pdf_page": 30,
+      "regions": [
+        [
+          24,
+          349.1619999999999,
+          572.32,
+          387.26199999999994
+        ]
+      ],
+      "pixel_box": [
+        63,
+        912,
+        1496,
+        1012
+      ],
+      "image": "questions/Q41.png",
+      "sha256": "635c0b36d0f53d04a75d5b59d282f7bbdf6814656790ffff290b09f7eaf61eed",
+      "width": 1433,
+      "height": 100,
+      "question_text": "41. 血液以擾流方式流動時，下列哪一種參數與擾流大小成反比？\n(A) 平均血流速度(v) (B) 血管直徑(d) (C) 密度() (D) 黏度()",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L2786",
+      "toc_line": 2786,
+      "chapter": 42,
+      "concept": "42.3",
+      "title": "Blood Flow Velocity",
+      "printed_page": 930,
+      "body_pdf_page": 979,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch42 Circulation and Gas Exchange"
+    },
+    "secondary": [],
+    "primary_reason": "42.3 / Blood Flow Velocity：速度、管徑、黏度如何影響血流型態，主歸血流速度。",
+    "secondary_reason": "無另列最小次條目；依雷諾數分母η核對D；保持「傾向」而非實際紊流能量反比，血流速度條目比血壓更直接。",
+    "answer_analysis": "採D。Re=v×d×ρ／η，黏度在分母；題稱「擾流大小」較粗略，嚴謹地說公式比較擾流傾向與臨界条件。",
+    "textbook_evidence": [
+      {
+        "printed_page": 929,
+        "pdf_page": 978,
+        "text_file": "textbook_evidence/pdf-0978.txt",
+        "sha256": "b769a1bed6560008201685b7fb189223fd99eb8adea8581550854d892e1e0c13"
+      },
+      {
+        "printed_page": 930,
+        "pdf_page": 979,
+        "text_file": "textbook_evidence/pdf-0979.txt",
+        "sha256": "51ca711bdfd2dc87af426968d653c7371f6eec19d5ed5dd6e02dfd9afa7a3176"
+      },
+      {
+        "printed_page": 931,
+        "pdf_page": 980,
+        "text_file": "textbook_evidence/pdf-0980.txt",
+        "sha256": "5b7f3e6a7cc1b70bbd4d5248cb4d478f3141a8d454ba9db7dc31041ad4cfcfba"
+      }
+    ],
+    "supplement_ids": [
+      "S41"
+    ],
+    "coverage_note": "Campbell支援所列分類原理；具名物種地點、現代技術與科學界線由列示來源補足，實讀範圍見來源紀錄。",
+    "second_review_id": "ISU-114-R2-Q41",
+    "issue_resolution_index": 40
+  },
+  {
+    "id": "ISU-114-Q42",
+    "school": "ISU",
+    "year": 114,
+    "q": 42,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 42,
+      "pdf_page": 30,
+      "printed_page": 5,
+      "official_pdf_page": 30,
+      "regions": [
+        [
+          24,
+          386.36199999999997,
+          572.32,
+          478.8419999999999
+        ]
+      ],
+      "pixel_box": [
+        63,
+        1010,
+        1496,
+        1251
+      ],
+      "image": "questions/Q42.png",
+      "sha256": "8715a3b3dfb784a19e4427e41d45a8404d88c58bb4a2ca3315e133a0c46c2f72",
+      "width": 1433,
+      "height": 241,
+      "question_text": "42. 下列何者為胃酸分泌最主要驅動力？\n(A) 基底膜(basolateral membrane)上的鈉鉀幫浦(Na+-K+ ATPase)\n(B) 頂膜(apical membrane)上的鈉鉀幫浦\n(C) 基底膜(basolateral membrane)上的氫鉀幫浦(H+-K+ ATPase)\n(D) 頂膜(apical membrane)上的氫鉀幫浦",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L2711",
+      "toc_line": 2711,
+      "chapter": 41,
+      "concept": "41.3",
+      "title": "Digestion in the Stomach",
+      "printed_page": 907,
+      "body_pdf_page": 956,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch41 Animal Nutrition"
+    },
+    "secondary": [
+      {
+        "id": "L0450",
+        "toc_line": 450,
+        "chapter": 7,
+        "concept": "7.4",
+        "title": "The Need for Energy in Active Transport",
+        "printed_page": 136,
+        "body_pdf_page": 185,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          36
+        ],
+        "chapter_label": "Ch07 Membrane Structure and Function"
+      }
+    ],
+    "primary_reason": "41.3 / Digestion in the Stomach：辨認壁細胞朝胃腔排H的酸分泌機制。",
+    "secondary_reason": "7.4 / The Need for Energy in Active Transport：逆濃度梯度ATP幫浦是原理，保留主動運輸次目",
+    "answer_analysis": "採D。頂膜H/K ATPase直接把H分泌到胃腔；基底側Na/K ATPase維持梯度但非題問最直接驅動幫浦。",
+    "textbook_evidence": [
+      {
+        "printed_page": 136,
+        "pdf_page": 185,
+        "text_file": "textbook_evidence/pdf-0185.txt",
+        "sha256": "5885c4d3dfd4af52087a5314c2ae5a25be09e61093fca687c1632ecbf221a2cc"
+      },
+      {
+        "printed_page": 137,
+        "pdf_page": 186,
+        "text_file": "textbook_evidence/pdf-0186.txt",
+        "sha256": "dae08628541b74763aa914a4c3c6c6ac97d48256c97b34111062d5b82b4b714d"
+      },
+      {
+        "printed_page": 907,
+        "pdf_page": 956,
+        "text_file": "textbook_evidence/pdf-0956.txt",
+        "sha256": "9e7d907b0495e71248ef3ea035810257fe8ac9eaabc59ba1cb7fe9cf9555142c"
+      },
+      {
+        "printed_page": 908,
+        "pdf_page": 957,
+        "text_file": "textbook_evidence/pdf-0957.txt",
+        "sha256": "e094089c55a5911a502cf12729d05de9a4ebdae913cfbf8761b6b4a2191d9343"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；題目限定及來源措辭差異保留於科學說明。",
+    "second_review_id": "ISU-114-R2-Q42",
+    "issue_resolution_index": 41
+  },
+  {
+    "id": "ISU-114-Q43",
+    "school": "ISU",
+    "year": 114,
+    "q": 43,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 43,
+      "pdf_page": 30,
+      "printed_page": 5,
+      "official_pdf_page": 30,
+      "regions": [
+        [
+          24,
+          477.94199999999995,
+          572.32,
+          570.4019999999999
+        ]
+      ],
+      "pixel_box": [
+        63,
+        1249,
+        1496,
+        1491
+      ],
+      "image": "questions/Q43.png",
+      "sha256": "f30971b5126429991b82d84633a49c134a2a106c8e6ce5f4fdac5900adc5064c",
+      "width": 1433,
+      "height": 242,
+      "question_text": "43. 關於心臟之法蘭克-史達林機制(Frank-Starling law)的敘述，下列何者正確？\n(A) 在運動過程中無法運作\n(B) 交感神經刺激心臟時，心輸出量增加的機制\n(C) 當靜脈回流增加，心輸出量就增加\n(D) 用來解釋運動時心率增加的機制",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L2773",
+      "toc_line": 2773,
+      "chapter": 42,
+      "concept": "42.2",
+      "title": "The Mammalian Heart: A Closer Look",
+      "printed_page": 926,
+      "body_pdf_page": 975,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch42 Circulation and Gas Exchange"
+    },
+    "secondary": [],
+    "primary_reason": "42.2 / The Mammalian Heart: A Closer Look：心室充盈、搏出量與心輸出量關係是核心。",
+    "secondary_reason": "無另列最小次條目；區分回流→舒張末容積→搏出量的內在調節與交感改变收縮性；C成立於生理範圍，主心臟泵功能。",
+    "answer_analysis": "採C。生理範圍內靜脈回流增加使前負荷與搏出量上升；Frank-Starling是心肌內在長度反應，交感可另調變而非本機制定義，不等於心率增加。",
+    "textbook_evidence": [
+      {
+        "printed_page": 926,
+        "pdf_page": 975,
+        "text_file": "textbook_evidence/pdf-0975.txt",
+        "sha256": "8773131b852180adeb6a32863d5fbcba8f313c6689a1dea9e7c22e64d631592b"
+      },
+      {
+        "printed_page": 927,
+        "pdf_page": 976,
+        "text_file": "textbook_evidence/pdf-0976.txt",
+        "sha256": "615c0f6a753746a6c425ee533f3c8e354c525bb5ec26368f1399f6d9a9915733"
+      },
+      {
+        "printed_page": 928,
+        "pdf_page": 977,
+        "text_file": "textbook_evidence/pdf-0977.txt",
+        "sha256": "2cc06761dbce464e23d3174d076e35eb35284d349e7ae950d922c105318890e6"
+      }
+    ],
+    "supplement_ids": [
+      "S43"
+    ],
+    "coverage_note": "Campbell支援所列分類原理；具名物種地點、現代技術與科學界線由列示來源補足，實讀範圍見來源紀錄。",
+    "second_review_id": "ISU-114-R2-Q43",
+    "issue_resolution_index": 42
+  },
+  {
+    "id": "ISU-114-Q44",
+    "school": "ISU",
+    "year": 114,
+    "q": 44,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 44,
+      "pdf_page": 30,
+      "printed_page": 5,
+      "official_pdf_page": 30,
+      "regions": [
+        [
+          24,
+          569.502,
+          572.32,
+          622.602
+        ]
+      ],
+      "pixel_box": [
+        63,
+        1488,
+        1496,
+        1627
+      ],
+      "image": "questions/Q44.png",
+      "sha256": "e7c205a3e9ab4dd364a6f168ed5f49525ddad5fe01bcd41c1a5bad246032b9d7",
+      "width": 1433,
+      "height": 139,
+      "question_text": "44. 下列哪一種心電圖參數最能代表心房到心室脈衝傳導相關資訊？\n(A) P 波(P wave) (B) PR 間期(PR interval)\n(C) ST節段(ST segment) (D) T波(T wave)",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L2776",
+      "toc_line": 2776,
+      "chapter": 42,
+      "concept": "42.2",
+      "title": "Maintaining the Heart’s Rhythmic Beat",
+      "printed_page": 928,
+      "body_pdf_page": 977,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "text_toc_title": "Maintaining the Heart’s Rhythms",
+      "source_difference": "文字目錄寫Rhythms；PDF46目錄及正文928為Rhythmic Beat，採實際PDF名稱且保留文字來源。",
+      "chapter_label": "Ch42 Circulation and Gas Exchange"
+    },
+    "secondary": [],
+    "primary_reason": "42.2 / Maintaining the Heart’s Rhythmic Beat：心臟節律傳導及ECG中房室傳導延遲為直接考點。",
+    "secondary_reason": "無另列最小次條目；從P起至QRS起完整定義支持B；最小節律目錄包含房室延遲與ECG，沒有把PR interval與segment混用。",
+    "answer_analysis": "採B。PR間期從P起點到QRS起點，涵蓋心房至心室啟動；P僅心房去極化、T為心室再極化，ST非房室傳導時間。",
+    "textbook_evidence": [
+      {
+        "printed_page": 928,
+        "pdf_page": 977,
+        "text_file": "textbook_evidence/pdf-0977.txt",
+        "sha256": "2cc06761dbce464e23d3174d076e35eb35284d349e7ae950d922c105318890e6"
+      },
+      {
+        "printed_page": 929,
+        "pdf_page": 978,
+        "text_file": "textbook_evidence/pdf-0978.txt",
+        "sha256": "b769a1bed6560008201685b7fb189223fd99eb8adea8581550854d892e1e0c13"
+      }
+    ],
+    "supplement_ids": [
+      "S44"
+    ],
+    "coverage_note": "Campbell支援所列分類原理；具名物種地點、現代技術與科學界線由列示來源補足，實讀範圍見來源紀錄。",
+    "second_review_id": "ISU-114-R2-Q44",
+    "issue_resolution_index": 43
+  },
+  {
+    "id": "ISU-114-Q45",
+    "school": "ISU",
+    "year": 114,
+    "q": 45,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 45,
+      "pdf_page": 30,
+      "printed_page": 5,
+      "official_pdf_page": 30,
+      "regions": [
+        [
+          24,
+          621.702,
+          572.32,
+          766.92
+        ]
+      ],
+      "pixel_box": [
+        63,
+        1625,
+        1496,
+        2004
+      ],
+      "image": "questions/Q45.png",
+      "sha256": "ae06fa546e51f9febf0b603c7ab284c3ae54a941c8f6de7bcefc86ae7a52a83d",
+      "width": 1433,
+      "height": 379,
+      "question_text": "45. 下圖為心肌細胞之動作電位，請問哪一時期鉀離子通道的電導最大？\n(A) 0 (B) 1 (C) 2 (D) 3",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": true
+    },
+    "official_answer": {
+      "original": "D",
+      "adopted": "D",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L2776",
+      "toc_line": 2776,
+      "chapter": 42,
+      "concept": "42.2",
+      "title": "Maintaining the Heart’s Rhythmic Beat",
+      "printed_page": 928,
+      "body_pdf_page": 977,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "text_toc_title": "Maintaining the Heart’s Rhythms",
+      "source_difference": "文字目錄寫Rhythms；PDF46目錄及正文928為Rhythmic Beat，採實際PDF名稱且保留文字來源。",
+      "chapter_label": "Ch42 Circulation and Gas Exchange"
+    },
+    "secondary": [
+      {
+        "id": "L3209",
+        "toc_line": 3209,
+        "chapter": 48,
+        "concept": "48.3",
+        "title": "Generation of Action Potentials: A Closer Look",
+        "printed_page": 1073,
+        "body_pdf_page": 1122,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          48
+        ],
+        "chapter_label": "Ch48 Neurons, Synapses, and Signaling"
+      }
+    ],
+    "primary_reason": "42.2 / Maintaining the Heart’s Rhythmic Beat：完整原圖是心肌含平台的動作電位，優先歸心臟節律。",
+    "secondary_reason": "48.3 / Generation of Action Potentials: A Closer Look：電壓門控K流與再極化是分子原理，但神經元圖不能替代心肌原圖",
+    "answer_analysis": "採D即圖中3。所給0–3比較中，第3期K電導增加、Ca電導下降導致再極化。第4期未列選項；不同K通道時程不同，不說所有K通道同時達絕對峰值。",
+    "textbook_evidence": [
+      {
+        "printed_page": 928,
+        "pdf_page": 977,
+        "text_file": "textbook_evidence/pdf-0977.txt",
+        "sha256": "2cc06761dbce464e23d3174d076e35eb35284d349e7ae950d922c105318890e6"
+      },
+      {
+        "printed_page": 929,
+        "pdf_page": 978,
+        "text_file": "textbook_evidence/pdf-0978.txt",
+        "sha256": "b769a1bed6560008201685b7fb189223fd99eb8adea8581550854d892e1e0c13"
+      },
+      {
+        "printed_page": 1073,
+        "pdf_page": 1122,
+        "text_file": "textbook_evidence/pdf-1122.txt",
+        "sha256": "75edf25b57d7a755d0bca305c1f9800ba8b85bd7e018c2ee62bd3f62da970a04"
+      },
+      {
+        "printed_page": 1074,
+        "pdf_page": 1123,
+        "text_file": "textbook_evidence/pdf-1123.txt",
+        "sha256": "b13e6609393294635e3dcedd8af28e7da79bcfe26980c2a0ffdb548da4c5356a"
+      },
+      {
+        "printed_page": 1075,
+        "pdf_page": 1124,
+        "text_file": "textbook_evidence/pdf-1124.txt",
+        "sha256": "db0fe940f0b4ea62c2eabfd95ef84241d708003e338a022c2e6f63d7c3580c96"
+      },
+      {
+        "printed_page": 1131,
+        "pdf_page": 1180,
+        "text_file": "textbook_evidence/pdf-1180.txt",
+        "sha256": "131bc65d94260173a5e7aaa370429ffbcd66f60398c374f43e7c9fb301cc828e"
+      }
+    ],
+    "supplement_ids": [
+      "S45"
+    ],
+    "coverage_note": "Campbell支援所列分類原理；具名物種地點、現代技術與科學界線由列示來源補足，實讀範圍見來源紀錄。",
+    "second_review_id": "ISU-114-R2-Q45",
+    "issue_resolution_index": 44
+  },
+  {
+    "id": "ISU-114-Q46",
+    "school": "ISU",
+    "year": 114,
+    "q": 46,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 46,
+      "pdf_page": 31,
+      "printed_page": 6,
+      "official_pdf_page": 31,
+      "regions": [
+        [
+          24,
+          166.37199999999996,
+          572.32,
+          222.112
+        ]
+      ],
+      "pixel_box": [
+        63,
+        435,
+        1496,
+        580
+      ],
+      "image": "questions/Q46.png",
+      "sha256": "223e30e9bc326a785c0395a011a16833dc20c795e5e9784b9be2834975f6fd97",
+      "width": 1433,
+      "height": 145,
+      "question_text": "46. 主動脈產生韋德克瑟爾效應(Windkessel effect)時，主動脈壓與左心室壓之關係為何？\n(A) 主動脈壓大於左心室壓 (B) 主動脈壓等於左心室壓\n(C) 主動脈壓小於左心室壓 (D) 以上皆非",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L2789",
+      "toc_line": 2789,
+      "chapter": 42,
+      "concept": "42.3",
+      "title": "Blood Pressure",
+      "printed_page": 930,
+      "body_pdf_page": 979,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch42 Circulation and Gas Exchange"
+    },
+    "secondary": [
+      {
+        "id": "L2773",
+        "toc_line": 2773,
+        "chapter": 42,
+        "concept": "42.2",
+        "title": "The Mammalian Heart: A Closer Look",
+        "printed_page": 926,
+        "body_pdf_page": 975,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          46
+        ],
+        "chapter_label": "Ch42 Circulation and Gas Exchange"
+      }
+    ],
+    "primary_reason": "42.3 / Blood Pressure：主動脈彈性回縮維持舒張壓是血壓條目的直接機制。",
+    "secondary_reason": "42.2 / The Mammalian Heart: A Closer Look：心室舒張與半月瓣關閉時的壓差補足比較",
+    "answer_analysis": "採A。Windkessel回縮供流的舒張期主動脈壓高於左室，主動脈瓣閉合；題未明寫時相，不能把A擴張為射血期或全心動週期皆成立。",
+    "textbook_evidence": [
+      {
+        "printed_page": 927,
+        "pdf_page": 976,
+        "text_file": "textbook_evidence/pdf-0976.txt",
+        "sha256": "615c0f6a753746a6c425ee533f3c8e354c525bb5ec26368f1399f6d9a9915733"
+      },
+      {
+        "printed_page": 930,
+        "pdf_page": 979,
+        "text_file": "textbook_evidence/pdf-0979.txt",
+        "sha256": "51ca711bdfd2dc87af426968d653c7371f6eec19d5ed5dd6e02dfd9afa7a3176"
+      },
+      {
+        "printed_page": 931,
+        "pdf_page": 980,
+        "text_file": "textbook_evidence/pdf-0980.txt",
+        "sha256": "5b7f3e6a7cc1b70bbd4d5248cb4d478f3141a8d454ba9db7dc31041ad4cfcfba"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；題目限定及來源措辭差異保留於科學說明。",
+    "second_review_id": "ISU-114-R2-Q46",
+    "issue_resolution_index": 45
+  },
+  {
+    "id": "ISU-114-Q47",
+    "school": "ISU",
+    "year": 114,
+    "q": 47,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 47,
+      "pdf_page": 31,
+      "printed_page": 6,
+      "official_pdf_page": 31,
+      "regions": [
+        [
+          24,
+          221.212,
+          572.32,
+          329.3019999999999
+        ]
+      ],
+      "pixel_box": [
+        63,
+        578,
+        1496,
+        860
+      ],
+      "image": "questions/Q47.png",
+      "sha256": "17fdaadff6702aa0b350eddcf1501056028008c95ac5f9dff97a1675fb123ce9",
+      "width": 1433,
+      "height": 282,
+      "question_text": "47. 心室早期收縮(premature ventricular contractions)後，出現代償間歇(compensatory pause)主要是因為\n下列何種原因？\n(A) 心房處於不反應期而無法產生反應\n(B) 希氏束(bundle of His)阻斷竇性脈衝(sinus impulses)往心室傳導\n(C) 心室於此時是處在不反應期\n(D) 心房傳導一個逆行脈衝(retrograde impulse)",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "C",
+      "adopted": "C",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L2776",
+      "toc_line": 2776,
+      "chapter": 42,
+      "concept": "42.2",
+      "title": "Maintaining the Heart’s Rhythmic Beat",
+      "printed_page": 928,
+      "body_pdf_page": 977,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "text_toc_title": "Maintaining the Heart’s Rhythms",
+      "source_difference": "文字目錄寫Rhythms；PDF46目錄及正文928為Rhythmic Beat，採實際PDF名稱且保留文字來源。",
+      "chapter_label": "Ch42 Circulation and Gas Exchange"
+    },
+    "secondary": [
+      {
+        "id": "L3209",
+        "toc_line": 3209,
+        "chapter": 48,
+        "concept": "48.3",
+        "title": "Generation of Action Potentials: A Closer Look",
+        "printed_page": 1073,
+        "body_pdf_page": 1122,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          48
+        ],
+        "chapter_label": "Ch48 Neurons, Synapses, and Signaling"
+      }
+    ],
+    "primary_reason": "42.2 / Maintaining the Heart’s Rhythmic Beat：PVC影響下一正常搏動的時序，主歸心臟節律。",
+    "secondary_reason": "48.3 / Generation of Action Potentials: A Closer Look：不反應期的離子通道恢復原理解釋為何刺激不能再啟動",
+    "answer_analysis": "採C。典型未重設竇節律的PVC使下一竇性脈衝遇心室不反應期；插入型PVC或逆行重設可有不同間歇。不能把特定傳導束阻斷視為普遍主因。",
+    "textbook_evidence": [
+      {
+        "printed_page": 928,
+        "pdf_page": 977,
+        "text_file": "textbook_evidence/pdf-0977.txt",
+        "sha256": "2cc06761dbce464e23d3174d076e35eb35284d349e7ae950d922c105318890e6"
+      },
+      {
+        "printed_page": 929,
+        "pdf_page": 978,
+        "text_file": "textbook_evidence/pdf-0978.txt",
+        "sha256": "b769a1bed6560008201685b7fb189223fd99eb8adea8581550854d892e1e0c13"
+      },
+      {
+        "printed_page": 1073,
+        "pdf_page": 1122,
+        "text_file": "textbook_evidence/pdf-1122.txt",
+        "sha256": "75edf25b57d7a755d0bca305c1f9800ba8b85bd7e018c2ee62bd3f62da970a04"
+      },
+      {
+        "printed_page": 1074,
+        "pdf_page": 1123,
+        "text_file": "textbook_evidence/pdf-1123.txt",
+        "sha256": "b13e6609393294635e3dcedd8af28e7da79bcfe26980c2a0ffdb548da4c5356a"
+      },
+      {
+        "printed_page": 1075,
+        "pdf_page": 1124,
+        "text_file": "textbook_evidence/pdf-1124.txt",
+        "sha256": "db0fe940f0b4ea62c2eabfd95ef84241d708003e338a022c2e6f63d7c3580c96"
+      }
+    ],
+    "supplement_ids": [
+      "S47"
+    ],
+    "coverage_note": "Campbell支援所列分類原理；具名物種地點、現代技術與科學界線由列示來源補足，實讀範圍見來源紀錄。",
+    "second_review_id": "ISU-114-R2-Q47",
+    "issue_resolution_index": 46
+  },
+  {
+    "id": "ISU-114-Q48",
+    "school": "ISU",
+    "year": 114,
+    "q": 48,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 48,
+      "pdf_page": 31,
+      "printed_page": 6,
+      "official_pdf_page": 31,
+      "regions": [
+        [
+          24,
+          328.40199999999993,
+          572.32,
+          384.26199999999994
+        ]
+      ],
+      "pixel_box": [
+        63,
+        858,
+        1496,
+        1004
+      ],
+      "image": "questions/Q48.png",
+      "sha256": "af38dba35ead6c0c0940b36030a43c541f3c5f433611be4a926d34dec78aeed2",
+      "width": 1433,
+      "height": 146,
+      "question_text": "48. 當胃內胃酸分泌使 pH值過低時(pH＜3)，會分泌下列何種胜肽至胃腔中以改變此狀況？\n(A) 體抑素(somatostatin) (B) 胰泌素(secretin)\n(C) 膽囊收縮素(cholecystokinin) (D) 胃抑素(gastric inhibitory polypeptide)",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [
+        13
+      ],
+      "clarification_disposition": "同年度釋疑維持原答案A"
+    },
+    "primary": {
+      "id": "L2740",
+      "toc_line": 2740,
+      "chapter": 41,
+      "concept": "41.5",
+      "title": "Regulation of Digestion",
+      "printed_page": 915,
+      "body_pdf_page": 964,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        46
+      ],
+      "chapter_label": "Ch41 Animal Nutrition"
+    },
+    "secondary": [
+      {
+        "id": "L2998",
+        "toc_line": 2998,
+        "chapter": 45,
+        "concept": "45.1",
+        "title": "Intercellular Information Flow",
+        "printed_page": 1000,
+        "body_pdf_page": 1049,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          47
+        ],
+        "chapter_label": "Ch45 Hormones and the Endocrine System"
+      }
+    ],
+    "primary_reason": "41.5 / Regulation of Digestion：胃酸負回饋與胃腺分泌調節是直接考點。",
+    "secondary_reason": "45.1 / Intercellular Information Flow：D細胞局部作用屬旁分泌，必須保留細胞間訊號條目以指出分泌側別",
+    "answer_analysis": "官方採A且維持。低pH促D細胞體抑素抑制G/ECL/壁細胞；原題寫「至胃腔中」，官方明說旁分泌，科學上主要局部間質訊號，二者不等同。原文與官方解釋並存，不改題掩蓋差異。",
+    "textbook_evidence": [
+      {
+        "printed_page": 915,
+        "pdf_page": 964,
+        "text_file": "textbook_evidence/pdf-0964.txt",
+        "sha256": "ea29e08d83b858bdaf063849870592412ee08d84e6bc84fdfbb45f89df73033e"
+      },
+      {
+        "printed_page": 916,
+        "pdf_page": 965,
+        "text_file": "textbook_evidence/pdf-0965.txt",
+        "sha256": "d153f211471595d3817b8b8adbe5434434f9d4a15ce1ee0a32d61ba594c6cf32"
+      },
+      {
+        "printed_page": 1000,
+        "pdf_page": 1049,
+        "text_file": "textbook_evidence/pdf-1049.txt",
+        "sha256": "eb74577a74820c7d29fb09be4e44ee9544f16e4c48acba6ef5b0fae9b954b505"
+      },
+      {
+        "printed_page": 1001,
+        "pdf_page": 1050,
+        "text_file": "textbook_evidence/pdf-1050.txt",
+        "sha256": "8d471031ce866f64c92e513115e5c0ebc276d893edede2505a5a503ceb17a5ab"
+      }
+    ],
+    "supplement_ids": [
+      "S48",
+      "S35"
+    ],
+    "coverage_note": "Campbell支援所列分類原理；具名物種地點、現代技術與科學界線由列示來源補足，實讀範圍見來源紀錄。",
+    "second_review_id": "ISU-114-R2-Q48",
+    "issue_resolution_index": 47
+  },
+  {
+    "id": "ISU-114-Q49",
+    "school": "ISU",
+    "year": 114,
+    "q": 49,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 49,
+      "pdf_page": 31,
+      "printed_page": 6,
+      "official_pdf_page": 31,
+      "regions": [
+        [
+          24,
+          383.36199999999997,
+          572.32,
+          439.2219999999999
+        ]
+      ],
+      "pixel_box": [
+        63,
+        1002,
+        1496,
+        1148
+      ],
+      "image": "questions/Q49.png",
+      "sha256": "48bccc6c5c54bb99b3ab8dcc1a82f3e8c25a0c08095918c08640e5b530def258",
+      "width": 1433,
+      "height": 146,
+      "question_text": "49. 無論是交感神經或副交感神經興奮的作用，均可促進下列哪一個腺體的分泌？\n(A) 腎上腺(adrenal glands ) (B) 唾液腺(salivary glands )\n(C) 胰泡(acini of pancreas ) (D) 胃腺(gastric glands )",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "B",
+      "adopted": "B",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [
+        13
+      ],
+      "clarification_disposition": "同年度釋疑維持原答案B"
+    },
+    "primary": {
+      "id": "L3245",
+      "toc_line": 3245,
+      "chapter": 49,
+      "concept": "49.1",
+      "title": "The Peripheral Nervous System",
+      "printed_page": 1088,
+      "body_pdf_page": 1137,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        48
+      ],
+      "chapter_label": "Ch49 Nervous Systems"
+    },
+    "secondary": [
+      {
+        "id": "L2708",
+        "toc_line": 2708,
+        "chapter": 41,
+        "concept": "41.3",
+        "title": "The Oral Cavity, Pharynx, and Esophagus",
+        "printed_page": 905,
+        "body_pdf_page": 954,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          46
+        ],
+        "chapter_label": "Ch41 Animal Nutrition"
+      }
+    ],
+    "primary_reason": "49.1 / The Peripheral Nervous System：比較交感與副交感對腺體的調控，主歸周邊自主神經。",
+    "secondary_reason": "41.3 / The Oral Cavity, Pharynx, and Esophagus：唾液腺的消化分泌功能為具名效應器",
+    "answer_analysis": "採B且維持。兩種刺激均可分泌唾液，通常副交感多水分、交感較多蛋白。Campbell圖49.7概括交感抑唾液而與本題更細的條件不全同；原始腮腺刺激研究支持雙向促分泌。官方亦保留胰腺交感效應有雙重性的說明。",
+    "textbook_evidence": [
+      {
+        "printed_page": 905,
+        "pdf_page": 954,
+        "text_file": "textbook_evidence/pdf-0954.txt",
+        "sha256": "5915fec90925fc35c280c3c0f011308069e21ed54316aa6394e113b08cc72925"
+      },
+      {
+        "printed_page": 906,
+        "pdf_page": 955,
+        "text_file": "textbook_evidence/pdf-0955.txt",
+        "sha256": "1de82fa735485ab29ae34cd12a6134c58fcabb0364ef6c03e03777a0009243b7"
+      },
+      {
+        "printed_page": 1088,
+        "pdf_page": 1137,
+        "text_file": "textbook_evidence/pdf-1137.txt",
+        "sha256": "1e375360042ef55e1fa83718f868dd3dd3fe83bc2489974f1ec02e678cb55f92"
+      },
+      {
+        "printed_page": 1089,
+        "pdf_page": 1138,
+        "text_file": "textbook_evidence/pdf-1138.txt",
+        "sha256": "b136f01f119fd72a92b5488be0652535692db27c3032ab353ff4284bbf9ab7b0"
+      }
+    ],
+    "supplement_ids": [
+      "S49"
+    ],
+    "coverage_note": "Campbell支援所列分類原理；具名物種地點、現代技術與科學界線由列示來源補足，實讀範圍見來源紀錄。",
+    "second_review_id": "ISU-114-R2-Q49",
+    "issue_resolution_index": 48
+  },
+  {
+    "id": "ISU-114-Q50",
+    "school": "ISU",
+    "year": 114,
+    "q": 50,
+    "status": "FORMAL",
+    "pending_review": false,
+    "question": {
+      "q": 50,
+      "pdf_page": 31,
+      "printed_page": 6,
+      "official_pdf_page": 31,
+      "regions": [
+        [
+          24,
+          438.32199999999995,
+          572.32,
+          766.92
+        ]
+      ],
+      "pixel_box": [
+        63,
+        1145,
+        1496,
+        2004
+      ],
+      "image": "questions/Q50.png",
+      "sha256": "94c4ccee1b49930b174b46b7e1f54761f21d3fdcc975a09cfe5ae9ccc4d19620",
+      "width": 1433,
+      "height": 859,
+      "question_text": "50. 對於不同強度的感覺刺激，神經纖維的主要變化參數為何？\n(A) 動作電位的頻率(frequency) (B) 動作電位的強度(amplitude)\n(C) 動作電位的間期(duration) (D) 受體電位的潛伏期(latency)",
+      "text_source": "本輪同年完整PDF生物區域提取，逐頁完整視讀。特殊字形、浮水印、圖形及上下標以原圖為準。",
+      "shared_stimulus": false,
+      "includes_figure": false
+    },
+    "official_answer": {
+      "original": "A",
+      "adopted": "A",
+      "answer_pdf_page": 1,
+      "answer_region": "最下方第四表：生物學，上方國文/化學/英文不採用",
+      "clarification_pdf_pages": [],
+      "clarification_disposition": "未列於本輪取得114生物釋疑PDF8下方至13；依同年度答案PDF1最下方生物表採計"
+    },
+    "primary": {
+      "id": "L3332",
+      "toc_line": 3332,
+      "chapter": 50,
+      "concept": "50.1",
+      "title": "Transmission",
+      "printed_page": 1109,
+      "body_pdf_page": 1158,
+      "kind": "entry",
+      "toc_pdf_pages": [
+        49
+      ],
+      "chapter_label": "Ch50 Sensory and Motor Mechanisms"
+    },
+    "secondary": [
+      {
+        "id": "L3206",
+        "toc_line": 3206,
+        "chapter": 48,
+        "concept": "48.3",
+        "title": "Graded Potentials and Action Potentials",
+        "printed_page": 1073,
+        "body_pdf_page": 1122,
+        "kind": "entry",
+        "toc_pdf_pages": [
+          48
+        ],
+        "chapter_label": "Ch48 Neurons, Synapses, and Signaling"
+      }
+    ],
+    "primary_reason": "50.1 / Transmission：感覺訊號傳遞以動作電位頻率編碼刺激強度。",
+    "secondary_reason": "48.3 / Graded Potentials and Action Potentials：受體階梯電位與全或無動作電位幅度的区别解釋排除其餘選项",
+    "answer_analysis": "採A。更強刺激可產生較大受體電位，於感覺神經轉成較高放電頻率；同一纖維動作電位幅度非強度編碼的主要變數。",
+    "textbook_evidence": [
+      {
+        "printed_page": 1073,
+        "pdf_page": 1122,
+        "text_file": "textbook_evidence/pdf-1122.txt",
+        "sha256": "75edf25b57d7a755d0bca305c1f9800ba8b85bd7e018c2ee62bd3f62da970a04"
+      },
+      {
+        "printed_page": 1074,
+        "pdf_page": 1123,
+        "text_file": "textbook_evidence/pdf-1123.txt",
+        "sha256": "b13e6609393294635e3dcedd8af28e7da79bcfe26980c2a0ffdb548da4c5356a"
+      },
+      {
+        "printed_page": 1108,
+        "pdf_page": 1157,
+        "text_file": "textbook_evidence/pdf-1157.txt",
+        "sha256": "79c05ba874e4193051d8c36592be2566d351aac2b341d168f8cc20254abca62f"
+      },
+      {
+        "printed_page": 1109,
+        "pdf_page": 1158,
+        "text_file": "textbook_evidence/pdf-1158.txt",
+        "sha256": "f61c2e966eee57298ee928041d1a10324496ca88e3d6ff892afc2a36e2cda9c4"
+      }
+    ],
+    "supplement_ids": [],
+    "coverage_note": "Campbell正文支援分類原理；題目限定及來源措辭差異保留於科學說明。",
+    "second_review_id": "ISU-114-R2-Q50",
+    "issue_resolution_index": 49
+  }
+]

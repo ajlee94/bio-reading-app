@@ -1,0 +1,304 @@
+[
+  {
+    "id": "S10",
+    "title": "Ubelhart 2015 IgM/IgD；Chen 2009 secreted IgD",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/25848865/",
+      "https://pubmed.ncbi.nlm.nih.gov/19561614/"
+    ],
+    "finding": "成熟B細胞可同時表現IgM與IgD受體；研究亦發現分泌型IgD，不能將IgD寫成唯一BCR或絕不分泌。",
+    "read_scope": "本輪閱讀兩篇原始研究PubMed摘要，非全文；只補足官方與Campbell簡化界線。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU114官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "cd49deba154081ec9ff83f335f3cdda97a08a209cc25a99cbc4b3ee5f67b5ef7"
+  },
+  {
+    "id": "S13",
+    "title": "CDC環境感染控制原始指引",
+    "urls": [
+      "https://www.cdc.gov/infection-control/hcp/environmental-control/water.html"
+    ],
+    "finding": "指引把Pseudomonas aeruginosa列為革蘭氏陰性水源相關病原。",
+    "read_scope": "閱讀Other Gram-Negative Bacterial Infections相關段落。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU114官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "346fad06395fc20617925b213d0fc80ff24e23be5d4817c6344135bb09f1de31"
+  },
+  {
+    "id": "S15",
+    "title": "Bravo 2011 microbiota and GABA",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/21876150/"
+    ],
+    "finding": "小鼠L. rhamnosus研究觀察到中樞GABA受體表現與行為變化，迷走神經切斷後效應消失；不能推出腸道GABA直接穿過血腦障壁或人體療效。",
+    "read_scope": "本輪PubMed摘要全文，非PMC全文；PMC工具遇驗證頁未繞過。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU114官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "71256a2cdc103741a4594373153a68c69c0fcfb38471eee38940ccbec0433dce"
+  },
+  {
+    "id": "S24",
+    "title": "Alberts Molecular Biology of the Cell antibody diversity",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK26860/"
+    ],
+    "finding": "類型轉換以重鏈恆定區的DNA重組改變效應類型，保留已組好的VDJ；與IgM/IgD共表現的RNA處理不同。",
+    "read_scope": "閱讀Class switching段落與相鄰IgM/IgD說明；不採用舊版其他數據。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU114官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "4becd10339ef433c0992aa6b230627d445e2ddf1e43d48225a6d0740fa5a73e2"
+  },
+  {
+    "id": "S26",
+    "title": "NCI Mass Spectrometry Section",
+    "urls": [
+      "https://ostr.ccr.cancer.gov/msp/",
+      "https://proteomics.cancer.gov/resources/computational-tools"
+    ],
+    "finding": "NCI質譜平台提供蛋白鑑定、定量與磷酸化等修飾位點分析；層析可作前處理，不能因此取代質譜在本題的角色。",
+    "read_scope": "閱讀平台功能及MS/MS分析流程相關文字；未實際操作儀器。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU114官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "aa49940ae1193a05c6fa045479aa3c2660c5fc792f3c415e90425d079a779c17"
+  },
+  {
+    "id": "S27",
+    "title": "NCI CAR T Cells",
+    "urls": [
+      "https://www.cancer.gov/about-cancer/treatment/research/car-t-cells"
+    ],
+    "finding": "將編碼特殊嵌合抗原受體的遺傳資訊導入T細胞，受體兼具辨識與細胞內訊號功能；不限於直接改造天然TCR。",
+    "read_scope": "閱讀CAR工程原理相關正文；不涉及療程建議。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU114官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "de6bf61aa982c19a3895c740b97b7dbb4a7d631a767259f46883c6a6f37e96ea"
+  },
+  {
+    "id": "S30",
+    "title": "CSU Endocrine control of calcium and phosphate",
+    "urls": [
+      "https://vivo.colostate.edu/hbooks/pathphys/endocrine/thyroid/pth.html",
+      "https://vivo.colostate.edu/hbooks/pathphys/endocrine/thyroid/calcium.html"
+    ],
+    "finding": "PTH促進腎排磷；維生素D促進腸道鈣磷吸收。骨釋磷不等於PTH通常淨升高血磷。",
+    "read_scope": "閱讀作者Richard Bowen教學正文與鈣磷調控表；部分重開連結失敗，使用本輪工具已返回相關正文。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU114官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "1ac347c274671e4824fda2f856f1c5201a73a40ba93af73c7ec0a6b653f45dfd"
+  },
+  {
+    "id": "S31",
+    "title": "Casey Henley Foundations of Neuroscience",
+    "urls": [
+      "https://openbooks.lib.msu.edu/neuroscience/chapter/membrane-potential/"
+    ],
+    "finding": "教學模型Cl反轉電位約−65mV，Na約+60mV、K約−85mV；依題目沒有K的四選项選Cl，數值依細胞濃度而異。",
+    "read_scope": "閱讀作者教材Equilibrium Potential及表3.1。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU114官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "26a9eade9d2ccbc95183d2e4bae7c2ae3f754e92f70ef9cd6e86701e11720add"
+  },
+  {
+    "id": "S32",
+    "title": "Klakowicz Baldwin Collins 2006",
+    "urls": [
+      "https://journals.physiology.org/doi/full/10.1152/jn.00765.2005"
+    ],
+    "finding": "人體神經刺激研究區分直接運動軸突活化和感覺傳入引起的脊髓反射募集；M為直接運動反應，H為反射成分。",
+    "read_scope": "閱讀原始研究摘要、Introduction及反射貢獻段落；不是人體實驗重作。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU114官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "fa7acd78cae0ab52531a0376589f3e70883f695e356352ce3023b0529eb0b873"
+  },
+  {
+    "id": "S33",
+    "title": "Hai and Murphy 1988 latch model",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/3337223/"
+    ],
+    "finding": "模型包含磷酸化循環橋及去磷酸化非循環橋；去磷酸化參與latch維持張力，不能說MLCP與平滑肌收縮調節無關。",
+    "read_scope": "閱讀原始研究摘要；以模型範圍補足官方的簡化對比。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU114官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "bbda3b36c1b1a947d6cf1927e1cc6c9ce49fbe020b11d390a5020903d7598a37"
+  },
+  {
+    "id": "S34",
+    "title": "Morgan et al 2014 PKA airway relaxation",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/24973219/"
+    ],
+    "finding": "細胞與組織研究中抑制PKA會消除大部分β致效劑的鬆弛效應；PKA促鬆弛，不應寫成啟動MLCK而舒張。",
+    "read_scope": "閱讀原始研究PubMed摘要及圖說；不把單一底物當成完整機制。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU114官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "92141b3109da01e769bfe5eaf63b5ab1e9c03207c56115864eae4e9d69b24f21"
+  },
+  {
+    "id": "S35",
+    "title": "OpenStax Anatomy and Physiology 2e stomach",
+    "urls": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-4-the-stomach"
+    ],
+    "finding": "壁細胞分泌HCl與內在因子；後者為B12小腸吸收所需。胃內分泌細胞釋出激素至固有層間質。",
+    "read_scope": "閱讀作者教材胃腺細胞相關段落；同時支持Q48分泌側別界線。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU114官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "0c4a66bdc0c84be9482d14e4fddb773bfb3815d001c71ba452453546c9cdecd1"
+  },
+  {
+    "id": "S36",
+    "title": "Purves Neuroscience Thalamocortical Interactions",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK11000/"
+    ],
+    "finding": "慢波睡眠時視丘皮質與皮質神經元同步振盪；網狀核參與調節，睡眠紡錘波和delta不能當成同一訊號。",
+    "read_scope": "閱讀作者教材Thalamocortical Interactions正文。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU114官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "ffc8a77738001af7a79db25ca7b4b920522cd200413ae098761e9a3a7ba90ba9"
+  },
+  {
+    "id": "S37",
+    "title": "Krishnan et al 2016 sleep-stage network model",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/27849520/"
+    ],
+    "finding": "作者比較NREM、REM與清醒的神經調質組合，N2/N3組織胺與ACh降低而GABA增加，REM另有不同設定；睡眠不能概括成ACh一律下降。",
+    "read_scope": "閱讀原始研究摘要、Figure 1–5圖說及工具返回段落；這是模型加記錄比較，非所有腦區的普遍定律。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU114官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "4b3547ddd101ba4691729b411f0e5332ed74fc9e7eda71086d3e62f44efa9a76"
+  },
+  {
+    "id": "S38",
+    "title": "Michelson et al 2014 suvorexant trial",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/24680372/"
+    ],
+    "finding": "原始隨機試驗把suvorexant界定為orexin受體拮抗劑並研究失眠睡眠改善，支持本題藥理辨識。",
+    "read_scope": "閱讀摘要背景方法結果；不提供用藥建議或劑量。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU114官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "076f6c0b8aa42794cb5970f5bc6391cd1fa951b5e0ca2769036f5c73f6da0899"
+  },
+  {
+    "id": "S40",
+    "title": "1990 rat pineal serotonin metabolism",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/1699155/"
+    ],
+    "finding": "大鼠研究描述夜間NAT與褪黑激素高、血清素較低的日夜模式；不能擴張成所有物種所有夜間時点完全相同。",
+    "read_scope": "閱讀原始研究摘要；與本地Campbell夜間褪黑激素分泌整合。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU114官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "6e7bd87a2fd677f3d3d9bdd5387658fa6d68b2beeae9be4c28dbe4277e1d9e23"
+  },
+  {
+    "id": "S41",
+    "title": "Klabunde CV Physiology turbulent flow",
+    "urls": [
+      "https://cvphysiology.com/hemodynamics/h007"
+    ],
+    "finding": "雷諾數Re=速度×直徑×密度／黏度，黏度在分母。Re衡量擾流傾向，非實測擾流強度處處線性反比。",
+    "read_scope": "閱讀作者教材雷諾數公式及條件段落。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU114官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "1378bf4767057657dbe9e26e0e659a3fa695304317a064d6e519b7c697efc8fc"
+  },
+  {
+    "id": "S43",
+    "title": "Klabunde CV Physiology Frank-Starling",
+    "urls": [
+      "https://cvphysiology.com/cardiac-function/cf003"
+    ],
+    "finding": "增加靜脈回流與前負荷會在生理範圍增大搏出量；是心肌內在機制，交感刺激可另調節曲線。",
+    "read_scope": "閱讀作者教材機制正文。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU114官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "6b9141c5daacc0da42714c12147696202a046ddc57b18e28048956e6305a9f16"
+  },
+  {
+    "id": "S44",
+    "title": "Klabunde CV Physiology electrocardiogram",
+    "urls": [
+      "https://cvphysiology.com/arrhythmias/a009"
+    ],
+    "finding": "PR間期從P波起點至QRS起點，反映心房啟動到心室啟動的傳導時間，非只有AV結時間。",
+    "read_scope": "閱讀作者教材PR及相關波形段落。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU114官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "3a20492dc51929a7dcaf70229306ddce750c2f7889edff8770ec3f25f80fe3fa"
+  },
+  {
+    "id": "S45",
+    "title": "Klabunde CV Pharmacology cardiac action potentials",
+    "urls": [
+      "https://cvpharmacology.com/antiarrhy/cardiac-action-potentials"
+    ],
+    "finding": "快反應心肌第3期K電導增加且Ca電導降低以再極化；不能用神經元無平台的波形取代原圖。",
+    "read_scope": "閱讀作者教材快反應動作電位0–4期電導表。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU114官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "0a344ac4400c433f4666e179b37da4871eeec6336a2ccb2afcc8c0df9424264e"
+  },
+  {
+    "id": "S47",
+    "title": "University of Utah ECG Learning Center",
+    "urls": [
+      "https://ecg.utah.edu/lesson/5-3"
+    ],
+    "finding": "典型PVC後竇節律未重設，下一竇性刺激遇心室不反應期而漏傳形成完整代償間歇；插入型或重設竇節律有例外。",
+    "read_scope": "閱讀作者教材PVC後事件及例外段落。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU114官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "f38e818ada7ef13c159b520997875b16cde20a5127c5ff6547e2dc63652286c2"
+  },
+  {
+    "id": "S48",
+    "title": "1983 somatostatin isolated gastric glands study",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/6192726/"
+    ],
+    "finding": "離體胃腺研究顯示體抑素抑制胃泌素或組織胺刺激的酸分泌；與官方D細胞旁分泌說明相容。",
+    "read_scope": "閱讀原始研究摘要；不把離體結果說成人體腔內分泌實測。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU114官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "a343f5cc8150b09ada42ad6d3d888519b254cfd2770ec68d8325c0fc27ac123d"
+  },
+  {
+    "id": "S49",
+    "title": "Anderson et al 1984 rat parotid nerve stimulation",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/6205147/"
+    ],
+    "finding": "副交感刺激產生較多低蛋白唾液，交感刺激產生較少高蛋白唾液；兩者均可促分泌但不能等同分泌量與成分。",
+    "read_scope": "閱讀原始研究摘要；大鼠腮腺情境與官方廣義題意分開。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU114官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "406b07c517fb69156d6ed26aa89539408df4cd3fbab36e6e0693798c79154683"
+  }
+]

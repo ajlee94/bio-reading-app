@@ -1,0 +1,194 @@
+{
+  "question": {
+    "path": "142e3a9a912929ebd0434c99.pdf",
+    "sha256": "b407865b3cf3ed894162b298eda18231833092a4d1eff9d91d8893e889539321",
+    "pdf_pages": 9,
+    "inventory_category": "biology_question",
+    "scope_status": "ALL_NINE_FULL_PAGES_VISUALLY_READ",
+    "subject": "生物學",
+    "question_count": 50,
+    "cover_pdf_page": 1,
+    "biology_pdf_pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "printed_pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "text_layer": true,
+    "cross_page_questions": {},
+    "shared_questions": [],
+    "figure_questions": [],
+    "scope_note": "本輪實看全部9頁；封面與PDF2標50題，PDF2–9連續Q1–50，全為生物學；無跨頁、共享題幹或圖表。",
+    "local_acquisition": {
+      "source": "原始TCU108壓縮包及清冊；下載入口為補教彙整之原試卷轉存，不冒充本輪官網下載",
+      "package_path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/schools/TCU/packages/TCU_108_biology_archive.rar",
+      "package_sha256": "6e2cf7739e216513ab497539f593d9edaa3dcd8e0c4c69f5abfde5257c2a1d79",
+      "inventory_path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/extracted_packages_inventory.csv",
+      "inventory_sha256": "280d2bc8f91ec869bda3500a48c733e0ab0fb17f821cdc03e7b5f29751096347"
+    },
+    "current_official_access": {
+      "status": "ARCHIVED_SAME_YEAR_LOCAL_PDF_USED",
+      "scope": "本輪查閱官方題本搜尋索引與舊網址轉首頁；完整本地原卷及同年壓縮包清冊、SHA留存。沒有以其他學校或年度取代。"
+    }
+  },
+  "answer": {
+    "path": "11e18c9b6bb4e2c1c9f9fb78.pdf",
+    "sha256": "cbf50353b88bad2201f8d309ed915c5d58518ff2e785ef6a4c98268eafdb9e42",
+    "pdf_pages": 1,
+    "inventory_category": "biology_answer",
+    "scope_status": "LOCAL_ANSWER_PDF1_AND_MIRROR_PDF4_ALL_50_VISUALLY_CHECKED",
+    "biology_pdf_pages": [
+      1
+    ],
+    "local_acquisition": {
+      "source": "原始TCU108壓縮包及清冊；下載入口為補教彙整之原試卷轉存，不冒充本輪官網下載",
+      "package_path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/schools/TCU/packages/TCU_108_biology_archive.rar",
+      "package_sha256": "6e2cf7739e216513ab497539f593d9edaa3dcd8e0c4c69f5abfde5257c2a1d79",
+      "inventory_path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/extracted_packages_inventory.csv",
+      "inventory_sha256": "280d2bc8f91ec869bda3500a48c733e0ab0fb17f821cdc03e7b5f29751096347"
+    },
+    "current_official_access": {
+      "status": "OFFICIAL_OLD_PDF_URL_REDIRECTED_TO_HTML",
+      "url": "https://admissions.tcu.edu.tw/wp-content/uploads/2019/05/108%E5%8F%83%E8%80%83%E7%AD%94%E6%A1%88_%E7%94%9F%E7%89%A9%E5%AD%B8%E5%85%AC%E5%91%8A%E7%94%A8.pdf",
+      "final_url": "https://admissions.tcu.edu.tw/",
+      "returned_sha256": "e0d58e2bab11e0e0fe89bd7c88dd87fd3cde484e5ff499aa34e81b7b525a9e08",
+      "returned_path": "審查紀錄/annual_review/TCU-108/downloads/official-answer-e0d58e2bab11.html",
+      "scope": "非官方PDF取得成功；本地原表與同年轉存公告、官方搜尋索引交叉核對，未證逐位元相同"
+    }
+  },
+  "textbook": {
+    "path": "Campbell Biology 12e.pdf（教材參考，全文未公開）",
+    "sha256": "de7c28b93a1c853c0c58d53cd658848d08cf033cde7c2071c062bfdd25b5dc73"
+  },
+  "toc": {
+    "path": "Campbell toc.txt（教材參考，全文未公開）",
+    "sha256": "472c94c03d3e7f107284b4e59ba744b406faee99580f5d940e0c2dab3d0c3dc7"
+  },
+  "clarification": {
+    "path": "a438912b99475d97fb8869ab.pdf",
+    "sha256": "38c0a03da4800f702ad606933bede9a1849225ff0fb7b56f7fd118e324b905f4",
+    "pdf_pages": 7,
+    "source_type": "THIRD_PARTY_MIRROR_OF_OFFICIAL_NOTICE",
+    "scope_status": "ALL_SEVEN_MIRROR_PAGES_VISUALLY_READ",
+    "notice_pdf_pages": [
+      5,
+      6,
+      7
+    ],
+    "notice_printed_pages": [
+      1,
+      2,
+      3
+    ],
+    "biology_pdf_pages": [
+      6,
+      7
+    ],
+    "biology_questions": {
+      "4": [
+        6
+      ],
+      "5": [
+        7
+      ],
+      "16": [
+        7
+      ]
+    },
+    "official_corrections": {},
+    "dispositions": {
+      "4": "維持原答案A",
+      "5": "維持原答案A",
+      "16": "正文稱A；理由HDR對應原題D；結果欄維持原答案，來源矛盾未推定最終採計"
+    },
+    "excluded": "PDF1–3為國文、英文、化學答案，PDF5全為國文與化學釋疑，PDF6上方化學39及英文33排除。化學33送分不適用生物33。",
+    "notice_date": null,
+    "scope_note": "官方旧網址目前轉首頁HTML；搜尋索引保留同年公告並与本輪轉存PDF逐段一致。完整轉存7頁包含答案4頁、公告3頁，生物僅Q4/5/16；未列其餘47題不代表不存在其他公告。無法證明轉存本與目前不可下載的官方PDF逐位元相同。",
+    "source_url": "https://s3.hicloud.net.tw/webfiles.twstudy.com/MrgUploadFile/PreviousExam/FPE00005577.pdf",
+    "current_official_access": {
+      "status": "OFFICIAL_OLD_PDF_URL_REDIRECTED_TO_HTML",
+      "url": "https://admissions.tcu.edu.tw/wp-content/uploads/2019/05/108%E5%AD%B8%E5%A3%AB%E5%BE%8C%E4%B8%AD%E9%86%AB%E5%AD%B8%E7%B3%BB%E5%85%A5%E5%AD%B8%E6%8B%9B%E7%94%9F%E8%80%83%E8%A9%A6%E8%A9%A6%E9%A1%8C%E7%AD%94%E6%A1%88%E9%87%8B%E7%96%91%E7%B5%90%E6%9E%9C%E5%85%AC%E5%91%8A.pdf",
+      "final_url": "https://admissions.tcu.edu.tw/",
+      "returned_sha256": "e0d58e2bab11e0e0fe89bd7c88dd87fd3cde484e5ff499aa34e81b7b525a9e08",
+      "returned_path": "審查紀錄/annual_review/TCU-108/downloads/official-clarification-e0d58e2bab11.html",
+      "scope": "非官方PDF取得成功；本地原表與同年轉存公告、官方搜尋索引交叉核對，未證逐位元相同"
+    }
+  },
+  "official_scoring_conflicts": {
+    "16": {
+      "original_answer": "D",
+      "question_D": "homology-directed repair",
+      "notice_concluding_letter": "A",
+      "notice_reason": "HDR",
+      "notice_disposition": "維持原答案",
+      "final_scoring": null,
+      "resolution": "UNCONFIRMED_OFFICIAL_SCORING;分類已據基因編輯與修復證據確認"
+    }
+  },
+  "question_scientific_differences": {
+    "TCU-108-Q01": "原表C。印記是可重設的表觀遺傳標記，在生殖系依新一代親本性別重建，體細胞分裂通常維持。可遺傳不等於不可逆，也不是只有生殖細胞才有印記表現。",
+    "TCU-108-Q02": "原表D。一個基因可透過不同生化或發育路徑影響多種性狀，各效應不必都同向有利或有害。一因多效與多基因控制同一性狀不能混同。",
+    "TCU-108-Q03": "原表B。H1是傳統30nm纖維模型的linker histone。本地12e p330圖16.23改以10nm纖維為基本構成，明說30nm為較舊模型且可能只在特定細胞或時段存在；p331示condensin迴圈。未將30nm當成所有活細胞的一致結構。",
+    "TCU-108-Q04": "原表A，同年釋疑Q4維持A。在一條連續、標準線性前驅RNA的同一剪接路徑上，內含子分隔外顯子，外顯子數=內含子數+1；不可混用不同異構轉錄本的合計。帽與poly(A)尾是轉錄後添加；stop codon不保證位於最後外顯子，3′UTR也可能有剪接。",
+    "TCU-108-Q05": "原表A，同年釋疑Q5維持A並稱雌二醇來自卵巢；本地p1036圖46.18也畫卵巢來源。然而人類第一孕期後胎盤為循環雌二醇主要來源，原題把胎盤作錯誤理由與Endotext不一致。雌激素主要增加催產素受體表達及敏感性，不是催產素受體的直接配體。官方A與科學來源差異並存，不自行改採計。",
+    "TCU-108-Q06": "原表A。MSH／melanocortin作用於下視丘MC4R可抑食並提高代謝；腫瘤或LPS小鼠實驗支持阻斷此途徑緩解體重與瘦體組織流失。本地p917提供食慾迴路背景，未直接講MSH與cachexia；不能把複雜惡病質歸為所有病人唯一病因。",
+    "TCU-108-Q07": "原表B，即C3b。C3b可調理並參與C5轉化酶，後續C5b啟動膜攻擊複合體；C3a／C5a有發炎作用。原題稱DAF使C3b裂解不精確：DAF促轉化酶解離，factor I才在CR1／MCP等輔因子協助下切C3b。答案辨識與此機制差異分記。",
+    "TCU-108-Q08": "原表A，乙與丙。NMDA受體在去除Mg2+阻塞後可通Ca2+；AMPA主要介導快速Na+流入，LTP可增加AMPA效應。不能把兩類受體的離子通透或電壓條件互換。",
+    "TCU-108-Q09": "原表B。神經系統源於外胚層。皮膚須區分表皮外胚層與大部分真皮中胚層；胸腺的上皮與入居淋巴細胞來源不同，不能用整個器官一概抹去多來源性。",
+    "TCU-108-Q10": "原表D。IgE介導肥大細胞釋放組織胺等可造成全身血管擴張、通透性增加及低血壓，符合過敏性休克。藥物過敏也可引發此反應，但選項D直接命名題示系統性症候，不據題目作個人診斷。",
+    "TCU-108-Q11": "原表C。p=(2×160+160)/(2×400)=0.6，q=0.4；下一代200個體的期望AA=72、Aa=96、aa=32。僅稱封閉族群不足以保證隨機交配及其他HW條件，答案依題目的理想模型解讀；原「二對偶基因」用語保留，不改成另一道題。",
+    "TCU-108-Q12": "原表C。遷入者占混合後15%，新頻率=0.15×0.70+0.85×0.50=0.53。假設兩群对後代基因庫的相對貢獻按題示比例且沒有其他作用力，不把族群15%誤當原族群數的15%。",
+    "TCU-108-Q13": "原表A。Quinolones抑制DNA gyrase／topoisomerase IV等，並非破壞細胞膜；sulfonamides阻葉酸路徑，β-lactams阻細胞壁合成，macrolides作用於細菌核糖體。本地章節未列全部藥物機制，具體靶點另有具名補充。",
+    "TCU-108-Q14": "原表B。Invariant chain參與MHC II路線，並非CTL辨識的MHC I專用機制。TAP把細胞質肽送進ER裝載MHC I；病毒可阻TAP或減少MHC I表面呈現。",
+    "TCU-108-Q15": "原表A。按p(A)=0.8、p(C)=0.2，兩C一A的每一排列0.032，兩A一C的每一排列0.128；只能判組成，不能僅由頻率確定次序。原A列CCA與ACA，真實標準碼分別為Pro及Thr，並非題示His與Gln；His為CAU/CAC、Gln為CAA/CAG。本地p341密碼表與題設模型差異完整保留，未把原選項改成科學正確序列。",
+    "TCU-108-Q16": "原答案表D，D為HDR；同年釋疑理由也說HDR，卻在結尾寫A且結果欄維持原答案。現有來源無法確認最終採計，保留衝突且final_scoring為null。具有同源臂的模板定向插入符合HDR，足以確定分類；NHEJ也能在特定設計下用於插入，不宣稱所有knock-in只能HDR。",
+    "TCU-108-Q17": "原表D。APC/C為E3 ligase；CDK需cyclin且Cdc25可去除抑制性磷酸。p21有p53誘導的轉錄控制，也有泛素依賴與非依賴的蛋白降解。原D說「主要機制」，不是「唯一機制」；僅證明另有路徑不足以排除某情境以泛素降解為主，重要性依細胞與條件而異。同年沒有取得Q17釋疑，不替命題者補造唯一理由。官方D留存，分類是細胞週期多層調控。",
+    "TCU-108-Q18": "原表B。COPII負責ER出芽往Golgi；COPI主要從Golgi或中間腔室回收，clathrin用於內吞及轉高基網等，caveolin不屬本題正向分泌包被。",
+    "TCU-108-Q19": "原表D。依原序列的K4、R9、K12作trypsin切點得4段；高專一性chymotrypsin切F8、Y13得3段；CNBr切M5得2段。計算採完全且理想專一切割；低專一性chymotrypsin還可能切L或M，原题未明示實驗條件，結果不是一概適用的實測預測。",
+    "TCU-108-Q20": "原表B。順式不飽和尾的彎折阻礙緊密堆積，低溫時可維持較高膜流動性；這不是保證整個細胞不會結冰。",
+    "TCU-108-Q21": "原表C。四細胞為ABa、ABp、EMS、P2；EMS後分MS與E，E為腸道祖細胞。P2可提供誘導訊號，但不等於P2的後代就是腸道。",
+    "TCU-108-Q22": "原表A，土馬騣為蘚類，肉眼主要植物體為配子體；其假根不是真正維管根。其餘所列維管植物主要植物體為孢子體，不把蘚類孢子體說成不存在。",
+    "TCU-108-Q23": "原表B，gibberellin促莖伸長。真實目錄最細是A Survey of Plant Hormones，赤黴素只是正文內小標，不新造目錄條目。其他激素也可參與生長，不能將選項間作用描述成毫不重疊。",
+    "TCU-108-Q24": "原表B。Chlorophyll a/b及carotenoids吸收光譜不同，可提高不同波長光的利用；能量在天線複合體轉移，不是把數個顏色合成一個更高能量的光子。",
+    "TCU-108-Q25": "原表C。Cooksonia為小型、分枝軸狀的早期陸生植物化石，缺乏現代式根與葉，軸可行光合作用。不同化石種維管證據有差別，不以此名字概括所有標本構造或把體型大小說成單因決定。",
+    "TCU-108-Q26": "原表B。葉枕運動細胞離子移動伴隨水分變化，改變膨壓而閉合葉片；是快速可逆運動，不靠細胞生長或動物肌肉收縮。",
+    "TCU-108-Q27": "原表C。破碎化可縮小有效族群而增加遺傳漂變、阻礙基因流；道路也造成路殺與邊緣改變。族群「變小」不保證每一性狀都立即降低，但長期隨機遺傳損失風險增加。",
+    "TCU-108-Q28": "原表C。在穩定且資源受限的環境中，完全相同生態棲位難以長期共存。干擾競爭是直接阻擋，利用性競爭透過共同資源；兩者不能互換，也不是只有種間才競爭。",
+    "TCU-108-Q29": "原表D。廊道可提高基因流與重新定殖機會，並不藉增加漂變來增加遺傳多樣性；也可能傳播病原、入侵者，利益依實際景觀及物種而定。",
+    "TCU-108-Q30": "原表D。估算供應資源與吸收廢棄物所需的生物生產性土地與水域，以面積及標準化全球公頃表示；不是人口成長率或純污染濃度。",
+    "TCU-108-Q31": "原表C。甲殼類蛻皮後硬殼未恢復時風險增加，可能形成階梯狀存活曲線。本地p1194直接用螃蟹說明此例；不是所有節肢動物都具有完全相同曲線。",
+    "TCU-108-Q32": "原表C。外來種由人類活動跨出原生分布，只有部分建立、擴張並造成危害而成入侵問題；不等同所有外來種皆有害。原題其他選項若把已擴張作所有外來種的必要定義過窄，保留此用語限制。",
+    "TCU-108-Q33": "原表A。面積縮小或被分割可提高邊緣對內部比例，造成光、風及物種組成差異。題稱邊緣效應最大的選項按其比較情境判斷，不宣稱每種物種或所有棲地的反應都相同。",
+    "TCU-108-Q34": "原表A。單純後天取得而不可遺傳的變化不能當作跨代選擇累積的基礎。選擇不是為了未來需要而主動創造變異，突變可產生新變異，適應也受既有構造與權衡限制。",
+    "TCU-108-Q35": "原表B。原題僅寫水牛buffalo，未指定物種。啄牛鳥可吃蜱也可啄血，關係依宿主與環境而變；Weeks研究家牛且明示不可直接外推原生宿主，因此不能據此斷言題中水牛與啄牛鳥絕無互利。本地p1221牛背鷺又非啄牛鳥。珊瑚與藻、地衣菌藻、p587燈籠魚與發光細菌均有教材互利例。保留官方B與宿主、用語差異，分類明確為種間互動。",
+    "TCU-108-Q36": "原表A，cyanobacteria。異形細胞提供保護nitrogenase的低氧環境；满江紅共生藍綠菌固定氮，植物提供碳源。本地p817直接列Azolla，文獻Anabaena／Nostoc azollae命名差異留存，不把所有固氮菌都說成必有異形細胞。",
+    "TCU-108-Q37": "原表A。臺灣魚類資料庫列Scartelaos gigas為河口紅樹林半淡鹹水與海水魚，可支持相較題列淡水魚的廣鹽環境調節。這是棲地證據，不是耐鹽極限的實驗值；本地一般鮭魚洄游例不可直接當成櫻花鉤吻鮭亦洄游海洋。",
+    "TCU-108-Q38": "原表D。Ginkgo biloba是銀杏類唯一現生種；核及葉綠體研究支持與蘇鐵成姊妹群，但本地12e圖中仍示關係未定，2022研究粒線體結果也不同，差異明記。「活化石」非不再演化的正式分類；鱟為含銅血藍蛋白，原C所稱山椒魚仍是兩生類，不能因俗名有魚而歸魚類。",
+    "TCU-108-Q39": "原表C。經族群瓶頸後倖存者只攜帶原基因庫的一部分，遺傳變異可下降；不是另建新族群的創始者情境。族群數恢復也不保證遺傳多樣性完全恢復。",
+    "TCU-108-Q40": "原表C。漂變為隨機抽樣，對小有效族群影響較大；有效族群數通常小於普查數。創始者是少數個體建立新族群，瓶頸是原族群骤減，不混換兩者。",
+    "TCU-108-Q41": "原表A，IA頻率0.30。O型r²=0.16得r=0.4；A型p²+2pr=0.33得p=0.3，IB頻率q=0.3。原題已給AB=0.18，以2pq=0.18驗算一致；不是求AB型頻率。B表現型0.33，四型合為1，依題設HW條件推算。",
+    "TCU-108-Q42": "原表B。Agarose與carrageenan是紅藻結構基質多醣；agarose是agar的主要膠化部分，功能類似植物纖維素；不是蛋白質collagen、儲存澱粉或雙醣sucrose。它們化學結構不同於纖維素，不把基質與微纖維混同。",
+    "TCU-108-Q43": "原表D。總體基因體學從整個微生物群或環境樣本取得混合DNA資訊，無須先個別培養。若僅用特定條碼基因擴增辨識物種，更精確可稱metabarcoding；題目以廣義環境DNA研究選metagenomics，保留方法粒度限制。",
+    "TCU-108-Q44": "原表C：冬蟲夏草與茯苓。冬蟲夏草藥材為真菌子座及昆蟲體複合物，不能把整個蟲體都稱真菌；茯苓為真菌菌核。A牛樟芝與B靈芝也是菌，但其搭配的川芎、麥門冬為植物；D何首烏與當歸均為植物。藥典補足中文藥材基原，未對療效作主張。",
+    "TCU-108-Q45": "原表D。LPS是典型革蘭氏陰性細菌外膜成分；真菌壁以chitin、glucans及mannoproteins等為主，組成隨類群與階段不同，不把LPS列為一般真菌細胞壁成分。",
+    "TCU-108-Q46": "原表B。矽藻質體有多層包膜，符合紅藻次級內共生史；不是所有原生生物都無葉綠素、不能運動或有真正根莖葉維管束。Protista是歷史方便稱呼而非單系群。",
+    "TCU-108-Q47": "原表D沿用細菌DNA不與histone包裝的傳統概括。2023研究已在Bdellovibrio及Leptospira找到histone，因此不能作全細菌絕對命題；其結合模式也不等同真核核小體。接合不是轉導，古菌起始胺基酸是Met非細菌常見fMet，原核細胞沒有核膜。",
+    "TCU-108-Q48": "原表D。蛙壺菌Batrachochytrium dendrobatidis在原始研究已離體純培養並接種蛙，故不能稱無法培養。壺菌常有具鞭毛游走孢子；一般壺菌腐生／寄生範圍不能全套在單一蛙壺菌，兩生類下降也不能歸因唯一環境因子。原題為Batrachochytrium spp.，本輪培養與趨化研究明確限Bd：2008研究測得糖、蛋白與胺基酸的正趨化，不能擴大成所有屬內物種皆在植物體內寄生。",
+    "TCU-108-Q49": "原表D。叢枝結構為顯微尺度，不能單憑肉眼根部觀察確診；菌絲穿細胞壁後仍被內陷宿主膜隔開，不自由位於細胞質。本地p663採Mucoromycota內glomeromycetes，題目採Glomeromycota；名稱層級差異明記，不擅改原題。",
+    "TCU-108-Q50": "原表A。S. cerevisiae可有單倍體與二倍體，並非只單倍體。1996首個完成真核基因組；2018研究1011株含918新定序及93既有，時間早於本試題。部分人類同源基因能互補酵母，不是全部；发酵與呼吸依環境條件而變。"
+  }
+}

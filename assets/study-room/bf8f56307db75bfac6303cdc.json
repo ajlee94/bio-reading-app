@@ -1,0 +1,269 @@
+[
+  {
+    "id": "S01",
+    "title": "NOAA：氣候變遷與珊瑚礁",
+    "finding": "熱壓力可導致白化；海洋酸化妨礙珊瑚生長及結構維持。兩種壓力不能當成同一生理機制。",
+    "read_scope": "官方頁面的暖化及酸化段落文字；未觀看影音。",
+    "urls": [
+      "https://oceanservice.noaa.gov/facts/coralreef-climate.html?os=vbk",
+      "https://coralreefwatch.noaa.gov/climate/projections/piccc_oa_and_bleaching/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU106官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "3ccd70202e00433fb1ce051fe92b62d3b3a35b74b0c50ba9d28c7042c0ff5f09"
+  },
+  {
+    "id": "S02",
+    "title": "Cooper：DNA Repair；NLM MeSH：DNA Damage Tolerance",
+    "finding": "複製後修復可填補損傷對側的新股缺口，原損傷可留待其他機制處理；DNA耐受與去除損傷並非同義。",
+    "read_scope": "作者教材Postreplication Repair小節與NLM定義文字；未將其稱為本地Campbell內容。",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK9900/",
+      "https://www.ncbi.nlm.nih.gov/mesh/2106527"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU106官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "f79479bc80c7287d693a01181acdb37843cefaf42a7825405e0c4d35fe2893e6"
+  },
+  {
+    "id": "S03",
+    "title": "Burke等（1972）：Protein and Ribonucleic Acid Synthesis During the Diploid Life Cycle of Allomyces arbuscula",
+    "finding": "研究明列二倍體生活史中的孢子誘導、萌發、營養生長和mitosporangium形成，可反證所有真菌無性孢子必單倍體的概括。",
+    "read_scope": "本輪搜尋回傳原研究摘要；PMC頁面另遇驗證頁，未宣稱取得或逐頁讀完全文。原研究書目另由ASM卷110期3目錄確認。",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC247529/?page=7",
+      "https://journals.asm.org/toc/jb/110/3"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU106官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "269da395746428b68158f9bd9008e3aae3ce2bf64544341188deb5b8e5fbcc92"
+  },
+  {
+    "id": "S04",
+    "title": "USGS：Potassium Isotopes／Radiometric Time Scale",
+    "finding": "40K有通向40Ar與40Ca的衰變分支；真實定年需處理分支與系統假設，不能直接把題目提供氬的全部質量當唯一衰變產物。",
+    "read_scope": "USGS同位素頁搜尋回傳相關段落及定年說明；僅為模型界線，題設13億年半衰期仍原樣採用。",
+    "urls": [
+      "https://wwwrcamnl.wr.usgs.gov/isoig/period/k_iig.html",
+      "https://pubs.usgs.gov/gip/geotime/radiometric.html"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU106官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "3017b585661cbf045157198da7a50fadd8b2718fa7fac41ca825346217550810"
+  },
+  {
+    "id": "S05",
+    "title": "Dedysh等（2005）：Methylocella species are facultatively methanotrophic",
+    "finding": "研究以培養、PCR等檢查確認Methylocella可用乙酸等多碳來源生長，不是所有甲烷氧化菌均只能用甲烷。",
+    "read_scope": "PubMed原研究完整摘要；不宣稱全文已閱。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/15968078/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU106官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "793356634f9961380d8c4bb895634b9abdcef5789fb0d5efbde9b0a68021e906"
+  },
+  {
+    "id": "S06",
+    "title": "Endotext：Adrenal Insufficiency",
+    "finding": "原發性腎上腺不足的表格列低鈉、高鉀、代謝性酸中毒及氮血症，色素沉著與ACTH相關。",
+    "read_scope": "作者章節Clinical Recognition及Table 1相關文字；用於考題病理推理，非個人醫療建議。",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK279083/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU106官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "dfe1bd1eb25437ef4ceffe02e4782c572da4dd5cb91c3383c2ab09c4cd869221"
+  },
+  {
+    "id": "S07",
+    "title": "Piercey-Normore與DePriest（2001）：Algal switching among lichen symbioses",
+    "finding": "33個地衣共生體的基因序列比較顯示藻與真菌系統樹不一致及伙伴切換，不能直接等同高度平行共同分化。",
+    "read_scope": "PubMed完整研究摘要；同年度釋疑PDF6另實看其引用系統樹，未宣稱研究全文已讀。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/21669682/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU106官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "f0af1314192b93eaf74a5a84f8cda83fedec500d47a58cfd4eb68c5412f7e157"
+  },
+  {
+    "id": "S08",
+    "title": "Biochemistry, Gluconeogenesis",
+    "finding": "甘油與生糖胺基酸可供糖新生；偶數鏈脂肪酸和leucine/lysine為生酮範圍，奇數鏈脂肪酸末端可經propionyl-CoA／succinyl-CoA生糖。",
+    "read_scope": "作者章節的底物與奇數鏈脂肪酸段落文字；植物glyoxysome範圍另以本地Campbell112支持。",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK544346/?report=reader"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU106官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "623e6107c9e23dc225fca603dd48bc30f7a6eeee983049819db13c17bc10d38a"
+  },
+  {
+    "id": "S09",
+    "title": "Cooper：RNA Processing and Turnover",
+    "finding": "加帽為5′端修飾；Group I外源G、Group II內部A起始，剪接套索為2′–5′鍵；常見內含子3′端AG。",
+    "read_scope": "作者教材相關RNA剪接與末端加工段落文字；不宣稱此為Campbell的逐字內容。",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK9864/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU106官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "e97adbacb49bea55fc1d2c4f34b653928c3e7f7b850e4e78b01386a4b2319651"
+  },
+  {
+    "id": "S10",
+    "title": "（2023）Mechanism of rotenone binding to respiratory complex I depends on ligand flexibility",
+    "finding": "原始研究直接研究魚藤酮在Complex I的結合與抑制，支持區分電子傳遞鏈標的與ATP合成酶。",
+    "read_scope": "PubMed原研究完整摘要與圖1文字；屬後續機制佐證，不是106年度官方答案來源。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/37185607/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU106官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "060e8bdac440a18da8e9604485e35f62d93c0990d640152aca2d5db786284b65"
+  },
+  {
+    "id": "S11",
+    "title": "Physiology, Respiratory Quotient",
+    "finding": "只採RQ=VCO2/VO2及醣1、脂肪約0.7的定義；混合時的耗氧權重與攝入質量或熱量比例須另換算。",
+    "read_scope": "作者條目Introduction及基本底物計量段落；未採該頁其他反應式或臨床敘述。權重結論另以本地代數推導驗證。",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK531494/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU106官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "99a92fb3de5f0cca03d3eca3973c7fa7dcb3b63120682a360cb845ce01a1164d"
+  },
+  {
+    "id": "S12",
+    "title": "McGarry等（1977）：A possible role for malonyl-CoA in the regulation of hepatic fatty acid oxidation and ketogenesis",
+    "finding": "大鼠肝研究顯示malonyl-CoA抑制長鏈脂肪酸生酮，抑制點在carnitine acyltransferase I；支持合成與氧化反向調節。",
+    "read_scope": "原始研究摘要與PDF首段文字；未宣稱逐頁全文覆核。",
+    "urls": [
+      "https://dm5migu4zj3pb.cloudfront.net/manuscripts/108000/108764/JCI77108764.pdf",
+      "https://pubmed.ncbi.nlm.nih.gov/874089/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU106官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "8cbb329cfa4b0e397a38be241c4ee587bbb861c7b7e9bb110a204629c4bfec3b"
+  },
+  {
+    "id": "S13",
+    "title": "Hastings與Krainer（2001）：Functions of SR proteins in the U12-dependent AT-AC pre-mRNA splicing pathway",
+    "finding": "生化實驗研究U12依賴的AT–AC內含子，證明常見GU–AG並非所有內含子的固定兩端。DNA寫AT–AC，RNA對應AU–AC。",
+    "read_scope": "PubMed原始研究完整摘要。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/11333026/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU106官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "28a19c6d45895891d704d90be422a394d7ca769e181f12ec59e79c4705892084"
+  },
+  {
+    "id": "S14",
+    "title": "Cooper：Protein Folding and Processing",
+    "finding": "myristoylation附於N端附近的glycine，常在轉譯中完成；prenylation可讓蛋白朝膜細胞質面定位，通常仍有其他訊號。",
+    "read_scope": "作者教材脂質修飾相關段落文字；未將共轉譯一律稱為轉譯後。",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK9843/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU106官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "0d1f03b37aa58a69bf00fb0a7c9c9d190a3b5a77fd96ec3aa4f6ec4287613a17"
+  },
+  {
+    "id": "S15",
+    "title": "Endotext：Introduction to Lipids and Lipoproteins",
+    "finding": "區分LDL與HDL的膽固醇運輸、LCAT酯化、CETP交換及HDL膽固醇回肝；整顆粒成分比例與膽固醇酯化比例不是同一分母。",
+    "read_scope": "作者章節脂蛋白與HDL metabolism相關段落；Q37比例方向採同年度釋疑及標準整粒組成含義，不宣稱此段提供固定百分比。",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK305896/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU106官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "0d5d78d8e5c8ff416529e43a5586b4beaf9531d4862b2f4a8b1310f9f3cc5b28"
+  },
+  {
+    "id": "S16",
+    "title": "Yatani等（1987）心房K通道；Solaro（2011）Regulation of Cardiac Contractility",
+    "finding": "迷走／muscarinic ACh受體經G蛋白打開心房K通道；膜Ca流入誘發SR釋Ca，後者是心肌收縮的重要鈣來源，支持Q39 C措辭歧義。",
+    "read_scope": "PubMed原研究摘要；Solaro作者章節Control of Contractility第40–42行Ca誘發Ca釋放內容。未採該頁把電耦合接點寫成tight junction的錯稱，正確為gap junction。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/2432660/",
+      "https://www.ncbi.nlm.nih.gov/books/NBK54085/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU106官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "b3ac3a52f83df099471eb8604a7e7c6312ca9900ad92dcca077c46d85871d5fa"
+  },
+  {
+    "id": "S17",
+    "title": "Moynahan等（1999）：Brca1 controls homology-directed DNA repair",
+    "finding": "BRCA1缺陷的胚胎幹細胞同源導向雙股斷裂修復受損，支援BRCA1與DSB/HR的連結。",
+    "read_scope": "PubMed完整原始研究摘要，不宣稱全文閱畢。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/10549283/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU106官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "999b32a12ced53bf3e1fc281920cf3cd142ae06e693dec31f18714738459a6f4"
+  },
+  {
+    "id": "S18",
+    "title": "（2010）Comparative analysis of right element mutant lox sites on recombination efficiency in embryonic stem cells",
+    "finding": "原研究圖1說明loxP的13bp反向重複夾8bp不對稱核心，故辨識回文元件不等於整個34bp完全回文。",
+    "read_scope": "PubMed原研究圖1說明與摘要；未完整檢讀所有圖或全文。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/20356367/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU106官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "9410721b2f0e180cc53824e880446c27bf8552d4289ebc3f3f803aee225d4ce4"
+  },
+  {
+    "id": "S19",
+    "title": "NIH ODS：Vitamin B12 Fact Sheet for Health Professionals",
+    "finding": "B12與內因子結合後在遠端迴腸經受體吸收；不能不加限制把較下游大腸菌合成B12視為充分供人體吸收。",
+    "read_scope": "官方事實表介紹段落關於B12釋出、內因子及遠端迴腸吸收的文字。",
+    "urls": [
+      "https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU106官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "6728909438e5ce09c4a5519fc367aed8f466c9442e803bd30a514a13b0ca9e8b"
+  },
+  {
+    "id": "S20",
+    "title": "Suhane與Ramanujan（2011）：Thyroid hormone differentially modulates Warburg phenotype in breast cancer cells",
+    "finding": "兩種乳癌細胞的實驗顯示Warburg型態與粒線體代謝可以並存，粒線體失能不是高Warburg表型的必要條件。",
+    "read_scope": "原始研究摘要及Introduction相關文字；直接PubMed開頁曾429，搜尋回傳PubMed與PMC原文成功。未閱讀全部實驗圖或提出治療建議。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/21945435/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3207240/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "補充科學或具名歷史證據，不替代CMU106官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "273e556e628385041050896b36ebde320e74de606183a1d8e3b087c26cbe9f7c"
+  }
+]

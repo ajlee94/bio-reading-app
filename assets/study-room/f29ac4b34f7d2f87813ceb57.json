@@ -1,0 +1,98 @@
+{
+  "question": {
+    "path": "a25bcca6c21b72ac9ceea855.pdf",
+    "sha256": "2beb77dfc4391e8d44255e27992a132c86a659b3835fef8625e3b1c58664dfc5",
+    "pdf_pages": 8
+  },
+  "answer": {
+    "path": "6e2cbeddd67ae3c54b8228ec.pdf",
+    "sha256": "77eadec766922d77be1c1d40afb72f8a45ff980d96a2883ca6b414b19e8fe86d",
+    "pdf_pages": 4,
+    "consolidated_copy": {
+      "path": "Answer/CMU_110_biology_answer.pdf",
+      "sha256": "77eadec766922d77be1c1d40afb72f8a45ff980d96a2883ca6b414b19e8fe86d",
+      "identical": true
+    },
+    "biology_pdf_pages": [
+      4
+    ],
+    "scope_note": "原檔4頁，生物只用PDF4，其他考科不套入。"
+  },
+  "clarification": {
+    "path": "bdc5ffd3060a3c9df4a7f88a.pdf",
+    "sha256": "2b4854df03a55f20e1cc0ea7089c7e84c734bdcd1e2c58246106af04210c9ecd",
+    "pdf_pages": 9,
+    "consolidated_copy": {
+      "path": "Answer/CMU_110_biology_clarification.pdf",
+      "sha256": "2b4854df03a55f20e1cc0ea7089c7e84c734bdcd1e2c58246106af04210c9ecd",
+      "identical": true
+    },
+    "biology_pdf_pages": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "scope_note": "原檔9頁，生物只用PDF5下半部–9；PDF5上半部英文Q48更正不套入生物。"
+  },
+  "textbook": {
+    "path": "Campbell Biology 12e.pdf（教材參考，全文未公開）",
+    "sha256": "de7c28b93a1c853c0c58d53cd658848d08cf033cde7c2071c062bfdd25b5dc73",
+    "pdf_pages": 1493
+  },
+  "toc": {
+    "path": "Campbell toc.txt（教材參考，全文未公開）",
+    "sha256": "472c94c03d3e7f107284b4e59ba744b406faee99580f5d940e0c2dab3d0c3dc7"
+  },
+  "edition_verified": {
+    "edition": "Campbell Biology 12e",
+    "title_pdf_page": 4,
+    "printed_to_body_pdf_offset": 49,
+    "toc_pdf_pages": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "method": "實看PDF4版名，PDF目錄與正文頁尾抽核；本地12e的印刷碼+49，官方釋疑同稱12e但頁碼不同者分別保留。"
+  },
+  "source_differences": {
+    "Q05": "官方A。Poliovirus與SARS-CoV-2為正股單股RNA病毒；其餘列出的EBV、乳突及牛痘病毒為雙股DNA類型。本地表19.1及ICTV支援，原題single strain RNA、popillomavirus均保留，不默改原文。",
+    "Q06": "官方C。官方植物資料使用清水圓柏Juniperus chinensis var. taiwanensis，原卷只印J. chinensis，兩者精度差異保留。歷史珍稀／需保護名單不直接等同今天的IUCN分級或一項未查的現行法律地位。",
+    "Q11": "官方釋疑維持D。依短日植物模型，縮短日照並以最後遠紅光逆轉紅光夜中斷效果。原題未定報春花的種、品種、溫度及生育階段；釋疑指出已形成可見花芽的研究不能否定花芽誘導受環境影響，但不等於已證明所有Primula皆屬相同短日模型。官方引12e912–914，與本地12e859–861不同，兩者頁碼分記。",
+    "Q14": "官方與釋疑皆B。本地印刷955直接描述eosinophils釋放酵素對抗寄生蠕蟲。釋疑討論的特定小鼠關節炎模型不能直接替代一般感染題；也不表示其他白血球絕無參與。官方引12e1103，本地對應955，保留版本頁碼差異。",
+    "Q16": "官方D照存。Expansin是細胞壁鬆弛的常見教材代表，並非可據此斷言未參與任何防禦。2013 Arabidopsis EXLA2研究已顯示與壞死營養病原抗性及逆境相關，因此原題「依目前研究」「未參與」具有過度概括問題；研究的是expansin-like A2，不能推成所有家族成員相同。",
+    "Q18": "官方A，分別為CTLA-4與PD-1。Nobel官方2018資料支持相關貢獻；Allison的重要工作是揭示並應用CTLA-4負調控解除來抗癌，不把「最早發現」擴寫成他最先克隆CTLA-4分子。",
+    "Q22": "官方與釋疑皆C：taxol、colchicine、nocodazole。Phalloidin與典型cytochalasin作用於actin系統。釋疑承認cytochalasin A能影響tubulin聚合，並區分結合實證、變性與間接效應；因此不寫成所有cytochalasin完全不影響微管。",
+    "Q27": "官方及釋疑C。箭毒阻斷運動終板突觸後nicotinic ACh receptor；原題「在神經末梢」位置措辭不精確，保留原文另註。TTX阻斷電壓閘控快速Na通道；BTX阻斷ACh釋放；沙林抑制AChE。TTX-resistant是較低敏感度，不能把釋疑「不會作用」擴成任意濃度皆零作用。",
+    "Q28": "官方C。KDEL正確為Lys-Asp-Glu-Leu，A原印Gln；ER到Golgi主要COPII、回收COPI。雞KDEL受器結構與結合研究支持較酸性Golgi結合／ER釋放機制。原題pH5或6不可當成所有cis-Golgi的固定實測pH；SNARE通常區分v與t，D的c-SNARE原字不改。",
+    "Q29": "同年度原答案D，釋疑正式改為A或D。第一步thiolase用兩個acetyl-CoA形成四碳acetoacetyl-CoA，再由HMG-CoA synthase加入第三個acetyl-CoA形成六碳HMG-CoA；D把兩步混合。A的「只」被官方astrocytes產酮證據否定；另讀哺乳幼鼠神經細胞研究，只作物種限定佐證，不冒充正常成人所有細胞定量。官方引PMC51878983原字保留，未把該疑似識別碼誤植當成已下載全文。",
+    "Q31": "官方A。CaSR是GPCR，不是讓Ca2+通過的孔道；RyR、IP3R及CRAC具有Ca2+通道功能。不能因名稱含receptor就一律不是通道。原文字TOC的Small Molecules and Second Messengers不完整，正式條目依PDF38為Small Molecules and Ions as Second Messengers。",
+    "Q33": "官方A。正確酵素是fructose-1,6-bisphosphatase，原印fructose-1-phosphatase及frutose均保留。Pyruvate carboxylase於粒線體將pyruvate轉OAA。B若概括所有G6Pase同工酵素則過廣：2018培養人類胎兒astrocytes研究檢出ER G6Pase-β而非α。這不證明腦是與肝相同的全身葡萄糖輸出器官；B的界線與官方A分開保存。",
+    "Q34": "官方B（glutamine、proline）。α-ketoglutarate先成glutamate，再可合成glutamine或proline；兩者不是α-ketoglutarate一次轉胺的直接產物。Aspartate由OAA起始、asparagine由aspartate衍生。題文「經轉胺」需按上游碳骨架來源理解，不能抹掉中間步驟。",
+    "Q35": "官方A。Pol I的3′→5′外切酶用於校對，5′→3′外切酶可移除RNA引子；細菌常用E. coli模型由Pol III負責主要延長。原題泛稱原核細胞，不將細菌Pol I/II/III套成古菌全體的同名配置。",
+    "Q36": "官方D，原印TOLL照存；全局轉譯調控常見為TOR／mTOR路徑，不能靜默改字後判真。IRES需保留範圍：2015原始研究證明特定真核病毒結構性IRES可在活細菌啟動轉譯，並不等於所有原核有普遍天然IRES機制。A及B的tRNA連接和多核糖體有教材正文支持。",
+    "Q38": "官方與釋疑皆D（丁戊）。兩股C→U、A→可與C配對的產物經複製固定可得甲GTTA、丁GCTG、戊ACTA，另有GCCA未列；乙與丙屬此機制不支持的顛換（transversion）。甲本身也可能，卻無提供只含有效序列的另一組合。I是inosine核苷，hypoxanthine是鹼基；DNA語境應區分deoxyinosine。固定成正常雙股可能須再一輪複製，不把釋疑步驟壓成單次同時完成。",
+    "Q39": "官方B。在原題比較下，高NAD+/NADH代表較氧化的pool；原始complex I研究支持較還原NADH pool促進superoxide生成。該complex I研究不能直接冒充complex III Q cycle所有條件的唯一產ROS規律。SOD可產H2O2；catalase完整反應為2H2O2→2H2O+O2，D省略O2的原文保留。",
+    "Q40": "官方C。依題設5′→3′編碼股及常見GT–AG邊界，切點為CTGA／GTA…GTAG／CGAC，接合DNA等價序列CTGACGAC，成熟RNA相應為CUGACGAC。實際剪接對象是前驅RNA而非直接切基因組DNA；不聲稱所有內含子都必為GT–AG。",
+    "Q41": "官方及釋疑B。CRISPR有來源記憶與序列專一性，屬細菌適應性防禦，不是原題innate。同源重組剔除、miRNA及常規Cas9切割後修復分別說明A/C/D。釋疑引ABE無雙股切斷並不否定「與修復有關」；鹼基編輯與一般核酸酶Cas9機制仍分開，不把所有編輯都硬寫成雙股斷裂。",
+    "Q43": "官方D保留。不能解釋成肺動脈沒有壓力／張力感受器：犬實驗及2020健康人高海拔研究已有肺動脈壓力反射證據。人類研究是低氧/iNO條件，並非大量失血>30%直接試驗，不能據此另定該條件下D必然參與到何種程度。分類可確認，官方排除D的普遍性論證不足另存。",
+    "Q45": "官方C（甲乙丙）。按考試短期模型，Na與水滯留可增重，尿K增加，唾液Na/K下降；H分泌增加偏鹼而非偏酸。外部唾液實驗為袋鼠急性輸注，只支持方向，不冒充正常人數天的直接定量證據。原題未定劑量、飲食與腎功能，數天後存在回饋／aldosterone escape，不保證持續無限增重。",
+    "Q46": "官方B。主要蛋白結合型是carbaminohemoglobin，不是把約20%指定由血漿albumin攜帶；HCO3為大宗。各資料的百分比取決於計算分母、血樣及條件，不能把10/30/>50當成固定精密比例。本地印刷948實際寫剩餘HCO3約5%結合Hb，與標準CO2形成carbamino的化學敘述及原題比例不同，已實看原頁並保留，不把HCO3結合Hb寫成已查證的carbamino機制。",
+    "Q47": "官方與釋疑B，鬍鬚生長的重要局部雄激素為由T轉換的DHT。A的SHBG「超過50%」非普遍定值，檢驗機構資料常列約44%SHBG、54%albumin。C的輸精管ABP運送依同年度釋疑採計；ABP與SHBG有密切分子關係，不把不同分泌／運輸場域說成毫無關係的蛋白，亦不冒稱已實驗證明所有正常人輸精管定量比例。",
+    "Q50": "官方B。SARS-CoV-2利用RdRp經RNA中間體複製，非以reverse transcriptase形成DNA為主要途徑；有5′cap及3′poly(A)。C的IgM先IgG後非所有感染者通則，2020患者研究已見同時或先後不同型態。原題signal-stranded拼字保留；現代ICTV報告只補機制，不覆寫110官方資料。"
+  }
+}

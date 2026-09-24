@@ -1,0 +1,1280 @@
+[
+  {
+    "q": 1,
+    "question_or_alternative": "是否因酵母及青黴菌而分到真菌章？",
+    "evidence_used": {
+      "question_page": 1,
+      "official_question_page": 19,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        97,
+        98
+      ],
+      "catalog_ids": [
+        "L0323"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "逐一核對四物種的細胞類型，決定答案的共同判準是有無粒線體，6.2細胞比較最直接；不另列背景物種章。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 2,
+    "question_or_alternative": "原腸是內胚層還是消化道管腔？",
+    "evidence_used": {
+      "question_page": 1,
+      "official_question_page": 19,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1049,
+        1050,
+        1051
+      ],
+      "catalog_ids": [
+        "L3144"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "以教材原腸形成图文區分腔與胚層，D為腔的命運；Gastrulation比整章動物發育精確。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 3,
+    "question_or_alternative": "直接去胺是否應選alanine或甘胺酸？",
+    "evidence_used": {
+      "question_page": 1,
+      "official_question_page": 19,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [
+        28
+      ],
+      "textbook_pages": [
+        182,
+        183
+      ],
+      "catalog_ids": [
+        "L0608"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "官方109釋疑PDF28反應圖確認serine去胺生成pyruvate，維持D；Campbell僅提供分解代謝框架，公告外Stryer全文未讀。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 4,
+    "question_or_alternative": "花藥內有生殖細胞是否也為3n？",
+    "evidence_used": {
+      "question_page": 1,
+      "official_question_page": 19,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        826,
+        827,
+        828,
+        829
+      ],
+      "catalog_ids": [
+        "L2495",
+        "L2486"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "重算兩極核加一精核為3n，花藥為母體器官，不因含花粉改為3n；種子發育主目及生命週期次目同章照存。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 5,
+    "question_or_alternative": "病害是否應只分類抗病原體或水楊酸？",
+    "evidence_used": {
+      "question_page": 1,
+      "official_question_page": 19,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        847,
+        855,
+        866,
+        867,
+        868
+      ],
+      "catalog_ids": [
+        "L2599",
+        "L2596",
+        "L2557"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "印刷855明列jasmonates防禦herbivores及pathogens，三個真實條目分別承接蟲、病與激素機制；答案只在題列四者比較。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 6,
+    "question_or_alternative": "是否按地質年代概述而非板塊構造？",
+    "evidence_used": {
+      "question_page": 1,
+      "official_question_page": 19,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        530,
+        538,
+        539,
+        540
+      ],
+      "catalog_ids": [
+        "L1583"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "盤古會合機制位於Plate Tectonics印刷538–539，二疊紀符合時間；不把「僅有」當全年代無例外地理敘述。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 7,
+    "question_or_alternative": "互補試驗是否就是測交或Ames？",
+    "evidence_used": {
+      "question_page": 1,
+      "official_question_page": 19,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        426,
+        427
+      ],
+      "catalog_ids": [
+        "L1254"
+      ],
+      "supplement_ids": [
+        "S07"
+      ]
+    },
+    "resolution": "Alberts互補段明確區分同／不同基因功能缺失；20.2基因功能鑑定最接近真實目錄，沒有假造Complementation子目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 8,
+    "question_or_alternative": "共同抑制物機制應放基本概念或負調控類型？",
+    "evidence_used": {
+      "question_page": 1,
+      "official_question_page": 19,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        366,
+        367,
+        368,
+        369
+      ],
+      "catalog_ids": [
+        "L1107",
+        "L1110"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "直接結合機制在印刷367、負調控類型從368開始；因此主目調為Operons基本概念，類型另存同章次目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 9,
+    "question_or_alternative": "可否只看Klinefelter病名分類？",
+    "evidence_used": {
+      "question_page": 1,
+      "official_question_page": 19,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        300,
+        308,
+        309
+      ],
+      "catalog_ids": [
+        "L0948",
+        "L0974"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "由X不活化推算XXY有一Barr body，疾病條目只補核型；主次同章仍分開保留，非重複計數。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 10,
+    "question_or_alternative": "交換率排序是否可用猜測位置？",
+    "evidence_used": {
+      "question_page": 1,
+      "official_question_page": 19,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        305,
+        306
+      ],
+      "catalog_ids": [
+        "L0961"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "依ab10、ac8、bc18推c-a-b，再依ad30、bd20置d於b外側；五組距離全部吻合c-a-b-d及其鏡像，排除其餘三選項。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 11,
+    "question_or_alternative": "是否須使用Hardy–Weinberg推估？",
+    "evidence_used": {
+      "question_page": 1,
+      "official_question_page": 19,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        490,
+        491
+      ],
+      "catalog_ids": [
+        "L1442"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "獨立以等位基因總数200計114個B，得0.57；灰色50/100，直接觀察即可，主目確為Gene Pools and Allele Frequencies。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 12,
+    "question_or_alternative": "23、46、92的計數單位是否混淆？",
+    "evidence_used": {
+      "question_page": 2,
+      "official_question_page": 20,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        256,
+        257,
+        259,
+        260,
+        261,
+        262
+      ],
+      "catalog_ids": [
+        "L0837",
+        "L0824"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "前期I的23對同源染色體組成23四分體，46是染色體數、92是染色分體；兩個13章最小條目均保留。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 13,
+    "question_or_alternative": "只解除lac抑制是否已是高表達？",
+    "evidence_used": {
+      "question_page": 2,
+      "official_question_page": 20,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        368,
+        369,
+        370
+      ],
+      "catalog_ids": [
+        "L1113",
+        "L1110"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "印刷369–370需CAP-cAMP正調控並有乳糖解除負調控，故正調控主目與負調控次目不可刪任一。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 14,
+    "question_or_alternative": "Calvin循環是否需虛設碳固定小目？",
+    "evidence_used": {
+      "question_page": 2,
+      "official_question_page": 20,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        191,
+        192,
+        201,
+        202
+      ],
+      "catalog_ids": [
+        "L0665"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "PDF目錄37的10.4無更細子目；正文191–192的stroma與201–202一致，採Concept本身即最小真實條目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 15,
+    "question_or_alternative": "是否為氣孔保衛細胞或葉柄生長運動？",
+    "evidence_used": {
+      "question_page": 2,
+      "official_question_page": 20,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        861,
+        862
+      ],
+      "catalog_ids": [
+        "L2586"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "印刷861–862的pulvini為快速膨壓運動，選A，Mechanical Stimuli直接對應；無需另加生長向性。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 16,
+    "question_or_alternative": "廊道缺乏是否較邊緣效應優先？",
+    "evidence_used": {
+      "question_page": 2,
+      "official_question_page": 20,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1263,
+        1264,
+        1270,
+        1271
+      ],
+      "catalog_ids": [
+        "L3768",
+        "L3745"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "以題幹面積縮小的直接幾何後果判A，印刷1270–1271支持邊緣／核心改變；棲地威脅作次目，保留「最大」的情境限制。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 17,
+    "question_or_alternative": "疾病遺傳模式或錯誤代謝底物何者主分類？",
+    "evidence_used": {
+      "question_page": 2,
+      "official_question_page": 20,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        182,
+        183,
+        285,
+        286,
+        287
+      ],
+      "catalog_ids": [
+        "L0608",
+        "L0911"
+      ],
+      "supplement_ids": [
+        "S17"
+      ]
+    },
+    "resolution": "答案A靠支鏈胺基酸代謝與苯丙胺酸區別，主目改9.6分解代謝、14.4隱性疾病作次目；原圖及讀回確認英文含syrup，未添加不存在的漏字錯誤。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 18,
+    "question_or_alternative": "promoter突變是否保證不影響mRNA序列？",
+    "evidence_used": {
+      "question_page": 2,
+      "official_question_page": 20,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        342,
+        343,
+        344,
+        373,
+        374,
+        375
+      ],
+      "catalog_ids": [
+        "L1126",
+        "L1052"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "轉錄速率是最直接C，但起始點相關突變存在例外，不作絕對排除；18.2調控主目與17.2轉錄合成次目分工清楚。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 19,
+    "question_or_alternative": "HMG-CoA synthase與reductase哪個限速？",
+    "evidence_used": {
+      "question_page": 2,
+      "official_question_page": 20,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        75,
+        183
+      ],
+      "catalog_ids": [
+        "L0611",
+        "L0255"
+      ],
+      "supplement_ids": [
+        "S19"
+      ]
+    },
+    "resolution": "公開生化教材明確支持還原酶至mevalonate，B；Campbell不虛報含此細節，主生合成／次固醇屬性保留。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 20,
+    "question_or_alternative": "oxygenase是否等同一般需氧氧化？",
+    "evidence_used": {
+      "question_page": 2,
+      "official_question_page": 20,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        182,
+        183
+      ],
+      "catalog_ids": [
+        "L0608"
+      ],
+      "supplement_ids": [
+        "S20"
+      ]
+    },
+    "resolution": "IUBMB EC1.13.11.5反應式直接用O2開環，對應tyrosine；分類維持胺基酸分解，不移至電子傳遞。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 21,
+    "question_or_alternative": "非等位基因遮蔽是否可称顯性？",
+    "evidence_used": {
+      "question_page": 2,
+      "official_question_page": 20,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        281,
+        282
+      ],
+      "catalog_ids": [
+        "L0895"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "核對印刷281–282區分不同座位上位作用與同座位顯隱性，選B；多基因孟德爾延伸是實際最小目。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 22,
+    "question_or_alternative": "溯河鮭魚是否為狹鹽而只短暫進淡水？",
+    "evidence_used": {
+      "question_page": 2,
+      "official_question_page": 20,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        978,
+        979,
+        980
+      ],
+      "catalog_ids": [
+        "L2944"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "可跨越海淡水鹽度並完成生活史，依教材例為廣鹽性，B；分類為調滲機制而非僅動物遷徙。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 23,
+    "question_or_alternative": "Campbell的PRH刺激圖是否與dopamine矛盾？",
+    "evidence_used": {
+      "question_page": 3,
+      "official_question_page": 21,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [
+        28,
+        29
+      ],
+      "textbook_pages": [
+        1006,
+        1007,
+        1008
+      ],
+      "catalog_ids": [
+        "L3023"
+      ],
+      "supplement_ids": [
+        "S23"
+      ]
+    },
+    "resolution": "完整核對官方PDF28末段及29續圖，D為解除抑制；Campbell的刺激訊號未否定多巴胺抑制，補充Prolactin段說明雙向調節。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 24,
+    "question_or_alternative": "Harlequin可否當成減數分裂非姐妹重組？",
+    "evidence_used": {
+      "question_page": 3,
+      "official_question_page": 21,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        236,
+        237,
+        302,
+        303,
+        304
+      ],
+      "catalog_ids": [
+        "L0958",
+        "L0763"
+      ],
+      "supplement_ids": [
+        "S24"
+      ]
+    },
+    "resolution": "重開完整Q24圖並讀Wolff作者說明，確定SCE為D；標記15.3只提供交換家族框架，12.1補姐妹構造，明文保存與教材非姐妹交換的範圍差。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 25,
+    "question_or_alternative": "所有RNA病毒是否毫無校對？",
+    "evidence_used": {
+      "question_page": 3,
+      "official_question_page": 21,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        327,
+        409,
+        410
+      ],
+      "catalog_ids": [
+        "L1215",
+        "L1013"
+      ],
+      "supplement_ids": [
+        "S25"
+      ]
+    },
+    "resolution": "原作者nsp10–nsp14實驗證明冠狀病毒例外；D按一般教材規則採計，19.3高突變主目與16.2校對次目保持，沒有把例外刪除。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 26,
+    "question_or_alternative": "晚期內體可水解是否就要改採C？",
+    "evidence_used": {
+      "question_page": 3,
+      "official_question_page": 21,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        107,
+        108,
+        139,
+        140
+      ],
+      "catalog_ids": [
+        "L0466",
+        "L0349"
+      ],
+      "supplement_ids": [
+        "S26"
+      ]
+    },
+    "resolution": "重新核對甲乙丙丁戊原圖，C把水解放內體之前亦不合理；官方B是選項最合適簡化。晚期內體可先降解及胞飲／胞吞用語差異另存，不改官方採計。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 27,
+    "question_or_alternative": "印刷139說down是否支持不能逆梯度？",
+    "evidence_used": {
+      "question_page": 3,
+      "official_question_page": 21,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        138,
+        139,
+        909,
+        910
+      ],
+      "catalog_ids": [
+        "L0456",
+        "L2717"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "重新看原題C及D，與印刷910的against及極性轉運圖交叉核對；共同運輸可逆葡萄糖梯度，故C成立，139措辭差異明列而不更動教材。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 28,
+    "question_or_alternative": "相對與絕對不反應期是否可只看Na通道？",
+    "evidence_used": {
+      "question_page": 3,
+      "official_question_page": 21,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1073,
+        1074,
+        1075
+      ],
+      "catalog_ids": [
+        "L3209"
+      ],
+      "supplement_ids": [
+        "S28"
+      ]
+    },
+    "resolution": "教材過極化及出版社樣章PDF5支持延遲K導度主要解釋相對期，C；同時保留Na通道部分恢復的貢獻，未寫成絕對互斥。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 29,
+    "question_or_alternative": "題幹泛稱所有離子通道是否準確？",
+    "evidence_used": {
+      "question_page": 3,
+      "official_question_page": 21,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1075,
+        1076,
+        1077
+      ],
+      "catalog_ids": [
+        "L3212"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "圖文直接支持郎氏結集中電壓閘控Na通道、跳躍傳導；採A但限制通道種類，不主張其他部位全無離子通道。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 30,
+    "question_or_alternative": "其他肌細胞是否完全沒有calmodulin？",
+    "evidence_used": {
+      "question_page": 3,
+      "official_question_page": 21,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1128,
+        1129,
+        1131,
+        1132
+      ],
+      "catalog_ids": [
+        "L3384",
+        "L3381"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "比較平滑肌MLCK與骨骼肌troponin，B限主要收縮開關；不否認其他肌細胞的calmodulin，兩個50.5最小目同章照存。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 31,
+    "question_or_alternative": "最多血量是否等於最大總截面積？",
+    "evidence_used": {
+      "question_page": 3,
+      "official_question_page": 21,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        929,
+        930,
+        931
+      ],
+      "catalog_ids": [
+        "L2783"
+      ],
+      "supplement_ids": [
+        "S31"
+      ]
+    },
+    "resolution": "Klabunde容量血管段確認靜脈血量最多，D；不以微血管截面積答題，42.3血管結構功能直接對應。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 32,
+    "question_or_alternative": "白血球種類多寡是否應主分免疫章？",
+    "evidence_used": {
+      "question_page": 4,
+      "official_question_page": 22,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        934,
+        935,
+        936
+      ],
+      "catalog_ids": [
+        "L2802"
+      ],
+      "supplement_ids": [
+        "S32"
+      ]
+    },
+    "resolution": "題問周邊血分類計數而非抗原反應，42.4血液成分直接；S32補足成人嗜中性球比例，保留年齡差異。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 33,
+    "question_or_alternative": "原題心輸出量單位缺少每分鐘能否默改？",
+    "evidence_used": {
+      "question_page": 4,
+      "official_question_page": 22,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        926,
+        927,
+        928
+      ],
+      "catalog_ids": [
+        "L2773"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "另行重算SV60 mL，4200/60=70/min；採A並註明原文4.2 L缺/min，完整題文與原圖不增字。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 34,
+    "question_or_alternative": "壓力最高與上升最快是否相同？",
+    "evidence_used": {
+      "question_page": 4,
+      "official_question_page": 22,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        926,
+        927,
+        928
+      ],
+      "catalog_ids": [
+        "L2773"
+      ],
+      "supplement_ids": [
+        "S34"
+      ]
+    },
+    "resolution": "比較dP/dt與壓力峰值，作者教材指等容收縮達最大上升率；B，無需將射血較高壓力錯當變化率。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 35,
+    "question_or_alternative": "thrombin與prothrombin是否易混？",
+    "evidence_used": {
+      "question_page": 4,
+      "official_question_page": 22,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        935,
+        936,
+        937
+      ],
+      "catalog_ids": [
+        "L2802"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "印刷936–937凝血箭頭顯示thrombin作用於fibrinogen，A；不把前驅物或抗凝物當催化酵素。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 36,
+    "question_or_alternative": "缺氧降低飽和度是否等於降低親和力？",
+    "evidence_used": {
+      "question_page": 4,
+      "official_question_page": 22,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [
+        29
+      ],
+      "textbook_pages": [
+        947,
+        948,
+        949
+      ],
+      "catalog_ids": [
+        "L2853"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "官方109釋疑PDF29維持A；固定PO2比較解離曲線，區分DPG改親和力與低PO2改飽和度，也保留慢性缺氧可間接改DPG。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 37,
+    "question_or_alternative": "頸動脈體與頸動脈竇、主動脈體是否混用？",
+    "evidence_used": {
+      "question_page": 4,
+      "official_question_page": 22,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        945,
+        946,
+        947
+      ],
+      "catalog_ids": [
+        "L2843"
+      ],
+      "supplement_ids": [
+        "S37"
+      ]
+    },
+    "resolution": "Campbell周邊呼吸回饋加S37舌咽神經分支確認C；B的迷走屬主要主動脈體路徑，不能套到頸動脈體。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 38,
+    "question_or_alternative": "選項酵素名稱是否代表其分泌時形式？",
+    "evidence_used": {
+      "question_page": 4,
+      "official_question_page": 22,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        907,
+        908,
+        909
+      ],
+      "catalog_ids": [
+        "L2714",
+        "L2711"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "以實際分泌型amylase對照pepsinogen、trypsinogen、chymotrypsinogen，C；小腸及胃消化兩個同章小目完整保存。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 39,
+    "question_or_alternative": "多巴胺是否應只分神經傳遞物質總覽？",
+    "evidence_used": {
+      "question_page": 4,
+      "official_question_page": 22,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1103,
+        1104
+      ],
+      "catalog_ids": [
+        "L3309"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "題目要求獎賞與濫藥特定迴路，49.5明列Brain’s Reward System，較總論精確，D而非黑質紋狀體。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SEE_SCIENTIFIC_SCOPE_NOTE",
+    "classification_pending": false
+  },
+  {
+    "q": 40,
+    "question_or_alternative": "持續運動與訓練後靜息是否混同？",
+    "evidence_used": {
+      "question_page": 4,
+      "official_question_page": 22,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        915,
+        916,
+        1012,
+        1013
+      ],
+      "catalog_ids": [
+        "L2743",
+        "L3039"
+      ],
+      "supplement_ids": [
+        "S40"
+      ]
+    },
+    "resolution": "原題是長距離賽跑當下，S40運動內分泌段支持insulin下降；能量調節主目、腎上腺壓力反應次目分別承接C及背景。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 41,
+    "question_or_alternative": "吞嚥功能能否誤分Arousal and Sleep？",
+    "evidence_used": {
+      "question_page": 5,
+      "official_question_page": 23,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        906,
+        1091,
+        1092,
+        1093
+      ],
+      "catalog_ids": [
+        "L3251",
+        "L2708"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "PDF目錄48首個49.2小目為1094覺醒，吞嚥延髓圖在1093故屬Concept開頭；採49.2本身與口腔咽食道次目，D。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 42,
+    "question_or_alternative": "LDL:HDL是診斷還是風險？",
+    "evidence_used": {
+      "question_page": 5,
+      "official_question_page": 23,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        937,
+        938,
+        939
+      ],
+      "catalog_ids": [
+        "L2805"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "教材心血管疾病段支持A為可能風險上升；不把關聯寫成個人診斷或HDL的無條件因果保護。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 43,
+    "question_or_alternative": "去極化幅度與頻率是否混為一談？",
+    "evidence_used": {
+      "question_page": 5,
+      "official_question_page": 23,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        1073,
+        1128,
+        1129,
+        1130,
+        1131
+      ],
+      "catalog_ids": [
+        "L3381",
+        "L3206"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "比較正常動作電位全有全無與運動單元／頻率調張力，D；保留病理性膜改變例外，主骨骼肌、次48.3動作電位。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 44,
+    "question_or_alternative": "朝3′端加長是否表示合成方向3′→5′？",
+    "evidence_used": {
+      "question_page": 5,
+      "official_question_page": 23,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [
+        29
+      ],
+      "textbook_pages": [
+        328,
+        329
+      ],
+      "catalog_ids": [
+        "L1019"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "教材末端圖與官方PDF29均為加在既有DNA3′端、合成5′→3′；B，另一股補齊不是端粒酶直接雙股延伸。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 45,
+    "question_or_alternative": "cavum venosum是否必只通肺，L-R能否繞肺？",
+    "evidence_used": {
+      "question_page": 5,
+      "official_question_page": 23,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        924,
+        925,
+        926
+      ],
+      "catalog_ids": [
+        "L2763"
+      ],
+      "supplement_ids": [
+        "S45"
+      ]
+    },
+    "resolution": "重新開Q45原圖，對照Campbell龜類及原作者腔室圖：體動脈出口連CV，肺旁路為R-L，C正確。研究物種不同與NOAA取得失敗明示，未用其冒充綠蠵龜直接量測。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 46,
+    "question_or_alternative": "是否應以細菌分類章處理瘤胃菌？",
+    "evidence_used": {
+      "question_page": 5,
+      "official_question_page": 23,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [
+        29
+      ],
+      "textbook_pages": [
+        912,
+        913,
+        914
+      ],
+      "catalog_ids": [
+        "L2733"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "題問共生消化的胃室位置，41.4互利適應直接；官方PDF29以主要發酵及最大胃室維持A，未推論其他胃室完全無菌。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 47,
+    "question_or_alternative": "最先偵測是否意味正常血沒有CK？",
+    "evidence_used": {
+      "question_page": 5,
+      "official_question_page": 23,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        937,
+        938
+      ],
+      "catalog_ids": [
+        "L2805"
+      ],
+      "supplement_ids": [
+        "S47"
+      ]
+    },
+    "resolution": "S47歷史教材指受損後早期升高而非正常零值，C；按四個酵素判讀，不宣稱CK是所有標記中最早或現行唯一診斷指標。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 48,
+    "question_or_alternative": "窗孔濾過是否可放腎小管後續处理小目？",
+    "evidence_used": {
+      "question_page": 5,
+      "official_question_page": 23,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        984,
+        985,
+        986,
+        987
+      ],
+      "catalog_ids": [
+        "L2970"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "重開原圖及完整印刷987，濾過選擇性在44.4引言、From Blood Filtrate to Urine之前，主目修為44.4。尿素C最易過濾，保留全屏障多層結構限制。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 49,
+    "question_or_alternative": "尿鈉濃度、排出量與rennin字樣是否正確？",
+    "evidence_used": {
+      "question_page": 5,
+      "official_question_page": 23,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        994,
+        995,
+        996
+      ],
+      "catalog_ids": [
+        "L2987"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "低鈉典型RAAS保鈉反應為B；濃度還受尿量影響，腎素應拼renin，兩項差異都保留，分類仍為腎臟恆定調節。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  },
+  {
+    "q": 50,
+    "question_or_alternative": "CAM及C4是否可直接寫成零光呼吸？",
+    "evidence_used": {
+      "question_page": 5,
+      "official_question_page": 23,
+      "answer_page": 1,
+      "official_answer_page": 24,
+      "clarification_pages": [],
+      "textbook_pages": [
+        203,
+        204,
+        205
+      ],
+      "catalog_ids": [
+        "L0673",
+        "L0676",
+        "L0679"
+      ],
+      "supplement_ids": []
+    },
+    "resolution": "比較菠菜C3、玉米C4、鳳梨／仙人掌CAM，熱乾燥下B較旺盛；三個10.5真實小目保留，章級每題仍只計一次。",
+    "status": "RESOLVED_CLASSIFICATION",
+    "source_conflict_status": "SOURCE_CONFLICT_RETAINED",
+    "classification_pending": false
+  }
+]

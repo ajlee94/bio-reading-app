@@ -1,0 +1,188 @@
+[
+  {
+    "id": "S02",
+    "title": "EMA Vaxzevria公開評估",
+    "urls": [
+      "https://www.ema.europa.eu/en/documents/assessment-report/vaxzevria-previously-covid-19-vaccine-astrazeneca-epar-public-assessment-report_en.pdf"
+    ],
+    "finding": "AZ使用非複製型ChAdOx1腺病毒載體攜帶S基因，直接支持Q2B。",
+    "read_scope": "官方索引取得產品組成段落；未下載整份PDF，不引用頁碼或宣稱完整產品評估實讀。僅補歷史平台機制。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU111官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "fbf299dba460f4125ea8b27337d3f87d5fcee0f7c09f1ab00b6b40cc562c7411"
+  },
+  {
+    "id": "S06",
+    "title": "NCBI MeSH ECL定義",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/mesh/68019861"
+    ],
+    "finding": "ECL接受gastrin刺激釋histamine，再促進胃酸分泌。",
+    "read_scope": "官方主題詞定義搜尋讀回；沒有以Campbell未列ECL的段落充作具名證據。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU111官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "46595dc9e98ce1a63df71bea6834154c5b296f0fd60571534604aed05b648ebf"
+  },
+  {
+    "id": "S07",
+    "title": "NHGRI Mosaicism",
+    "urls": [
+      "https://www.genome.gov/genetics-glossary/Mosaicism"
+    ],
+    "finding": "單一受精卵來源且有不同基因組細胞的個體；不同於多合子嵌合。",
+    "read_scope": "官方完整詞條定義；頁面2026更新日期為本輪讀取內容時間背景，不當作2022考試公告日期。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU111官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "a50433862daec0b0c7503fd6e88385fe59d3840b1da7fd4921761d51117dfdb4"
+  },
+  {
+    "id": "S13",
+    "title": "McGarry等1977及原作者Foster2012",
+    "urls": [
+      "https://www.jci.org/articles/view/108764",
+      "https://www.jci.org/articles/view/63967"
+    ],
+    "finding": "原始大鼠肝研究示malonyl-CoA抑制脂肪酸氧化；原作者解釋CPT1與飢餓肝酮體生成的開關。",
+    "read_scope": "1977摘要；2012摘要及肝代謝/CPT1敘述段落。不是人體全類型糖尿病臨床證據，不擴張所有組織。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU111官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "239bb3d155bd8f7d4a03cc616bb719bf7f7deb16069a63054304b32b3e9b3053"
+  },
+  {
+    "id": "S18",
+    "title": "FlyBase C(1)RM資料庫",
+    "urls": [
+      "https://flybase.org/reports/FBab0000088.html"
+    ],
+    "finding": "具名attached-X也是homo_compound；兩同源X臂共用著絲點。",
+    "read_scope": "實讀Description、Rearrangement及Synonyms等欄位。未將FlyBase資料库當做官方考試裁決，也未讀公告所引Genetics6e完整128頁。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU111官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "969d4308e4a3d86dd7f00deda58c28cfe91ab6876f78c8a34b7e98b1aa353150"
+  },
+  {
+    "id": "S20",
+    "title": "Endotext estrogen生合成",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK278933/"
+    ],
+    "finding": "aromatase將testosterone及androstenedione分別轉成estradiol及estrone。",
+    "read_scope": "作者教材搜尋讀回的estrogen biosynthesis明確反應段落；未宣稱整章實讀。NCI一般inhibitor詞條僅作先期檢索，不當作精確反應唯一證據。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU111官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "39797bc1d8909308d8723b56587913d72394f94feb0ba1f57ba91cce6ba40956"
+  },
+  {
+    "id": "S24",
+    "title": "NCI Bevacizumab",
+    "urls": [
+      "https://www.cancer.gov/about-cancer/treatment/drugs/bevacizumab"
+    ],
+    "finding": "Avastin為bevacizumab商品名，阻斷VEGF及血管新生。",
+    "read_scope": "官方頁首藥物機轉及US Brand Names，未評估處方適應症或提出醫療建議。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU111官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "cbe2321e9b720793dc59e251529c151788b1788e4e303d2dd458070d8d4eda7e"
+  },
+  {
+    "id": "S25",
+    "title": "Parrott等2014鱷魚性別決定甲基化",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/24227754/"
+    ],
+    "finding": "研究顯示孵化溫度相關SOX9與aromatase啟動子甲基化，反駁溫度決定必無表觀調控。",
+    "read_scope": "完整PubMed摘要；未取得出版商全文，無四選項影響大小定量比較。出版2014早於2022考試。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU111官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "dc0257c87e5668714fec9090d1bbfa1eca2b21f872ea74723adf513c8e387494"
+  },
+  {
+    "id": "S39",
+    "title": "Saper等2010 Sleep State Switching",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/21172606/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3026325/"
+    ],
+    "finding": "上腦幹及下視丘喚醒路徑與VLPO促眠並存，不能將單一核團功能外推整個腦區。",
+    "read_scope": "PubMed摘要與圖1–3文字圖說；PMC完整頁驗證碼阻擋，沒有宣稱全文實讀。此文即111釋疑所引Neuron68:1023–1042。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU111官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "9a3eaa1779743363b276888b00ea2b649c7fe4761fa6fb1873bfa4b6390a8e97"
+  },
+  {
+    "id": "S43",
+    "title": "楊桃草酸鹽腎病病例",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/26680759/"
+    ],
+    "finding": "兩病例提示食用楊桃後草酸鹽相關腎損傷及沉積，支持成分C而非普遍結石風險。",
+    "read_scope": "PubMed搜尋摘要段落，未取得全文或讀取患者個人資料。病例中的腎病不冒充皆已診斷renal calculi。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU111官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "3621207224ded29cbe2ac7f788913383eb8da61878d0dc0f11072baea4b46442"
+  },
+  {
+    "id": "S44",
+    "title": "Alberts等Molecular Biology of the Cell4e膜結構",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK21055/"
+    ],
+    "finding": "作者教材描述連續脂質雙層約5nm，支持A100Å的相近奈米量級，非全膜統一定值。",
+    "read_scope": "NCBI授權搜尋取得Chapter10 Membrane Structure段落，非Campbell頁碼。書頁註可搜尋不可整書瀏覽，未宣稱整書下載。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU111官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "5ceade4a9add85463d7d23c9760c4b9eda162569c8472354e0e63ddbffa6794f"
+  },
+  {
+    "id": "S46",
+    "title": "Weisleder與Ma2008：Altered Ca2+ sparks in aging skeletal and cardiac muscle",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/18272434/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC2812416/"
+    ],
+    "finding": "正文定義骨骼肌一T小管加一對SR終池的triad；圖1文字及正文對比心肌dyad與骨骼肌triad。",
+    "read_scope": "PubMed摘要及Figure1圖說；追加PMC搜尋讀回的junction定義與骨骼／心肌比較段落，未取得出版商完整全文。屬作者學術綜述，沒有冒稱原始實驗或外部第二位覆核者。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU111官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "7fc66cba6121fa5043f51642e594b59a02f629e2ffe8f7e5bf079042eac8d0e2"
+  },
+  {
+    "id": "S47",
+    "title": "Clinical Methods3e Chapter61 Cranial Nerve V",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK384/"
+    ],
+    "finding": "三叉神經下頜支攜運動纖維，支配咀嚼肌。",
+    "read_scope": "原作者Walker教材Definition的Sensory／Motor與Basic Science相關段落；章號61依當前來源確認，不沿用檢索誤記章號。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU111官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "81bcbacaf47ff579fcaae41a3edef85f64e5c6aef7c22cd3e300a8eecc677048"
+  },
+  {
+    "id": "S50",
+    "title": "1983肺充氣研究及2020多尺度健康肺原始模型",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/6629967/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7456900/"
+    ],
+    "finding": "離體犬肺泡募集研究及健康肺模型支持壓容積遲滯；2020模型區分局部跨肺壓、胸膜壓與氣道阻力。",
+    "read_scope": "1983摘要搜尋讀回；2020摘要、模型氣體組件和圖7–9相關文字搜尋讀回。PMC直接頁驗證碼阻擋；未把搜尋段落冒稱全文或直接人體實驗。",
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU111官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "179c0fa1bd7cda5d8530774f7fd9a59cf72391d7af0afd10a22f5211459828ed"
+  }
+]

@@ -1,0 +1,71 @@
+﻿mode,chapter_number,chapter,count
+primary,42,Ch42 Circulation and Gas Exchange,5
+primary,6,Ch06 A Tour of the Cell,4
+primary,41,Ch41 Animal Nutrition,4
+primary,45,Ch45 Hormones and the Endocrine System,4
+primary,18,Ch18 Regulation of Gene Expression,3
+primary,49,Ch49 Nervous Systems,3
+primary,50,Ch50 Sensory and Motor Mechanisms,3
+primary,17,Ch17 Gene Expression: From Gene to Protein,2
+primary,44,Ch44 Osmoregulation and Excretion,2
+primary,3,Ch03 Water and Life,1
+primary,5,Ch05 The Structure and Function of Large Biological Molecules,1
+primary,7,Ch07 Membrane Structure and Function,1
+primary,8,Ch08 An Introduction to Metabolism,1
+primary,9,Ch09 Cellular Respiration and Fermentation,1
+primary,12,Ch12 The Cell Cycle,1
+primary,13,Ch13 Meiosis and Sexual Life Cycles,1
+primary,14,Ch14 Mendel and the Gene Idea,1
+primary,15,Ch15 The Chromosomal Basis of Inheritance,1
+primary,19,Ch19 Viruses,1
+primary,20,Ch20 DNA Tools and Biotechnology,1
+primary,21,Ch21 Genomes and Their Evolution,1
+primary,23,Ch23 The Evolution of Populations,1
+primary,27,Ch27 Bacteria and Archaea,1
+primary,35,"Ch35 Vascular Plant Structure, Growth, and Development",1
+primary,37,Ch37 Soil and Plant Nutrition,1
+primary,43,Ch43 The Immune System,1
+primary,46,Ch46 Animal Reproduction,1
+primary,47,Ch47 Animal Development,1
+primary,48,"Ch48 Neurons, Synapses, and Signaling",1
+secondary,42,Ch42 Circulation and Gas Exchange,3
+secondary,41,Ch41 Animal Nutrition,2
+secondary,3,Ch03 Water and Life,1
+secondary,5,Ch05 The Structure and Function of Large Biological Molecules,1
+secondary,7,Ch07 Membrane Structure and Function,1
+secondary,15,Ch15 The Chromosomal Basis of Inheritance,1
+secondary,16,Ch16 The Molecular Basis of Inheritance,1
+secondary,19,Ch19 Viruses,1
+secondary,43,Ch43 The Immune System,1
+secondary,45,Ch45 Hormones and the Endocrine System,1
+secondary,49,Ch49 Nervous Systems,1
+both,42,Ch42 Circulation and Gas Exchange,8
+both,41,Ch41 Animal Nutrition,6
+both,45,Ch45 Hormones and the Endocrine System,5
+both,6,Ch06 A Tour of the Cell,4
+both,49,Ch49 Nervous Systems,4
+both,18,Ch18 Regulation of Gene Expression,3
+both,50,Ch50 Sensory and Motor Mechanisms,3
+both,3,Ch03 Water and Life,2
+both,5,Ch05 The Structure and Function of Large Biological Molecules,2
+both,7,Ch07 Membrane Structure and Function,2
+both,15,Ch15 The Chromosomal Basis of Inheritance,2
+both,17,Ch17 Gene Expression: From Gene to Protein,2
+both,19,Ch19 Viruses,2
+both,43,Ch43 The Immune System,2
+both,44,Ch44 Osmoregulation and Excretion,2
+both,8,Ch08 An Introduction to Metabolism,1
+both,9,Ch09 Cellular Respiration and Fermentation,1
+both,12,Ch12 The Cell Cycle,1
+both,13,Ch13 Meiosis and Sexual Life Cycles,1
+both,14,Ch14 Mendel and the Gene Idea,1
+both,16,Ch16 The Molecular Basis of Inheritance,1
+both,20,Ch20 DNA Tools and Biotechnology,1
+both,21,Ch21 Genomes and Their Evolution,1
+both,23,Ch23 The Evolution of Populations,1
+both,27,Ch27 Bacteria and Archaea,1
+both,35,"Ch35 Vascular Plant Structure, Growth, and Development",1
+both,37,Ch37 Soil and Plant Nutrition,1
+both,46,Ch46 Animal Reproduction,1
+both,47,Ch47 Animal Development,1
+both,48,"Ch48 Neurons, Synapses, and Signaling",1

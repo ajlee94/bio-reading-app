@@ -1,0 +1,255 @@
+[
+  {
+    "id": "S01",
+    "title": "NOAA：NEE符號、El Niño與CO2時間尺度",
+    "urls": [
+      "https://www.gml.noaa.gov/ccgg/carbontracker/CT2026/documentation.php",
+      "https://oceanservice.noaa.gov/facts/ninonina.html",
+      "https://www.gml.noaa.gov/ccgg/trends/"
+    ],
+    "finding": "NOAA通量以向大氣為正，NEE含呼吸與光合負通量；暖相上升流減弱。題Q1的30%為原題估計，不由此組保證精確數字；Q28年代差異另由本地教材1278圖核對。",
+    "read_scope": "已讀NOAA搜尋返回的NEE公式與ENSO機制節錄；CO2趨勢入口為延伸資料，數值核對以本地教材圖為本輪實讀證據。",
+    "access_date": "2026-09-09",
+    "method": "Web tool actual returned page or search excerpts, as specified; no claim of publisher full-text access."
+  },
+  {
+    "id": "S02",
+    "title": "病毒附著蛋白與錯置配對的原始研究",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/7707507/",
+      "https://www.ncbi.nlm.nih.gov/books/NBK19436/?report=reader",
+      "https://pubmed.ncbi.nlm.nih.gov/2464439/",
+      "https://pubmed.ncbi.nlm.nih.gov/19487668/"
+    ],
+    "finding": "腺病毒fiber負責宿主表面受體附著；HIV gp120結合CD4。Campbell提供病毒表面蛋白與受體框架。 原始EBV受體研究確認gp350/220；輪狀病毒cryo-EM研究確認外層VP7，支持排除題中錯置的病毒配對。",
+    "read_scope": "已讀原始fiber研究摘要節錄與NCBI Retroviruses受體章gp120/CD4段節錄；未宣稱完整章或全文已讀。 封存前再實讀EBV gp350/220原始研究完整摘要與輪狀病毒VP7結構研究摘要節錄，未宣稱後者完整摘要或全文。",
+    "access_date": "2026-09-09",
+    "method": "Web tool actual returned page or search excerpts, as specified; no claim of publisher full-text access."
+  },
+  {
+    "id": "S03",
+    "title": "疱疹病毒基因組、傳播與CMV核內包涵體",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6105607/",
+      "https://www.ncbi.nlm.nih.gov/books/NBK8157/",
+      "https://pubmed.ncbi.nlm.nih.gov/6268757/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5468625/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8875165/"
+    ],
+    "finding": "HCMV不同株基因組約229–238kb；教材及原始病理個案記CMV Cowdry A核內包涵體。原始研究證明直接細胞間傳播；抗體抑制程度隨病毒株、抗體、細胞與實驗定義而異，不推成完全不受抗體影響。核內複製及包膜另由Campbell405–406頁支援。",
+    "read_scope": "已讀基因組Results/表1節錄、NCBI Pathogenesis CMV段、1981病理研究摘要節錄；不將歷史臨床數字作現行醫療建議。 另實讀2017原始研究傳播/中和實驗節錄與2022原始研究完整摘要及cell-associated spread定義段；未宣稱全部正文閱讀。",
+    "access_date": "2026-09-09",
+    "method": "Web tool actual returned page or search excerpts, as specified; no claim of publisher full-text access."
+  },
+  {
+    "id": "S04",
+    "title": "ICTV：Parvoviridae及B19股極性",
+    "urls": [
+      "https://ictv.global/report/chapter/parvoviridae/parvoviridae",
+      "https://ictv.global/ictv/proposals/2013.001a-aaaV.A.v4.Parvoviridae.pdf"
+    ],
+    "finding": "B19為線性ssDNA；ICTV分類提案將約等量正負封裝股明列為+/-。正負指核酸股方向而非可直接翻譯。",
+    "read_scope": "已讀家族描述、表與2013提案的genome欄說明節錄；提案屬歷史分類文件，未拿舊物種名冒稱現行命名。",
+    "access_date": "2026-09-09",
+    "method": "Web tool actual returned page or search excerpts, as specified; no claim of publisher full-text access."
+  },
+  {
+    "id": "S05",
+    "title": "Foxman等：鼻病毒溫度依賴宿主防禦",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/25561542/"
+    ],
+    "finding": "許多人類鼻病毒株在鼻腔33–35°C比37°C複製旺盛，研究支持溫度依賴先天免疫作用；不宣稱所有株完全一致。",
+    "read_scope": "已讀摘要的33–35/37°C、MAVS/IFN反應節錄，未讀完整實驗正文。",
+    "access_date": "2026-09-09",
+    "method": "Web tool actual returned page or search excerpts, as specified; no claim of publisher full-text access."
+  },
+  {
+    "id": "S06",
+    "title": "CD4亞群的四個主控轉錄因子原始研究",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/12522256/",
+      "https://pubmed.ncbi.nlm.nih.gov/10761931/",
+      "https://pubmed.ncbi.nlm.nih.gov/9160750/",
+      "https://pubmed.ncbi.nlm.nih.gov/16990136/",
+      "https://pubmed.ncbi.nlm.nih.gov/18454151/"
+    ],
+    "finding": "Foxp3支持Treg，T-bet支持Th1，GATA3支持Th2，RORγt支持Th17；經典模型與亞群可塑性須區分。",
+    "read_scope": "已讀Foxp3與T-bet完整摘要、GATA3研究題名及摘要開頭、RORγt研究返回節錄及人類Th17研究摘要；不宣稱五篇全文已讀。誤試9039265未取得可用內容，未列證據。",
+    "access_date": "2026-09-09",
+    "method": "Web tool actual returned page or search excerpts, as specified; no claim of publisher full-text access."
+  },
+  {
+    "id": "S07",
+    "title": "CDC：IPV與OPV免疫差異",
+    "urls": [
+      "https://www.cdc.gov/poliovirus-containment/diseaseandvirus/index.html",
+      "https://www.cdc.gov/acip/downloads/slides-2024-02-28-29/02-POLIO-Kidd-508.pdf"
+    ],
+    "finding": "IPV為不活化，OPV為口服活疫苗且可誘發較強黏膜免疫；IPV腸道免疫有限。",
+    "read_scope": "已讀CDC網頁及ACIP簡報搜尋節錄，未宣稱全份簡報視覺閱讀。",
+    "access_date": "2026-09-09",
+    "method": "Web tool actual returned page or search excerpts, as specified; no claim of publisher full-text access."
+  },
+  {
+    "id": "S08",
+    "title": "Fendrych等：auxin可快速抑制根生長",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/29942048/"
+    ],
+    "finding": "原始研究直接報告TIR1 auxin訊號造成快速可逆根生長抑制，限制Q23未指定濃度下必伸長的全稱判斷。",
+    "read_scope": "已讀已定位原始研究題名及研究摘要搜尋節錄；一般濃度依賴原理另以本地Campbell848頁實讀支援。",
+    "access_date": "2026-09-09",
+    "method": "Web tool actual returned page or search excerpts, as specified; no claim of publisher full-text access."
+  },
+  {
+    "id": "S09",
+    "title": "FDA Tamiflu標示：神經胺酸酶靶點",
+    "urls": [
+      "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2011/021246Orig1s039.pdf"
+    ],
+    "finding": "Oseltamivir carboxylate抑制流感neuraminidase而影響病毒顆粒釋放。",
+    "read_scope": "已讀官方PDF Mechanism of Action搜尋節錄；未宣稱整份PDF閱讀或現行療程建議。",
+    "access_date": "2026-09-09",
+    "method": "Web tool actual returned page or search excerpts, as specified; no claim of publisher full-text access."
+  },
+  {
+    "id": "S10",
+    "title": "Lentz等1982：狂犬病毒與ACh受體",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/7053569/"
+    ],
+    "finding": "經典實驗支持狂犬病毒與乙醯膽鹼受體部位附著相關，不足以證明所有宿主細胞唯一必需受體。",
+    "read_scope": "已讀研究題名及鼠橫膈/雞肌管分布摘要節錄；未宣稱全文讀取。",
+    "access_date": "2026-09-09",
+    "method": "Web tool actual returned page or search excerpts, as specified; no claim of publisher full-text access."
+  },
+  {
+    "id": "S11",
+    "title": "Davison等2016：螺手性與formin",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/26923788/"
+    ],
+    "finding": "原始研究將formin與池塘螺左右不對稱、母源表現及細胞骨架連結；支援母體效應/卵裂分類框架。",
+    "read_scope": "已讀研究題名、maternal expression圖說及返回研究節錄；直接開PubMed未返回正文，不宣稱完整摘要或全文。",
+    "access_date": "2026-09-09",
+    "method": "Web tool actual returned page or search excerpts, as specified; no claim of publisher full-text access."
+  },
+  {
+    "id": "S12",
+    "title": "ICTV：Caliciviridae/Norovirus結構",
+    "urls": [
+      "https://ictv.global/report/chapter/caliciviridae/caliciviridae"
+    ],
+    "finding": "杯狀病毒科為無包膜正股RNA病毒，屬列表含Norovirus，補足Campbell表19.1未列的Norwalk。",
+    "read_scope": "已讀官方家族表的Virion、Genome及屬名列表。",
+    "access_date": "2026-09-09",
+    "method": "Web tool actual returned page or search excerpts, as specified; no claim of publisher full-text access."
+  },
+  {
+    "id": "S13",
+    "title": "ICTV：Poxviridae胞質複製",
+    "urls": [
+      "https://ictv.global/report/chapter/poxviridae/poxviridae"
+    ],
+    "finding": "痘病毒為大型dsDNA病毒，在胞質進行複製；NCLDV總括介紹不等於每個成員都必經核。",
+    "read_scope": "已讀官方家族特性與複製描述節錄。",
+    "access_date": "2026-09-09",
+    "method": "Web tool actual returned page or search excerpts, as specified; no claim of publisher full-text access."
+  },
+  {
+    "id": "S14",
+    "title": "腺病毒E3/19K滯留MHC-I的原始研究",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/23514889/",
+      "https://pubmed.ncbi.nlm.nih.gov/18287244/"
+    ],
+    "finding": "E3/19K在ER滯留MHC-I，減少細胞表面運輸與CD8辨識；E19為原題名稱。",
+    "read_scope": "已讀兩篇研究摘要節錄，未讀出版商全文。",
+    "access_date": "2026-09-09",
+    "method": "Web tool actual returned page or search excerpts, as specified; no claim of publisher full-text access."
+  },
+  {
+    "id": "S15",
+    "title": "Scally等2012：大猩猩基因組與ILS",
+    "urls": [
+      "https://www.nature.com/articles/nature10842"
+    ],
+    "finding": "原始研究比較人、黑猩猩、大猩猩基因組，局部基因譜系跨位點改變，支持祖先多型及不完整譜系排序。",
+    "read_scope": "已讀Nature搜尋返回Incomplete lineage sorting and selection段節錄及圖2標題；後續直接開啟失敗，未宣稱全文取得。",
+    "access_date": "2026-09-09",
+    "method": "Web tool actual returned page or search excerpts, as specified; no claim of publisher full-text access."
+  },
+  {
+    "id": "S16",
+    "title": "臍帶形成與胚外膜的形態研究",
+    "urls": [
+      "https://embryology.med.unsw.edu.au/embryology/index.php?title=Paper_-_The_formation_of_the_umbilical_cord_and_the_umbilical_region_of_the_anterior_abdominal_wall"
+    ],
+    "finding": "羊膜、連接莖、尿囊/卵黃囊柄共同涉及臍帶形成；本地Campbell提供胚外膜及胎盤循環主要證據。",
+    "read_scope": "已讀UNSW收錄1939原始形態論文的形成段節錄；標明歷史研究，未宣稱現代臨床指南。",
+    "access_date": "2026-09-09",
+    "method": "Web tool actual returned page or search excerpts, as specified; no claim of publisher full-text access."
+  },
+  {
+    "id": "S17",
+    "title": "ASM：革蘭氏染色程序及歷史",
+    "urls": [
+      "https://asm.org/protocols/gram-stain-protocols",
+      "https://asm.org/articles/2020/february/identifying-bacteria-through-look%2C-growth%2C-stain"
+    ],
+    "finding": "結晶紫、碘、酒精/丙酮脫色、safranin對比染色；ASM記開發年份1884，與原題1882差異保留。",
+    "read_scope": "已讀官方程序四步驟及歷史年份節錄。",
+    "access_date": "2026-09-09",
+    "method": "Web tool actual returned page or search excerpts, as specified; no claim of publisher full-text access."
+  },
+  {
+    "id": "S18",
+    "title": "蝙蝠中耳肌、聲頻與海豚下頜聽覺研究",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/1251206/",
+      "https://pubmed.ncbi.nlm.nih.gov/3625576/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3695372/",
+      "https://www.sciencedirect.com/science/article/pii/S2405722316301189",
+      "https://pubmed.ncbi.nlm.nih.gov/25925434/"
+    ],
+    "finding": "發聲時中耳肌活動可減少自刺激；研究分別記約20kHz末端與120kHz諧波，不能把20–120kHz當全部物種固定頻段。 瓶鼻海豚遮蔽下頜頦孔區會提高聽閾，瑞氏海豚聲音接收實驗亦支持下頜路徑；具體路徑與靈敏部位可有物種差異。",
+    "read_scope": "已讀中耳肌原始摘要、兩份聲頻結果節錄、2016下頜遮蔽研究完整摘要及2015瑞氏海豚聽覺研究摘要節錄；未宣稱Campbell具名涵蓋或全部研究全文已讀。",
+    "access_date": "2026-09-09",
+    "method": "Web tool actual returned page or search excerpts, as specified; no claim of publisher full-text access."
+  },
+  {
+    "id": "S19",
+    "title": "陸封大西洋鮭嗅覺印痕研究的物種界線",
+    "urls": [
+      "https://open.bu.edu/items/cde15ed0-907a-4ca0-90b4-a2a15d3c8abe"
+    ],
+    "finding": "研究在陸封大西洋鮭亦找到早期印痕線索，足以反對陸封便無印痕的一般推論；不代表櫻花鉤吻鮭或山椒魚已得到相同實驗結果。",
+    "read_scope": "已讀大學典藏原始學位研究摘要節錄；沒有指定兩物種皆無印痕的直接證據，因此保留Q43命題未確認界線。",
+    "access_date": "2026-09-09",
+    "method": "Web tool actual returned page or search excerpts, as specified; no claim of publisher full-text access."
+  },
+  {
+    "id": "S20",
+    "title": "pre-BCR與VpreB/λ5轉錄的原始研究",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC1283949/"
+    ],
+    "finding": "原始RNA FISH及受體缺陷小鼠研究比較pre-BI、large pre-BII、small pre-BII；替代輕鏈轉錄與表面pre-BCR表現階段需區分。",
+    "read_scope": "已讀摘要與研究返回RNA FISH結果節錄；不宣稱整篇全文精讀。",
+    "access_date": "2026-09-09",
+    "method": "Web tool actual returned page or search excerpts, as specified; no claim of publisher full-text access."
+  },
+  {
+    "id": "S21",
+    "title": "Serna等2016：膜攻擊複合物結構",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4743022/",
+      "https://pubmed.ncbi.nlm.nih.gov/26841837/"
+    ],
+    "finding": "Cryo-EM結構列C5b、C6、C7、C8各鏈與C9，C3不在MAC孔的結構組成。",
+    "read_scope": "已讀原始研究摘要、圖1成分圖說及auxiliary domains節錄。",
+    "access_date": "2026-09-09",
+    "method": "Web tool actual returned page or search excerpts, as specified; no claim of publisher full-text access."
+  }
+]

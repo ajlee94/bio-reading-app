@@ -1,0 +1,186 @@
+[
+  {
+    "id": "S01",
+    "title": "OpenStax Anatomy and Physiology 2e 20.2；APS動脈壓估算研究",
+    "finding": "平均動脈壓是時間平均；舒張壓加三分之一脈壓是常用周邊動脈靜息近似，本題算110。",
+    "read_scope": "OpenStax Mean Arterial Pressure段落及公式；APS 2005研究頁檢索段落，僅使用其周邊動脈估算敘述，不把主動脈研究結論移植本題。",
+    "urls": [
+      "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-2-blood-flow-blood-pressure-and-resistance",
+      "https://journals.physiology.org/doi/abs/10.1152/japplphysiol.00713.2005"
+    ],
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU113官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "6e74d57610133989339a1aa1613836ba6ff723469ea61f358852e708e26b8226"
+  },
+  {
+    "id": "S02",
+    "title": "Nobel Assembly 2023 Advanced information",
+    "finding": "mRNA可由DNA模板經體外轉錄製得；核苷修飾與傳遞技術促成疫苗應用。RNA不穩定及遞送問題不能被概括成容易保存。",
+    "read_scope": "官方2023背景頁檢索回傳的體外轉錄、RNA穩定性與核苷修飾段落；基礎網址曾403，未宣稱下載完整PDF。",
+    "urls": [
+      "https://www.nobelprize.org/prizes/medicine/2023/advanced-information/?hss_channel=lcp-18851100"
+    ],
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU113官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "c00af5b0b5ed74c043fec787928d22e27d8388d9604f959699fc0dd6beac9275"
+  },
+  {
+    "id": "S03",
+    "title": "Nobel Assembly 2009 Advanced information",
+    "finding": "端粒酶含蛋白催化組件及內在RNA模板；實驗以RNA序列改變造成新生端粒DNA序列改變證實模板角色。",
+    "read_scope": "官方背景頁檢索回傳內在RNA模板、Greider與Blackburn研究及機制段落；不混用四膜蟲TTGGGG與人TTAGGG序列。",
+    "urls": [
+      "https://www.nobelprize.org/prizes/medicine/2009/advanced-information/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU113官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "7f46df2bffa74cdb9610e27cd78daf360bbe2d90b4c33dabb2797f685587a456"
+  },
+  {
+    "id": "S04",
+    "title": "Maibom-Thomsen等2019 Immunoglobulin G structure and rheumatoid factor epitopes",
+    "finding": "RF是辨識IgG等免疫球蛋白表位的自體抗體；不能把RF本身直接說成被攻擊而造成RA的組織抗原。",
+    "read_scope": "原始研究PMC摘要與Introduction的RF定義、IgG Fc表位段落；未作患者診斷或把所有RA歸因RF。",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6568389/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU113官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "47100f3a6d62a2ab7488a152d5e43623f640cc1595e54416da2147d97b66aea3"
+  },
+  {
+    "id": "S05",
+    "title": "Luminal NaCl delivery regulates basolateral PGE2 release from macula densa cells（JCI 2003）",
+    "finding": "實驗顯示緻密斑在低管腔鹽濃度時釋放PGE2，支援低NaCl訊息促腎素的機制；與一般血漿鈉濃度不能直接畫等號。",
+    "read_scope": "JCI研究頁及同一期研究摘要的低NaCl與PGE2結果；另檢索Macula densa control of renin secretion摘要句，低NaCl提高腎素。",
+    "urls": [
+      "https://jci.org/articles/view/18018",
+      "https://pubmed.ncbi.nlm.nih.gov/1708903/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU113官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "5a81b618831401a526b0074e795f3ae85939e28d4284e7b62757f86769c1ed1f"
+  },
+  {
+    "id": "S06",
+    "title": "Dean 2005 Blood Groups and Red Cell Antigens 第4章",
+    "finding": "RhD陰性母親經RhD陽性血球致敏，再遇陽性胎兒時可有IgG跨胎盤溶血；首次輸血、早期出血或流產也可能先致敏。",
+    "read_scope": "NCBI官方出版教材Sensitization occurs during the first pregnancy與HDN occurs in subsequent pregnancies兩節檢索全文段落。",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK2266/?report=classic"
+    ],
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU113官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "3babb8ef9eabb2a66a644ae8ea7e623162f3296ff701654f8bd6170fb0285be2"
+  },
+  {
+    "id": "S07",
+    "title": "Barry等2007 EEG differences between eyes-closed and eyes-open resting conditions",
+    "finding": "28位大學生的靜息EEG實驗顯示閉眼至睜眼時平均alpha功率降低，支持閉眼放鬆情境；不是任何個體的診斷標準。",
+    "read_scope": "PubMed原始研究完整摘要：目的、方法、結果、結論；未讀出版商全文。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/17911042/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU113官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "26d8a3dd302c4a66116435a00faa1e10e4e48cf21569867c077ed205a6cad6e0"
+  },
+  {
+    "id": "S08",
+    "title": "NEB C3020 strain properties",
+    "finding": "官方菌株文件明列β-galactosidase可裂解X-gal形成藍色菌落，確認本題酵素名稱。",
+    "read_scope": "NEB官方FAQ中lacZ互補與X-gal裂解段落；只用酵素受質事實，不把題目擴寫為已進行藍白篩選。",
+    "urls": [
+      "https://www.neb.com/en-us/faqs/what-are-the-strain-properties-c3020"
+    ],
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU113官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "fd3739ba79ed1404d15f329794dd00b1b0a9111eedb44cadbfdca8619ae2b6cb"
+  },
+  {
+    "id": "S09",
+    "title": "Livak與Schmittgen 2001 2(-Delta Delta C(T)) Method",
+    "finding": "相對定量比較目標轉錄本在不同樣本的變化；本題以2為底的倍增假設，ΔΔCt=-3，樣本1對2為8倍。",
+    "read_scope": "PubMed完整摘要及論文題名；僅摘要，不宣稱已讀全文假設推導；效率一致且每循環倍增明列為本題計算前提。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/11846609/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU113官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "8aaebdc83460f22bcdb3f3010356e2197fb448aa45e662a57bd179b60c9b5954"
+  },
+  {
+    "id": "S10",
+    "title": "López-Fernández與Maldonado 2013 Programmed cell death during quinoa perisperm development",
+    "finding": "藜麥外胚乳由珠心組織持續發育，儲存大量澱粉，是胚乳之外的種子儲藏組織，故Q38外胚乳不能排除。",
+    "read_scope": "PMC原始研究摘要、Introduction及外胚乳澱粉儲存結果段落；未把單一物種推成所有種子都有外胚乳。",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3733152/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU113官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "ed451efaea4b1a429bb7db6326a5aaab83c189dbd845740ce2bd32c2a26a7e49"
+  },
+  {
+    "id": "S11",
+    "title": "NIAMS Gout（2023-12覆核）",
+    "finding": "尿酸鹽蓄積形成關節晶體引發發炎；高尿酸者並非人人出現痛風。",
+    "read_scope": "官方Overview與Cause of Gout段落；未提供用藥或個人醫療建議。",
+    "urls": [
+      "https://www.niams.nih.gov/health-topics/gout"
+    ],
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU113官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "b99644a92bc3f49118c09f6e20234d8e290ca3d34b346785dd18da1475f5a69c"
+  },
+  {
+    "id": "S12",
+    "title": "Ruprecht等2019 The Molecular Mechanism of Transport by the Mitochondrial ADP/ATP Carrier",
+    "finding": "ADP/ATP載體將ADP輸入粒線體基質並輸出ATP；邦克列酸與載體結合並鎖住構形，直接標的為ANT。",
+    "read_scope": "PubMed原始Cell研究完整摘要，含bongkrekic acid結合與matrix-open構形；未宣稱全文或本地Campbell明列毒素。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/30611538/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU113官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "e80138114a0ff481fbdfa3bb48883c3b092e73727feeccd2e5c25869a0aec6cf"
+  },
+  {
+    "id": "S13",
+    "title": "臺灣食藥署2023-05-02 吃褪黑激素能幫助睡眠嗎",
+    "finding": "官方資料說明夜間分泌較多及產品按藥品列管；用以核對113年題目D，不能當作已取得療效共識。",
+    "read_scope": "發布與維護日期、解答1–4原頁段落；與本地Campbell松果體解剖及官方113釋疑分開。",
+    "urls": [
+      "https://www.fda.gov.tw/TC/newsContent.aspx?cid=5049&id=28747"
+    ],
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU113官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "fe2ea4ccda54308a83a71ed89b477f838f0a1ca743588884842d53dfb549de07"
+  },
+  {
+    "id": "S14",
+    "title": "Garthwaite等1989 NMDA receptor activation induces nitric oxide synthesis from arginine in rat brain slices",
+    "finding": "原始實驗顯示NMDA刺激可經NO合成而提高cGMP；NO是有實際訊息功能的分子，不可因Q44採B而說它不參與細胞內訊息。",
+    "read_scope": "PubMed完整摘要的NMDA、L-NMMA、L-arginine與cGMP結果；僅腦切片研究，不概括所有細胞迴路。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/2555211/"
+    ],
+    "access_date": "2026-09-09",
+    "role": "科學與情境補充，不取代ISU113官方採計",
+    "web_full_file_downloaded": false,
+    "authored_evidence_record_sha256": "2e8a17bd0cfb5d7270424c3cac32ace13d6f55d5f69cb1b76af4cf9889ecd2aa"
+  }
+]

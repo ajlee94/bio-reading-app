@@ -1,0 +1,81 @@
+{
+  "question": {
+    "path": "83a2de7057631e23e60d2fe0.pdf",
+    "sha256": "2b8f57d22e84aa8bb6e3e0263ce2b30aea07f6fc027b31c906aad63f14067c10",
+    "pdf_pages": 9
+  },
+  "answer": {
+    "path": "9d05643b2da552a1b43dad4d.pdf",
+    "sha256": "40148db237a18d62dfeedc3b375db521cc715b00bb3fc4d7106474a3166dce95",
+    "pdf_pages": 4,
+    "canonical_archive_path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/schools/CMU/files/答案_釋疑/CMU_113_biology_answer.pdf",
+    "biology_pdf_pages": [
+      4
+    ],
+    "scope_note": "原檔4頁含其他考科；本年度生物答案只使用PDF4，原檔不改。"
+  },
+  "clarification": {
+    "path": "bbc4c35e6164348dc5583fc4.pdf",
+    "sha256": "fea0bf0231d7ef95acd019d4993819e968a33303c826b3faff5e7d62be14a4fd",
+    "pdf_pages": 12,
+    "canonical_archive_path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/schools/CMU/files/答案_釋疑/CMU_113_biology_clarification.pdf",
+    "biology_pdf_pages": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "scope_note": "12頁原檔含其他考科；生物釋疑從PDF8開始至PDF12，其他考科不套入生物。"
+  },
+  "textbook": {
+    "path": "Campbell Biology 12e.pdf（教材參考，全文未公開）",
+    "sha256": "de7c28b93a1c853c0c58d53cd658848d08cf033cde7c2071c062bfdd25b5dc73",
+    "pdf_pages": 1493
+  },
+  "toc": {
+    "path": "Campbell toc.txt（教材參考，全文未公開）",
+    "sha256": "472c94c03d3e7f107284b4e59ba744b406faee99580f5d940e0c2dab3d0c3dc7"
+  },
+  "edition_verified": {
+    "edition": "Campbell Biology 12e",
+    "printed_to_body_pdf_offset": 49,
+    "toc_pdf_pages": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "method": "本地TOC及PDF目錄文字對照，正文頁尾印刷碼與PDF索引相差49；非沿用官方釋疑的不同版本頁碼。"
+  },
+  "source_differences": {
+    "Q19": "原答案PDF4為C；釋疑PDF9卻稱原公告A；最終採A或C。兩份來源記載均保留。",
+    "Q40": "中文腎上腺皮質素與英文ACTH不同，數量分別3及2，採C或D。",
+    "Q44": "原答案C，釋疑承認C亦正確後全題送分，原題仍保留。",
+    "official_textbook_citations": "釋疑另引不同版次與頁碼；本輪分類使用實際本地12e目錄及印刷/PDF頁，不代換官方引文。"
+  },
+  "toc_title_differences": [
+    {
+      "q": 29,
+      "toc_line": 724,
+      "local_text": "Small Molecules and Second Messengers",
+      "pdf_text": "Small Molecules and Ions as Second Messengers",
+      "pdf_page": 38,
+      "source_file_unchanged": true
+    }
+  ],
+  "catalog_verification_scope": "1074 entries parsed; the 88 unique entries used by this annual review are verified against exact PDF leaf title, printed start page and preceding concept number. Unused entries are not claimed as reviewed.",
+  "pdf_marker_note": "PDF45 uses CONCEPT CHECK 39.2 for the plant chemical communication section; this original marker is retained in the catalog metadata."
+}

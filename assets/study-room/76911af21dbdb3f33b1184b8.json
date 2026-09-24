@@ -1,0 +1,187 @@
+{
+  "question": {
+    "path": "412a0f22fdee63cf03b1eec4.pdf",
+    "sha256": "91bfa5f84631a270eca7c70d9112eba48a43ced5d3e50cb7829d64d8c0e0ec01",
+    "pdf_pages": 7,
+    "inventory_category": "biology_question",
+    "scope_status": "ALL_SEVEN_FULL_PAGES_VISUALLY_READ",
+    "subject": "生物學",
+    "question_count": 50,
+    "cover_pdf_page": 1,
+    "biology_pdf_pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "printed_pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "text_layer": true,
+    "cross_page_questions": {},
+    "shared_questions": [],
+    "figure_questions": [],
+    "scope_note": "全7頁首輪view_image實看；PDF2–7連續Q1–Q50，題幹與A–D無跨頁、圖表或共享題幹。Q24原卷選項實際順序A B D C照存，不排序重製。",
+    "local_acquisition": {
+      "school": "TCU",
+      "year": "111",
+      "kind": "question",
+      "status": "verified_pdf",
+      "bytes": "918167",
+      "file": "schools/TCU/downloads/TCU_111_biology_question.pdf",
+      "source": "backup_5138",
+      "url": "https://drive.google.com/file/d/1Us_TkifIq-H0s9NywZw3iCDKT_iJohkP/view?usp=sharing",
+      "note": "position 4 subject link",
+      "header": "%PDF-1.5"
+    },
+    "current_official_access": {
+      "status": "NO_CURRENT_DIRECT_OFFICIAL_PDF_FOUND",
+      "checked_date": "2026-09-10",
+      "evidence": "official-download-manifest.json",
+      "note": "本輪官方招生搜尋及歷史入口查證；題本與答案直連未找到。既有同年PDF依清冊backup_5138鏡像取得，封面／年度／科目及採計影像已讀。"
+    }
+  },
+  "answer": {
+    "path": "69defbbebe948d7203efe793.pdf",
+    "sha256": "9d57ced1063654679f7e4fc6e97bea69124309c451efc6615d1d5c0db61945c8",
+    "pdf_pages": 1,
+    "inventory_category": "biology_answer",
+    "scope_status": "ALL_50_ANSWERS_VISUALLY_READ",
+    "biology_pdf_pages": [
+      1
+    ],
+    "local_acquisition": {
+      "school": "TCU",
+      "year": "111",
+      "kind": "answer",
+      "status": "verified_pdf",
+      "bytes": "62447",
+      "file": "schools/TCU/downloads/TCU_111_biology_answer.pdf",
+      "source": "backup_5138",
+      "url": "https://drive.google.com/file/d/1Zl-mGQ5nmu6Cwj2wVUTXh45_dl283Krp/view?usp=sharing",
+      "note": "position 8 answer link",
+      "header": "%PDF-1.5"
+    },
+    "current_official_access": {
+      "status": "NO_CURRENT_DIRECT_OFFICIAL_PDF_FOUND",
+      "checked_date": "2026-09-10",
+      "evidence": "official-download-manifest.json",
+      "note": "本輪官方招生搜尋及歷史入口查證；題本與答案直連未找到。既有同年PDF依清冊backup_5138鏡像取得，封面／年度／科目及採計影像已讀。"
+    }
+  },
+  "clarification": {
+    "path": "68b2a7d4c8bcd8631548843f.pdf",
+    "sha256": "1660e4dc39737506223f214dedefc510ffd244c2abea784243b15cf681c093b7",
+    "pdf_pages": 4,
+    "inventory_category": "clarification",
+    "scope_status": "ALL_FOUR_PAGES_VISUALLY_READ",
+    "biology_pdf_pages": [
+      4
+    ],
+    "biology_questions": {
+      "36": [
+        4
+      ],
+      "44": [
+        4
+      ],
+      "47": [
+        4
+      ]
+    },
+    "official_corrections": {},
+    "dispositions": {
+      "36": "D",
+      "44": "C",
+      "47": "D"
+    },
+    "excluded": "PDF1國文及化學、PDF2化學及英文、PDF3英文均排除；生物只在PDF4。",
+    "scope_note": "已取得111公告只列生物Q36、44、47，均維持；另47題未列本公告，不宣稱沒有其他未取得公告。Q36說明有科學限制，另存。",
+    "local_acquisition": {
+      "school": "TCU",
+      "year": "111",
+      "kind": "clarification",
+      "status": "verified_pdf",
+      "bytes": "202237",
+      "file": "schools/TCU/downloads/TCU_111_biology_clarification.pdf",
+      "source": "backup_5138",
+      "url": "https://drive.google.com/file/d/1KBclNX0uSY5--u0Z8EF5JrhWJF2lJHYH/view?usp=sharing",
+      "note": "position 9 clarification link",
+      "header": "%PDF-1.5"
+    },
+    "current_official_access": {
+      "status": "OFFICIAL_OLD_PDF_URL_REDIRECTED_TO_HTML",
+      "checked_date": "2026-09-10",
+      "evidence": "official-download-manifest.json",
+      "note": "已知111官方舊PDF網址本輪urllib及web均转向招生首頁HTML；未取得官方PDF重下載比對，不以200狀態冒稱PDF取得。使用現有同年完整公告副本，生物只在PDF4。",
+      "url": "https://admissions.tcu.edu.tw/wp-content/uploads/2022/05/111%E5%BE%8C%E4%B8%AD%E9%86%AB-%E9%87%8B%E7%96%91%E7%B5%90%E6%9E%9C%EF%BC%88%E5%85%AC%E5%91%8A%EF%BC%89.pdf"
+    }
+  },
+  "textbook": {
+    "path": "Campbell Biology 12e.pdf（教材參考，全文未公開）",
+    "sha256": "de7c28b93a1c853c0c58d53cd658848d08cf033cde7c2071c062bfdd25b5dc73"
+  },
+  "toc": {
+    "path": "Campbell toc.txt（教材參考，全文未公開）",
+    "sha256": "472c94c03d3e7f107284b4e59ba744b406faee99580f5d940e0c2dab3d0c3dc7"
+  },
+  "question_scientific_differences": {
+    "TCU-111-Q01": "官方D。18為3的倍數，在編碼區插入18鹼基通常保持下游讀框；4、17、7皆非3倍數。保持讀框不表示蛋白質功能正常；題幹泛稱基因片段，若在非編碼區則不能直接套用讀框推論。",
+    "TCU-111-Q02": "官方B。第二訊使是細胞內小分子或離子；Ca²⁺即使在IP3下游仍稱第二訊使，不依步驟改叫第三、第四級。酵素級聯也能放大訊號，並非所有放大都只靠第二訊使。",
+    "TCU-111-Q03": "官方A。乙烯促進離層形成，作用也受葉片生長素平衡影響。原題寫十八世紀初，本地教材852頁寫1800年代，且1901年辨認乙烯；年代差異照存，不回改原題。",
+    "TCU-111-Q04": "官方C。海綿有分化細胞但無真正組織與器官；其他選項動物具有組織。缺組織不等於缺細胞分工，不把海綿生活史或刺胞動物當主目。",
+    "TCU-111-Q05": "官方D。週期素合成與降解使其量起伏；週期素依賴激酶的活性受結合週期素等方式調節，不可把Cdk活性變化等同其蛋白質量同步週期降解。肌動、肌凝蛋白不是題問的時鐘。",
+    "TCU-111-Q06": "官方B。雙層膜指兩個各自的磷脂雙層膜；內質網、高基氏體及細胞膜不是兩個包膜。不能把單一膜的兩個脂質葉層當成題問雙層膜。",
+    "TCU-111-Q07": "官方A。合成位置屬突觸前神經元；胜肽主要在胞體合成，小分子多在末梢由酵素生成。突觸小泡主要儲存與釋放，不能把所有傳遞物質概括為在小泡內合成或都以小泡儲存，NO等另有例外。",
+    "TCU-111-Q08": "官方C。尿酸難溶，可用少量水排出；其生成成本較高，並非快速溶於水或毒性最大。節水與能量成本是取捨，不能以低毒性推論低合成成本。",
+    "TCU-111-Q09": "官方B。胚孔在原腸形成時出現，不能與囊胚腔混同；囊胚形成、神經胚形成及體腔形成不是此開口出現的最佳階段。",
+    "TCU-111-Q10": "官方A。油質體供應脂肪，乙醛酸循環體與粒線體及細胞質參與儲油動員和糖生成；葉綠體最無直接關聯。830–831頁補足萌發使用儲存養分；補充論文研究油菜，不冒稱蓖麻實驗，也不擴張為所有質體都絕不參與。",
+    "TCU-111-Q11": "官方C。氧競爭使RuBP羧化形成3-PGA的淨通量降低；氧化反應仍會產生一個3-PGA及二碳產物，不是3-PGA完全停止形成。2-phosphoglycolate是氧化分支產物，ATP／NADPH形成不是此題最直接受抑制步驟。",
+    "TCU-111-Q12": "官方D。在雙股DNA，A=T、G=C，所以A+G=T+C。不同物種比例可以不同，同物種通常近似；不能寫成A=G或把雙股規則無條件套用單股病毒DNA。",
+    "TCU-111-Q13": "官方A。異染色質較緊密，真染色質通常較可接近且較易轉錄；選項B、D把一般關係反轉，C錯把基因只放在異染色質。甲基化與表達並非每個位置均可絕對二分。",
+    "TCU-111-Q14": "官方A。ICTV確認類病毒為小型環狀單股RNA且沒有蛋白殼；本版412頁未提供完整類病毒專節，不虛構最小類病毒目錄。病毒可有DNA或RNA基因組，抗生素不作病毒普遍療法，類病毒也能在植物體內移動。",
+    "TCU-111-Q15": "官方C。氧直接接收電子，維持有氧電子傳遞；ATP合成酶使用質子動力，不能將氧直接參與的反應改答ATP形成。糖解與TCA不直接以氧為該步反應物。",
+    "TCU-111-Q16": "官方C。自交不親合是辨識不相容花粉並抑制萌發或花粉管生長，通常發生在柱頭／花柱。不是花藥排斥，也不是等到精卵結合才開始；共享不相容等位型也可能限制不同植株間授粉。",
+    "TCU-111-Q17": "官方C。植物形成細胞板，動物以收縮環形成分裂溝。紡錘體以微管為主，有絲分裂分離姊妹染色單體，非同源染色體獨立分配；植物／動物中心粒敘述亦反置。",
+    "TCU-111-Q18": "官方D。類囊體破孔首先使質子動力難以建立、ATP合成減少；吸光及電子激發未必立即消失，不能將膜破孔直接等同所有光反應同步完全停擺。",
+    "TCU-111-Q19": "官方B。ABA訊號引起保衛細胞離子及水分流失、膨壓下降，降低散水。伸根、抗衰老或落葉不是題幹要求的快速第一反應；離層酸之名不表示其主要功能就是落葉。",
+    "TCU-111-Q20": "官方A。殺菌劑傷害菌根共生，可能使養分獲取下降；根瘤菌是細菌，不是殺真菌作用的最佳對象。菌根型態可在根內或根外，題文根部表面是簡化，不把所有菌根限制在外表。",
+    "TCU-111-Q21": "官方B。紫茉莉葉綠體隨卵細胞細胞質傳給後代，屬母系胞器遺傳，不是性聯遺傳或數量性狀。教材說多數植物，不能擴張成所有植物均只有母系葉綠體。",
+    "TCU-111-Q22": "官方D。兩者均可提供細胞間連通，與菌絲隔膜孔在功能上相似；不代表三種孔道同源、孔徑相同或通過物質完全一樣。胞橋小體偏附著，緊密連接偏封閉，液泡膜非細胞間橋。",
+    "TCU-111-Q23": "官方B。質子泵耗ATP建立H+電化學梯度，可驅動共運輸並影響膜電位。建立的是電化學梯度，不是ATP濃度梯度；也不是去除過量電子來減少膜電位。",
+    "TCU-111-Q24": "官方B。糖裝載降低滲透勢，水進入提高源端膨壓，壓力差推動篩管汁液。原卷順序A、B、D、C照存；木質部負壓、根壓及單純附著力均非篩管主要機制。",
+    "TCU-111-Q25": "官方C，角質層→維管束→種子→花。順序是依主要支系的共同衍徵作教學比較，不表示每種現存植物都完整持有四者或彼此在單一祖先同時起源。",
+    "TCU-111-Q26": "官方D。葉肉細胞壁水—空氣界面彎曲造成張力，水分子內聚力沿水柱傳遞。附著力助穩定水柱，但不是拉力最初來源；正根壓和保衛細胞運氫不等於此負壓。",
+    "TCU-111-Q27": "官方A。生殖隔離與不同生態位可促進分化；多樣性與特有種比例不同，不宜只按是否有陸橋排序。面積以外氣候等仍重要，達到平衡不表示移入與滅絕停止。",
+    "TCU-111-Q28": "官方B。此處種子生長實指萌發後幼苗，暗中伸莖利於到地面。不是病毒病、不是根把苗推上土面，也不會靠黃色葉綠素在黑暗中使用紅外線行光合作用。",
+    "TCU-111-Q29": "官方D。粒線體源於可利用氧的異營細菌共生，光合真核支系後來取得質體。並非所有真核支系都接續取得葉綠體；533–534頁作早期真核出現的背景，不另冒造新目。",
+    "TCU-111-Q30": "官方B。資源使用時間、空間或種類有差異可減少競爭，屬resource partitioning。競爭排除不是共存機制，亦無證據支持巔峰群聚把所有可能生態位占滿。",
+    "TCU-111-Q31": "官方A。1172–1174頁灌叢群系支持地中海型氣候、乾旱及火災情境；共同環境可造成趨同。選項沒有最近共同祖先須理解成非近緣共有性狀的直接來源，不能說這些植物完全沒有共同祖先。",
+    "TCU-111-Q32": "官方A。在本題框架下真菌抑制細菌可減少共同資源競爭；不是以細菌作食物或必為互利共生。不能從單題推成所有真菌抗生素只有此一生態功能。",
+    "TCU-111-Q33": "官方C。光訊號可校準內生時鐘；自由運行並非恰好24小時。溫度補償不代表絕對不受溫度影響，光週期主要是晝夜長度，不是光強弱，且非只有兩類反應。",
+    "TCU-111-Q34": "官方C。GPP是固定的化學能，不是全部入射光；NPP=GPP−自營呼吸，不能減成異營消耗。陸域生物多樣性有影響但非單一決定因素。",
+    "TCU-111-Q35": "官方D。光使感光細胞超極化並減少傳遞物質釋放；桿細胞弱光較敏感，人通常有三類錐細胞。桿細胞不以增加錐色素種類來辨別更多顏色。",
+    "TCU-111-Q36": "官方D且111釋疑PDF4維持。科學上DMD主要為X聯隱性；原題約10歲死亡與教材299頁約mid-20s不同，兩者均不當作個別患者固定壽命。官方女性須病父與帶因母是簡化雙突變模型；MedlinePlus也記女性帶因者偶有肌無力、痙攣或心肌病，故不能把男性少活成年當女性幾乎不發病的唯一完整原因。",
+    "TCU-111-Q37": "官方B。入球小動脈壓力下降可促進近腎小球器釋放腎素；RAAS一般提升血壓，非降低。腎素是啟動血管張力素生成級聯的酵素，非直接分泌血管張力素II；ADH主要受血漿滲透壓升高等刺激。",
+    "TCU-111-Q38": "官方B：v頭→ii顎→i肉鰭→iii有趾四肢→iv羊膜卵。719頁支系圖與各節正文共同核對，不把章級樹圖或正文head字眼另造目錄項；同章四個次條目全保留。",
+    "TCU-111-Q39": "官方D。Western blot用抗體偵測特定蛋白，可比較相對豐度；RT-PCR、原位核酸雜交及Southern各有核酸測量對象，不能直接等同蛋白量。本地該項以RNA方法為主，Western操作及定量限制以NHGRI補足，不冒稱教材有Western子目。",
+    "TCU-111-Q40": "官方B。DNA pol III延伸新股並校對，pol I移除RNA引子及補DNA；引子酶做RNA，不是DNA。解旋酶分開親代雙股模板，不是負責已複製完DNA的最終解纏。",
+    "TCU-111-Q41": "官方B。補充分類紀錄及原研究題名／摘要確認Noctiluca為渦鞭毛蟲；與Plasmodium同屬Alveolata。矽藻屬Stramenopiles，綠藻是別支；共同為藻類外觀或都在SAR不表示最近。原卷Chlamydomonas elegan拼寫保留。",
+    "TCU-111-Q42": "官方D。A錯把夜間當不生長，B、C混淆C4與CAM；但D以光側暗側生長素分布推成全株夜間必較快，證據不足。Tang與Boyer研究特定玉米第5葉，在25°C日／20°C夜可日快夜慢，亦受水分張力限制；不能當屏東田間莖長的直接實測，也不能據此改官方採計。",
+    "TCU-111-Q43": "官方A。乙烯引起伸長受抑、徑向增粗及水平生長以繞過障礙。三重反應具體列於乙烯段，不因題幹mechanical stress便誤歸39.4一般觸形態反應。",
+    "TCU-111-Q44": "官方C且111釋疑PDF4維持。RNA模板需要反轉錄酶先做cDNA；一般DNA依賴DNA聚合酶不能取代。反轉錄酶本身也是RNA依賴DNA聚合酶，故題文DNA聚合酶是未指定模板能力的簡寫。缺少適當陽性與內控時，全陰性不能證明所有人皆未感染。",
+    "TCU-111-Q45": "官方A。地中海型貧血、囊狀纖維化與鐮狀細胞貧血的典型臨床重症常用隱性模式描述；不能把鐮狀血紅素分子層次的共顯性與題問臨床疾病混淆。285–286頁作隱性病比較。",
+    "TCU-111-Q46": "官方D。蜥蜴是雙孔支系；青蛙、鯉魚及老鼠不是。原題用infratemporal fenestra概稱每側兩孔不精確，下顳孔只是其中一種位置；教材以眼後每側一對孔描述。龜類後來失孔不表示被排除於雙孔支系。",
+    "TCU-111-Q47": "官方D且111釋疑PDF4維持。5′帽不在最後外顯子末端，不是DNA複製起始要件。教材的保護水解概述不可擴張成防止所有內切酶；同年引用Hocine等2010之作者PDF第5頁明指抵禦5′→3′外切降解，與C內切酶不同。",
+    "TCU-111-Q48": "官方C。Shine–Dalgarno在細菌以rRNA互補協助定位，Kozak是典型真核起始密碼附近的序列環境；兩者用於轉譯起始，非轉錄啟動子。專名細節由Brown Genomes章節補足，不虛構本地同名子目或宣稱所有mRNA皆遵循此一路徑。",
+    "TCU-111-Q49": "官方A。常規DNA切除式修復最後需連接酶恢復骨架連續。糖基酶是鹼基切除的起始辨識，不是所有切除路徑都相同；外切酶與反轉錄酶亦非共同必需的此末步。將所有限定於題目一般DNA修復情境。",
+    "TCU-111-Q50": "官方C。3′→5′外切活性可校對新股末端；5′→3′外切活性在典型DNA pol I用於去除RNA引子，非此直接校對機制。Campbell本頁未細寫外切方向，Cooper教材補足；最沒有貢獻是選項比較，不宣稱引子處理對整體複製品質完全無關。"
+  }
+}

@@ -1,0 +1,201 @@
+[
+  {
+    "id": "S01",
+    "title": "Bilayer-Forming Lipids Enhance Archaeal Monolayer Membrane Stability（原始研究，2025）",
+    "finding": "天然古菌脂質的中子繞射實驗顯示四醚可形成跨膜單層，混合二醚與四醚仍會改變穩定性；支持Q4的某些嗜熱古菌構造，同時限制單一脂質必然決定耐熱的推論。",
+    "read_scope": "實讀研究摘要、引言四醚結構及脂質實驗結果的網頁索引回讀",
+    "limits": "不是逐字讀完全文；PMC／PubMed直接開啟曾回驗證頁，保留失敗。科學補充為2025研究，不冒充106年官方命題依據。",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11988840/"
+    ],
+    "captures": [
+      {
+        "path": "supplement-web-readback-1.json",
+        "sha256": "d6b45a865779705e29511ca1f5dfb5babcb3e970fda89e2c9458f7072e823a31",
+        "hash_scope": "工具回讀紀錄位元；非原網站HTML/PDF位元雜湊"
+      },
+      {
+        "path": "supplement-web-readback-2.json",
+        "sha256": "3044fb6fec530b29f47a7dcaab03a9c06010886c12262609368d705ad3baa5ca",
+        "hash_scope": "工具回讀紀錄位元；非原網站HTML/PDF位元雜湊"
+      }
+    ],
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU106官方採計"
+  },
+  {
+    "id": "S02",
+    "title": "MedlinePlus Genetics：Tay–Sachs disease",
+    "finding": "HEXA酵素缺陷造成GM2在溶體累積，尤其傷害中樞神經細胞；不同於肝臟膽固醇累積，支持Q13排除B。",
+    "read_scope": "Description、Causes、Inheritance段落",
+    "limits": "政府官方衛教來源，只用於疾病機制；未作臨床診療或2017年命題依據。",
+    "urls": [
+      "https://medlineplus.gov/genetics/condition/tay-sachs-disease/"
+    ],
+    "captures": [
+      {
+        "path": "supplement-web-readback-1.json",
+        "sha256": "d6b45a865779705e29511ca1f5dfb5babcb3e970fda89e2c9458f7072e823a31",
+        "hash_scope": "工具回讀紀錄位元；非原網站HTML/PDF位元雜湊"
+      }
+    ],
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU106官方採計"
+  },
+  {
+    "id": "S03",
+    "title": "MedlinePlus Genetics：Pompe disease",
+    "finding": "GAA編碼酸性α葡萄糖苷酶，缺陷引起溶體肝醣累積，肌肉等多器官受影響。",
+    "read_scope": "Causes、Inheritance與Description機制；另行補存頁面聚焦回讀",
+    "limits": "僅查機制與遺傳型態，非個人診療建議；網頁回讀雜湊與原網站位元雜湊分別標示。",
+    "urls": [
+      "https://medlineplus.gov/genetics/condition/pompe-disease/"
+    ],
+    "captures": [
+      {
+        "path": "supplement-web-readback-1.json",
+        "sha256": "d6b45a865779705e29511ca1f5dfb5babcb3e970fda89e2c9458f7072e823a31",
+        "hash_scope": "工具回讀紀錄位元；非原網站HTML/PDF位元雜湊"
+      },
+      {
+        "path": "supplement-web-readback-6.json",
+        "sha256": "3cded44eb95f410370d1f7860b38f445e9c6400946826960584c57769ffc7538",
+        "hash_scope": "工具回讀紀錄位元；非原網站HTML/PDF位元雜湊"
+      }
+    ],
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU106官方採計"
+  },
+  {
+    "id": "S04",
+    "title": "Du等：Predicting Sweetness Intensity and Uncovering Quantitative Interactions of Mixed Sweeteners（Foods 2026）",
+    "finding": "實驗用不同濃度蔗糖作甜度參照，支持Q23的C；甜度為感官量測而非分子式自動決定的常數。",
+    "read_scope": "原始研究方法2.2–2.4及參照濃度段落的索引回讀",
+    "limits": "未直接查閱ISO標準全文；MDPI open曾Internal Error，改以工具搜尋取得方法內容；2026補證，不冒充106年原始來源。",
+    "urls": [
+      "https://www.mdpi.com/2304-8158/15/1/167"
+    ],
+    "captures": [
+      {
+        "path": "supplement-web-readback-1.json",
+        "sha256": "d6b45a865779705e29511ca1f5dfb5babcb3e970fda89e2c9458f7072e823a31",
+        "hash_scope": "工具回讀紀錄位元；非原網站HTML/PDF位元雜湊"
+      },
+      {
+        "path": "supplement-web-readback-2.json",
+        "sha256": "3044fb6fec530b29f47a7dcaab03a9c06010886c12262609368d705ad3baa5ca",
+        "hash_scope": "工具回讀紀錄位元；非原網站HTML/PDF位元雜湊"
+      }
+    ],
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU106官方採計"
+  },
+  {
+    "id": "S05",
+    "title": "Nobel官方McClintock史料及Fire／Mello RNAi說明",
+    "finding": "McClintock研究玉米遺傳與染色體位置變動；本人講稿追溯染色體破裂活化可轉位元件。Fire／Mello以雙股RNA誘發序列專一靜默，支持Q7與Q9。",
+    "read_scope": "McClintock Work段及本人Nobel Lecture結語，2006 Advanced Information與Press Release的RNAi機制段",
+    "limits": "未宣稱讀完整講稿或重做實驗；不把提到病毒壓力的討論當作最初發現方法。",
+    "urls": [
+      "https://www.nobelprize.org/prizes/medicine/1983/mcclintock/",
+      "https://www.nobelprize.org/uploads/2018/06/mcclintock-lecture.pdf",
+      "https://www.nobelprize.org/prizes/medicine/2006/advanced-information/"
+    ],
+    "captures": [
+      {
+        "path": "supplement-web-readback-2.json",
+        "sha256": "3044fb6fec530b29f47a7dcaab03a9c06010886c12262609368d705ad3baa5ca",
+        "hash_scope": "工具回讀紀錄位元；非原網站HTML/PDF位元雜湊"
+      },
+      {
+        "path": "supplement-web-readback-3.json",
+        "sha256": "93aea5179c45843353f63482b91a7c51453117e08d50265536363107aa6a1914",
+        "hash_scope": "工具回讀紀錄位元；非原網站HTML/PDF位元雜湊"
+      }
+    ],
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU106官方採計"
+  },
+  {
+    "id": "S06",
+    "title": "Jensen等1984：Cyanide inhibition of cytochrome c oxidase（原始研究）",
+    "finding": "快速凍結電子順磁共振實驗直接研究氰化物對COX的結合與抑制；配合Campbell的電子流及DNP印刷186頁解偶聯題，區別Q14兩者作用點。",
+    "read_scope": "PubMed收錄的原始研究摘要",
+    "limits": "未閱讀全文方法或執行實驗，只作抑制COX的定性機制佐證。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/6098268/"
+    ],
+    "captures": [
+      {
+        "path": "supplement-web-readback-4.json",
+        "sha256": "acb921bd0b8a4eee0bff0346bc7642cc5e9c82befd2eddee8864c5440aa8caad",
+        "hash_scope": "工具回讀紀錄位元；非原網站HTML/PDF位元雜湊"
+      }
+    ],
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU106官方採計"
+  },
+  {
+    "id": "S07",
+    "title": "DailyMed原藥品標示：Ampicillin／Chloramphenicol",
+    "finding": "Ampicillin的藥品標示機制為抑制細胞壁生合成；chloramphenicol標示抑制蛋白合成，搭配教材349的tetracycline核糖體作用，核實Q22。",
+    "read_scope": "Ampicillin Microbiology／Mechanism of Action、Chloromycetin Clinical Pharmacology段落",
+    "limits": "只讀作用機制，不使用劑量或臨床處方資訊；此為原廠標示由NLM提供的原始資料。",
+    "urls": [
+      "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=643d9208-f086-15da-e053-2a91aa0ac100",
+      "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=698aaa0a-9fd3-40c2-ec93-0dc2170a75ba"
+    ],
+    "captures": [
+      {
+        "path": "supplement-web-readback-4.json",
+        "sha256": "acb921bd0b8a4eee0bff0346bc7642cc5e9c82befd2eddee8864c5440aa8caad",
+        "hash_scope": "工具回讀紀錄位元；非原網站HTML/PDF位元雜湊"
+      },
+      {
+        "path": "supplement-web-readback-5.json",
+        "sha256": "eb103a4fc437352d48b74519401602e1bf2f382db728c92afbb066c2289a35da",
+        "hash_scope": "工具回讀紀錄位元；非原網站HTML/PDF位元雜湊"
+      }
+    ],
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU106官方採計"
+  },
+  {
+    "id": "S08",
+    "title": "Serrat等2008：Temperature regulates limb length in homeotherms by directly modulating cartilage growth",
+    "finding": "不同飼養溫度的小鼠與無血管的體外軟骨實驗顯示溫度影響附肢生長；確認Allen規則語境，也顯示發育可塑性不能只歸為基因選擇。",
+    "read_scope": "原始研究摘要及圖1–4文字圖說；未視讀圖像",
+    "limits": "不將配置相關性推成所有物種必然定律；未讀全部實驗細節。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/19047632/"
+    ],
+    "captures": [
+      {
+        "path": "supplement-web-readback-1.json",
+        "sha256": "d6b45a865779705e29511ca1f5dfb5babcb3e970fda89e2c9458f7072e823a31",
+        "hash_scope": "工具回讀紀錄位元；非原網站HTML/PDF位元雜湊"
+      }
+    ],
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU106官方採計"
+  },
+  {
+    "id": "S09",
+    "title": "OpenStax Anatomy and Physiology 6.3：Bone Structure",
+    "finding": "原出版教材說明骨膜供肌腱韌帶附著、膠原與礦物組成，以及破骨細胞吸收骨、源自單核球系；Q30的A若涵蓋全部骨細胞也須限制。",
+    "read_scope": "Gross Anatomy of Bone、Bone Cells and Tissue、骨細胞表格的文字內容",
+    "limits": "官方教材補充而非實驗原論文；未作完整書冊或專家外審。Campbell最小分類仍以本地12e為準。",
+    "urls": [
+      "https://openstax.org/books/anatomy-and-physiology/pages/6-3-bone-structure"
+    ],
+    "captures": [
+      {
+        "path": "supplement-web-readback-5.json",
+        "sha256": "eb103a4fc437352d48b74519401602e1bf2f382db728c92afbb066c2289a35da",
+        "hash_scope": "工具回讀紀錄位元；非原網站HTML/PDF位元雜湊"
+      }
+    ],
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU106官方採計"
+  }
+]

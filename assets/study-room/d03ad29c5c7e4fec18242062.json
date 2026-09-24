@@ -1,0 +1,331 @@
+[
+  {
+    "id": "S01",
+    "title": "NIDDK：H. pylori檢驗",
+    "finding": "呼氣測試、胃鏡切片等均有診斷用途；原題A的非侵入優勢與唯一性須區分。",
+    "urls": [
+      "https://www.niddk.nih.gov/health-information/digestive-diseases/gastritis-gastropathy/diagnosis"
+    ],
+    "read_scope": "官方頁面檢驗方法段落的搜尋回傳；未視讀所有圖表。",
+    "retrieved_date": "2026-09-09",
+    "source_role": "supplementary_scientific_evidence_not_official_answer",
+    "downloaded_fulltext": false
+  },
+  {
+    "id": "S02",
+    "title": "B19與Epo誘導紅系MB-02細胞原始研究",
+    "finding": "MB-02需誘導紅系分化；5–10日支持病毒複製，三日以下未支持。不是憑巨核細胞株來源便能判為血小板母細胞嗜性。",
+    "urls": [
+      "https://journals.asm.org/doi/10.1128/jvi.67.1.562-566.1993",
+      "https://pubmed.ncbi.nlm.nih.gov/2404522/"
+    ],
+    "read_scope": "原始研究摘要及搜尋回傳的誘導條件段；未宣稱取得全部研究影像。",
+    "retrieved_date": "2026-09-09",
+    "source_role": "supplementary_scientific_evidence_not_official_answer",
+    "downloaded_fulltext": false
+  },
+  {
+    "id": "S03",
+    "title": "CDC：B型肝炎血清檢驗表",
+    "finding": "單純疫苗免疫的標準表為HBsAg陰性、anti-HBc陰性、anti-HBs陽性。原題HBcAg欄位與標準表不同，照存原文。",
+    "urls": [
+      "https://www.cdc.gov/hepatitis-b/hcp/diagnosis-testing/index.html"
+    ],
+    "read_scope": "開頁後定位血清判讀表與疫苗抗體說明。",
+    "retrieved_date": "2026-09-09",
+    "source_role": "supplementary_scientific_evidence_not_official_answer",
+    "downloaded_fulltext": false
+  },
+  {
+    "id": "S04",
+    "title": "CDC：酒精消毒劑及腺病毒感染控制",
+    "finding": "不同酒精及條件不可混用：70%異丙醇對腺病毒無效；乙醇在所列濃度與條件可有效，原題只說酒精較寬泛。",
+    "urls": [
+      "https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/chemical-disinfectants.html",
+      "https://www.cdc.gov/conjunctivitis/hcp/infection-control-ekc/index.html"
+    ],
+    "read_scope": "官方頁面Alcohol與腺病毒相關段落搜尋回傳；沒有測試使用者乾洗手產品。",
+    "retrieved_date": "2026-09-09",
+    "source_role": "supplementary_scientific_evidence_not_official_answer",
+    "downloaded_fulltext": false
+  },
+  {
+    "id": "S05",
+    "title": "C5轉換酶的經典與替代途徑研究",
+    "finding": "C5轉換需要額外C3b：C4b2a3b與C3b2Bb／C3bBb3b；與C3轉換酶分開。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/6918218/",
+      "https://pubmed.ncbi.nlm.nih.gov/12878586/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3034014/"
+    ],
+    "read_scope": "1981、2003及2011原始研究摘要／搜尋回傳的複合體段落，非所有方法全文精讀。",
+    "retrieved_date": "2026-09-09",
+    "source_role": "supplementary_scientific_evidence_not_official_answer",
+    "downloaded_fulltext": false
+  },
+  {
+    "id": "S06",
+    "title": "TFH、B細胞與AID原始研究",
+    "finding": "TFH是協助B細胞的分化亞群；CD40L、IL-21／IL-4與AID相關反應支援類型轉換及生發中心高突變。",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5030190/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC2556461/"
+    ],
+    "read_scope": "原始研究摘要、搜尋回傳的導論機制段；不冒稱圖表全讀或外部專家審查。",
+    "retrieved_date": "2026-09-09",
+    "source_role": "supplementary_scientific_evidence_not_official_answer",
+    "downloaded_fulltext": false
+  },
+  {
+    "id": "S07",
+    "title": "淋菌Opa黏附及CEACAM互作研究",
+    "finding": "Opa是附著相關外膜蛋白；與菌毛可共同參與宿主互作，但不能將二者當同一構造。",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC2192128/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6907876/"
+    ],
+    "read_scope": "原始研究搜尋回傳的附著、Opa與CEACAM結果段。",
+    "retrieved_date": "2026-09-09",
+    "source_role": "supplementary_scientific_evidence_not_official_answer",
+    "downloaded_fulltext": false
+  },
+  {
+    "id": "S08",
+    "title": "Yao等2015：披衣菌自身磷脂合成",
+    "finding": "實驗支持披衣菌以自身脂肪酸及磷脂合成機制建立膜；所需原料及生長環境仍仰賴宿主，不等於自由生活。",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4521007/",
+      "https://pubmed.ncbi.nlm.nih.gov/25995447/"
+    ],
+    "read_scope": "PMC搜尋回傳之摘要、導論與結果／討論相關段已讀；PubMed開頁遇驗證頁，不將該開頁記為全文已取得。",
+    "retrieved_date": "2026-09-09",
+    "source_role": "supplementary_scientific_evidence_not_official_answer",
+    "downloaded_fulltext": false
+  },
+  {
+    "id": "S09",
+    "title": "ASM：Catalase Test Protocol及實驗影像解說",
+    "finding": "觸酶可迅速分辨常見葡萄球菌與鏈球菌；具名S. aureus仍可使用其他性狀，不宣稱凝固酶無鑑別價值。",
+    "urls": [
+      "https://asm.org/protocols/catalase-test-protocol",
+      "https://asm.org/image-gallery/catalase-test"
+    ],
+    "read_scope": "ASM官方教學方法與陽／陰性結果文字搜尋回傳，未做培養或實驗。",
+    "retrieved_date": "2026-09-09",
+    "source_role": "supplementary_scientific_evidence_not_official_answer",
+    "downloaded_fulltext": false
+  },
+  {
+    "id": "S10",
+    "title": "CDC EID：β-lactamase字源與機制",
+    "finding": "β-lactamase切開β-lactam環，青黴素及頭孢菌素屬相關抗生素類別；受質範圍視酶而異。",
+    "urls": [
+      "https://wwwnc.cdc.gov/eid/article/22/9/et-2209_article"
+    ],
+    "read_scope": "CDC作者文章的機制定義段搜尋回傳。",
+    "retrieved_date": "2026-09-09",
+    "source_role": "supplementary_scientific_evidence_not_official_answer",
+    "downloaded_fulltext": false
+  },
+  {
+    "id": "S11",
+    "title": "蝴蝶族群監測方法原始研究",
+    "finding": "穿越線、距離取樣與標記再捕均有估計條件，不能說穿越線完全不能研究豐度或密度。",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3408444/"
+    ],
+    "read_scope": "2012 Monitoring Butterfly Abundance: Beyond Pollard Walks原始研究搜尋回傳之抽樣方法及限制段。",
+    "retrieved_date": "2026-09-09",
+    "source_role": "supplementary_scientific_evidence_not_official_answer",
+    "downloaded_fulltext": false
+  },
+  {
+    "id": "S12",
+    "title": "ICTV：Hepadnaviridae病毒科報告",
+    "finding": "HBV以RNA前基因體中間體反轉錄形成DNA，DNA病毒也可需反轉錄酶。",
+    "urls": [
+      "https://ictv.global/report/chapter/hepadnaviridae/hepadnaviridae"
+    ],
+    "read_scope": "官方科報告中pgRNA與複製段搜尋回傳。",
+    "retrieved_date": "2026-09-09",
+    "source_role": "supplementary_scientific_evidence_not_official_answer",
+    "downloaded_fulltext": false
+  },
+  {
+    "id": "S13",
+    "title": "CDC：Prion感染控制與SSPE病例報告",
+    "finding": "SSPE是麻疹病毒相關後果；prion抗一般處理不代表任何專用去污程序皆無效。",
+    "urls": [
+      "https://www.cdc.gov/creutzfeldt-jakob/hcp/infection-control/index.html",
+      "https://www.cdc.gov/mmwr/volumes/65/wr/mm6501a3.htm"
+    ],
+    "read_scope": "CDC感染控制段與MMWR原始病例報告的病因／背景段；無實際去污驗證。",
+    "retrieved_date": "2026-09-09",
+    "source_role": "supplementary_scientific_evidence_not_official_answer",
+    "downloaded_fulltext": false
+  },
+  {
+    "id": "S14",
+    "title": "CDC：狂犬病臨床及Negri小體",
+    "finding": "吞嚥異常、流涎、腦炎與神經細胞胞質Negri小體支援病原辨識；一般潛伏期非同日發作。",
+    "urls": [
+      "https://www.cdc.gov/rabies/hcp/clinical-signs/index.html",
+      "https://wwwnc.cdc.gov/eid/article/23/9/ET-2309_article"
+    ],
+    "read_scope": "CDC臨床及病理定義段搜尋回傳，僅用於試題查證。",
+    "retrieved_date": "2026-09-09",
+    "source_role": "supplementary_scientific_evidence_not_official_answer",
+    "downloaded_fulltext": false
+  },
+  {
+    "id": "S15",
+    "title": "小鼠腎發育Hox基因表達圖譜",
+    "finding": "可作Hox於腎發育的具名背景，不足以獨立證實原題人類胚胎中樞神經及腎臟每項HoxB7功能。分類依題設一基因多作用原理。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/15042701/",
+      "https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/dvdy.10474"
+    ],
+    "read_scope": "小鼠原始研究摘要及出版商搜尋回傳；物種及實驗範圍限定，未使用Hox-7／Msx1論文。",
+    "retrieved_date": "2026-09-09",
+    "source_role": "supplementary_scientific_evidence_not_official_answer",
+    "downloaded_fulltext": false
+  },
+  {
+    "id": "S16",
+    "title": "2024：Tiktaalik roseae軸骨研究",
+    "finding": "四足類近親已呈部分薦部專化，四足類的整套形態診斷不能縮為單一絕對性狀。",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11009633/"
+    ],
+    "read_scope": "原始研究搜尋回傳之significance及軸骨相關段；PMC直接開頁遇驗證，未宣稱全文圖像精讀。",
+    "retrieved_date": "2026-09-09",
+    "source_role": "supplementary_scientific_evidence_not_official_answer",
+    "downloaded_fulltext": false
+  },
+  {
+    "id": "S17",
+    "title": "Nature Education：遺傳率與表型變異",
+    "finding": "狹義h²使用累加遺傳變異VA，廣義H²使用總遺傳變異VG，分母均為VP。比例屬族群與環境。",
+    "urls": [
+      "https://www.nature.com/scitable/topicpage/estimating-trait-heritability-46889/",
+      "https://www.nature.com/scitable/topicpage/adaptation-and-phenotypic-variance-1132/"
+    ],
+    "read_scope": "出版商原著教學頁面之遺傳率公式與定義搜尋回傳。",
+    "retrieved_date": "2026-09-09",
+    "source_role": "supplementary_scientific_evidence_not_official_answer",
+    "downloaded_fulltext": false
+  },
+  {
+    "id": "S18",
+    "title": "番茄與水仙有色體轉譯原始研究",
+    "finding": "番茄成熟有色體可保留特定轉譯；水仙成熟有色體的核糖體狀態不同，不把質體共性變成所有成熟型態的普遍功能。",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC2390737/",
+      "https://www.sciencedirect.com/science/article/pii/S0176161787802742"
+    ],
+    "read_scope": "2008番茄轉譯組結果及1987水仙成熟有色體摘要／搜尋回傳的核糖體段。",
+    "retrieved_date": "2026-09-09",
+    "source_role": "supplementary_scientific_evidence_not_official_answer",
+    "downloaded_fulltext": false
+  },
+  {
+    "id": "S19",
+    "title": "2012 Arabidopsis卡氏帶原始研究",
+    "finding": "初生卡氏帶可由lignin構成，需與後續suberin lamellae分開；不以單一模式植物推成所有物種材料完全一致。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/22665765/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3382560/"
+    ],
+    "read_scope": "原始研究摘要及lignin／suberin相關搜尋回傳。",
+    "retrieved_date": "2026-09-09",
+    "source_role": "supplementary_scientific_evidence_not_official_answer",
+    "downloaded_fulltext": false
+  },
+  {
+    "id": "S20",
+    "title": "Zhang與Olsen2009：古菌mRNA加工",
+    "finding": "Methanocaldococcus jannaschii的123個受測區段中31個有加工證據，足以反駁古菌皆無mRNA加工的絕對敘述。",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC2743043/",
+      "https://experts.illinois.edu/en/publications/messenger-rna-processing-in-methanocaldococcus-methanococcus-jann"
+    ],
+    "read_scope": "原始研究摘要與作者機構研究紀錄的摘要、搜尋回傳結果；PMC／PubMed直接開頁曾遇驗證，不記作全篇實讀。",
+    "retrieved_date": "2026-09-09",
+    "source_role": "supplementary_scientific_evidence_not_official_answer",
+    "downloaded_fulltext": false
+  },
+  {
+    "id": "S21",
+    "title": "Melkonian1980：Ulva lactuca配子微細構造",
+    "finding": "原研究針對U. lactuca稱稍異配，與題目同形配子簡化不同；配子形態與孢子／配子體世代同形是兩件事。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/7228906/"
+    ],
+    "read_scope": "實際開頁並定位原始摘要；未取得全篇電子顯微圖作重新測量。",
+    "retrieved_date": "2026-09-09",
+    "source_role": "supplementary_scientific_evidence_not_official_answer",
+    "downloaded_fulltext": false
+  },
+  {
+    "id": "S22",
+    "title": "Roeder等2009：Nicotiana suaveolens甲硫胺酸與SAM",
+    "finding": "指定植物的SAM相關代謝與表達可依器官及日夜改變；不能拿此結果證明全部調節蛋白基因皆恆定。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/19396585/"
+    ],
+    "read_scope": "實際開頁後讀摘要及Figure3圖說；限該植物及受測指標，非所有真核基因。",
+    "retrieved_date": "2026-09-09",
+    "source_role": "supplementary_scientific_evidence_not_official_answer",
+    "downloaded_fulltext": false
+  },
+  {
+    "id": "S23",
+    "title": "靈長類嗅覺受器基因／偽基因比較研究",
+    "finding": "不同靈長類嗅覺受器偽基因比例不同，支持基因失活是受器家族演化機制；非定向改作視覺受器。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/14737185/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC546523/"
+    ],
+    "read_scope": "2004原始研究摘要及人／黑猩猩完整受器比較的搜尋回傳結果。",
+    "retrieved_date": "2026-09-09",
+    "source_role": "supplementary_scientific_evidence_not_official_answer",
+    "downloaded_fulltext": false
+  },
+  {
+    "id": "S24",
+    "title": "2013：寒武紀海綿Vauxia幾丁質原始研究",
+    "finding": "古老海綿幾丁質證據提醒化石分子不能與單一節肢動物類群綁定；本研究不建立題目四物質精確首次出現順序。",
+    "urls": [
+      "https://www.nature.com/articles/srep03497"
+    ],
+    "read_scope": "原始研究標題、摘要及505百萬年幾丁質的搜尋回傳；未自行分析化石或全圖。",
+    "retrieved_date": "2026-09-09",
+    "source_role": "supplementary_scientific_evidence_not_official_answer",
+    "downloaded_fulltext": false
+  },
+  {
+    "id": "S26",
+    "title": "加拿大公衛署：Pseudomonas病原資料表",
+    "finding": "公衛署性狀段明列Pseudomonas不形成孢子，支援Q3 C的具名排除。",
+    "urls": [
+      "https://www.canada.ca/en/public-health/services/laboratory-biosafety-biosecurity/pathogen-safety-data-sheets-risk-assessment/pseudomonas.html"
+    ],
+    "read_scope": "官方特徵段搜尋回傳；未做菌株實驗。",
+    "retrieved_date": "2026-09-09",
+    "source_role": "supplementary_scientific_evidence_not_official_answer",
+    "downloaded_fulltext": false
+  },
+  {
+    "id": "S27",
+    "title": "Woese與同事：1977古菌及1990 domains原始論文",
+    "finding": "1977 rRNA系統發生研究提出三個古老支系；1990正式提出domain階層與三域名稱，年份不可壓成同一事件。",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/270744/",
+      "https://pubmed.ncbi.nlm.nih.gov/2112744/"
+    ],
+    "read_scope": "兩篇原始研究摘要及出版日期的搜尋回傳。",
+    "retrieved_date": "2026-09-09",
+    "source_role": "supplementary_scientific_evidence_not_official_answer",
+    "downloaded_fulltext": false
+  }
+]

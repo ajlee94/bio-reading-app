@@ -1,0 +1,307 @@
+{
+  "question": {
+    "path": "a054fe4c24b4ba99b6a1ed41.pdf",
+    "sha256": "bdd78b7bc6888773784e33dc92c0b5a1ba4786a23f0a7fce47283752e36a4ac4",
+    "pdf_pages": 9,
+    "biology_pdf_pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "cover_pdf_page": 1,
+    "scope": "107年度生物學，共50題，無共用題組；原卷PDF2–9有完整A–E及圖表。"
+  },
+  "answer": {
+    "path": "6071c3a2795f0f932c722675.pdf",
+    "sha256": "72320f6d56949d1b9c501190fffa61f7bb2fa93f86eb3bf2d7acc9795111efd1",
+    "pdf_pages": 4,
+    "biology_pdf_pages": [
+      4
+    ],
+    "excluded_pdf_pages": [
+      1,
+      2,
+      3
+    ],
+    "source_type": "LOCAL_ARCHIVED_UNIVERSITY_ANSWER",
+    "scope": "PDF1國文、2化學、3英文、4生物；只採107生物PDF4。",
+    "filename_inventory_difference": "原檔名和classified_inventory誤稱combined_question；實際為四科參考答案。原檔及清單保留。"
+  },
+  "clarification": {
+    "path": "053c684a3ca197433949b675.pdf",
+    "sha256": "b572a656723b45d63d3b4fa1f452247351425988c9b97345c96eb4a2e95d7679",
+    "pdf_pages": 7,
+    "biology_pdf_pages": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "excluded_pdf_pages": [
+      1,
+      2
+    ],
+    "source_type": "LOCAL_ARCHIVED_UNIVERSITY_NOTICE",
+    "issuer": "中國醫藥大學",
+    "notice_date": "107.5.24",
+    "scope": "PDF1國文/化學、2化學/英文、3–7生物學。檔名biology不代表全部頁皆生物。",
+    "questions": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      12,
+      14,
+      19,
+      21,
+      26,
+      27,
+      31,
+      32,
+      33,
+      36,
+      38,
+      39,
+      40,
+      43,
+      46,
+      47,
+      48
+    ],
+    "corrections": {
+      "1": "D",
+      "10": "D",
+      "38": "C或D",
+      "48": "B或D"
+    },
+    "absence_note": "其餘28題未列於本輪已取得同年度公告，不宣稱所有可能公告皆不存在。",
+    "consolidated_copy": {
+      "path": "Answer/CMU_107_biology_clarification.pdf",
+      "sha256": "b572a656723b45d63d3b4fa1f452247351425988c9b97345c96eb4a2e95d7679",
+      "difference": "Answer/manifest原記biology-only，但實際PDF1–2為其他科；本輪未改原PDF或manifest。"
+    }
+  },
+  "textbook": {
+    "path": "Campbell Biology 12e.pdf（教材參考，全文未公開）",
+    "sha256": "de7c28b93a1c853c0c58d53cd658848d08cf033cde7c2071c062bfdd25b5dc73",
+    "pdf_pages": 1493
+  },
+  "toc": {
+    "path": "Campbell toc.txt（教材參考，全文未公開）",
+    "sha256": "472c94c03d3e7f107284b4e59ba744b406faee99580f5d940e0c2dab3d0c3dc7"
+  },
+  "source_acquisition": {
+    "method": "使用專案已存的CMU107原卷、參考答案及校方公告影本；原PDF校名、年度、科目及公告日期逐一核對。",
+    "new_download": false,
+    "official_host_live_readback": "NOT_EXECUTED",
+    "not_claimed": "不宣稱本輪由校方網站直接取得，不沿用其他年度答案或釋疑。",
+    "inventory_records": [
+      {
+        "path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/classified_inventory.csv",
+        "sha256": "eb5fd47f9df6447fffa040652ff7e11b18f991e45935c4969a476b975d47de63",
+        "CMU107_rows": [
+          {
+            "school": "CMU",
+            "year": "107",
+            "category": "biology_question",
+            "bucket": "試題",
+            "file": "schools/CMU/files/試題/CMU_107_biology_question.pdf",
+            "bytes": "1021055"
+          },
+          {
+            "school": "CMU",
+            "year": "107",
+            "category": "clarification",
+            "bucket": "答案_釋疑",
+            "file": "schools/CMU/files/答案_釋疑/CMU_107_biology_clarification.pdf",
+            "bytes": "739582"
+          },
+          {
+            "school": "CMU",
+            "year": "107",
+            "category": "combined_question",
+            "bucket": "其他試題_非生物或待查",
+            "file": "schools/CMU/files/其他試題_非生物或待查/CMU_107_combined_question__107中國醫大__試題參考答案.pdf",
+            "bytes": "191655"
+          },
+          {
+            "school": "CMU",
+            "year": "107",
+            "category": "other_subject_question",
+            "bucket": "其他試題_非生物或待查",
+            "file": "schools/CMU/files/其他試題_非生物或待查/CMU_107_other_subject_question__107中國醫大__化學試題.pdf",
+            "bytes": "1468447"
+          },
+          {
+            "school": "CMU",
+            "year": "107",
+            "category": "other_subject_question",
+            "bucket": "其他試題_非生物或待查",
+            "file": "schools/CMU/files/其他試題_非生物或待查/CMU_107_other_subject_question__107中國醫大__國文試題.pdf",
+            "bytes": "1054441"
+          },
+          {
+            "school": "CMU",
+            "year": "107",
+            "category": "other_subject_question",
+            "bucket": "其他試題_非生物或待查",
+            "file": "schools/CMU/files/其他試題_非生物或待查/CMU_107_other_subject_question__107中國醫大__英文試題.pdf",
+            "bytes": "450749"
+          }
+        ]
+      },
+      {
+        "path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/coverage_summary.csv",
+        "sha256": "42388a1d3d50fe3eaec195b9e78255e4b495e9e8e056e6c8ebadaef82e3c5353",
+        "CMU107_rows": [
+          {
+            "school": "CMU",
+            "year": "107",
+            "question": "pdf:schools/CMU/files/試題/CMU_107_biology_question.pdf",
+            "answer": "missing",
+            "clarification": "pdf:schools/CMU/files/答案_釋疑/CMU_107_biology_clarification.pdf",
+            "archive_or_extracted": "biology files renamed as SCHOOL_YEAR_biology_question/answer/clarification; non-biology or uncertain question PDFs are under ????_??????/",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/extracted_packages_inventory.csv",
+        "sha256": "280d2bc8f91ec869bda3500a48c733e0ab0fb17f821cdc03e7b5f29751096347",
+        "CMU107_rows": [
+          {
+            "school": "CMU",
+            "year": "107",
+            "category": "biology_question",
+            "bucket": "試題",
+            "file": "schools/CMU/files/試題/CMU_107_biology_question.pdf",
+            "bytes": "1021055"
+          },
+          {
+            "school": "CMU",
+            "year": "107",
+            "category": "clarification",
+            "bucket": "答案_釋疑",
+            "file": "schools/CMU/files/答案_釋疑/CMU_107_biology_clarification.pdf",
+            "bytes": "739582"
+          },
+          {
+            "school": "CMU",
+            "year": "107",
+            "category": "combined_question",
+            "bucket": "其他試題_非生物或待查",
+            "file": "schools/CMU/files/其他試題_非生物或待查/CMU_107_combined_question__107中國醫大__試題參考答案.pdf",
+            "bytes": "191655"
+          },
+          {
+            "school": "CMU",
+            "year": "107",
+            "category": "other_subject_question",
+            "bucket": "其他試題_非生物或待查",
+            "file": "schools/CMU/files/其他試題_非生物或待查/CMU_107_other_subject_question__107中國醫大__化學試題.pdf",
+            "bytes": "1468447"
+          },
+          {
+            "school": "CMU",
+            "year": "107",
+            "category": "other_subject_question",
+            "bucket": "其他試題_非生物或待查",
+            "file": "schools/CMU/files/其他試題_非生物或待查/CMU_107_other_subject_question__107中國醫大__國文試題.pdf",
+            "bytes": "1054441"
+          },
+          {
+            "school": "CMU",
+            "year": "107",
+            "category": "other_subject_question",
+            "bucket": "其他試題_非生物或待查",
+            "file": "schools/CMU/files/其他試題_非生物或待查/CMU_107_other_subject_question__107中國醫大__英文試題.pdf",
+            "bytes": "450749"
+          }
+        ]
+      }
+    ]
+  },
+  "edition_verified": {
+    "edition": "Campbell Biology 12e",
+    "title_pdf_page": 4,
+    "printed_to_body_pdf_offset": 49,
+    "toc_pdf_pages": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "method": "實看PDF4版名，PDF目錄與正文頁尾抽核；本地12e的印刷碼+49，官方所引其他教材與本地12e各自標示，不混用頁碼。"
+  },
+  "source_differences": {
+    "Q01": "原B，107釋疑更正D。甲箭頭指胚乳，由中央細胞受精後形成，非卵受精的胚。丁胚根先突破種皮。丙依官方指為hypocotyl；激素互作具組織、光照與濃度條件，不能由一般頂芽優勢硬推胚軸分泌。官方引用的2005研究是阿拉伯芥，非原圖玉米的直接實驗。原釋疑「極合」字樣照存。",
+    "Q02": "採A。ABA與K+外流符合關閉機制；原題「為了加快水分蒸散」與氣孔關閉通常減少蒸散矛盾。釋疑提出根壓與guttation，但泌溢是液態水排出，不等於水蒸氣蒸散，也不能由關孔必然推出根壓上升。保留原題與官方解釋。",
+    "Q03": "採D，phytochrome為紅光／遠紅光受器而非auxin一類激素或葉綠素。長日植物需足夠短夜，光敏素狀態參與判別；Pfr大於Pr是題目簡化，並非任何物種、時點皆適用的單一開花閾值。釋疑維持D，原「常日照」字樣保留。",
+    "Q04": "採E；I水、II氧、III二氧化碳、IV糖。NADP+→NADPH本身為還原半反應，完整電子轉移必有電子供體被氧化，故原題「反應過程」可稱氧化還原。光合色素在類囊體膜而非游離基質，Calvin cycle為耗能合成。",
+    "Q05": "採C；糖解每葡萄糖淨得2 ATP及2 NADH。圖I在細胞質，II為粒線體內循環，III為呼吸鏈相關能量轉換，不是Calvin cycle。原圖甲乙箭頭及「乙＋水＋能量」照存，不以示意圖重寫完整呼吸化學計量。",
+    "Q06": "採D：SA node→AV node→bundle of His→Purkinje fibers。此處為心肌內傳導，不是由交感神經逐次直接引發每一搏。文字TOC的Rhythms採PDF正式題名Rhythmic Beat並保留差異。",
+    "Q07": "採B（甲丙丁戊）。NO使血管舒張，乙方向相反。失血時血管收縮是代償機制，不能保證嚴重失血時仍把血壓恢復正常；心輸出量的乘積關係照教材。",
+    "Q08": "採C。教材近端再吸收Na+、HCO3−、K+、葡萄糖和胺基酸，遠端以可變K+分泌及NaCl、HCO3−回收調節。此題依典型分段模型，不能延伸成所有遠端細胞、任何鉀狀態絕不再吸收K+。",
+    "Q09": "採D。配對是prophase I，中期I同源對排列赤道板，不能說配對與排列同時發生。姊妹染色分體在減數II分離；卵形成的胞質分配亦不等量。",
+    "Q10": "原C更正D，官方說明答案誤植。原圖甲為早期尖峰hCG；乙、丙依更正分別為動情素、黃體素。教材支援hCG早期維持黃體及胎盤後續分泌；此示意縱軸無單位，不能從曲線高低宣稱各激素真實濃度必有固定大小關係。",
+    "Q11": "採A：A視覺、B12造血、C膠原、D骨鈣、K凝血。B12缺乏可致巨幼紅血球性貧血；原「惡性貧血」常特指內在因子缺乏所致吸收障礙，不能把所有B12缺乏一概稱惡性貧血。教材900表列anemia較廣。",
+    "Q12": "採C，釋疑只針對嗜酸性球參與吞噬不等於分化為吞噬細胞。教材支持發炎血管擴張、肥大細胞釋放histamine，非止痛消炎。對C的heparin不能假裝教材已直接支持：1987人類basophil實驗未檢出heparin而見chondroitin sulfate A；此來源差異照存，不能用採計答案抹平。",
+    "Q13": "採B：單酸甘油酯進入上皮後重組三酸甘油酯，再包裝乳糜微粒。micelle主要是腸腔內遞送吸收產物的集合體，不把完整微脂粒算入上皮內；脂肪油滴、微脂粒、乳糜微粒保留不同位置與尺度。",
+    "Q14": "採D。B細胞可有膜型IgM/IgD，T細胞用TCR而非表面抗體。官方維持E可遷移感染部位，不能由B細胞能分化漿細胞便推「所有B細胞絕不遷移」；其引用memory B cell皮膚文獻是官方論證，本輪未另稱重做該實驗。",
+    "Q15": "採B（乙丙丁）。鳥氣囊推動氣流，交換在肺旁支氣管，不在前氣囊；原anterior aveoli sac拼字照存。魚鰓原「鰓瓣上的鰓絲」層級措辭與教材鰓絲及鰓小片圖分開，不更動原文。",
+    "Q16": "採D。CO2形成碳酸使pH下降，降低Hb氧親和力。溫度及2,3-DPG亦能影響氧解離曲線，但不因此把所有右移都稱為嚴格定義的Bohr效應。",
+    "Q17": "採D。教材1081直接記Prozac阻止serotonin reuptake；並非促進多巴胺釋放或直接促進serotonin合成。本題是作用機制分類，不是個人用藥建議。",
+    "Q18": "採A。視神經由神經節細胞軸突組成，非水平細胞；視窩中央錐細胞密集且沒有桿細胞。視神經路徑經視交叉及外膝狀核至初級視覺皮質，並非全部軸突都在視交叉跨側。",
+    "Q19": "採C。教材1096示杏仁核受損可保留明確記憶卻失去相應自主喚起。Klüver-Bucy是臨床症候群，可涉及廣泛顳葉網路；官方釋疑亦將本題限定為恐懼記憶功能，不能當成所有病例的唯一病理位置。",
+    "Q20": "採D。松露／樹根與根瘤菌／大豆均為互利；不是寄生、單純附生或競爭。本文以題設互惠為分類，不把所有松露宿主都限於松樹。Mutualism是正文小標，真實目錄最小條目是Positive Interactions。",
+    "Q21": "採E。I的甲狀腺素不是固醇，II的抑制泌乳激素釋放激素主要為dopamine，故不能用是否胜肽類分組。教材1003說甲狀腺素典型受器在核內，原題「細胞質」不能直接偷換為「細胞內」。官方另引非基因組作用；2006心肌細胞研究顯示胞質TRα1與PI3K作用，可支持存在性而非所有作用都在胞質。",
+    "Q22": "採A。自然選擇篩選可遺傳變異，族群跨世代改變，不以個體因需要產生突變或演化必朝多細胞、有性生殖為定向目標。B若泛指族群特徵改變可語意寬泛，本題A直接吻合共同祖先主張。",
+    "Q23": "採B。個體數多並不必然遺傳多樣性高，例如克隆或瓶頸後增殖。C較高多樣性增加適應潛力，並非保證在所有環境一定更適存。D的相同豐富度可有不同均勻度。",
+    "Q24": "採B，濃度由0.4到1.9到6.5到17.0 ppm，故乙→甲→丁→丙。這依同一食物鏈、同一持久污染物與題目平均濃度假設推得；不能把任何污染物濃度一律當普遍食階測量法。",
+    "Q25": "採E，其他選項偏物種、棲地或生物互作。身高與膚色有遺傳成分，但營養、日照等亦影響表現，看到外表差異不是完成基因型測量。",
+    "Q26": "採E。枚舉原圖可得甲A/B/AB/O，乙A/O，丙A/O，丁B/AB；甲五種基因型但四種血型。E把丁說成最少者，按官方的唯一最少讀法不成立；原句若容許並列最少仍有語意歧義。官方只提丙與丁同為兩種，本輪另保留乙也是兩種的完整結果。",
+    "Q27": "採B（甲丙）。乙有絲分裂錯，丁否定分離錯，戊將一對等位都放入同一配子錯。丙的完全顯性是題目古典模型的一項敘述，但分離律不以完全顯性為成立必要條件，也可在不完全顯性中成立。",
+    "Q28": "採D。五選項中只有TtYy×TtYy可以產生ttyy矮株綠種子。原291高黃／102矮綠約2.853：1；若兩基因獨立分配，這兩類理論比9：1，數字不吻合，不能稱觀察到9：3：3：1。完全連鎖同相親本可接近3：1，但原題未交代，僅列為條件性可能，不擅補題設。",
+    "Q29": "採B（乙丙）。脂雙層中蛋白質分布且部分可側向移動；醣通常接於蛋白或脂質並朝非胞質側，不把原乙解成游離醣必任意插入疏水核心。丁戊可以是真功能，但題目所問模型核心與選項組合有不同層次。",
+    "Q30": "採B（甲乙）。TMV是RNA加蛋白殼；噬菌體以細菌為宿主，不是同時專指真菌。腺病毒無套膜，不等於絕不有醣化蛋白：2005 Ad5研究在fiber shaft Ser109發現O-GlcNAc。該研究不表示醣基本身就是受器辨識部位，也不代表所有腺病毒同一醣化狀態。套膜不能一概說成防白血球吞噬的保證。",
+    "Q31": "採A。教材851圖與正文支援胚訊號促α-amylase生成，使儲存物供幼苗利用。官方提β-amylase與其他養分來源，不能把單一酶失活直接等同所有植物都完全不能萌發；題目未給物種、殘餘酶活或條件，無法量化生長程度。",
+    "Q32": "採C。教材867把hypersensitive response連到效應物辨識、局部細胞死亡與限制傳播。官方「第一道反應一定是過敏反應」不可概括：教材866先有PAMP-triggered immunity，HR也不是所有病原侵入的必然第一步。單靠黑斑／凋萎不能排他診斷HR，這是原題情境推定。",
+    "Q33": "採C。乙烯為氣態植物激素；brassinosteroids是植物類固醇，植物激素也非全由腺體產生。動物NO等氣態訊息在教材列local regulator/paracrine，並非因此不存在氣體傳訊。C的「動物則無」依此教科書激素定義成立，不是跨所有文獻名詞的絕對定義。",
+    "Q34": "採D（耐酸、種皮特厚）。這是題目對通過消化道仍存活的最佳特徵推論；可食果肉的鮮豔與營養不等於種子必然相同。教材832直接示種子隨糞便散播，但不能由此保證所有內食散播種子都具有特厚種皮或同樣耐酸。",
+    "Q35": "採E。教材807圖37.3明示呼吸CO2與主動釋出H+；CO2溶水成碳酸並解離出H+，促陽離子交換。根吸收的是釋放進土壤液的陽離子，不直接從土粒取離子。",
+    "Q36": "採E。教材427在Determining Gene Function下解釋GWAS與SNP；433另述醫療應用。SNP可與致病等位連鎖，相關不等於標記本身有因果效應；不宣稱所有GWAS永遠僅能研究SNP或STR無任何用途。",
+    "Q37": "採A。地理隔離是異域機制的起點，不足以保證新物種形成；D是種化的重要結果／物種界線。原「完全」較強，實際基因流可逐步減少，某些屏障是否有效亦取決於物種移動能力。",
+    "Q38": "原C，釋疑更正C或D。細菌也有生物時鐘，D的海馬迴為官方承認誤植，原題不可悄改為下視丘。circadian是約一日，恆定環境週期不必精確24小時；候鳥遷徙涉及季節節律，不能將其全等同單一24小時振盪。",
+    "Q39": "採C，官方以11版定義維持。教材372定義及1020環境性別可區分表現可塑性與可遺傳標記，但不能由定義宣稱短吻鱷完全不涉表觀調控：2014原始研究已發現不同孵化溫度伴隨SOX9/CYP19A1啟動子甲基化與表現差異。這是關聯證據，不等於證明每一機制或跨代遺傳；五選項「影響最小」也未有統一量尺。",
+    "Q40": "採E。教材1171用平均年雨量和溫度比較biomes，並說季節性及其他因素仍有作用。原「某地所具有的生物種類／生物相」不是biome的完整定義；biome應指具典型氣候與植被的廣域生物群系，保留原中英術語不靜默訂正。",
+    "Q41": "採A。tryptophan與抑制子在異位結合使其能結合operator；不是乳糖操作子的作用，也不是色胺酸直接充當lac誘導物。",
+    "Q42": "採B。社會性動物常見利他，不只哺乳類也不只近親；間接適存度或互惠回報不能直接等同每個利他行為者必有更多自身子代。",
+    "Q43": "採A（甲乙）。自體iPS降低典型異體不相容，但不保證任何自體衍生製劑絕無免疫反應。成熟心肌不會因此通常轉分化表皮。腫瘤風險須區分未分化殘留、異常重編程與成熟心肌本身；2017工程心臟組織研究純化以降低風險並觀察到植入存活及未見腫瘤，不能說甲乙每次必發生。",
+    "Q44": "採A。自噬可處理少量細胞質，不限受損胞器；可幫助存活，不必終止於程序性死亡。教材巨自噬由雙膜包裹後與溶體融合，非溶體直接吞接壞死胞器。處理鄰近壞死細胞屬其他吞噬情境。",
+    "Q45": "採C。NAD+與FAD是常見氧化還原輔酶；不能說NADH/FADH2就完全不是輔酶，兩者是相應還原型。原題「最常見」未提供定量比較或培養條件，本輪不編造細胞內濃度證明。教材Cofactors是正文小標，目錄最小條目為8.4 Effects of Local Conditions on Enzyme Activity。",
+    "Q46": "採E。端粒酶延伸DNA的3′端，合成方向5′→3′，再使互補股得以補足；不是具有3′→5′合成活性。多數分化體細胞端粒酶低或不活躍，不能用「略小於生殖細胞」普遍描述，也不應說所有體細胞完全沒有端粒酶。",
+    "Q47": "採E。C較符合helicase分離兩股，topoisomerase可斷且可接回；不同類型能量需求不同，不能一概說不需能量。原「RNA轉錄」依官方解作由DNA合成RNA，不是RNA模板自我轉錄。補充作者教材明示複製與轉錄都需處理超螺旋。",
+    "Q48": "原B，更正B或D。一般升溫下增加飽和脂肪酸可抵消過度流動；特定菌種、培養及脂質類別可能不同，不能將官方開放B說成普遍升溫必增加不飽和脂肪酸。釋疑所列1978/1987等文獻未在本輪全部取得全文，不宣稱它們一致證明B；另查E.coli熱適應研究呈飽和成分上升，可支持D的範圍。",
+    "Q49": "採A（甲乙）。原丁以碰撞解釋錯，quorum sensing依累積訊息與感受機制；可涉及跨種溝通，非僅同種類。生物膜可使抗生素處理困難，但不能把所有耐藥都等同quorum sensing或基因抗藥性突變。",
+    "Q50": "採E。相鄰同一DNA股上的胸腺嘧啶可共價連結形成二聚體，NER切除受損短片段再補合；不是把UV典型損傷寫成兩股間交聯或用錯配修復處理。UV亦可造成其他損傷，本題問典型最可能者。"
+  }
+}

@@ -1,0 +1,153 @@
+[
+  {
+    "id": "S01",
+    "title": "FDA AGGRENOX 2019處方標籤，12.1藥理機制",
+    "urls": [
+      "https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/020884s039lbl.pdf"
+    ],
+    "read_scope": "下載19頁原PDF；實讀12.1 Aspirin段，不宣稱全份標籤實讀或現行治療指引。",
+    "finding": "不可逆抑制血小板COX，降低血栓素A2及血小板聚集，補充Q1的血栓相關機制。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU115官方採計",
+    "captures": [
+      {
+        "id": "S01",
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/020884s039lbl.pdf",
+        "retrieved_at": "2026-09-10T09:55:25.014837+08:00",
+        "http_status": 200,
+        "final_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/020884s039lbl.pdf",
+        "status": "CAPTURED_RESPONSE",
+        "path": "source/supplemental/TCU115/S01.pdf",
+        "sha256": "fbed8cba3a8802c393cf1a319fcd92a6cc4cb8b3e670d3ef1443df61a72497df",
+        "bytes": 694958,
+        "pdf_pages": 19
+      }
+    ],
+    "authored_evidence_record_sha256": "62e080945a6c9b09e09cf9074324c2ce3fe83bc65494d33bb0025353d423796c"
+  },
+  {
+    "id": "S14",
+    "title": "CDC Diabetic Ketoacidosis（2024-05-15）",
+    "urls": [
+      "https://www.cdc.gov/diabetes/about/diabetic-ketoacidosis.html"
+    ],
+    "read_scope": "直接下載403；web工具實讀Overview與Causes及呼吸症狀。保存工具回應與作者摘要，兩者雜湊不是遠端HTML原檔雜湊。",
+    "finding": "胰島素不足時肝臟代謝脂肪產生酮體，過量快速累積造成DKA；支持Q14的因果限定，不把一般ketosis等同酮酸中毒。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU115官方採計",
+    "captures": [
+      {
+        "id": "S14",
+        "url": "https://www.cdc.gov/diabetes/about/diabetic-ketoacidosis.html",
+        "retrieved_at": "2026-09-10T09:55:25.476755+08:00",
+        "status": "DOWNLOAD_FAILED",
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "id": "S14",
+        "status": "WEB_TOOL_CAPTURE",
+        "path": "source/supplemental/TCU115/S14-web-response.json",
+        "sha256": "615be4e47f0cc5f91841638ce6b35ef44b8f140d1b0669048f78a27c7392eee1",
+        "hash_scope": "工具回應非遠端HTML原檔"
+      }
+    ],
+    "authored_evidence_record_sha256": "421894c9ec41181850f20ba32dc04a94d1217115ffb8497db4d98ba3048fea82"
+  },
+  {
+    "id": "S23",
+    "title": "Moeller等，Structure and dynamics of SARS-CoV-2 proofreading exoribonuclease ExoN，PNAS；CDC流感基因組說明",
+    "urls": [
+      "https://www.osti.gov/pages/servlets/purl/1847131",
+      "https://www.cdc.gov/flu/php/viruses/genetic-characterization.html"
+    ],
+    "read_scope": "下載10頁作者研究PDF；實讀PDF1摘要及導論相關段，未宣稱逐頁全文審閱；另讀CDC索引返回的A/B型8段RNA說明。",
+    "finding": "nsp14–nsp10 ExoN移除錯配／異常核苷酸，結構與生化試驗支持冠狀病毒具有校對；限制Q23對所有RNA病毒的概括。另保留Campbell410把流感寫nine segments與CDC eight的差異，不以此旁例推算答案。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU115官方採計",
+    "captures": [
+      {
+        "id": "S23",
+        "url": "https://www.osti.gov/pages/servlets/purl/1847131",
+        "retrieved_at": "2026-09-10T09:55:25.742442+08:00",
+        "http_status": 200,
+        "final_url": "https://www.osti.gov/pages/servlets/purl/1847131",
+        "status": "CAPTURED_RESPONSE",
+        "path": "source/supplemental/TCU115/S23.pdf",
+        "sha256": "94e5e4e7dd35b8c657edddedbb583a1358e417f799505a0f3f32ce7c715009b2",
+        "bytes": 2511440,
+        "pdf_pages": 10
+      },
+      {
+        "id": "S23",
+        "status": "WEB_TOOL_CAPTURE",
+        "path": "source/supplemental/TCU115/S23-influenza-web-response.json",
+        "sha256": "ceb8007b2e05aa57c645ad42ce04f2b364a144c84205c9b435266174363ba657",
+        "content_status": "RELEVANT_INDEX_PASSAGE_READ",
+        "hash_scope": "工具回應非遠端HTML原檔"
+      }
+    ],
+    "authored_evidence_record_sha256": "25beb0826ff4d5ae5c4d73b1c9a9e4296b6484eb615a37f1c1b066ba02809aee"
+  },
+  {
+    "id": "S24",
+    "title": "Eisner與Aneshansley，Spray aiming in the bombardier beetle: Photographic evidence，PNAS",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC22274/"
+    ],
+    "read_scope": "PMC全文開啟遇驗證頁，Argonne下載403；實讀web索引回傳原研究導論儲存腔與反應腔段，不宣稱已取得全文。本地保存工具回應。",
+    "finding": "儲存腔含hydroquinones和H2O2，反應腔含catalases／peroxidases；接觸後放熱、放出氣體並噴出醌類。此段未提供pH實測。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU115官方採計",
+    "captures": [
+      {
+        "id": "S24",
+        "url": "https://publications.anl.gov/anlpubs/2016/06/128296.pdf",
+        "retrieved_at": "2026-09-10T09:55:35.385697+08:00",
+        "status": "DOWNLOAD_FAILED",
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "id": "S24",
+        "status": "WEB_TOOL_CAPTURE",
+        "path": "source/supplemental/TCU115/S24-web-response.json",
+        "sha256": "c98ac36a6d8af42d4e40a963ab19c8cb83eb7427de177da8985d3e23090c2331",
+        "hash_scope": "工具回應非遠端HTML原檔",
+        "content_status": "UNRELATED_SEARCH_RESPONSE_NOT_USED_AS_EVIDENCE"
+      },
+      {
+        "id": "S24",
+        "status": "WEB_TOOL_CAPTURE",
+        "path": "source/supplemental/TCU115/S24-focused-web-response.json",
+        "sha256": "a6ae6a83b22e3f0e0e0dd969584c60a0818fc32181413ae91674e4d15e19c62e",
+        "content_status": "RELEVANT_INDEX_PASSAGE_READ",
+        "hash_scope": "工具回應非遠端HTML原檔"
+      }
+    ],
+    "authored_evidence_record_sha256": "b6bc4c55733852d669f5eac5dc74ca0215536cc8df7b3edf63db0d1db51a98d8"
+  },
+  {
+    "id": "S34",
+    "title": "Bonfante與Genre，Mechanisms underlying beneficial plant–fungus interactions in mycorrhizal symbiosis，Nature Communications 2010",
+    "urls": [
+      "https://www.nature.com/articles/ncomms1046"
+    ],
+    "read_scope": "取得含文章的HTML，實讀EM正文與Figure1/2圖說；此來源是機制綜述，非本輪新做原始實驗或全篇審查。",
+    "finding": "外生菌根菌鞘包根，Hartig net的菌絲位於表皮及外皮層細胞之間；與胞內叢枝構造區分，補足教材沒有直接命名Hartig的細節。",
+    "access_date": "2026-09-10",
+    "role": "科學補充，不取代TCU115官方採計",
+    "captures": [
+      {
+        "id": "S34",
+        "url": "https://www.nature.com/articles/ncomms1046",
+        "retrieved_at": "2026-09-10T09:55:35.914763+08:00",
+        "http_status": 200,
+        "final_url": "https://www.nature.com/articles/ncomms1046?error=cookies_not_supported&code=76302d2f-18da-41bd-a8aa-0e3eedcd1d4e",
+        "status": "CAPTURED_RESPONSE",
+        "path": "source/supplemental/TCU115/S34.html",
+        "sha256": "c7e46f085dd419ad8e50273a050cfdc1550f0c5145ae58278b6e934dde2cb660",
+        "bytes": 577089
+      }
+    ],
+    "authored_evidence_record_sha256": "ba8197d9a678ac3738d100f15f741f70b737027f24d00bc0e30c799df4925c07"
+  }
+]

@@ -1,0 +1,273 @@
+{
+  "question": {
+    "path": "c36d20ff2ad0f8deb6a589fb.pdf",
+    "sha256": "e63c1911e62b930555afb7440100d25637dae5e9b268c4371b8d8a63d3b7f1fb",
+    "pdf_pages": 8,
+    "inventory_category": "biology_question",
+    "scope_status": "ALL_EIGHT_FULL_PAGES_VISUALLY_READ",
+    "subject": "生物學",
+    "question_count": 50,
+    "cover_pdf_page": 1,
+    "biology_pdf_pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "printed_pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "shared_questions": [],
+    "figures": "全卷50題均為文字題，無題圖、共用題幹或跨頁題",
+    "local_acquisition": {
+      "school": "TCU",
+      "year": "113",
+      "kind": "question",
+      "status": "verified_pdf",
+      "bytes": "538110",
+      "file": "schools/TCU/downloads/TCU_113_biology_question.pdf",
+      "source": "backup_5138",
+      "url": "https://drive.google.com/file/d/1dptuerAhV-9LXB28jSUZcPY-i8TfJIkb/view?usp=share_link",
+      "note": "position 4 subject link",
+      "header": "%PDF-1.7"
+    },
+    "current_official_access": {
+      "status": "DIRECT_PDF_UNAVAILABLE_REDIRECTS_TO_HOME",
+      "attempts": [
+        {
+          "kind": "question",
+          "url": "https://admissions.tcu.edu.tw/wp-content/uploads/2024/04/公告用-113後中醫_生物學試題.pdf",
+          "retrieved_at": "2026-09-10T12:34:13.426991+08:00",
+          "status": "FAILED",
+          "error": "<urlopen error [WinError 10013] 嘗試存取通訊端被拒絕，因為存取權限不足。>"
+        },
+        {
+          "kind": "question",
+          "url": "https://admissions.tcu.edu.tw/wp-content/uploads/2024/04/公告用-113後中醫_生物學試題.pdf",
+          "retrieved_at": "2026-09-10T12:34:34.180742+08:00",
+          "http_status": 200,
+          "final_url": "https://admissions.tcu.edu.tw/",
+          "content_type": "text/html; charset=UTF-8",
+          "path": "審查紀錄/annual_review/TCU-113/official-fetch/question.html",
+          "sha256": "e0d58e2bab11e0e0fe89bd7c88dd87fd3cde484e5ff499aa34e81b7b525a9e08",
+          "bytes": 85074,
+          "status": "NOT_PDF_RESPONSE"
+        }
+      ],
+      "checked_at": "2026-09-10T13:00:06.123413+08:00",
+      "note": "舊官方URL目前HTTP200重導HTML首頁，非PDF；本地同年鏡像格式及官方搜尋索引核對，不宣稱重下載題本／原答案。"
+    }
+  },
+  "answer": {
+    "path": "6dfc88e3b229ea7c391d25f1.pdf",
+    "sha256": "1497713413d384a8d3c803e457c5882a38ba0a094b90e3e4d8f3cfe24487c486",
+    "pdf_pages": 1,
+    "inventory_category": "biology_answer",
+    "scope_status": "ALL_50_ANSWERS_VISUALLY_READ",
+    "biology_pdf_pages": [
+      1
+    ],
+    "local_acquisition": {
+      "school": "TCU",
+      "year": "113",
+      "kind": "answer",
+      "status": "verified_pdf",
+      "bytes": "66113",
+      "file": "schools/TCU/downloads/TCU_113_biology_answer.pdf",
+      "source": "backup_5138",
+      "url": "https://drive.google.com/file/d/1MBc3Bt-4tBLFe7DSQyoOY9hPqs5YckwW/view?usp=share_link",
+      "note": "position 8 answer link",
+      "header": "%PDF-1.7"
+    },
+    "current_official_access": {
+      "status": "DIRECT_PDF_UNAVAILABLE_REDIRECTS_TO_HOME",
+      "attempts": [
+        {
+          "kind": "answer",
+          "url": "https://admissions.tcu.edu.tw/wp-content/uploads/2024/04/公告用-113後中醫_生物學參考答案.pdf",
+          "retrieved_at": "2026-09-10T12:34:13.459992+08:00",
+          "status": "FAILED",
+          "error": "<urlopen error [WinError 10013] 嘗試存取通訊端被拒絕，因為存取權限不足。>"
+        },
+        {
+          "kind": "answer",
+          "url": "https://admissions.tcu.edu.tw/wp-content/uploads/2024/04/公告用-113後中醫_生物學參考答案.pdf",
+          "retrieved_at": "2026-09-10T12:34:36.907871+08:00",
+          "http_status": 200,
+          "final_url": "https://admissions.tcu.edu.tw/",
+          "content_type": "text/html; charset=UTF-8",
+          "path": "審查紀錄/annual_review/TCU-113/official-fetch/answer.html",
+          "sha256": "e0d58e2bab11e0e0fe89bd7c88dd87fd3cde484e5ff499aa34e81b7b525a9e08",
+          "bytes": 85074,
+          "status": "NOT_PDF_RESPONSE"
+        }
+      ],
+      "checked_at": "2026-09-10T13:00:06.123413+08:00",
+      "note": "舊官方URL目前HTTP200重導HTML首頁，非PDF；本地同年鏡像格式及官方搜尋索引核對，不宣稱重下載題本／原答案。"
+    }
+  },
+  "clarification": {
+    "path": "fb51a46e4631222131d09d37.pdf",
+    "sha256": "488c60fc6f4ec9bc97354701403a2084f4a8bae046fcdbe7d2776a967900a213",
+    "pdf_pages": 3,
+    "inventory_category": "clarification",
+    "scope_status": "ALL_THREE_PAGES_VISUALLY_READ",
+    "biology_pdf_pages": [
+      2,
+      3
+    ],
+    "biology_questions": {
+      "4": [
+        2
+      ],
+      "12": [
+        2
+      ],
+      "13": [
+        2
+      ],
+      "36": [
+        2,
+        3
+      ],
+      "38": [
+        3
+      ],
+      "40": [
+        3
+      ],
+      "46": [
+        3
+      ]
+    },
+    "official_corrections": {
+      "13": {
+        "original": "C",
+        "adopted": "C/D"
+      },
+      "40": {
+        "original": "D",
+        "adopted": "A/D"
+      }
+    },
+    "dispositions": {
+      "4": "B",
+      "12": "A",
+      "13": "C/D",
+      "36": "A",
+      "38": "A",
+      "40": "A/D",
+      "46": "C"
+    },
+    "excluded": "PDF1國文及化學全部排除；PDF2英文14/16後才是生物。化學Q12改A、Q22送分不得套用生物。",
+    "scope_note": "本輪取得生物7題釋疑；其餘43題未列此公告，不宣稱無其他未取得公告。多個採計字母表示任選其中一個可採計，不是要求複選。",
+    "local_acquisition": {
+      "school": "TCU",
+      "year": "113",
+      "kind": "clarification",
+      "status": "verified_pdf",
+      "bytes": "229636",
+      "file": "schools/TCU/downloads/TCU_113_biology_clarification.pdf",
+      "source": "backup_5138",
+      "url": "https://drive.google.com/file/d/1z30paoTAuubmpJ6kAT2dkIgI9XInOgwr/view?usp=share_link",
+      "note": "position 9 clarification link",
+      "header": "%PDF-1.5"
+    },
+    "current_official_access": {
+      "status": "FETCHED_PDF_IDENTICAL_TO_LOCAL",
+      "attempts": [
+        {
+          "kind": "clarification",
+          "url": "https://admissions.tcu.edu.tw/wp-content/uploads/2024/04/【公告】113釋疑結果.pdf",
+          "retrieved_at": "2026-09-10T12:34:13.485275+08:00",
+          "status": "FAILED",
+          "error": "<urlopen error [WinError 10013] 嘗試存取通訊端被拒絕，因為存取權限不足。>"
+        },
+        {
+          "kind": "clarification",
+          "url": "https://admissions.tcu.edu.tw/wp-content/uploads/2024/04/【公告】113釋疑結果.pdf",
+          "retrieved_at": "2026-09-10T12:34:39.132519+08:00",
+          "http_status": 200,
+          "final_url": "https://admissions.tcu.edu.tw/wp-content/uploads/2024/04/%E3%80%90%E5%85%AC%E5%91%8A%E3%80%91113%E9%87%8B%E7%96%91%E7%B5%90%E6%9E%9C.pdf",
+          "content_type": "application/pdf",
+          "path": "審查紀錄/annual_review/TCU-113/official-fetch/clarification.pdf",
+          "sha256": "488c60fc6f4ec9bc97354701403a2084f4a8bae046fcdbe7d2776a967900a213",
+          "bytes": 229636,
+          "status": "FETCHED_PDF"
+        }
+      ],
+      "checked_at": "2026-09-10T13:00:06.123413+08:00",
+      "note": "本輪官方釋疑PDF位元與既存來源一致。"
+    }
+  },
+  "textbook": {
+    "path": "Campbell Biology 12e.pdf（教材參考，全文未公開）",
+    "sha256": "de7c28b93a1c853c0c58d53cd658848d08cf033cde7c2071c062bfdd25b5dc73"
+  },
+  "toc": {
+    "path": "Campbell toc.txt（教材參考，全文未公開）",
+    "sha256": "472c94c03d3e7f107284b4e59ba744b406faee99580f5d940e0c2dab3d0c3dc7"
+  },
+  "provenance_notes": "既有來源清冊、Answer和原PDF均不改；新的官方取得及失敗紀錄只存本年度。web原始研究查證均為本輪，不沿用其他年度內容。",
+  "question_scientific_differences": {
+    "TCU-113-Q01": "採A。檸檬酸等有機陰離子在根際與Al3+形成錯合物，降低具毒性游離鋁的可用性；不是把鋁元素分解，也不是阻隔根與土壤的外衣。原題英文citrate synthesis是過程名，酵素應為citrate synthase。教材809沿用1997菸草／木瓜案例；2001獨立研究未重現增加檸檬酸及耐鋁效果，保留工程成效的研究差異，不把本題假設當所有轉殖株必然成功。",
+    "TCU-113-Q02": "採C。蘇鐵與銀杏的精子具鞭毛，許多其他種子植物以花粉管直接遞送不具鞭毛的精子。保留祖徵不表示今天的裸子植物是朝被子植物前進的線性過渡階段；題幹「過渡類型」是歷史簡化用語。",
+    "TCU-113-Q03": "採D，即髓、木質部、韌皮部、周鞘、內皮、皮層、表皮的題設簡序。教材768–769的單子葉圖有中央薄壁細胞及周圍維管組織，並明示不同植物有變化；木質部、韌皮部常呈相間的放射組織，不應把選項理解為所有根都具七個完整同心圓層。根部周鞘在內皮內側，不能倒置。",
+    "TCU-113-Q04": "依原答案及113釋疑採B。題幹寫「對於藍綠菌祖先而言」，釋疑卻解釋為植物宿主因取得光合能力受益，主詞確有差異。教材109及594支持宿主得到光合產物，不能據此推得被吞入的藍綠菌本身製糖效率一定增加。保留受益者與效率敘述衝突，官方B與科學限制分開；分類仍明確是內共生，不能自行另訂採計。",
+    "TCU-113-Q05": "採C。肌動蛋白微絲與肌凝蛋白的交互作用帶動植物細胞質流動；kinesin、dynein常沿微管作用，不能代換為本題的actin–myosin組合。",
+    "TCU-113-Q06": "採A。藻紅素等輔助色素可吸收穿透較深的藍綠光並供光合作用；呈紅色是反射／透射色，不代表主要吸收紅光。不能把褐藻的固著器、柄與葉狀體一律套到紅藻。",
+    "TCU-113-Q07": "採D。把八種蘋果品種的芽或枝嫁接到同一砧木，可由各接穗長出不同品種的結果枝。果實主要來自接穗的母體組織；互相授粉不會直接將同株不同枝變成八個原品種。嫁接形成組合植株，不等同把各品種全部基因融合成單一新基因型。",
+    "TCU-113-Q08": "採A。K+累積使保衛細胞溶質勢更負，水沿水勢差進入，膨壓配合細胞壁構造使孔隙開大。水不是由所謂水幫浦主動打入；K+也不是唯一參與的溶質。",
+    "TCU-113-Q09": "採B。等電點是指定條件下蛋白質淨電荷為零時的pH，不是電泳到兩極等距所需的時間、所有側鏈都不帶電的pH或不氧化不還原的電壓。本地教材提供側鏈電性及pH原理，但未在所讀段直接定義isoelectric point；精確定義另據IUPAC。",
+    "TCU-113-Q10": "採B。密碼子改變而所指定胺基酸不變仍是DNA突變。教材357亦指出同義改變有時影響基因表現，故「沉默」不能擴大為對所有生物功能絕對無影響；非同義、終止或移碼另有不同結果。",
+    "TCU-113-Q11": "採C。趾間組織經細胞凋亡移除，使指趾分離；此處的機制不是降低減數分裂速率，也不是單純停止有絲分裂或將趾間細胞搬到手指。教材示例為小鼠肢芽，用以支持脊椎動物指趾塑形原理，不冒稱為本題人類實驗。",
+    "TCU-113-Q12": "採A，113釋疑維持。肝臟產生血管收縮素原，腎臟近腎絲球細胞釋放腎素形成angiotensin I，再由ACE形成II；腎上腺皮質分泌醛固酮。A把肝來源直接寫成II而錯。D「肺釋放ACE」是簡寫：ACE常位於血管內皮表面，肺循環是重要轉換場所，並非只由肺分泌的游離荷爾蒙。",
+    "TCU-113-Q13": "原答案C；113釋疑改為C或D均採計。教材245圖12.15標G1、G2、M三個重要檢查點；247另列S期及後期／末期交界的檢查機制，所以「恰有三個」不宜當普遍總數。官方以Campbell Biology Concepts & Connections 10e與Life 12e不同計數口徑採兩選項；這兩本不是本輪本地Campbell Biology 12e，不冒稱已取得或讀完其全文。C/D表示選C或選D均可，不是要求複選。",
+    "TCU-113-Q14": "採A。教材217明列GPCR為人類最大細胞表面受體家族；RTK與配體門控通道機制不同，胞內受體也非細胞表面家族。題幹省略物種，保留教材以人類為範圍的限定，不宣稱各物種數量排序一律相同。",
+    "TCU-113-Q15": "採B。Brainbow用基因工程使神經細胞表現不同螢光蛋白組合，並非對每個細胞注射多色染料或單靠抗體染色。教材1085圖49.1直接稱四種螢光蛋白隨機組合；原始Livet研究的Cre/lox設計可有三種以上蛋白與多個拷貝。該圖位於49章開頭，並無獨立Brainbow目錄條目；分類以20.1技術與6.1成像為依據，仍保留1085直接例證。",
+    "TCU-113-Q16": "採C。中間絲構成穩定支架，核纖層亦由相關蛋白組成，能維持細胞核等構造位置。微管與微絲同樣有力學和運輸作用，但此題教材直接對應的是中間絲，不能解讀為其他骨架永遠不參與核位置調節。",
+    "TCU-113-Q17": "採D。腎臟主要實質來自中胚層，肝實質上皮源於內胚層，故不能把兩者都當內胚層衍生器官。1051表47.9也列外胚層的神經系統及中胚層的肌肉／骨骼。器官包含多種來源的間質、血管等，部分頭部骨骼有例外；題目是主要胚層歸屬，不能擴張成器官內每個細胞同源。",
+    "TCU-113-Q18": "採B。血中膽固醇藉脂蛋白運送，表面有游離膽固醇，核心有膽固醇酯；游離膽固醇並非主要的運輸型態，不能將表面成分當成主要總量。膽固醇與膽汁酸及類固醇激素合成有關。A對維生素D的說法也有簡化：皮膚受UV作用的直接前驅物是7-dehydrocholesterol，形成pre-D3後再轉成D3，不是未修飾的膽固醇一步直接變D。此差異保留，官方採計仍B。",
+    "TCU-113-Q19": "採D。頂體酵素幫助穿過卵外層，與後續膜融合配合；提供游動能量主要是粒線體，尾部鞭毛負責運動，不能代換頂體功能。題幹的精細胞依頂體構造按成熟精子理解，不把它當發生學中特指尚未成熟的spermatid。",
+    "TCU-113-Q20": "採D。Donepezil（Aricept）可逆抑制acetylcholinesterase，減少乙醯膽鹼水解；不等於直接製造新神經元或治癒阿茲海默症。具名藥物機制以DailyMed仿單11及12.1補足。本地1104對當時治療的概括不當作2026全部治療現況，本題只核對此藥機制。",
+    "TCU-113-Q21": "採A，按嚴重gnom胚突變的題設，無法正常建立莖根的頂基極性。所讀12e正文提供一般圖式與胚發育原理，未直接命名GNOM；Vroemen等原始研究摘要補足專名。研究指出頂基極性可能缺失或反向，但徑向圖式仍可保留，不能把A的極性缺失擴張到所有軸、所有等位基因。",
+    "TCU-113-Q22": "採D。獨腳金內酯參與生長素相關頂端優勢，抑制側枝並促進菌根真菌與根互動；選項中的油菜素類固醇、吉貝素與茉莉酮酸均非這組特徵的最佳答案。846表39.2也列其功能；正文小標Strigolactones並非目錄獨立條目，採實際目錄Survey of Plant Hormones，不虛造ID。",
+    "TCU-113-Q23": "採C。保衛細胞以膨壓控制氣孔開閉，氣孔是葉片蒸散的主要調節出口；角質層仍會有少量失水，根的吸水能力也影響整體平衡，但題目直接問蒸散控制構造。",
+    "TCU-113-Q24": "採B。植物可具有或誘導化學防禦，干擾病原體及草食動物。這不是動物免疫系統的抗體，也不能把所有代謝物都當同一毒素或認為各物種防禦效力相同；兩類威脅均有主次目錄依據。",
+    "TCU-113-Q25": "採C。可在植物內再移動的營養元素可由老葉運往新生部位，因此缺乏時老部位往往先顯症；移動性低的元素常先影響幼嫩組織。不能把土壤中能否移動與韌皮部再運移混為同一判準。",
+    "TCU-113-Q26": "採B。在其他條件相近、燈光有效打斷暗期的題設下，結果符合長日／短夜植物；關鍵是連續暗期長度。這不是向光性，夜燈也不能未量光譜就說一定提供遠紅光。題幹「一定」省略溫度等控制條件，保留該推論範圍，不泛化到所有道路植物。",
+    "TCU-113-Q27": "採A。Cohesin促進姊妹染色單體黏合，並能藉保持模板鄰近支持同源重組修復；它本身不是執行股交換的酵素。原題「凝聚」依cohesion理解，不能混為condensin造成的染色體濃縮。DNA修復端由酵母原始研究補足，未將本地327的錯配／切除修復當成已直接描述cohesin。",
+    "TCU-113-Q28": "採D，對應經典胚胎幹細胞基因標的的同源重組。Nobel 2007進階資料解釋此經典小鼠技術；本地12e的426–427著重CRISPR/Cas9失能，DNA斷裂後也可能經非同源端接合。故「基因剔除」在現代不一律等於同源重組，官方選項須按經典脈絡理解。",
+    "TCU-113-Q29": "採D。先反轉錄RNA成cDNA，再用PCR即時監測螢光，通常不需每次跑電泳膠；電泳不是qRT-PCR必備偵測。PCR本身擴增DNA，RT才負責RNA轉換。以SARS-CoV-2 RNA作檢測標的並不表示任何一次陽性結果都已校準為絕對病毒量。",
+    "TCU-113-Q30": "採A。DNA polymerase I以5′→3′外切活性移除RNA引子並以DNA補上缺口；與DNA polymerase III主要延長、helicase解旋、primase製引子區別。所有DNA聚合的延長仍為5′→3′；此為教材大腸桿菌模型，不泛稱所有細菌都用完全相同蛋白配置。",
+    "TCU-113-Q31": "採D。心室舒張時主動脈與肺動脈半月瓣防止動脈血倒流回心室；房室瓣才阻止心室向心房逆流，方向不能互換。瓣膜隨壓差被動開關，不是主動抽送血液的幫浦。",
+    "TCU-113-Q32": "採B。教材例子中SSRI抑制serotonin再攝取，延長突觸間隙訊號。抗憂鬱藥並非全只作用serotonin；這個機制也不證明憂鬱症只有單一低血清素病因。此處是原考題機制核對，不是用藥選擇建議。",
+    "TCU-113-Q33": "採C。主要路徑為視桿／視錐細胞、雙極細胞、神經節細胞、外側膝狀核及視覺皮質；與光線穿入視網膜的方向不同。局部水平與無軸突細胞可調節路徑，並非題列五節點的替代順序。局部三細胞鏈據1120，外側膝狀核的具名中繼由Purves作者教材補足。",
+    "TCU-113-Q34": "採B。平滑肌沒有troponin複合體，Ca2+結合calmodulin再活化激酶，使myosin頭磷酸化；骨骼肌與心肌則以troponin調控薄肌絲。1132直接證實calmodulin，不能因1131摘文尚未續完而漏讀。D英文actin potential保留為原題誤植，按action potential討論其興奮收縮連結。",
+    "TCU-113-Q35": "採D。多個EPSP經時間或空間加成可使軸丘達閾值，單一EPSP通常未必足夠；EPSP是漸變電位，不是每次都觸發全有全無動作電位。興奮性通道的離子通透性可能涉及多種陽離子，不能把所有EPSP都硬寫成純Na+通道。",
+    "TCU-113-Q36": "採A，113釋疑維持。Ghrelin主要來自胃並促進食慾，不是肝；餐後腸道PYY與脂肪leptin、胰島素可傳遞飽足／能量狀態訊息。題文「大腦」依釋疑指brain而非狹義cerebrum，不能把教材中的下視丘調節當成否定B–D的理由。",
+    "TCU-113-Q37": "採B。丙酮酸還原成乳酸會將NADH氧化成NAD+，讓糖解持續產生ATP；乳酸生成那一步本身不額外產ATP。題設肌肉運動常用缺氧脈絡解釋，但教材181提醒乳酸亦可在有氧條件形成，不把乳酸等同必然缺氧。",
+    "TCU-113-Q38": "採A，113釋疑維持。教材圖46.18中estradiol、oxytocin及prostaglandins直接促進分娩正回饋，因此四者比較以progesterone最不直接。黃體素維持妊娠，功能性黃體素撤退仍參與人類產程；不能把「相關性最低」改成「與分娩無關」。Mesiano等人類子宮肌研究摘要支持受體比例相關的功能性撤退，不等於宣稱所有產婦血中黃體素必下降。",
+    "TCU-113-Q39": "採B。典型β腎上腺素受體經Gs與adenylyl cyclase使ATP轉為cAMP，再活化PKA；cAMP不是直接磷酸化蛋白的激酶。不同受體／組織可有其他路徑，不泛稱腎上腺素只能用cAMP。本地1002正文寫成由AMP轉cAMP，與223及1003圖45.6的ATP相衝突；採ATP作科學說明並保留教材異文。目錄文字漏and Ions，年度條目以實際PDF目錄全名為準。",
+    "TCU-113-Q40": "原答案D；113釋疑改為A或D均採計。反芻動物的胃室與無尾熊等的盲腸均可容納纖維素分解共生菌；不同草食動物部位不同。教材914亦提兔類large intestine的共生發酵，因此廣義「草食性動物」題文不能把C大腸一概斷言完全無此功能，官方採計範圍仍僅A/D。釋疑寫「chapter41.16/page912/Fig46.18」有混植：912是Fig41.16，914為Fig41.20，Fig46.18在1036是分娩；原始釋疑不改寫。",
+    "TCU-113-Q41": "採C。若胺醯-tRNA合成酶系統失活，正常tRNA無法有效充填胺基酸，轉譯受阻；它不是將tRNA密碼子變為反密碼子的酵素。題幹沒有指明失去哪一種胺基酸專屬合成酶；若只是單一專屬酵素失能，影響應限相應tRNA族群。C的大多數tRNA是依一般裝載系統缺失的題設理解，並保留未細分酵素的範圍限制。",
+    "TCU-113-Q42": "採B。選擇性剪接可使同一基因產生多種mRNA與蛋白質異構物；不是把同一個外顯子改成另一條DNA序列。外顯子可能含非轉譯區，不能把所有保留外顯子都等同完整蛋白編碼序列。",
+    "TCU-113-Q43": "採C。許多R質體含抗藥性與接合傳遞相關基因，可在接合時轉入受體細菌；581直接列此過程。不是細菌減數分裂或只靠垂直遺傳，亦不宣稱所有R質體都可自行接合；其他水平基因轉移機制也可能散播抗藥性。",
+    "TCU-113-Q44": "採A。增強子是cis調控DNA，與活化蛋白結合後促進轉錄機器運作，可位於遠端或內含子。題文「活化轉錄因子」按調控交互作用理解，不是DNA本身具有酵素活性，也不等同直接修飾蛋白、剪接或啟動DNA複製。",
+    "TCU-113-Q45": "採B。小干擾RNA的導引股與沉默複合體辨識互補RNA，促使降解或抑制其表現；它不是轉譯成酵素的mRNA，也不是負責搬運胺基酸的tRNA或自行移動的轉位子。生成時可為短雙股，但成熟導引作用不能一律說兩股同時運作。",
+    "TCU-113-Q46": "採C，113釋疑維持。特定L. reuteri菌株在研究系統可抑制TNF等促發炎訊號，B把大量免疫細胞增殖當成普遍效益、D把細胞毒素殺宿主感染細胞當成通則都不恰當。原始2008／2012研究有菌株與細胞條件限制；抑制過度發炎可與其他免疫效益並存，不能把釋疑對A的排除擴張成所有益生菌絕不強化任何免疫功能。",
+    "TCU-113-Q47": "採B。像海星等關鍵掠食者能抑制優勢競爭種，被移除後群落物種組成可能劇變；關鍵種是影響不成比例，不是單指數量最多。結果依食物網脈絡而定，不保證移除任何掠食者都造成完全相同方向的多樣性變化。",
+    "TCU-113-Q48": "採A。海綿通常有可游動的幼體與固著成體，領細胞捕捉食物並進行細胞內消化，無閉鎖循環系統或腹側神經索。不能以成體固著就推論一生完全無運動階段。",
+    "TCU-113-Q49": "採C。斷續平衡指地質記錄中相對長的形態穩定期與較短的改變／分歧期，不是單個世代瞬間形成新種，也不等於期間所有基因完全不變；漸變與斷續模式都可能出現。",
+    "TCU-113-Q50": "採D。成功雜交且後代可育，是故事中支持重新歸為同種的繁殖證據；僅觀察可育雜交不能單獨證明兩族群必定正在融合，故B推論過強。題文鳥類分類指南的「最近」保留為113題目歷史敘述，不宣稱是2026現行分類共識；穩定雜交帶與部分生殖隔離仍可能存在。"
+  }
+}

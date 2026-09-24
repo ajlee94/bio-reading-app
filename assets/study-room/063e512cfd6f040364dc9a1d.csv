@@ -1,0 +1,73 @@
+﻿mode,chapter_number,chapter,count
+primary,19,Ch19 Viruses,10
+primary,43,Ch43 The Immune System,6
+primary,10,Ch10 Photosynthesis,3
+primary,6,Ch06 A Tour of the Cell,2
+primary,14,Ch14 Mendel and the Gene Idea,2
+primary,15,Ch15 The Chromosomal Basis of Inheritance,2
+primary,21,Ch21 Genomes and Their Evolution,2
+primary,26,Ch26 Phylogeny and the Tree of Life,2
+primary,54,Ch54 Community Ecology,2
+primary,56,Ch56 Conservation Biology and Global Change,2
+primary,8,Ch08 An Introduction to Metabolism,1
+primary,11,Ch11 Cell Communication,1
+primary,13,Ch13 Meiosis and Sexual Life Cycles,1
+primary,16,Ch16 The Molecular Basis of Inheritance,1
+primary,17,Ch17 Gene Expression: From Gene to Protein,1
+primary,18,Ch18 Regulation of Gene Expression,1
+primary,23,Ch23 The Evolution of Populations,1
+primary,27,Ch27 Bacteria and Archaea,1
+primary,39,Ch39 Plant Responses to Internal and External Signals,1
+primary,42,Ch42 Circulation and Gas Exchange,1
+primary,46,Ch46 Animal Reproduction,1
+primary,47,Ch47 Animal Development,1
+primary,50,Ch50 Sensory and Motor Mechanisms,1
+primary,51,Ch51 Animal Behavior,1
+primary,52,Ch52 An Introduction to Ecology and the Biosphere,1
+primary,53,Ch53 Population Ecology,1
+primary,55,Ch55 Ecosystems and Restoration Ecology,1
+secondary,12,Ch12 The Cell Cycle,2
+secondary,18,Ch18 Regulation of Gene Expression,2
+secondary,41,Ch41 Animal Nutrition,2
+secondary,3,Ch03 Water and Life,1
+secondary,14,Ch14 Mendel and the Gene Idea,1
+secondary,19,Ch19 Viruses,1
+secondary,21,Ch21 Genomes and Their Evolution,1
+secondary,26,Ch26 Phylogeny and the Tree of Life,1
+secondary,29,Ch29 Plant Diversity I: How Plants Colonized Land,1
+secondary,35,"Ch35 Vascular Plant Structure, Growth, and Development",1
+secondary,46,Ch46 Animal Reproduction,1
+secondary,47,Ch47 Animal Development,1
+secondary,52,Ch52 An Introduction to Ecology and the Biosphere,1
+both,19,Ch19 Viruses,11
+both,43,Ch43 The Immune System,6
+both,10,Ch10 Photosynthesis,3
+both,14,Ch14 Mendel and the Gene Idea,3
+both,18,Ch18 Regulation of Gene Expression,3
+both,21,Ch21 Genomes and Their Evolution,3
+both,26,Ch26 Phylogeny and the Tree of Life,3
+both,6,Ch06 A Tour of the Cell,2
+both,12,Ch12 The Cell Cycle,2
+both,15,Ch15 The Chromosomal Basis of Inheritance,2
+both,41,Ch41 Animal Nutrition,2
+both,46,Ch46 Animal Reproduction,2
+both,47,Ch47 Animal Development,2
+both,52,Ch52 An Introduction to Ecology and the Biosphere,2
+both,54,Ch54 Community Ecology,2
+both,56,Ch56 Conservation Biology and Global Change,2
+both,3,Ch03 Water and Life,1
+both,8,Ch08 An Introduction to Metabolism,1
+both,11,Ch11 Cell Communication,1
+both,13,Ch13 Meiosis and Sexual Life Cycles,1
+both,16,Ch16 The Molecular Basis of Inheritance,1
+both,17,Ch17 Gene Expression: From Gene to Protein,1
+both,23,Ch23 The Evolution of Populations,1
+both,27,Ch27 Bacteria and Archaea,1
+both,29,Ch29 Plant Diversity I: How Plants Colonized Land,1
+both,35,"Ch35 Vascular Plant Structure, Growth, and Development",1
+both,39,Ch39 Plant Responses to Internal and External Signals,1
+both,42,Ch42 Circulation and Gas Exchange,1
+both,50,Ch50 Sensory and Motor Mechanisms,1
+both,51,Ch51 Animal Behavior,1
+both,53,Ch53 Population Ecology,1
+both,55,Ch55 Ecosystems and Restoration Ecology,1

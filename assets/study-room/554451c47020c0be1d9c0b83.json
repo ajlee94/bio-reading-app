@@ -1,0 +1,388 @@
+[
+  {
+    "id": "S01",
+    "title": "胃H/K-ATPase原始分子動力學研究與NLM定義",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/18567633/",
+      "https://meshb.nlm.nih.gov/record/ui?ui=D017506"
+    ],
+    "finding": "胃壁細胞以H/K-ATPase交換H與K，屬電中性運輸。不能套用所有一般質子幫浦均致電的描述，也不能把Q39原文Cl/K幫浦改成H/K。",
+    "read_scope": "實讀原始研究摘要及MeSH定義；未讀研究全文。另讀本年度官方Q1釋疑的Vander引用，未取得整本Vander。",
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU107官方採計",
+    "captures": [
+      {
+        "id": "S01",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18567633/",
+        "attempted_at": "2026-09-10T08:13:01.302387+08:00",
+        "final_url": "https://pubmed.ncbi.nlm.nih.gov/18567633/",
+        "http_status": 203,
+        "status": "CAPTURED_CHALLENGE_NOT_SOURCE",
+        "path": "source/supplemental/ISU107/captures/S01-1.html",
+        "bytes": 5565,
+        "sha256": "6e8286e0cbdcb8ba70bc746bf5b9beb8d4801382d666f18a1c5b4fd177408f0c",
+        "content_notice": "回應雜湊只識別下載內容；若為機器驗證頁不算文獻全文。",
+        "challenge_detected": true,
+        "text_path": "source/supplemental/ISU107/captures/S01-1.txt",
+        "text_sha256": "4298cc2463310d039e6f5aa0d8c4ce7e84ac74e4727a33d49489a87b42bcd889"
+      },
+      {
+        "id": "S01",
+        "url": "https://meshb.nlm.nih.gov/record/ui?ui=D017506",
+        "attempted_at": "2026-09-10T08:13:01.604563+08:00",
+        "final_url": "https://meshb.nlm.nih.gov/record/ui?ui=D017506",
+        "http_status": 200,
+        "status": "CAPTURED_RESPONSE",
+        "path": "source/supplemental/ISU107/captures/S01-2.html",
+        "bytes": 52433,
+        "sha256": "027450346053273996841027c88a382d4e90f1b08b0075252d1bbe38e644f61e",
+        "content_notice": "回應雜湊只識別下載內容；若為機器驗證頁不算文獻全文。",
+        "challenge_detected": false,
+        "text_path": "source/supplemental/ISU107/captures/S01-2.txt",
+        "text_sha256": "772df279e1e914ed4c0dfc37aa4c5edb7f83381dddafa2730362f924f197294e"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "07371c0dfeb5c9ce6fbb07ba90e61dace1d5ba9246ed4677d164de532bf88865"
+  },
+  {
+    "id": "S02",
+    "title": "NHLBI靜脈血栓栓塞說明",
+    "urls": [
+      "https://www.nhlbi.nih.gov/health/venous-thromboembolism"
+    ],
+    "finding": "DVT通常位於下腿、大腿或骨盆深靜脈；支持題目常見部位的靜脈解讀，不證明所有血栓情境一律最多在下肢。",
+    "read_scope": "實讀What Is Venous Thromboembolism正文，非所有VTE附頁。",
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU107官方採計",
+    "captures": [
+      {
+        "id": "S02",
+        "url": "https://www.nhlbi.nih.gov/health/venous-thromboembolism",
+        "attempted_at": "2026-09-10T08:13:03.346323+08:00",
+        "final_url": "https://www.nhlbi.nih.gov/health/venous-thromboembolism",
+        "http_status": 200,
+        "status": "CAPTURED_RESPONSE",
+        "path": "source/supplemental/ISU107/captures/S02-1.html",
+        "bytes": 67105,
+        "sha256": "1c0f7ddbbef2729c6a306c49de4a92607d5460bf4947286e4c89948bf59655ee",
+        "content_notice": "回應雜湊只識別下載內容；若為機器驗證頁不算文獻全文。",
+        "challenge_detected": false,
+        "text_path": "source/supplemental/ISU107/captures/S02-1.txt",
+        "text_sha256": "93c2cfe245c992b30905cde2dba3f5456a8df2ae0015f74aa8bf236e0e91bd3b"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "9736d79564263cea85440f093319d51f1d75c639bda1e6c90fdef1bce5ce591d"
+  },
+  {
+    "id": "S03",
+    "title": "NLM糖尿病酮酸中毒定義",
+    "urls": [
+      "https://meshb.nlm.nih.gov/record/ui?dcmsLinks=true&ui=D016883",
+      "https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-1-diabetes"
+    ],
+    "finding": "DKA為酸中毒，胰島素不足時脂肪代謝與酮體累積是關鍵。不能將一般禁食酮症直接等同病理性酮酸中毒，也不支持Q11鹼中毒。",
+    "read_scope": "實讀MeSH定義、NIDDK酮體及DKA段；非治療建議。",
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU107官方採計",
+    "captures": [
+      {
+        "id": "S03",
+        "url": "https://meshb.nlm.nih.gov/record/ui?dcmsLinks=true&ui=D016883",
+        "attempted_at": "2026-09-10T08:13:05.408784+08:00",
+        "final_url": "https://meshb.nlm.nih.gov/record/ui?dcmsLinks=true&ui=D016883",
+        "http_status": 200,
+        "status": "CAPTURED_RESPONSE",
+        "path": "source/supplemental/ISU107/captures/S03-1.html",
+        "bytes": 40049,
+        "sha256": "96a08bf5fb023c6b1ad5ef5b1c63770869b7cd9cdbd60391045e4f4d6b422c1b",
+        "content_notice": "回應雜湊只識別下載內容；若為機器驗證頁不算文獻全文。",
+        "challenge_detected": false,
+        "text_path": "source/supplemental/ISU107/captures/S03-1.txt",
+        "text_sha256": "d12b7d09425663e67f60a59e3ecdac23d44b94a00342c86dc7eed7c4c49be110"
+      },
+      {
+        "id": "S03",
+        "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-1-diabetes",
+        "attempted_at": "2026-09-10T08:13:06.503499+08:00",
+        "final_url": "https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-1-diabetes",
+        "http_status": 200,
+        "status": "CAPTURED_RESPONSE",
+        "path": "source/supplemental/ISU107/captures/S03-2.html",
+        "bytes": 69079,
+        "sha256": "3b448fe59edefe01a8930fa17ded009a88777b06d1ad0f2078573c754bb86f43",
+        "content_notice": "回應雜湊只識別下載內容；若為機器驗證頁不算文獻全文。",
+        "challenge_detected": false,
+        "text_path": "source/supplemental/ISU107/captures/S03-2.txt",
+        "text_sha256": "fb58356d9e4986aa5a3e766104ecb2c1ea4e79b363f6ff3b5dbe8e347073aa04"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "a31705fe363ed5d325ddbb4ec63ba8c5267b21879991e54fda5b1a01f18493fb"
+  },
+  {
+    "id": "S04",
+    "title": "NLM第VIII腦神經定義",
+    "urls": [
+      "https://meshb.nlm.nih.gov/record/ui?dcmsLinks=true&ui=D000159"
+    ],
+    "finding": "前庭耳蝸神經即第VIII腦神經，耳蝸部傳聽覺，前庭部傳平衡及頭位。",
+    "read_scope": "實讀MeSH Scope Note；補足Campbell未逐一編號的腦神經名稱。",
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU107官方採計",
+    "captures": [
+      {
+        "id": "S04",
+        "url": "https://meshb.nlm.nih.gov/record/ui?dcmsLinks=true&ui=D000159",
+        "attempted_at": "2026-09-10T08:13:08.540530+08:00",
+        "final_url": "https://meshb.nlm.nih.gov/record/ui?dcmsLinks=true&ui=D000159",
+        "http_status": 200,
+        "status": "CAPTURED_RESPONSE",
+        "path": "source/supplemental/ISU107/captures/S04-1.html",
+        "bytes": 36184,
+        "sha256": "7c7fe2b821c0aa76b3c3842cd09a420e97382901644428e63b3825c3d553eb03",
+        "content_notice": "回應雜湊只識別下載內容；若為機器驗證頁不算文獻全文。",
+        "challenge_detected": false,
+        "text_path": "source/supplemental/ISU107/captures/S04-1.txt",
+        "text_sha256": "484fec51482d9be119cb6fa8a2febdd64ba4a980c803c02e27a0cdc6919f76b5"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "40f21c2ca1cfcd77fd910d95019cc9a37c243f859be578a5e29e54bc2598b300"
+  },
+  {
+    "id": "S05",
+    "title": "Feingold：Endotext脂蛋白分類表",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK305896/table/lipid_intro.T.lipoprotein_classes/"
+    ],
+    "finding": "表列乳糜微粒75–1200nm、VLDL30–80nm、LDL18–25nm、HDL5–12nm；題目四類中乳糜微粒最大。尺寸與密度不是相同量。",
+    "read_scope": "實讀作者教材Table 1各脂蛋白size欄，非全章全文。",
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU107官方採計",
+    "captures": [
+      {
+        "id": "S05",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK305896/table/lipid_intro.T.lipoprotein_classes/",
+        "attempted_at": "2026-09-10T08:13:09.649563+08:00",
+        "final_url": "https://www.ncbi.nlm.nih.gov/books/NBK305896/table/lipid_intro.T.lipoprotein_classes/",
+        "http_status": 200,
+        "status": "CAPTURED_RESPONSE",
+        "path": "source/supplemental/ISU107/captures/S05-1.html",
+        "bytes": 47030,
+        "sha256": "8ed2cb62e81aef99833d4067029626eaafc7eee8a0c7f32dbf051340580aec8e",
+        "content_notice": "回應雜湊只識別下載內容；若為機器驗證頁不算文獻全文。",
+        "challenge_detected": false,
+        "text_path": "source/supplemental/ISU107/captures/S05-1.txt",
+        "text_sha256": "2c5b3fc4f1b7ffc4df5f02b51df0e3be0fc0fa9069ebc03281fa422dedc498e8"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "912f313a38114878781fb1c14b6ffd17c2413ea0d8e2e4a50cb4d492f77cd715"
+  },
+  {
+    "id": "S06",
+    "title": "Lamke等1977皮膚不感蒸散原始測量",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/616059/"
+    ],
+    "finding": "在相對濕度30%、裸體休息且體表面積1.75平方米條件，22、27、30°C估計每日皮膚蒸散分別381、526、695mL。Q20未限定環境的皮膚900mL不受此研究或Campbell直接支持，仍依官方B採計。",
+    "read_scope": "實讀PubMed搜尋回傳完整摘要；直接開頁曾空白。未取得期刊全文，不將皮膚與呼吸道合計混用。",
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU107官方採計",
+    "captures": [
+      {
+        "id": "S06",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/616059/",
+        "attempted_at": "2026-09-10T08:13:11.773101+08:00",
+        "final_url": "https://pubmed.ncbi.nlm.nih.gov/616059/",
+        "http_status": 203,
+        "status": "CAPTURED_CHALLENGE_NOT_SOURCE",
+        "path": "source/supplemental/ISU107/captures/S06-1.html",
+        "bytes": 5565,
+        "sha256": "48d1ee2ebd21a525568d05eef8ec90ff4654f4370af696f1487c7696ec535151",
+        "content_notice": "回應雜湊只識別下載內容；若為機器驗證頁不算文獻全文。",
+        "challenge_detected": true,
+        "text_path": "source/supplemental/ISU107/captures/S06-1.txt",
+        "text_sha256": "4298cc2463310d039e6f5aa0d8c4ce7e84ac74e4727a33d49489a87b42bcd889"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "2ec5aa5327416326f5a69938fbfac0c4ccf15e82d00431b2b46eaec6c7a6edad"
+  },
+  {
+    "id": "S07",
+    "title": "Liebmann等1994紫杉醇對人體腫瘤細胞週期研究",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/7904231/"
+    ],
+    "finding": "特定濃度與暴露時間的腫瘤細胞實驗觀察到胞質分裂受阻及多核細胞，故不能宣稱Taxol絕不影響動物胞質分裂。Q28官方D為一般胞質分裂失敗結果；B可能依條件成立的差異另保留。",
+    "read_scope": "實讀PubMed原始研究摘要，未取得期刊全文，不能外推所有細胞或濃度。",
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU107官方採計",
+    "captures": [
+      {
+        "id": "S07",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7904231/",
+        "attempted_at": "2026-09-10T08:13:12.082521+08:00",
+        "final_url": "https://pubmed.ncbi.nlm.nih.gov/7904231/",
+        "http_status": 203,
+        "status": "CAPTURED_CHALLENGE_NOT_SOURCE",
+        "path": "source/supplemental/ISU107/captures/S07-1.html",
+        "bytes": 5565,
+        "sha256": "b5806d68ef4fca0093c2b633d99b905020bcca6a8b863fee213113aa4fc1333e",
+        "content_notice": "回應雜湊只識別下載內容；若為機器驗證頁不算文獻全文。",
+        "challenge_detected": true,
+        "text_path": "source/supplemental/ISU107/captures/S07-1.txt",
+        "text_sha256": "4298cc2463310d039e6f5aa0d8c4ce7e84ac74e4727a33d49489a87b42bcd889"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "430ab9fc781c03fbfdc5cb8db5ff66115a74b314f45a8b50ebac53fcd28e1e41"
+  },
+  {
+    "id": "S08",
+    "title": "Zhao等2011自體iPS細胞免疫原性原始研究",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/21572395/",
+      "https://www.nature.com/articles/nature10135"
+    ],
+    "finding": "同系小鼠iPS來源畸胎瘤可發生T細胞相關排斥，足以反駁自體iPS必然不被排斥的絕對句；不能反向推論所有人類成熟iPS衍生細胞皆會排斥。",
+    "read_scope": "實讀PubMed摘要與出版商搜尋回傳研究說明；Nature直接開頁曾登入轉址失敗，未聲稱全文取得。",
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU107官方採計",
+    "captures": [
+      {
+        "id": "S08",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21572395/",
+        "attempted_at": "2026-09-10T08:13:12.377274+08:00",
+        "final_url": "https://pubmed.ncbi.nlm.nih.gov/21572395/",
+        "http_status": 203,
+        "status": "CAPTURED_CHALLENGE_NOT_SOURCE",
+        "path": "source/supplemental/ISU107/captures/S08-1.html",
+        "bytes": 5565,
+        "sha256": "b6ada2c6c48434f65a592343494fbe91aae3eb2181281212057369706a259e83",
+        "content_notice": "回應雜湊只識別下載內容；若為機器驗證頁不算文獻全文。",
+        "challenge_detected": true,
+        "text_path": "source/supplemental/ISU107/captures/S08-1.txt",
+        "text_sha256": "4298cc2463310d039e6f5aa0d8c4ce7e84ac74e4727a33d49489a87b42bcd889"
+      },
+      {
+        "id": "S08",
+        "url": "https://www.nature.com/articles/nature10135",
+        "attempted_at": "2026-09-10T08:13:12.666795+08:00",
+        "final_url": "https://www.nature.com/articles/nature10135?error=cookies_not_supported&code=8166b317-e2b6-4409-9f52-7e32317d05f2",
+        "http_status": 200,
+        "status": "CAPTURED_RESPONSE",
+        "path": "source/supplemental/ISU107/captures/S08-2.html",
+        "bytes": 312738,
+        "sha256": "eefa480b506da7c66a364d070eac3a524a8963e8afbe8936a0e404df2a17d63f",
+        "content_notice": "回應雜湊只識別下載內容；若為機器驗證頁不算文獻全文。",
+        "challenge_detected": false,
+        "text_path": "source/supplemental/ISU107/captures/S08-2.txt",
+        "text_sha256": "08b13d26b01c268ae11f6f821073ecc4143d62e0c8d0794020d9f5bdefa6b64a"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "6f2d36c3b3b983a90dd11f400638da70303bd5e0fa794f4d3e6243929c3eba4c"
+  },
+  {
+    "id": "S09",
+    "title": "NLM古菌及細菌核糖體分類定義",
+    "urls": [
+      "https://meshb.nlm.nih.gov/record/ui?ui=D054748",
+      "https://meshb.nlm.nih.gov/record/ui?ui=D054681"
+    ],
+    "finding": "NLM均列古菌與細菌70S核糖體及50S大次單元；成分與真核的相似性不能當作古菌皆較大或80S的證據。S為沉降係數，亦非直接幾何尺寸。",
+    "read_scope": "實讀兩項官方MeSH定義，配合本地Campbell表27.2；保留Q36採D與教材證據不一致，不偽造更正。",
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU107官方採計",
+    "captures": [
+      {
+        "id": "S09",
+        "url": "https://meshb.nlm.nih.gov/record/ui?ui=D054748",
+        "attempted_at": "2026-09-10T08:13:15.122590+08:00",
+        "final_url": "https://meshb.nlm.nih.gov/record/ui?ui=D054748",
+        "http_status": 200,
+        "status": "CAPTURED_RESPONSE",
+        "path": "source/supplemental/ISU107/captures/S09-1.html",
+        "bytes": 32380,
+        "sha256": "68dd453274c8eac8e34492240fba46d193d8a6ff01a6f5b2b03cc98487518015",
+        "content_notice": "回應雜湊只識別下載內容；若為機器驗證頁不算文獻全文。",
+        "challenge_detected": false,
+        "text_path": "source/supplemental/ISU107/captures/S09-1.txt",
+        "text_sha256": "b30b380e92d5eb89b856fc067c9e8db484a0b636d4c1da80c1aa8f6ec7bdead3"
+      },
+      {
+        "id": "S09",
+        "url": "https://meshb.nlm.nih.gov/record/ui?ui=D054681",
+        "attempted_at": "2026-09-10T08:13:16.260219+08:00",
+        "final_url": "https://meshb.nlm.nih.gov/record/ui?ui=D054681",
+        "http_status": 200,
+        "status": "CAPTURED_RESPONSE",
+        "path": "source/supplemental/ISU107/captures/S09-2.html",
+        "bytes": 36131,
+        "sha256": "9541ddc4039463e7bbdcc6015be729c86178a4225087792db05eac90c010df1e",
+        "content_notice": "回應雜湊只識別下載內容；若為機器驗證頁不算文獻全文。",
+        "challenge_detected": false,
+        "text_path": "source/supplemental/ISU107/captures/S09-2.txt",
+        "text_sha256": "be9fec411a48184e300763a0328e42aa5c6f2531f757e9c8ad3f3f5db1fd1f98"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "120fb47f1074ef01792b1ea37fcf94e58039d605d396980dc89b4b94a79a09f3"
+  },
+  {
+    "id": "S10",
+    "title": "US EPA酸雨形成",
+    "urls": [
+      "https://www.epa.gov/acidrain/what-acid-rain"
+    ],
+    "finding": "SO2和氮氧化物轉成硫酸與硝酸，形成酸沉降。與CO2引起海洋酸化的機制分開。",
+    "read_scope": "實讀What Causes Acid Rain及Measuring Acid Rain兩段。",
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU107官方採計",
+    "captures": [
+      {
+        "id": "S10",
+        "url": "https://www.epa.gov/acidrain/what-acid-rain",
+        "attempted_at": "2026-09-10T08:13:17.370604+08:00",
+        "final_url": "https://www.epa.gov/acidrain/what-acid-rain",
+        "http_status": 200,
+        "status": "CAPTURED_RESPONSE",
+        "path": "source/supplemental/ISU107/captures/S10-1.html",
+        "bytes": 58781,
+        "sha256": "441ec2c0a8ca625498ea8dccbd57d84fe0f318e6692a8712131f9162799da55b",
+        "content_notice": "回應雜湊只識別下載內容；若為機器驗證頁不算文獻全文。",
+        "challenge_detected": false,
+        "text_path": "source/supplemental/ISU107/captures/S10-1.txt",
+        "text_sha256": "5f21600e36a8be3c0609fd2ed8e2de5cc3b27e251ec2e04d6b380d8a961dbc47"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "575aca0fbf25fb22744709f02ea40d0533e5a772b8d333e1063a73b69493b008"
+  },
+  {
+    "id": "S11",
+    "title": "NIH ODS維生素C資料",
+    "urls": [
+      "https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/"
+    ],
+    "finding": "缺乏維生素C造成壞血病並影響膠原合成；不同於題內典型錯誤摺疊聚集疾病，但不能說壞血病與蛋白結構完全無關。",
+    "read_scope": "實讀Introduction及Vitamin C Deficiency相關段落，非全篇營養介入研究。",
+    "access_date": "2026-09-10",
+    "role": "科學補充；不取代ISU107官方採計",
+    "captures": [
+      {
+        "id": "S11",
+        "url": "https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/",
+        "attempted_at": "2026-09-10T08:13:17.973548+08:00",
+        "status": "DOWNLOAD_FAILED",
+        "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+      }
+    ],
+    "hash_scope": "CAPTURED_RESPONSE識別實際下載回應；DOWNLOAD_FAILED沒有遠端檔案雜湊。作者證據摘要雜湊只識別本輪摘要，不是遠端原檔。",
+    "authored_evidence_record_sha256": "7a9e141f1438f6ae9bf7e7a6a9b35b13dffbc3c17e675e985f8400262d4d4459"
+  }
+]

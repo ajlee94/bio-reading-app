@@ -1,0 +1,287 @@
+{
+  "question": {
+    "path": "532cddba068749c7000ce47f.pdf",
+    "sha256": "256cf3cedace6b4ccdb6c02b4a3e2b59c175b1eb90e72993b0f9f50148b7341b",
+    "pdf_pages": 28,
+    "inventory_category": "biology_question",
+    "scope_status": "ALL_BIOLOGY_FULL_PAGES_VISUALLY_READ",
+    "subject": "生物學（含生理學）",
+    "question_count": 50,
+    "biology_pdf_pages": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "printed_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "exam_date": "2021-08-07",
+    "excluded_subject_pages": {
+      "化學": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "國文": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "英文": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    "source_difference": "檔名標生物，實際28頁四科混卷。"
+  },
+  "answer": {
+    "path": "0cec6b2ca3a2b5e5855793f5.pdf",
+    "sha256": "a10a3f7c9aeab2c6d06894ea0d43245707797bdf68f78a3f69c2777eb772b910",
+    "pdf_pages": 1,
+    "inventory_category": "biology_answer",
+    "scope_status": "FULL_PAGE_VISUALLY_READ_50_ANSWERS",
+    "biology_pdf_pages": [
+      1
+    ],
+    "official_combined_pdf_page": 29,
+    "biology_region": "最下方第四張生物表；化學國文英文三表排除"
+  },
+  "clarification": {
+    "path": "3800562abed33cb7d55dad1c.pdf",
+    "sha256": "3d4711ba158f9b17ceb27f049cffd38dc06a8e266b3228d7b3b4bfaeed947aba",
+    "pdf_pages": 6,
+    "inventory_category": "clarification",
+    "scope_status": "BIOLOGY_PAGES_5_6_FULLY_VISUALLY_READ",
+    "biology_pdf_pages": [
+      5,
+      6
+    ],
+    "official_combined_pdf_pages": [
+      34,
+      35
+    ],
+    "biology_questions": {
+      "1": [
+        5
+      ],
+      "2": [
+        5
+      ],
+      "17": [
+        5
+      ],
+      "26": [
+        5
+      ],
+      "28": [
+        6
+      ],
+      "37": [
+        6
+      ],
+      "47": [
+        6
+      ],
+      "50": [
+        6
+      ]
+    },
+    "official_corrections": {},
+    "meeting_date": "2021-08-17",
+    "publication_date": "NOT_INDEPENDENTLY_VERIFIED",
+    "excluded": "PDF1–4非生物；PDF5上方英文28排除。其餘42題未列取得公告，不宣稱無其他公告。",
+    "version_difference": "兩版Q50 explanation在inhibitory receptor兩側空白位置不同；去空白文字與結果一致。兩份原文另存biology-clarification-scoped.json，不抹去差異。"
+  },
+  "combined_candidate": {
+    "path": "source/past_exams/post_bacc_chinese_medicine_biology_106-115/schools/ISU/files/其他試題_非生物或待查/ISU_110_combined_exam_archive__110學年度學士後中醫學系招生考試考古題公告.pdf",
+    "sha256": "74f3d5c7d45187e28b889c156fb8c5f2230fb1fcf934f155d319f760bb5a7ea7",
+    "pdf_pages": 35,
+    "inventory_category": "combined_exam_archive",
+    "scope_status": "HASH_IDENTICAL_CURRENT_OFFICIAL_35_PAGE_MEMBER",
+    "official_sha256_match": true
+  },
+  "textbook": {
+    "path": "Campbell Biology 12e.pdf（教材參考，全文未公開）",
+    "sha256": "de7c28b93a1c853c0c58d53cd658848d08cf033cde7c2071c062bfdd25b5dc73"
+  },
+  "toc": {
+    "path": "Campbell toc.txt（教材參考，全文未公開）",
+    "sha256": "472c94c03d3e7f107284b4e59ba744b406faee99580f5d940e0c2dab3d0c3dc7"
+  },
+  "official_archive": {
+    "path": "source/supplemental/ISU110/official-historical-exams.zip",
+    "url": "https://www.isu.edu.tw/storage/files/9crd3xNNj7FiMlpyB92xu98jBE5cQrUWvqPB0ZfK.zip",
+    "final_url": "https://www.isu.edu.tw/storage/files/9crd3xNNj7FiMlpyB92xu98jBE5cQrUWvqPB0ZfK.zip",
+    "sha256": "3245682ef6e3375ef8696b35feb1b3ea0b45fe8343f5a42b4c12d81611c32953",
+    "bytes": 26604484,
+    "retrieved_at": "2026-09-09T20:53:19.410674+08:00",
+    "source_type": "OFFICIAL_DIRECT"
+  },
+  "archive_notice": {
+    "path": "source/supplemental/ISU110/archive-notice.html",
+    "url": "https://www.isu.edu.tw/admissions/30?category=7&year=115",
+    "final_url": "https://www.isu.edu.tw/admissions/30?category=7&year=115",
+    "sha256": "9fc1d4cca02164d90dcd6ee087b0649fdd6694781fe515c0cfa1fb3564a92f44",
+    "bytes": 439450,
+    "retrieved_at": "2026-09-09T20:53:20.747619+08:00",
+    "source_type": "OFFICIAL_DIRECT"
+  },
+  "official_combined": {
+    "path": "dd07b9e7b2da22261cb41ad1.pdf",
+    "sha256": "74f3d5c7d45187e28b889c156fb8c5f2230fb1fcf934f155d319f760bb5a7ea7",
+    "bytes": 1309109,
+    "pdf_pages": 35,
+    "member": "110學年度學士後中醫學系招生考試考古題公告.pdf",
+    "archive_sha256": "3245682ef6e3375ef8696b35feb1b3ea0b45fe8343f5a42b4c12d81611c32953",
+    "url": "https://www.isu.edu.tw/storage/files/9crd3xNNj7FiMlpyB92xu98jBE5cQrUWvqPB0ZfK.zip",
+    "scope_status": "QUESTIONS_AND_ANSWERS_EQUAL_BIOLOGY_CLARIFICATIONS_VISUALLY_READ_AND_COMPARED",
+    "biology_question_pdf_pages": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "biology_answer_pdf_page": 29,
+    "biology_clarification_pdf_pages": [
+      34,
+      35
+    ],
+    "comparison": "official-combined-comparison.json"
+  },
+  "official_question": {
+    "path": "dd07b9e7b2da22261cb41ad1.pdf",
+    "sha256": "74f3d5c7d45187e28b889c156fb8c5f2230fb1fcf934f155d319f760bb5a7ea7",
+    "bytes": 1309109,
+    "pdf_pages": 35,
+    "member": "110學年度學士後中醫學系招生考試考古題公告.pdf",
+    "archive_sha256": "3245682ef6e3375ef8696b35feb1b3ea0b45fe8343f5a42b4c12d81611c32953",
+    "url": "https://www.isu.edu.tw/storage/files/9crd3xNNj7FiMlpyB92xu98jBE5cQrUWvqPB0ZfK.zip",
+    "scope_status": "QUESTIONS_AND_ANSWERS_EQUAL_BIOLOGY_CLARIFICATIONS_VISUALLY_READ_AND_COMPARED",
+    "biology_question_pdf_pages": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "biology_answer_pdf_page": 29,
+    "biology_clarification_pdf_pages": [
+      34,
+      35
+    ],
+    "comparison": "official-combined-comparison.json"
+  },
+  "official_clarification": {
+    "path": "dd07b9e7b2da22261cb41ad1.pdf",
+    "sha256": "74f3d5c7d45187e28b889c156fb8c5f2230fb1fcf934f155d319f760bb5a7ea7",
+    "bytes": 1309109,
+    "pdf_pages": 35,
+    "member": "110學年度學士後中醫學系招生考試考古題公告.pdf",
+    "archive_sha256": "3245682ef6e3375ef8696b35feb1b3ea0b45fe8343f5a42b4c12d81611c32953",
+    "url": "https://www.isu.edu.tw/storage/files/9crd3xNNj7FiMlpyB92xu98jBE5cQrUWvqPB0ZfK.zip",
+    "scope_status": "QUESTIONS_AND_ANSWERS_EQUAL_BIOLOGY_CLARIFICATIONS_VISUALLY_READ_AND_COMPARED",
+    "biology_question_pdf_pages": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "biology_answer_pdf_page": 29,
+    "biology_clarification_pdf_pages": [
+      34,
+      35
+    ],
+    "comparison": "official-combined-comparison.json",
+    "meeting_date": "2021-08-19",
+    "publication_date": "NOT_INDEPENDENTLY_VERIFIED",
+    "biology_pdf_pages": [
+      34,
+      35
+    ],
+    "source_difference": "第二次會議標头；與8月17日獨立版並存，生物8列逐項比較。"
+  },
+  "source_access_notes": {
+    "download": "沙盒WinError10013留存；依使用者查證授權升級下載成功。",
+    "archive_page": "115為现行招生頁篩選；110年度由ZIP成員與全卷內容確認；2025-12-12非110釋疑發布日期。",
+    "comparison": "官方前29頁與本地題本28頁及答案1頁文字與72dpi像素一致；釋疑8/17與8/19第二次會議版本並存。生物PDF34–35內容去除會議日期標頭及空白後一致，非生物PDF31–33另有差異，不宣稱全35頁相同。"
+  },
+  "source_differences": {
+    "ISU-110-Q01": "官方D，兩版釋疑維持。非三倍數插入使插入點之後的閱讀框改變，可能提前終止；三核苷酸缺失通常不移碼。官方「整個蛋白序列完全錯誤」及不存在較輕情形過於絕對：插入前序列不因此改變，傷害仍依位置與功能而異。題問最可能，保留D並分開記錄科學限定。",
+    "ISU-110-Q02": "官方A，兩版釋疑維持。課本686標示無脊椎動物超過已知動物物種95%；昆蟲屬節肢動物，節肢動物屬無脊椎動物。「族群」在題中泛指類群，並非生態學同種族群；無脊椎動物也不是一個單系分類階級，物種數不能換成個體數。",
+    "ISU-110-Q03": "官方D。高滲髓質有利降支與可透水集尿管的水再吸收；上升支不透水而運輸鹽，有助建立梯度。不是增加腎臟產尿量或直接加速腎小球過濾；集尿管水通透性仍受ADH等條件控制。",
+    "ISU-110-Q04": "官方B。脊髓整合感覺輸入與運動輸出，使縮手可先發生；訊息仍可上傳腦，不代表大腦永遠不參與疼痛或動作調節。",
+    "ISU-110-Q05": "官方D。植株大小在兩群均可變動，單靠大小不能有效區分；子葉數及典型葉脈、莖維管束排列較有用。題文和教材均以真雙子葉為比較對象，不把典型差異寫成沒有例外的定律。",
+    "ISU-110-Q06": "官方D。捕食昆蟲補充氮等礦質，氮可用於蛋白質合成；食蟲植物通常仍行光合作用，不把昆蟲視為取代一切光合碳源。題中醣與脂肪不是主要以氮構成的選項。",
+    "ISU-110-Q07": "官方A，甲硫胺酸為必需胺基酸。本地12版899寫成人8種、嬰兒另需組胺酸；MedlinePlus現列9種包括組胺酸。保留本地教材版本差異，不以舊8種說法取代現行定義；本題A不受影響。",
+    "ISU-110-Q08": "官方B，篩檢異常重點為血中苯丙胺酸升高。GeneReviews說明乾血點測Phe及Tyr；陽性篩檢需後續確認，不把單次篩檢直接當確診，也不把酪胺酸誤選為題問累積物。",
+    "ISU-110-Q09": "官方C。內聚、對管壁附著及蒸散拉力支持木質部上升水柱，擴散不是此距離輸水的主機制。原題「聚合力」保留，依選項意圖解為附著力；不能推成植物任何部位都不用擴散或滲透。",
+    "ISU-110-Q10": "官方D。神經肌肉接點ACh釋放受阻，肌肉興奮與收縮下降；不是增加ACh清除或直接抑制血清素。毒素作用機制與正常訊息終止不同，因此不另列清除訊息條目。",
+    "ISU-110-Q11": "官方D。Fluoxetine為SSRI，阻礙血清素回收而延長其突觸作用；不等同增加每一神經元的血清素合成。FDA2011標示供機制查核，不作現行處方或治療建議。",
+    "ISU-110-Q12": "官方D。題設松露與松樹根的菌根，以及根瘤菌與大豆，都有雙方利益。以教材通則支持題設關係，不聲稱由題目已鑑定松露物種、所有真菌都互利，或豆科自行將N2固定。",
+    "ISU-110-Q13": "官方A。單核球離開血液後可成為巨噬細胞，Alberts教材明載此路徑。這不是所有組織常駐巨噬細胞皆源於成人循環單核球的排他說法；Hashimoto等小鼠追蹤研究證明多種常駐巨噬細胞可局部維持。",
+    "ISU-110-Q14": "官方C。緊密連接限制物質沿細胞間通路洩漏，維持上皮屏障；並非把腸腔與身體的所有跨細胞吸收一律阻斷，也不同於橋粒的機械連結或間隙連接的溝通。",
+    "ISU-110-Q15": "官方D。杏仁核參與情緒記憶與恐懼反應，符合蛇的線索引起反應的題意。原文「心臟立刻開始跳動」不是正常心臟先前停止的證據，科學上應理解為心跳加快等自主反應；不能僅由情境診斷特定疾病。",
+    "ISU-110-Q16": "官方D。肌動蛋白參與分裂溝收縮，紡錘體及染色體移動主要涉及微管，非同一骨架系統。原題kinetochore應稱動粒，與著絲點DNA區域關聯但不是完全同義，原題用字保留。",
+    "ISU-110-Q17": "官方D，兩版釋疑維持。3′UTR的特定序列可影響降解速度；官方引11版376，本地12版相關正文為378–379，頁碼不可直接照搬。5′帽存在與去帽亦影響穩定性，但選項A說帽「長度」，不能據此改答；多個因素可共同調控。",
+    "ISU-110-Q18": "官方C。Campbell837–839提供植物基因工程概念；Ti系統細節另用Bevan1984原始研究摘要，vir基因可促進邊界間T-DNA進入植物核基因組。整合的是轉移區段，不是整個細菌質體必然插入；原題「高活性質體」用語不當作技術標準名稱。",
+    "ISU-110-Q19": "官方D。retrotransposon以RNA為中間物；transposable element是上位廣稱，不能因涵蓋反轉錄轉位子便取代本題要求最具體機制的D。一般DNA轉位子不以這條RNA路徑定義。",
+    "ISU-110-Q20": "官方B。人類大量DNA不編碼蛋白質，包括調控區、內含子與重複序列等；不能把所有非編碼DNA等同無功能。題中1000倍與5倍是概略比較，取決物種及計算基準，不視為各版本固定精確比值。",
+    "ISU-110-Q21": "官方B。依題設，求偶訊號不同使配偶無法辨認，受精前便降低交配；不必先有合子不活或雜種不育。不另造目錄不存在的Behavioral Isolation葉節點，也不由題設推斷野外完全無基因流。",
+    "ISU-110-Q22": "官方B。同功構造可因相似選汰壓力獨立演化，所以單以功能相似判定近親最不可靠；同源特徵仍須考慮共享衍徵、祖徵與其他資料，不宣稱任何同源特徵都能單獨解析每個分支。",
+    "ISU-110-Q23": "官方C。頭足類為本題軟體動物選項中的封閉循環例，其較活躍運動與有效循環相關；不把所有軟體動物或所有無脊椎動物都列為封閉循環。",
+    "ISU-110-Q24": "官方D。教材750討論雙足行走早於大腦明顯增大；使用火、語言與某類工具不適合作為所有早期人族共同的最早特徵。此處指習慣性行走與骨骼適應，不是否認其他猿能短暫兩足移動。",
+    "ISU-110-Q25": "官方D。鼻部鹽腺使鹽分濃縮排出，能減少為排鹽而流失的水；海鳥並不是體液與海水等滲的滲透順應者。原題的生活情境保留，不解成鹽腺可以創造水。",
+    "ISU-110-Q26": "官方B，兩版釋疑維持。受問的消化道內襯上皮主要出自內胚層，不能把整個腸壁平滑肌及結締組織也歸入內胚層。官方引11版1047，本地12版應查1051，不混用印刷與PDF頁碼。",
+    "ISU-110-Q27": "官方A。囊胚外層滋養層促進植入子宮內膜，內細胞群主要形成胚體。著床在真正原腸運動之前；本書此條目用連續發育圖交代先行階段，分類位置不表示兩事件發生時間相同。",
+    "ISU-110-Q28": "官方A，兩版釋疑維持。海馬迴損傷可造成形成新長期陳述記憶的障礙。官方「新短期與長期記憶無法產生」措辭較廣，不能推成所有短暫工作記憶或技能學習均消失；分類按題中記憶形成機制。",
+    "ISU-110-Q29": "官方C，約200毫秒是四個選項中符合心室肌量級者。Campbell僅給較長的定性敘述，200–400ms範圍由Klabunde具名教材補足；時長隨心率、細胞及狀態改變，不能當全體心室細胞固定200ms。",
+    "ISU-110-Q30": "官方A為不正確敘述。迷走神經ACh通常降低節律細胞放電與心率；透過G蛋白路徑可增加K通透及抑制腺苷酸環化酶。不能將骨骼肌菸鹼型ACh受體的興奮效應直接套到心臟毒蕈鹼型受體。",
+    "ISU-110-Q31": "官方B。EF＝(EDV−ESV)/EDV；若以百分比呈現再乘100%。Klabunde教材明列EF＝SV/EDV，Campbell927支持SV與心室收縮。例EDV120、ESV50mL得70/120＝0.5833，即58.33%，分母不是ESV。",
+    "ISU-110-Q32": "官方C，心臟交感節後末梢主要釋出正腎上腺素。此為心臟題設，不能擴寫成所有交感節後神經絕無ACh等例外，也不混淆腎上腺髓質向血液分泌的荷爾蒙。",
+    "ISU-110-Q33": "官方A。心臟β受體刺激可使cAMP及PKA訊號增加；本地TOC文字漏了Ions，採真實PDF目錄題名Small Molecules and Ions as Second Messengers。原題中文「乙型腎因性受體」保留，依英文β adrenergic receptor解為β腎上腺素受體，不當成另一種受體。",
+    "ISU-110-Q34": "官方D為錯誤敘述。Peyer’s patches含淋巴濾泡，相關M細胞將腸腔抗原轉運給下方免疫細胞，參與黏膜防禦，不以消化蛋白質為功能。Campbell966提供IgA保護黏膜的框架，未假稱其中直接列出派爾斑全部構造；M細胞轉運亦不等同專業抗原呈現細胞。",
+    "ISU-110-Q35": "官方D。PTH整合骨、腎與活性維生素D相關作用以提高血鈣；不能把PTH誤寫成降低血鈣的降鈣素，也不是只靠單一器官作用。",
+    "ISU-110-Q36": "官方A。膽固醇是類固醇激素的前驅物；酪胺酸是兒茶酚胺等的前驅來源，不適合醛固酮。本題問生合成起始物，不以腎臟靶效應取代主分類。",
+    "ISU-110-Q37": "官方C，兩版釋疑維持。下視丘與邊緣系統協調情緒伴隨的生理反應。官方列Ganong Review of Medical Physiology26版；本輪補讀的是出版社Ganong Examination & Board Review2版第17章公開Introduction，不聲稱已取得官方所引26版全文。",
+    "ISU-110-Q38": "官方C。嗅覺到初級嗅皮質沒有必經丘腦的第一級中繼；不是嗅覺任何階段都與丘腦無關。Sela等丘腦病灶研究顯示辨識與愉悅度仍可受影響。Campbell1093的概括敘述與1097「多數」感覺傳入需按此範圍解讀。",
+    "ISU-110-Q39": "官方C為不正確敘述，血鈣「大幅增加」不是未加條件的典型CKD後果。腎功能下降可使肌酸酐累積、EPO不足及活性維生素D減少，鈣磷與PTH調節失衡。NIDDK明示CKD血鈣可低、正常或高；不能反向斷言所有CKD永遠低血鈣，治療與病程也會改變數值。",
+    "ISU-110-Q40": "官方C為錯誤敘述。一般肱動脈壓脈帶不能量得肺動脈壓，肺動脈壓須專門方法如導管；Klabunde圖示正常約25/10mmHg供量級比較。肺動脈含氧相對較低，不是完全沒有氧；不能把一般袖帶120/80直接套用。",
+    "ISU-110-Q41": "官方A。Caveolae是富膽固醇的細胞膜內陷，Alberts胞吞章直接描述燒瓶狀內陷與脂筏組成；不是所有健康細胞都必有，也不能把它與clathrin包被小窩混為一種。Campbell提供一般膜及胞吞原理，不聲稱它直接證明caveolae的全部細節。",
+    "ISU-110-Q42": "官方C。乙醯化通常減弱組蛋白與DNA的緊密作用，有利轉錄機器接近DNA；並非DNA鹼基序列突變，也不保證任何位置的乙醯化都必然開啟每個基因。",
+    "ISU-110-Q43": "官方C。相鄰胸腺嘧啶可形成二聚體，修復缺陷提高UV損伤風險。原題英文thymidine dimer與標準thymine dimer用詞差別保存；題幹老年個案本身不足以確診遺傳性著色性乾皮症，只以其修復原理分類。",
+    "ISU-110-Q44": "官方A。UAA→CAA使終止訊號變為Gln，可能讀至下游終止密碼；B仍為終止，C造成提前終止，D為同義替換。原題正常β鏈141個胺基酸有誤：UniProt P68871成熟鏈2–147共146個，含起始Met全序列147個。原題141與172均保留；僅憑這次替換無法推算延長後一定172個，仍能判斷A的stop-loss機制。",
+    "ISU-110-Q45": "官方B。雌激素的典型作用經胞內核受體；其他題列蛋白質激素通常經膜受體。這是題目要求的典型路徑，不宣稱雌激素完全沒有快速膜相關作用，也不把所有胞內受體配體限定為類固醇。",
+    "ISU-110-Q46": "官方B。Senescence典型為持續的增殖停滯，細胞仍可存活並有代謝與分泌，不等於凋亡或壞死。Campbell控制點與端粒段落提供框架，精確senescence定義以González-Gualda等原作者指南摘要補足；一般短暫可逆靜止G0不能直接當作已證明細胞老化。",
+    "ISU-110-Q47": "官方B，兩版釋疑維持。教材542–544以島嶼等環境說明適應輻射，和題設果蠅多樣化一致；僅憑總物種數不能推成所有種都已證明同一種地理隔離模式，也不改歸單純島嶼面積與滅絕平衡模型。",
+    "ISU-110-Q48": "官方A。其他條件相同時，增加留在血管內的血漿蛋白提高膠體滲透作用，不是促進水腫的因素；靜脈壓、微血管通透性上升或淋巴阻塞可促進水腫。此比較依蛋白主要留在血管的條件，不把所有臨床水腫簡化成單一壓力。",
+    "ISU-110-Q49": "官方B，第二型。依Janeway機制分類與Dean輸血章，抗體結合紅血球表面抗原可引起補體及細胞清除；ABO常見IgM，也可有IgG等情況。重點是細胞表面標的，非可溶性免疫複合物的第三型、IgE肥大細胞的第一型或T細胞延遲反應的第四型。分類為本輪綜合機制判讀。",
+    "ISU-110-Q50": "官方B，兩版釋疑維持。原題將MHC說成能辨識某分子，方向與術語不精確；官方釋疑解為MHC-Ag複合物與T細胞受體結合。標準描述是MHC呈現胜肽、TCR辨識胜肽-MHC。NK受體確能辨識某些MHC訊號，不因此私改本題官方採計；保留題幹與釋疑重述的差異。"
+  }
+}
